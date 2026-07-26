@@ -7,5 +7,8 @@
 - Dedupe key: official job ID when present; otherwise normalized canonical URL with tracking parameters, fragments, and trailing locale variants removed.
 - Never infer 2027 timing or sponsorship from silence. Use `timing-check` and `unknown` until an official job page or application form provides evidence.
 - Keep private profile data out of both JSON files.
-- Build with `npm run build`.
+- Before testing, call the Codex workspace dependency loader. This project requires Node 22.13 or newer; if the default shell is older, prepend the loader's bundled Node directory to `PATH`.
+- Run both `npm test` and `npm run lint` with the supported Node runtime. The current bundled runtime is under `/Users/madivhkassel/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin`.
 - Any future deployment must preserve `.openai/hosting.json` and use its existing Sites project ID; never create a second Sites project.
+- For each deployment, obtain a fresh short-lived Sites source-repository credential, use it only for that push, and never persist its token in files or Git configuration.
+- Push the exact tested commit, package that commit's build, save a Sites version, and use owner-only private deployment.
