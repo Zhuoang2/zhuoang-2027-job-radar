@@ -15,10 +15,12 @@ import {
   SlidersHorizontal,
 } from "lucide-react";
 import { useMemo, useState } from "react";
+import applicationsData from "../data/applications.json";
 import jobsData from "../data/jobs.json";
 import sourceState from "../data/source-state.json";
 
 type SortKey = "priority" | "newest" | "fit";
+type ViewKey = "jobs" | "applications";
 
 const tierOrder: Record<string, number> = {
   priority: 0,
@@ -50,6 +52,13 @@ const directionLabel: Record<string, string> = {
   "SWE/Data Infra": "SWE / Data Infra",
 };
 
+const applicationStatusLabel: Record<string, string> = {
+  applying: "申请中",
+  "needs-review": "待检查",
+  submitted: "已提交",
+  paused: "暂停",
+};
+
 function formatScanTime(value: string) {
   return new Intl.DateTimeFormat("zh-CN", {
     month: "short",
@@ -61,6 +70,7 @@ function formatScanTime(value: string) {
 }
 
 export default function Home() {
+  const [view, setView] = useState<ViewKey>("jobs");
   const [query, setQuery] = useState("");
   const [tier, setTier] = useState("all");
   const [direction, setDirection] = useState("all");
@@ -146,92 +156,111 @@ export default function Home() {
         </div>
       </header>
 
-      <section className="summary-strip" aria-label="岗位概览">
-        <div>
-          <strong>{jobsData.length}</strong>
-          <span>已筛选岗位</span>
-        </div>
-        <div>
-          <strong>{confirmedCount}</strong>
-          <span>2027 时间确认</span>
-        </div>
-        <div>
-          <strong>{priorityCount}</strong>
-          <span>优先申请</span>
-        </div>
-        <div className="freshness">
-          <CalendarClock size={16} />
-          <span>源数据状态：{sourceState.scanStatus === "complete" ? "已完成" : "待更新"}</span>
-        </div>
-      </section>
-
-      <section className="controls" aria-label="筛选岗位">
-        <label className="search-box">
-          <Search size={17} aria-hidden="true" />
-          <span className="sr-only">搜索岗位</span>
-          <input
-            value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder="搜索公司、职位、地点或方向"
-          />
-        </label>
-        <FilterSelect
-          label="优先级"
-          value={tier}
-          onChange={setTier}
-          options={[
-            ["all", "全部优先级"],
-            ["priority", "优先申请"],
-            ["recommended", "建议申请"],
-            ["watch", "观察"],
-          ]}
-        />
-        <FilterSelect
-          label="方向"
-          value={direction}
-          onChange={setDirection}
-          options={[
-            ["all", "全部方向"],
-            ["Quant", "Quant"],
-            ["AI/ML", "AI / ML"],
-            ["ML Systems", "ML Systems"],
-            ["SWE/Data Infra", "SWE / Data Infra"],
-          ]}
-        />
-        <FilterSelect
-          label="签证信息"
-          value={sponsorship}
-          onChange={setSponsorship}
-          options={[
-            ["all", "全部签证状态"],
-            ["confirmed", "支持 Sponsorship"],
-            ["opt-accepted", "接受 OPT"],
-            ["unknown", "未说明"],
-          ]}
-        />
-        <FilterSelect
-          label="入职时间"
-          value={timing}
-          onChange={setTiming}
-          options={[
-            ["all", "全部入职状态"],
-            ["confirmed-2027", "2027 已确认"],
-            ["timing-check", "待核实"],
-          ]}
-        />
-        <button className="reset-button" onClick={resetFilters} type="button">
-          <FilterX size={16} />
-          清除{activeFilters > 0 ? ` ${activeFilters}` : ""}
+      <nav className="view-tabs" aria-label="站点视图">
+        <button
+          className={view === "jobs" ? "active" : ""}
+          onClick={() => setView("jobs")}
+          type="button"
+        >
+          岗位 <span>{jobsData.length}</span>
         </button>
-      </section>
+        <button
+          className={view === "applications" ? "active" : ""}
+          onClick={() => setView("applications")}
+          type="button"
+        >
+          申请记录 <span>{applicationsData.applications.length}</span>
+        </button>
+      </nav>
 
-      <section className="legend" aria-label="状态说明">
-        <span><CheckCircle2 size={14} />已确认：官方页面支持 2027 时间线</span>
-        <span><CalendarClock size={14} />时间待核实：技术匹配，但开始日期未确认</span>
-        <span><CircleHelp size={14} />签证未知：页面未说明，不代表不支持</span>
-      </section>
+      {view === "jobs" && (
+        <>
+          <section className="summary-strip" aria-label="岗位概览">
+            <div>
+              <strong>{jobsData.length}</strong>
+              <span>已筛选岗位</span>
+            </div>
+            <div>
+              <strong>{confirmedCount}</strong>
+              <span>2027 时间确认</span>
+            </div>
+            <div>
+              <strong>{priorityCount}</strong>
+              <span>优先申请</span>
+            </div>
+            <div className="freshness">
+              <CalendarClock size={16} />
+              <span>源数据状态：{sourceState.scanStatus === "complete" ? "已完成" : "待更新"}</span>
+            </div>
+          </section>
 
-      <div className="workspace">
+          <section className="controls" aria-label="筛选岗位">
+            <label className="search-box">
+              <Search size={17} aria-hidden="true" />
+              <span className="sr-only">搜索岗位</span>
+              <input
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                placeholder="搜索公司、职位、地点或方向"
+              />
+            </label>
+            <FilterSelect
+              label="优先级"
+              value={tier}
+              onChange={setTier}
+              options={[
+                ["all", "全部优先级"],
+                ["priority", "优先申请"],
+                ["recommended", "建议申请"],
+                ["watch", "观察"],
+              ]}
+            />
+            <FilterSelect
+              label="方向"
+              value={direction}
+              onChange={setDirection}
+              options={[
+                ["all", "全部方向"],
+                ["Quant", "Quant"],
+                ["AI/ML", "AI / ML"],
+                ["ML Systems", "ML Systems"],
+                ["SWE/Data Infra", "SWE / Data Infra"],
+              ]}
+            />
+            <FilterSelect
+              label="签证信息"
+              value={sponsorship}
+              onChange={setSponsorship}
+              options={[
+                ["all", "全部签证状态"],
+                ["confirmed", "支持 Sponsorship"],
+                ["opt-accepted", "接受 OPT"],
+                ["unknown", "未说明"],
+              ]}
+            />
+            <FilterSelect
+              label="入职时间"
+              value={timing}
+              onChange={setTiming}
+              options={[
+                ["all", "全部入职状态"],
+                ["confirmed-2027", "2027 已确认"],
+                ["timing-check", "待核实"],
+              ]}
+            />
+            <button className="reset-button" onClick={resetFilters} type="button">
+              <FilterX size={16} />
+              清除{activeFilters > 0 ? ` ${activeFilters}` : ""}
+            </button>
+          </section>
+
+          <section className="legend" aria-label="状态说明">
+            <span><CheckCircle2 size={14} />已确认：官方页面支持 2027 时间线</span>
+            <span><CalendarClock size={14} />时间待核实：技术匹配，但开始日期未确认</span>
+            <span><CircleHelp size={14} />签证未知：页面未说明，不代表不支持</span>
+          </section>
+
+          <div className="workspace">
         <section className="job-list" aria-label="岗位列表">
           <div className="list-toolbar">
             <span>显示 {filteredJobs.length} 个岗位</span>
@@ -368,7 +397,39 @@ export default function Home() {
             </p>
           </aside>
         )}
-      </div>
+          </div>
+        </>
+      )}
+
+      {view === "applications" && (
+        <section className="applications-panel" aria-label="申请记录">
+          <div className="applications-toolbar">
+            <strong>申请记录</strong>
+            <span>{applicationsData.applications.length} 个岗位</span>
+          </div>
+          {applicationsData.applications.length > 0 ? (
+            <div className="application-rows">
+              {applicationsData.applications.map((application) => (
+                <div className="application-row" key={application.id}>
+                  <div>
+                    <strong>{application.company}</strong>
+                    {application.role && <span>{application.role}</span>}
+                  </div>
+                  <span className={`application-status status-${application.status}`}>
+                    {applicationStatusLabel[application.status] ?? application.status}
+                  </span>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="empty-state application-empty">
+              <BriefcaseBusiness size={22} />
+              <strong>还没有申请记录</strong>
+              <span>开始申请后，这里只显示公司和当前状态。</span>
+            </div>
+          )}
+        </section>
+      )}
     </main>
   );
 }

@@ -7,6 +7,8 @@
 - Dedupe key: official job ID when present; otherwise normalized canonical URL with tracking parameters, fragments, and trailing locale variants removed.
 - Never infer 2027 timing or sponsorship from silence. Use `timing-check` and `unknown` until an official job page or application form provides evidence.
 - Keep private profile data out of both JSON files.
+- Derive `data/applications.json` from the unified application record. Keep only `id`, `company`, optional `role`, and one simple status: `applying`, `needs-review`, `submitted`, or `paused`. Do not copy answers, dates, resume versions, notes, or sensitive fields into the site.
+- Omit `skipped` or untouched jobs from `data/applications.json`. Map `started`, `analyzing`, and `filling` to `applying`; map `needs-review` and `ready-to-submit` to `needs-review`; preserve `submitted`; map `blocked` to `paused`.
 - Before testing, call the Codex workspace dependency loader. This project requires Node 22.13 or newer; if the default shell is older, prepend the loader's bundled Node directory to `PATH`.
 - Run both `npm test` and `npm run lint` with the supported Node runtime. The current bundled runtime is under `/Users/madivhkassel/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin`.
 - Any future deployment must preserve `.openai/hosting.json` and use its existing Sites project ID; never create a second Sites project.

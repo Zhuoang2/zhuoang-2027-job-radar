@@ -33,19 +33,22 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /美国 New Grad 全职岗位/);
   assert.match(html, /SpeedyApply/);
   assert.match(html, /优先申请/);
+  assert.match(html, /申请记录/);
   assert.match(html, /Optiver/);
   assert.match(html, /查看官方岗位/);
   assert.match(html, /name="robots" content="noindex, nofollow"/i);
 });
 
-test("keeps the public job dataset complete and privacy-safe", async () => {
-  const [jobsText, stateText] = await Promise.all([
+test("keeps the public job and application datasets privacy-safe", async () => {
+  const [jobsText, stateText, applicationsText] = await Promise.all([
     readFile(new URL("../data/jobs.json", import.meta.url), "utf8"),
     readFile(new URL("../data/source-state.json", import.meta.url), "utf8"),
+    readFile(new URL("../data/applications.json", import.meta.url), "utf8"),
   ]);
 
   const jobs = JSON.parse(jobsText);
   const state = JSON.parse(stateText);
+  const applications = JSON.parse(applicationsText);
   assert.ok(jobs.length >= 20);
   assert.equal(state.seenCanonicalUrls.length, state.baselineEntryCount);
   assert.ok(state.baselineEntryCount >= jobs.length);
@@ -57,8 +60,20 @@ test("keeps the public job dataset complete and privacy-safe", async () => {
         ["confirmed", "opt-accepted", "unknown"].includes(job.sponsorship),
     ),
   );
+  assert.ok(Array.isArray(applications.applications));
+  assert.ok(
+    applications.applications.every((application) => {
+      const fields = Object.keys(application).sort();
+      return (
+        fields.every((field) => ["company", "id", "role", "status"].includes(field)) &&
+        ["applying", "needs-review", "submitted", "paused"].includes(
+          application.status,
+        )
+      );
+    }),
+  );
   assert.doesNotMatch(
-    `${jobsText}\n${stateText}`,
+    `${jobsText}\n${stateText}\n${applicationsText}`,
     /@stanford\.edu|comstock|date of birth|birthday|phone number/i,
   );
 });

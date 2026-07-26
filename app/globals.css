@@ -141,6 +141,48 @@ a {
   border-radius: 50%;
 }
 
+.view-tabs {
+  height: 48px;
+  display: flex;
+  align-items: flex-end;
+  gap: 22px;
+  border-bottom: 1px solid var(--line);
+}
+
+.view-tabs button {
+  height: 48px;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 0;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.view-tabs button:hover,
+.view-tabs button.active {
+  color: var(--ink);
+}
+
+.view-tabs button.active {
+  border-bottom-color: var(--green);
+}
+
+.view-tabs button span {
+  min-width: 20px;
+  padding: 2px 6px;
+  color: var(--muted);
+  background: #e9eeeb;
+  border-radius: 4px;
+  font-size: 10px;
+  text-align: center;
+}
+
 .summary-strip {
   min-height: 72px;
   gap: 32px;
@@ -619,6 +661,97 @@ a {
 .empty-state strong {
   color: var(--ink);
   font-size: 13px;
+}
+
+.applications-panel {
+  min-height: 420px;
+  margin-top: 20px;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.applications-toolbar {
+  height: 50px;
+  padding: 0 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+}
+
+.applications-toolbar strong {
+  font-size: 13px;
+}
+
+.applications-toolbar span {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.application-row {
+  min-height: 66px;
+  padding: 12px 18px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 20px;
+  border-bottom: 1px solid #edf0ee;
+}
+
+.application-row > div {
+  min-width: 0;
+}
+
+.application-row strong,
+.application-row div span {
+  display: block;
+}
+
+.application-row strong {
+  font-size: 13px;
+}
+
+.application-row div span {
+  margin-top: 4px;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 11px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.application-status {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+.status-applying {
+  color: var(--blue);
+  background: var(--blue-soft);
+}
+
+.status-needs-review {
+  color: var(--amber);
+  background: var(--amber-soft);
+}
+
+.status-submitted {
+  color: var(--green);
+  background: var(--green-soft);
+}
+
+.status-paused {
+  color: var(--muted);
+  background: #ecefed;
+}
+
+.application-empty {
+  min-height: 340px;
 }
 
 @media (max-width: 1080px) {
