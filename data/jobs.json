@@ -5,21 +5,35 @@
     "company": "Optiver",
     "role": "Graduate Software Engineer (2027 Start)",
     "location": "Chicago, IL / Austin, TX",
-    "ageDays": 23,
+    "ageDays": 24,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-02T15:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "confirmed",
     "fitTier": "priority",
     "fitScore": 96,
-    "directions": ["Quant", "ML Systems"],
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
     "resumeTrack": "Quant / ML Systems-HPC",
-    "reasons": ["明确接受 2026 年 12 月至 2027 年 6 月毕业", "C++、Python、系统与数学背景高度匹配", "官方职位说明支持美国移民 sponsorship"],
-    "caveats": ["Chicago 与 Austin 为同一校招方向，申请前确认是否需要选择单一地点"],
+    "reasons": [
+      "明确接受 2026 年 12 月至 2027 年 6 月毕业",
+      "C++、Python、系统与数学背景高度匹配",
+      "官方职位说明支持美国移民 sponsorship"
+    ],
+    "caveats": [
+      "Chicago 与 Austin 为同一校招方向，申请前确认是否需要选择单一地点"
+    ],
     "applyUrl": "https://www.optiver.com/join-us/jobs/technology/chicago/graduate-software-engineer-2027-start/",
-    "alternateApplyUrls": [{"label": "Austin 岗位", "url": "https://www.optiver.com/join-us/jobs/technology/austin/graduate-software-engineer-2027-start/"}],
+    "alternateApplyUrls": [
+      {
+        "label": "Austin 岗位",
+        "url": "https://www.optiver.com/join-us/jobs/technology/austin/graduate-software-engineer-2027-start/"
+      }
+    ],
     "status": "open"
   },
   {
@@ -28,19 +42,28 @@
     "company": "Five Rings",
     "role": "Campus Full Time 2027 - Software Developer",
     "location": "New York, NY",
-    "ageDays": 10,
+    "ageDays": 11,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-15T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 95,
-    "directions": ["Quant", "ML Systems"],
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
     "resumeTrack": "Quant / ML Systems-HPC",
-    "reasons": ["明确为 2027 Campus Full Time", "Linux、C++、分布式交易系统与数学模型实现高度匹配"],
-    "caveats": ["Sponsorship 政策未在职位正文中说明", "面试预计从 2026 年 9 月开始"],
+    "reasons": [
+      "明确为 2027 Campus Full Time",
+      "Linux、C++、分布式交易系统与数学模型实现高度匹配"
+    ],
+    "caveats": [
+      "Sponsorship 政策未在职位正文中说明",
+      "面试预计从 2026 年 9 月开始"
+    ],
     "applyUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
     "status": "open"
   },
@@ -50,19 +73,27 @@
     "company": "Hudson River Trading",
     "role": "Software Engineer (C++ or Python) - 2027 Grads",
     "location": "Austin / Chicago / New York",
-    "ageDays": 11,
+    "ageDays": 12,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-14T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 96,
-    "directions": ["Quant", "ML Systems"],
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
     "resumeTrack": "ML Systems-HPC / Quant",
-    "reasons": ["明确面向 2027 graduates", "C++、Python、CUDA、系统和数据基础设施经历直接匹配"],
-    "caveats": ["Sponsorship 政策未说明"],
+    "reasons": [
+      "明确面向 2027 graduates",
+      "C++、Python、CUDA、系统和数据基础设施经历直接匹配"
+    ],
+    "caveats": [
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads/",
     "status": "open"
   },
@@ -72,19 +103,27 @@
     "company": "Hudson River Trading",
     "role": "Algorithm Developer (Quant Research & Trading) - 2027 Grads",
     "location": "New York, NY",
-    "ageDays": 11,
+    "ageDays": 12,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-14T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 94,
-    "directions": ["Quant", "AI/ML"],
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
     "resumeTrack": "Quant / AI-ML",
-    "reasons": ["明确为 2027 graduate full-time", "数学、统计、ML/RL 和 prediction-market 项目可作为核心证据"],
-    "caveats": ["Sponsorship 政策未说明"],
+    "reasons": [
+      "明确为 2027 graduate full-time",
+      "数学、统计、ML/RL 和 prediction-market 项目可作为核心证据"
+    ],
+    "caveats": [
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2027-grads/",
     "status": "open"
   },
@@ -94,19 +133,29 @@
     "company": "Akuna Capital",
     "role": "Junior Quantitative Developer & Strategist",
     "location": "Chicago, IL",
-    "ageDays": 11,
+    "ageDays": 12,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-14T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "opt-accepted",
     "fitTier": "priority",
     "fitScore": 94,
-    "directions": ["Quant", "AI/ML"],
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
     "resumeTrack": "Quant",
-    "reasons": ["要求在 2027 年 8 月前毕业", "官方明确接受入职时使用 OPT/STEM OPT", "Python、线代、统计、ML 与 HPC 背景匹配"],
-    "caveats": ["Akuna 本招聘季只考虑一个 Quant/Tech 首选岗位", "未来长期 sponsorship 政策仍需确认"],
+    "reasons": [
+      "要求在 2027 年 8 月前毕业",
+      "官方明确接受入职时使用 OPT/STEM OPT",
+      "Python、线代、统计、ML 与 HPC 背景匹配"
+    ],
+    "caveats": [
+      "Akuna 本招聘季只考虑一个 Quant/Tech 首选岗位",
+      "未来长期 sponsorship 政策仍需确认"
+    ],
     "applyUrl": "https://akunacapital.com/careers/job/8016687/junior-quantitative-developer-strategist/",
     "status": "open"
   },
@@ -116,19 +165,27 @@
     "company": "Old Mission",
     "role": "Software Engineer - 2027 Graduate Program",
     "location": "Chicago, IL",
-    "ageDays": 11,
+    "ageDays": 12,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-14T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 93,
-    "directions": ["Quant", "ML Systems"],
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
     "resumeTrack": "Quant / ML Systems-HPC",
-    "reasons": ["明确为 2027 Graduate Program，August Start", "C++、数学、统计及 prediction-market RL 项目相关"],
-    "caveats": ["Sponsorship 政策未说明"],
+    "reasons": [
+      "明确为 2027 Graduate Program，August Start",
+      "C++、数学、统计及 prediction-market RL 项目相关"
+    ],
+    "caveats": [
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003",
     "status": "open"
   },
@@ -138,42 +195,30 @@
     "company": "Palantir",
     "role": "Forward Deployed Software Engineer, New Grad",
     "location": "Chicago, IL",
-    "ageDays": 25,
+    "ageDays": 26,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-06-30T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 92,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": ["接受 2026 年 12 月或 2027 年春季毕业", "数据、AI、全栈和客户项目背景匹配"],
-    "caveats": ["Chicago hybrid", "需要接受约 25–50% 出差", "Sponsorship 政策未说明"],
+    "reasons": [
+      "接受 2026 年 12 月或 2027 年春季毕业",
+      "数据、AI、全栈和客户项目背景匹配"
+    ],
+    "caveats": [
+      "Chicago hybrid",
+      "需要接受约 25–50% 出差",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
-    "status": "open"
-  },
-  {
-    "id": "t-rowe-price-associate-swe-2027",
-    "canonicalUrl": "https://troweprice.wd5.myworkdayjobs.com/en-US/troweprice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752",
-    "company": "T. Rowe Price",
-    "role": "2027 Global Technology - Associate Software Engineer",
-    "location": "Baltimore, MD +1",
-    "ageDays": 2,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-23T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
-    "eligibility": "eligible",
-    "startTiming": "confirmed-2027",
-    "sponsorship": "unknown",
-    "fitTier": "priority",
-    "fitScore": 91,
-    "directions": ["SWE/Data Infra"],
-    "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": ["岗位标题明确标注 2027", "SWE、数据基础设施和金融市场 RL 经历可共同使用"],
-    "caveats": ["Sponsorship 政策待核实"],
-    "applyUrl": "https://troweprice.wd5.myworkdayjobs.com/en-US/troweprice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752",
     "status": "open"
   },
   {
@@ -182,19 +227,27 @@
     "company": "GE Appliances",
     "role": "Edison Engineering Development Program - Software",
     "location": "Louisville, KY",
-    "ageDays": 9,
+    "ageDays": 10,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-16T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 90,
-    "directions": ["SWE/Data Infra"],
+    "directions": [
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": ["岗位明确为 July 2027 入职，与可入职时间完全一致", "应届生轮岗项目适合扩展软件工程经历"],
-    "caveats": ["Sponsorship 政策待核实", "工作地点为 Louisville"],
+    "reasons": [
+      "岗位明确为 July 2027 入职，与可入职时间完全一致",
+      "应届生轮岗项目适合扩展软件工程经历"
+    ],
+    "caveats": [
+      "Sponsorship 政策待核实",
+      "工作地点为 Louisville"
+    ],
     "applyUrl": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
     "status": "open"
   },
@@ -204,19 +257,28 @@
     "company": "Netic",
     "role": "Software Engineer (Agent Platform) - New Grad",
     "location": "San Francisco, CA",
-    "ageDays": 9,
+    "ageDays": 10,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-16T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 94,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "AI-ML / Backend-Data Infra",
-    "reasons": ["岗位明确覆盖 2026–2027 New Grad", "LLM post-training、AI agent、Python 和后端经历高度匹配"],
-    "caveats": ["Sponsorship 政策待核实", "San Francisco onsite 情况需确认"],
+    "reasons": [
+      "岗位明确覆盖 2026–2027 New Grad",
+      "LLM post-training、AI agent、Python 和后端经历高度匹配"
+    ],
+    "caveats": [
+      "Sponsorship 政策待核实",
+      "San Francisco onsite 情况需确认"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
     "status": "open"
   },
@@ -226,19 +288,27 @@
     "company": "Netic",
     "role": "Full-Stack Software Engineer (Product) - New Grad",
     "location": "San Francisco, CA",
-    "ageDays": 9,
+    "ageDays": 10,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-16T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 92,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE / AI-ML",
-    "reasons": ["岗位明确覆盖 2026–2027 New Grad", "ATLAS、React、AWS 和完整 AI 产品项目直接匹配"],
-    "caveats": ["Sponsorship 政策待核实"],
+    "reasons": [
+      "岗位明确覆盖 2026–2027 New Grad",
+      "ATLAS、React、AWS 和完整 AI 产品项目直接匹配"
+    ],
+    "caveats": [
+      "Sponsorship 政策待核实"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
     "status": "open"
   },
@@ -248,19 +318,27 @@
     "company": "Chevron",
     "role": "2026–2027 IT - Software Engineer - Full-Time",
     "location": "Houston, TX + multiple",
-    "ageDays": 9,
+    "ageDays": 10,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-16T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 87,
-    "directions": ["SWE/Data Infra"],
+    "directions": [
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "Backend-Data Infra / General SWE",
-    "reasons": ["标题明确覆盖 2027 且为 full-time", "云端 ETL、数据库和全栈经历适合"],
-    "caveats": ["具体团队和地点需在申请中确认", "Sponsorship 政策待核实"],
+    "reasons": [
+      "标题明确覆盖 2027 且为 full-time",
+      "云端 ETL、数据库和全栈经历适合"
+    ],
+    "caveats": [
+      "具体团队和地点需在申请中确认",
+      "Sponsorship 政策待核实"
+    ],
     "applyUrl": "https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
     "status": "open"
   },
@@ -270,19 +348,28 @@
     "company": "Jane Street",
     "role": "Software Engineer, Full-Time: New Grad",
     "location": "New York, NY",
-    "ageDays": 18,
+    "ageDays": 19,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-07T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 95,
-    "directions": ["Quant", "SWE/Data Infra"],
+    "directions": [
+      "Quant",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "Quant / General SWE",
-    "reasons": ["官方申请表允许选择 July 2027 作为全职开始时间", "不要求金融、OCaml 或函数式编程背景", "编程思维、数学与学习能力匹配"],
-    "caveats": ["Sponsorship 政策未在职位页或申请表中说明"],
+    "reasons": [
+      "官方申请表允许选择 July 2027 作为全职开始时间",
+      "不要求金融、OCaml 或函数式编程背景",
+      "编程思维、数学与学习能力匹配"
+    ],
+    "caveats": [
+      "Sponsorship 政策未在职位页或申请表中说明"
+    ],
     "applyUrl": "https://www.janestreet.com/join-jane-street/position/8594541002/",
     "status": "open"
   },
@@ -292,19 +379,27 @@
     "company": "Pylon",
     "role": "Software Engineer - New Grad",
     "location": "San Francisco, CA",
-    "ageDays": 15,
+    "ageDays": 16,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-10T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 91,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE / AI-ML",
-    "reasons": ["官方正文明确要求能够在 Summer 2027 入职", "全栈、云端部署和产品工程背景匹配"],
-    "caveats": ["Sponsorship 政策待核实"],
+    "reasons": [
+      "官方正文明确要求能够在 Summer 2027 入职",
+      "全栈、云端部署和产品工程背景匹配"
+    ],
+    "caveats": [
+      "Sponsorship 政策待核实"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
     "status": "open"
   },
@@ -314,19 +409,28 @@
     "company": "IXL Learning",
     "role": "Software Engineer, New Grad",
     "location": "San Mateo, CA",
-    "ageDays": 22,
+    "ageDays": 23,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-03T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "confirmed",
     "fitTier": "recommended",
     "fitScore": 89,
-    "directions": ["SWE/Data Infra"],
+    "directions": [
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE",
-    "reasons": ["明确为 New Grad", "Python、Java、TypeScript、SQL 和 AWS 经历匹配", "官方正文说明 H-1B sponsorship available"],
-    "caveats": ["没有标明具体毕业 cohort", "入职初期需要较高频率线下办公"],
+    "reasons": [
+      "明确为 New Grad",
+      "Python、Java、TypeScript、SQL 和 AWS 经历匹配",
+      "官方正文说明 H-1B sponsorship available"
+    ],
+    "caveats": [
+      "没有标明具体毕业 cohort",
+      "入职初期需要较高频率线下办公"
+    ],
     "applyUrl": "https://www.ixl.com/company/careers?gh_jid=8615710002",
     "status": "open"
   },
@@ -336,19 +440,28 @@
     "company": "IXL Learning",
     "role": "Software Engineer, New Grad",
     "location": "Raleigh, NC",
-    "ageDays": 22,
+    "ageDays": 23,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-03T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "confirmed",
     "fitTier": "recommended",
     "fitScore": 87,
-    "directions": ["SWE/Data Infra"],
+    "directions": [
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE",
-    "reasons": ["明确为 New Grad", "Python、Java、TypeScript、SQL 和 AWS 经历匹配", "官方正文说明 H-1B sponsorship available"],
-    "caveats": ["没有标明具体毕业 cohort", "需要到 Raleigh 办公"],
+    "reasons": [
+      "明确为 New Grad",
+      "Python、Java、TypeScript、SQL 和 AWS 经历匹配",
+      "官方正文说明 H-1B sponsorship available"
+    ],
+    "caveats": [
+      "没有标明具体毕业 cohort",
+      "需要到 Raleigh 办公"
+    ],
     "applyUrl": "https://www.ixl.com/company/careers?gh_jid=8615717002",
     "status": "open"
   },
@@ -361,16 +474,25 @@
     "ageDays": null,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-25T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 97,
-    "directions": ["AI/ML", "ML Systems"],
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
     "resumeTrack": "ML Systems-HPC / AI-ML",
-    "reasons": ["CUDA Transformer、LLM inference、vLLM/SGLang 和性能优化高度匹配"],
-    "caveats": ["岗位标题为 New College Grad 2026", "可能希望近期入职，July 2027 兼容性未确认", "Sponsorship 政策未说明"],
+    "reasons": [
+      "CUDA Transformer、LLM inference、vLLM/SGLang 和性能优化高度匹配"
+    ],
+    "caveats": [
+      "岗位标题为 New College Grad 2026",
+      "可能希望近期入职，July 2027 兼容性未确认",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742",
     "status": "open"
   },
@@ -383,16 +505,25 @@
     "ageDays": null,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-25T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 95,
-    "directions": ["AI/ML", "ML Systems"],
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
     "resumeTrack": "ML Systems-HPC",
-    "reasons": ["C++、Python、分布式 ML systems 与推理服务经历方向匹配"],
-    "caveats": ["岗位标题为 New College Grad 2026", "July 2027 入职兼容性未确认", "Sponsorship 政策未说明"],
+    "reasons": [
+      "C++、Python、分布式 ML systems 与推理服务经历方向匹配"
+    ],
+    "caveats": [
+      "岗位标题为 New College Grad 2026",
+      "July 2027 入职兼容性未确认",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
     "status": "open"
   },
@@ -405,16 +536,25 @@
     "ageDays": null,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-25T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 96,
-    "directions": ["AI/ML", "ML Systems"],
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
     "resumeTrack": "ML Systems-HPC",
-    "reasons": ["CUDA Transformer、TensorRT 和性能优化项目非常对口"],
-    "caveats": ["岗位标题为 New College Grad 2026", "July 2027 入职兼容性未确认", "Sponsorship 政策未说明"],
+    "reasons": [
+      "CUDA Transformer、TensorRT 和性能优化项目非常对口"
+    ],
+    "caveats": [
+      "岗位标题为 New College Grad 2026",
+      "July 2027 入职兼容性未确认",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
     "status": "open"
   },
@@ -424,19 +564,28 @@
     "company": "Citadel",
     "role": "Software Engineer - University Graduate",
     "location": "NY / Miami / Greenwich / Houston",
-    "ageDays": 10,
+    "ageDays": 11,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-15T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 93,
-    "directions": ["Quant", "ML Systems"],
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
     "resumeTrack": "Quant / ML Systems-HPC",
-    "reasons": ["Graduate 通道、无工作年限要求", "C++/Python、概率统计与系统设计背景匹配"],
-    "caveats": ["官方未注明毕业年份或开始日期", "申请表询问 sponsorship，但未承诺提供"],
+    "reasons": [
+      "Graduate 通道、无工作年限要求",
+      "C++/Python、概率统计与系统设计背景匹配"
+    ],
+    "caveats": [
+      "官方未注明毕业年份或开始日期",
+      "申请表询问 sponsorship，但未承诺提供"
+    ],
     "applyUrl": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
     "status": "open"
   },
@@ -446,19 +595,28 @@
     "company": "Citadel Securities",
     "role": "Software Engineer - University Graduate",
     "location": "New York / Miami",
-    "ageDays": 10,
+    "ageDays": 11,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-15T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 93,
-    "directions": ["Quant", "ML Systems"],
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
     "resumeTrack": "Quant / ML Systems-HPC",
-    "reasons": ["Graduate 通道、无工作年限要求", "高性能系统、大规模数据和交易基础设施方向匹配"],
-    "caveats": ["官方未注明毕业年份或开始日期", "申请表询问 sponsorship，但未承诺提供"],
+    "reasons": [
+      "Graduate 通道、无工作年限要求",
+      "高性能系统、大规模数据和交易基础设施方向匹配"
+    ],
+    "caveats": [
+      "官方未注明毕业年份或开始日期",
+      "申请表询问 sponsorship，但未承诺提供"
+    ],
     "applyUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
     "status": "open"
   },
@@ -468,19 +626,28 @@
     "company": "Notion",
     "role": "Software Engineer, Early Career (AI)",
     "location": "San Francisco, CA",
-    "ageDays": 18,
+    "ageDays": 19,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-07T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 94,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "AI-ML",
-    "reasons": ["少于两年经验，接受课程、项目和实习中的 AI/ML 经验", "LLM、模型系统和产品工程高度匹配"],
-    "caveats": ["未注明具体毕业年份或开始日期", "申请表可申报 OPT/H-1B 状态，但不等于承诺 sponsorship"],
+    "reasons": [
+      "少于两年经验，接受课程、项目和实习中的 AI/ML 经验",
+      "LLM、模型系统和产品工程高度匹配"
+    ],
+    "caveats": [
+      "未注明具体毕业年份或开始日期",
+      "申请表可申报 OPT/H-1B 状态，但不等于承诺 sponsorship"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
     "status": "open"
   },
@@ -490,19 +657,28 @@
     "company": "Notion",
     "role": "Software Engineer, Early Career",
     "location": "San Francisco, CA",
-    "ageDays": 18,
+    "ageDays": 19,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-07T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 91,
-    "directions": ["SWE/Data Infra", "AI/ML"],
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
     "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": ["少于两年经验", "产品、AI、平台和基础设施团队均与现有项目经历有关"],
-    "caveats": ["未注明 2027 cohort 或开始日期", "Sponsorship 政策未说明"],
+    "reasons": [
+      "少于两年经验",
+      "产品、AI、平台和基础设施团队均与现有项目经历有关"
+    ],
+    "caveats": [
+      "未注明 2027 cohort 或开始日期",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
     "status": "open"
   },
@@ -512,19 +688,27 @@
     "company": "Nuro",
     "role": "Software Engineer - Performance - New Grad",
     "location": "Mountain View, CA",
-    "ageDays": 8,
+    "ageDays": 9,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-17T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 95,
-    "directions": ["AI/ML", "ML Systems"],
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
     "resumeTrack": "ML Systems-HPC",
-    "reasons": ["CUDA Transformer、C++、性能测试和 ML systems 经历高度匹配"],
-    "caveats": ["具体毕业年份和 July 2027 入职尚未确认", "Sponsorship 政策未说明"],
+    "reasons": [
+      "CUDA Transformer、C++、性能测试和 ML systems 经历高度匹配"
+    ],
+    "caveats": [
+      "具体毕业年份和 July 2027 入职尚未确认",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272",
     "status": "open"
   },
@@ -534,19 +718,27 @@
     "company": "Lightfield",
     "role": "Software Engineer - Applied AI - New Grad",
     "location": "San Francisco, CA",
-    "ageDays": 9,
+    "ageDays": 10,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-16T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-25T08:00:00-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 93,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "AI-ML",
-    "reasons": ["LLM/RL、应用 ML、AI 产品和数据管道经历契合"],
-    "caveats": ["毕业 cohort 与开始日期未说明", "Sponsorship 政策未说明"],
+    "reasons": [
+      "LLM/RL、应用 ML、AI 产品和数据管道经历契合"
+    ],
+    "caveats": [
+      "毕业 cohort 与开始日期未说明",
+      "Sponsorship 政策未说明"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
     "status": "open"
   },
@@ -556,19 +748,30 @@
     "company": "Cylake",
     "role": "Software Engineer (2027 University Grad)",
     "location": "Sunnyvale, CA",
-    "ageDays": 32,
+    "ageDays": 33,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-06-24T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-26T01:10:03-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "unknown",
     "fitTier": "priority",
     "fitScore": 94,
-    "directions": ["SWE/Data Infra", "AI/ML"],
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
     "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": ["标题明确面向 2027 University Grad", "后端、全栈、基础设施和 AI 项目经历匹配", "Sunnyvale 线下办公地点合适"],
-    "caveats": ["具体入职月份未说明", "申请表询问未来 sponsorship，但职位页未承诺提供", "要求每日到岗并参加线下面试"],
+    "reasons": [
+      "标题明确面向 2027 University Grad",
+      "后端、全栈、基础设施和 AI 项目经历匹配",
+      "Sunnyvale 线下办公地点合适"
+    ],
+    "caveats": [
+      "具体入职月份未说明",
+      "申请表询问未来 sponsorship，但职位页未承诺提供",
+      "要求每日到岗并参加线下面试"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
     "status": "open"
   },
@@ -578,19 +781,30 @@
     "company": "Collective",
     "role": "Software Engineer (New Grad)",
     "location": "San Francisco, CA",
-    "ageDays": 44,
+    "ageDays": 45,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-06-12T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-26T01:10:03-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 89,
-    "directions": ["AI/ML", "SWE/Data Infra"],
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
     "resumeTrack": "General SWE / AI-ML",
-    "reasons": ["面向毕业后 0–2 年候选人", "Python、React、AI/LLM 和全栈经历匹配", "当前位于 Bay Area，符合地点要求"],
-    "caveats": ["未确认可等待至 2027 年 7 月入职", "职位页未承诺 sponsorship", "每周三天到旧金山办公室且不支持远程面试或 relocation"],
+    "reasons": [
+      "面向毕业后 0–2 年候选人",
+      "Python、React、AI/LLM 和全栈经历匹配",
+      "当前位于 Bay Area，符合地点要求"
+    ],
+    "caveats": [
+      "未确认可等待至 2027 年 7 月入职",
+      "职位页未承诺 sponsorship",
+      "每周三天到旧金山办公室且不支持远程面试或 relocation"
+    ],
     "applyUrl": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf",
     "status": "open"
   },
@@ -600,19 +814,30 @@
     "company": "Torc Robotics",
     "role": "Software Engineer I - Mission Control",
     "location": "Ann Arbor, MI",
-    "ageDays": 50,
+    "ageDays": 51,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-06-06T08:00:00-07:00",
-    "lastCheckedAt": "2026-07-26T01:10:03-07:00",
+    "lastCheckedAt": "2026-07-26T08:00:54-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
     "fitTier": "recommended",
     "fitScore": 88,
-    "directions": ["SWE/Data Infra", "AI/ML"],
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
     "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": ["TypeScript、JavaScript、Python、React 和 AWS 方向匹配", "Software Engineer I 级别适合早期职业候选人", "申请表允许填写期望入职时间"],
-    "caveats": ["未确认可等待至 2027 年 7 月入职", "未来 sponsorship 政策未说明", "职位要求 1–5 年相关经验"],
+    "reasons": [
+      "TypeScript、JavaScript、Python、React 和 AWS 方向匹配",
+      "Software Engineer I 级别适合早期职业候选人",
+      "申请表允许填写期望入职时间"
+    ],
+    "caveats": [
+      "未确认可等待至 2027 年 7 月入职",
+      "未来 sponsorship 政策未说明",
+      "职位要求 1–5 年相关经验"
+    ],
     "applyUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002",
     "status": "open"
   }
