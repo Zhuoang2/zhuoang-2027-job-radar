@@ -2,6 +2,58 @@
   "source": "SpeedyApply/2027-SWE-College-Jobs",
   "sourceUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
   "scope": "USA full-time roles with repository age <= 60d",
+  "sourceMonitoring": {
+    "configuredAt": "2026-07-26T12:51:46-07:00",
+    "scanOrder": [
+      "speedyapply",
+      "vanshb03",
+      "simplifyjobs"
+    ],
+    "sources": {
+      "speedyapply": {
+        "role": "primary",
+        "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+        "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
+        "cycleStatus": "active-2027",
+        "lastCheckedAt": "2026-07-26T08:00:54-07:00",
+        "baseline": {
+          "mode": "normalized-official-urls",
+          "entryCount": 331,
+          "urlSetField": "seenCanonicalUrls"
+        }
+      },
+      "vanshb03": {
+        "role": "supplemental",
+        "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
+        "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
+        "cycleStatus": "2025-2026-list-with-explicit-2027-exceptions",
+        "lastCheckedAt": "2026-07-26T12:51:46-07:00",
+        "baseline": {
+          "mode": "explicit-2027-candidates-only",
+          "entryCount": 1,
+          "seenCandidateCanonicalUrls": [
+            "https://job-boards.greenhouse.io/appian/jobs/8035750"
+          ]
+        }
+      },
+      "simplifyjobs": {
+        "role": "monitor",
+        "organizationUrl": "https://github.com/SimplifyJobs",
+        "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+        "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+        "cycleStatus": "2026-cycle-monitoring",
+        "lastCheckedAt": "2026-07-26T12:51:46-07:00",
+        "baseline": {
+          "mode": "explicit-2027-eligible-candidates-only",
+          "entryCount": 0,
+          "seenCandidateCanonicalUrls": []
+        },
+        "note": "The existing repository remains labeled as a 2026 cycle; incidental 2027 text or links do not constitute a 2027-cycle switch."
+      }
+    },
+    "sourceMentions": {},
+    "suspectedDuplicates": []
+  },
   "scanStatus": "complete",
   "lastScanStartedAt": "2026-07-26T08:00:54-07:00",
   "lastSuccessfulScanAt": "2026-07-26T08:00:54-07:00",

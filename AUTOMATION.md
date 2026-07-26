@@ -1,11 +1,17 @@
 # Job Radar Update Contract
 
-- Source: `NEW_GRAD_USA.md` from `speedyapply/2027-SWE-College-Jobs`.
-- Scope: US full-time roles with repository `age <= 60d`.
+## Sources and scope
+
+- Scan these sources every day, in this order:
+  1. **Primary:** `NEW_GRAD_USA.md` from `speedyapply/2027-SWE-College-Jobs`.
+  2. **Supplemental:** `vanshb03/New-Grad-2027` on its current default branch. It contains substantial 2025/2026 history; consider only a new or changed role with explicit 2027 graduation or start-cycle evidence.
+  3. **Monitor:** `SimplifyJobs/New-Grad-Positions` and the `SimplifyJobs` organization. Check both whether the existing repository has explicitly switched to 2027 and whether a new repository explicitly targeting 2027, New Grad, or College Jobs exists. Do not add 2026 positions merely because Simplify has updated.
+- Scope: United States, full-time, SWE, AI/ML, ML Systems, Data, Backend, Infra, Quant Developer, or Quant Research roles with source age `<= 60d`. A role must have official evidence compatible with the user's June/July 2027 graduation/start timeline.
+- `data/source-state.json` is the shared scan baseline. Preserve the legacy SpeedyApply fields used by the site and update `sourceMonitoring` for all three sources on every run: each source's URL, cycle/monitoring state, last-check time, candidate-only baseline, and source mentions. Keep uncertain cross-source matches in `suspectedDuplicates`; do not create a duplicate job card.
 - Update `data/jobs.json` for recommended or technically strong roles. Required fields: `id`, `canonicalUrl`, `company`, `role`, `location`, `ageDays`, `source`, `firstSeenAt`, `lastCheckedAt`, `eligibility`, `startTiming`, `sponsorship`, `fitTier`, `fitScore`, `directions`, `resumeTrack`, `reasons`, `caveats`, `applyUrl`, `status`.
-- Update `data/source-state.json` on every scan. Preserve `firstSeenAt`; set scan timestamps and append every scanned normalized URL to `seenCanonicalUrls`. Remove a listed job only after it is closed, fails a hard eligibility rule, or leaves the 60-day source window.
-- Dedupe key: official job ID when present; otherwise normalized canonical URL with tracking parameters, fragments, and trailing locale variants removed.
-- Never infer 2027 timing or sponsorship from silence. Use `timing-check` and `unknown` until an official job page or application form provides evidence.
+- Update `data/source-state.json` on every scan. Preserve `firstSeenAt`; set scan timestamps and append every scanned normalized URL to the appropriate source baseline. Remove a listed job only after it is closed, fails a hard eligibility rule, or leaves the 60-day source window.
+- Dedupe across all sources and the unified application record in this order: official job ID; normalized official application URL (remove tracking parameters, fragments, and trailing locale variants); company + role + location; then company + similar title + highly similar responsibilities. Update a matching existing record when a link changes or reopens; only unresolved matches go to `suspectedDuplicates` for main-thread review.
+- Open every candidate's official job page to verify responsibilities, cohort/start timing, location, open status, and sponsorship language. Never infer 2027 timing or sponsorship from silence: use `timing-check` and `unknown` until official evidence exists. Do not include a closed role, a role limited to U.S. citizens, a role that declines future sponsorship, or a role incompatible with the user's graduation timing.
 - Keep private profile data out of both JSON files.
 - Derive `data/applications.json` from the unified application record. Keep only `id`, `company`, optional `role`, and one simple status: `applying`, `needs-review`, `submitted`, or `paused`. Do not copy answers, dates, resume versions, notes, or sensitive fields into the site.
 - Omit `skipped` or untouched jobs from `data/applications.json`. Map `started`, `analyzing`, and `filling` to `applying`; map `needs-review` and `ready-to-submit` to `needs-review`; preserve `submitted`; map `blocked` to `paused`.

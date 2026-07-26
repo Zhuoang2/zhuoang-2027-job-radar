@@ -52,6 +52,15 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.ok(jobs.length >= 20);
   assert.equal(state.seenCanonicalUrls.length, state.baselineEntryCount);
   assert.ok(state.baselineEntryCount >= jobs.length);
+  assert.deepEqual(state.sourceMonitoring.scanOrder, [
+    "speedyapply",
+    "vanshb03",
+    "simplifyjobs",
+  ]);
+  assert.equal(state.sourceMonitoring.sources.speedyapply.role, "primary");
+  assert.equal(state.sourceMonitoring.sources.vanshb03.role, "supplemental");
+  assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
+  assert.ok(Array.isArray(state.sourceMonitoring.suspectedDuplicates));
   assert.ok(
     jobs.every(
       (job) =>
