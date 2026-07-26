@@ -27,12 +27,17 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2025-2026-list-with-explicit-2027-exceptions",
-        "lastCheckedAt": "2026-07-26T12:51:46-07:00",
+        "lastCheckedAt": "2026-07-26T13:00:05-07:00",
         "baseline": {
-          "mode": "explicit-2027-candidates-only",
-          "entryCount": 1,
+          "mode": "us-technical-roles-within-60d",
+          "entryCount": 6,
           "seenCandidateCanonicalUrls": [
-            "https://job-boards.greenhouse.io/appian/jobs/8035750"
+            "https://job-boards.greenhouse.io/appian/jobs/8035750",
+            "https://jobs.uber.com/en/jobs/160017/",
+            "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795",
+            "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+            "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157",
+            "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923"
           ]
         }
       },
@@ -51,7 +56,11 @@
         "note": "The existing repository remains labeled as a 2026 cycle; incidental 2027 text or links do not constitute a 2027-cycle switch."
       }
     },
-    "sourceMentions": {},
+    "sourceMentions": {
+      "https://job-boards.greenhouse.io/simplisafe/jobs/8049515": [
+        "vanshb03"
+      ]
+    },
     "suspectedDuplicates": []
   },
   "scanStatus": "complete",

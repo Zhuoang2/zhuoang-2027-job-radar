@@ -840,5 +840,35 @@
     ],
     "applyUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002",
     "status": "open"
+  },
+  {
+    "id": "simplisafe-software-engineer-i-device-control",
+    "canonicalUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+    "company": "SimpliSafe",
+    "role": "Software Engineer I - Device Control",
+    "location": "Boston, MA",
+    "ageDays": 17,
+    "source": "vanshb03/New-Grad-2027",
+    "firstSeenAt": "2026-07-26T13:00:05-07:00",
+    "lastCheckedAt": "2026-07-26T13:00:05-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 86,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Backend-Data Infra / General SWE",
+    "reasons": [
+      "云端 Device Control 后端团队的分布式系统、可靠性与自动化测试工作匹配数据与后端工程方向",
+      "官方职位页接受通过课程、实习或项目获得的现代编程语言和云端服务经验"
+    ],
+    "caveats": [
+      "官方页面只写 degree completed or expected soon，未确认能等待至 2027 年 7 月入职",
+      "申请表询问未来 sponsorship，但官方职位说明未给出政策"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+    "status": "open"
   }
 ]
