@@ -15,10 +15,10 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-07-26T08:00:54-07:00",
+        "lastCheckedAt": "2026-07-27T10:07:28-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 331,
+          "entryCount": 334,
           "urlSetField": "seenCanonicalUrls"
         }
       },
@@ -27,7 +27,7 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2025-2026-list-with-explicit-2027-exceptions",
-        "lastCheckedAt": "2026-07-26T13:00:05-07:00",
+        "lastCheckedAt": "2026-07-27T10:07:28-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 6,
@@ -47,7 +47,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-07-26T12:51:46-07:00",
+        "lastCheckedAt": "2026-07-27T10:07:28-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 0,
@@ -64,10 +64,13 @@
     "suspectedDuplicates": []
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-07-26T08:00:54-07:00",
-  "lastSuccessfulScanAt": "2026-07-26T08:00:54-07:00",
-  "lastSourceUpdatedAt": "2026-07-26T08:00:54-07:00",
+  "lastScanStartedAt": "2026-07-27T10:07:28-07:00",
+  "lastSuccessfulScanAt": "2026-07-27T10:07:28-07:00",
+  "lastSourceUpdatedAt": "2026-07-27T10:07:28-07:00",
   "seenCanonicalUrls": [
+    "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
+    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142",
     "https://www.amazon.jobs/jobs/10481932/apply",
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1",
@@ -400,5 +403,5 @@
     "https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---Worcester-MA/Software-Developer-I--Analyst-_R70138-1",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725"
   ],
-  "baselineEntryCount": 331
+  "baselineEntryCount": 334
 }
