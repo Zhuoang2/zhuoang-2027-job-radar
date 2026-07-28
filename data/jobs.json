@@ -842,6 +842,97 @@
     "status": "open"
   },
   {
+    "id": "mitratech-software-engineer-i-assurehire-go",
+    "canonicalUrl": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
+    "company": "Mitratech",
+    "role": "Software Engineer I - AssureHire (Go)",
+    "location": "Remote - USA",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T08:00:10-07:00",
+    "lastCheckedAt": "2026-07-28T08:00:10-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 88,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Backend-Data Infra / General SWE",
+    "reasons": [
+      "官方页面定位为 early-career，接受 0–2 年经验并计入课程、实习和重要项目",
+      "Go/Ruby 后端、调试与生产工程方向匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "申请表询问未来 sponsorship，但职位页未说明政策"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
+    "status": "open"
+  },
+  {
+    "id": "runsybil-software-engineer-i",
+    "canonicalUrl": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59",
+    "company": "RunSybil",
+    "role": "Software Engineer I",
+    "location": "New York, NY (Hybrid)",
+    "ageDays": 1,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T08:00:10-07:00",
+    "lastCheckedAt": "2026-07-28T08:00:10-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE / AI-ML",
+    "reasons": [
+      "官网定位为职业早期工程师，工作涉及 agentic systems 和客户功能交付",
+      "LLM 工程、产品开发和全栈项目方向匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59",
+    "status": "open"
+  },
+  {
+    "id": "symbotic-new-grad-software-engineer",
+    "canonicalUrl": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
+    "company": "Symbotic",
+    "role": "New Grad - Software Engineer",
+    "location": "Wilmington, MA",
+    "ageDays": 1,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T08:00:10-07:00",
+    "lastCheckedAt": "2026-07-28T08:00:10-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 87,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官方页面明确为 New Graduate 软件工程机会",
+      "前后端、C#/Java、Linux、版本控制和自动化测试方向契合"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明"
+    ],
+    "applyUrl": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
+    "status": "open"
+  },
+  {
     "id": "simplisafe-software-engineer-i-device-control",
     "canonicalUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
     "company": "SimpliSafe",
