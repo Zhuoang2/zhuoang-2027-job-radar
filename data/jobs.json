@@ -933,6 +933,191 @@
     "status": "open"
   },
   {
+    "id": "amazon-ml-infra-services-10464043",
+    "canonicalUrl": "https://www.amazon.jobs/en/jobs/10464043/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "company": "Amazon",
+    "role": "Software Development Engineer I - ML Infra Services, Annapurna Labs",
+    "location": "Seattle, WA",
+    "ageDays": 26,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T10:42:42-07:00",
+    "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 95,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "ML Systems-HPC / AI-ML",
+    "reasons": [
+      "官网岗位涵盖 AI accelerator 的 profiling、optimization、resource management 和大规模 ML 工具",
+      "Python、C++、云端、Linux 与分布式性能方向高度匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明"
+    ],
+    "applyUrl": "https://www.amazon.jobs/en/jobs/10464043/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "status": "open"
+  },
+  {
+    "id": "amazon-ml-infra-services-10464055",
+    "canonicalUrl": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "company": "Amazon",
+    "role": "Software Development Engineer I - ML Infra Services, Annapurna Labs",
+    "location": "Cupertino, CA",
+    "ageDays": 26,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T10:42:42-07:00",
+    "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 95,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "ML Systems-HPC / AI-ML",
+    "reasons": [
+      "官网岗位涵盖 AI accelerator 的 profiling、optimization、resource management 和大规模 ML 工具",
+      "Python、C++、云端、Linux 与分布式性能方向高度匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明"
+    ],
+    "applyUrl": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "status": "open"
+  },
+  {
+    "id": "amazon-ml-infra-services-10464040",
+    "canonicalUrl": "https://www.amazon.jobs/en/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "company": "Amazon",
+    "role": "Software Development Engineer I - ML Infra Services, Annapurna Labs",
+    "location": "Seattle, WA",
+    "ageDays": 26,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T10:42:42-07:00",
+    "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 94,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "ML Systems-HPC / AI-ML",
+    "reasons": [
+      "官方岗位涉及 AI accelerator、容器/Kubernetes 与大规模 ML infrastructure",
+      "Java、Python、C++、云端和性能工程经历方向匹配"
+    ],
+    "caveats": [
+      "与其他 Amazon ML Infra requisition 职责相近，但官方 Job ID 独立",
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职；sponsorship 政策未说明"
+    ],
+    "applyUrl": "https://www.amazon.jobs/en/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "status": "open"
+  },
+  {
+    "id": "abridge-software-engineer-early-career",
+    "canonicalUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "company": "Abridge",
+    "role": "Software Engineer, Early Career",
+    "location": "San Francisco, CA / New York, NY",
+    "ageDays": 11,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T10:42:42-07:00",
+    "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 94,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "AI-ML",
+    "reasons": [
+      "官网要求 GenAI/LLM、RAG/agents、evaluation、前后端与可观测性经验",
+      "LLM post-training、评估、数据管道与 AI 产品工程方向高度匹配"
+    ],
+    "caveats": [
+      "岗位需在 San Francisco 或 New York 线下工作",
+      "官方未写明 2027 cohort、July 2027 入职兼容性或 sponsorship 政策"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "status": "open"
+  },
+  {
+    "id": "zello-software-engineer-i-ai-generalist",
+    "canonicalUrl": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e",
+    "company": "Zello",
+    "role": "Software Engineer I, AI Generalist",
+    "location": "Austin, TX (Hybrid)",
+    "ageDays": 1,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T10:42:42-07:00",
+    "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 84,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE / AI-ML",
+    "reasons": [
+      "官网定位为 0–3 年 early-career，认可项目、实习、hackathon 或开源经历",
+      "AI-assisted test automation、工具与跨端代码贡献和全栈/AI 项目方向相符"
+    ],
+    "caveats": [
+      "岗位更偏 Quality Engineering 与自动化，非纯 ML/后端",
+      "官方未写明 2027 cohort、July 2027 入职兼容性或 sponsorship 政策"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e",
+    "status": "open"
+  },
+  {
+    "id": "waymark-junior-software-engineer",
+    "canonicalUrl": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
+    "company": "Waymark",
+    "role": "Junior Software Engineer",
+    "location": "Remote - USA",
+    "ageDays": 18,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-28T10:42:42-07:00",
+    "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 87,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官网接受实习、bootcamp 或强项目经历，并提供 senior mentor",
+      "React、TypeScript、PostgreSQL 与全栈和云端项目经历相符"
+    ],
+    "caveats": [
+      "申请表询问未来 sponsorship，但不等于提供 sponsorship",
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
+    "status": "open"
+  },
+  {
     "id": "simplisafe-software-engineer-i-device-control",
     "canonicalUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
     "company": "SimpliSafe",
