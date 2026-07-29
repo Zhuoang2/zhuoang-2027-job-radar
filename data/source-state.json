@@ -15,10 +15,10 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+        "lastCheckedAt": "2026-07-29T08:03:05-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 360,
+          "entryCount": 375,
           "urlSetField": "seenCanonicalUrls"
         }
       },
@@ -27,7 +27,7 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2025-2026-list-with-explicit-2027-exceptions",
-        "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+        "lastCheckedAt": "2026-07-29T08:03:05-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 6,
@@ -47,7 +47,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-07-28T10:42:42-07:00",
+        "lastCheckedAt": "2026-07-29T08:03:05-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 0,
@@ -64,9 +64,9 @@
     "suspectedDuplicates": []
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-07-28T10:42:42-07:00",
-  "lastSuccessfulScanAt": "2026-07-28T10:42:42-07:00",
-  "lastSourceUpdatedAt": "2026-07-28T10:42:42-07:00",
+  "lastScanStartedAt": "2026-07-29T08:03:05-07:00",
+  "lastSuccessfulScanAt": "2026-07-29T08:03:05-07:00",
+  "lastSourceUpdatedAt": "2026-07-29T08:03:05-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -427,7 +427,22 @@
     "https://boards.greenhouse.io/aloyoga/jobs/6122703004?gh_jid=6122703004",
     "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
     "http://rda.applytojob.com/apply/2sobkUn68q/Associate-Software-Engineer",
-    "https://jobs.lever.co/wyetechllc/e6c2b50a-6039-4a70-a532-519e6ef0b2e8"
+    "https://jobs.lever.co/wyetechllc/e6c2b50a-6039-4a70-a532-519e6ef0b2e8",
+    "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
+    "https://job-boards.greenhouse.io/eulerity/jobs/4700457006",
+    "http://prlabs.applytojob.com/apply/83TfKLPFXK/Junior-Web-Developer-Business-Systems-Analyst",
+    "https://job-boards.greenhouse.io/tebra/jobs/4714981005",
+    "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/",
+    "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Sunnyvale-California/Software-Engineering-Manager_R-10369664",
+    "https://idexx.wd1.myworkdayjobs.com/en-US/idexx/job/Westbrook-ME/Software-Testing-Analyst-I_J-054082",
+    "https://jobs.lever.co/jobgether/e1d02f01-abc8-45da-8f25-bc46ebebc297",
+    "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Remote---US/Junior-Salesforce-Developer_R2127251",
+    "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Lawton-OK/Entry-Level-Software-Tester_R-00187901",
+    "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Suwanee-GA/Cloud-Engineer-I---FIRST-SHIFT_R2026-1607",
+    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
+    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862658",
+    "https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b",
+    "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c"
   ],
-  "baselineEntryCount": 360
+  "baselineEntryCount": 375
 }

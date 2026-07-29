@@ -1118,6 +1118,98 @@
     "status": "open"
   },
   {
+    "id": "crusoe-software-engineer-i-storage",
+    "canonicalUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
+    "company": "Crusoe",
+    "role": "Software Engineer I - Storage",
+    "location": "San Francisco, CA",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-29T08:03:05-07:00",
+    "lastCheckedAt": "2026-07-29T08:03:05-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 92,
+    "directions": [
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "ML Systems-HPC / Backend-Data Infra",
+    "reasons": [
+      "官网定位为 early-career，接受实习、课程项目或约一年经验",
+      "云存储、分布式系统、Linux 与性能/基础设施经历方向匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
+    "status": "open"
+  },
+  {
+    "id": "tebra-software-engineer-1",
+    "canonicalUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005",
+    "company": "Tebra",
+    "role": "Software Engineer 1",
+    "location": "Remote - USA",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-29T08:03:05-07:00",
+    "lastCheckedAt": "2026-07-29T08:03:05-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 88,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Backend-Data Infra / General SWE",
+    "reasons": [
+      "官网要求的 Java、OOP、REST API、SQL、Git 与云端开发基础匹配",
+      "岗位为全职 Software Engineer I，适合后端与数据基础设施方向"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "申请流程询问 sponsorship，但官方职位说明未给出政策"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005",
+    "status": "open"
+  },
+  {
+    "id": "vultr-associate-platform-engineer-cloud-native",
+    "canonicalUrl": "https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b",
+    "company": "Vultr",
+    "role": "Associate Platform Engineer - Cloud Native",
+    "location": "Remote - USA",
+    "ageDays": 6,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-29T08:03:05-07:00",
+    "lastCheckedAt": "2026-07-29T08:03:05-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "directions": [
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "ML Systems-HPC / Backend-Data Infra",
+    "reasons": [
+      "官网接受相关学位或实践经验，并要求 Go、Python 或 Bash 中至少一项",
+      "Kubernetes、容器和云平台基础设施工作与 ML Systems/Infra 方向匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明；岗位包含 on-call"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b",
+    "status": "open"
+  },
+  {
     "id": "simplisafe-software-engineer-i-device-control",
     "canonicalUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
     "company": "SimpliSafe",
