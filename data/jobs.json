@@ -1238,5 +1238,103 @@
     ],
     "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
     "status": "open"
+  },
+  {
+    "id": "faros-software-engineer-new-grad",
+    "canonicalUrl": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066",
+    "company": "Faros",
+    "role": "Software Engineer - New Grad",
+    "location": "San Mateo, CA (Hybrid)",
+    "ageDays": 22,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-31T08:00:33-07:00",
+    "lastCheckedAt": "2026-07-31T08:00:33-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 95,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "AI-ML / Backend-Data Infra",
+    "reasons": [
+      "官网明确为 New Grad 全职岗位，LLM API、embeddings、vector stores、tool use 与 evaluation 要求高度匹配",
+      "Python 或 TypeScript、REST 或 GraphQL、数据管道、ETL/ELT 与数据库方向匹配"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
+      "Sponsorship 政策未说明；需每周数日在 San Mateo 办公"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066",
+    "status": "open"
+  },
+  {
+    "id": "abnormal-software-engineer-i-data-platform",
+    "canonicalUrl": "https://www.abnormal.ai/careers/jobs/7814567003",
+    "company": "Abnormal Security",
+    "role": "Software Engineer I - Data Platform",
+    "location": "Remote - USA",
+    "ageDays": 2,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-31T08:00:33-07:00",
+    "lastCheckedAt": "2026-07-31T08:00:33-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 93,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Backend-Data Infra / AI-ML",
+    "reasons": [
+      "数据平台、自动化基础设施、可靠性和 GenAI 开发体验与目标方向匹配",
+      "官网接受在学校、个人项目或工作中获得的 Python、Go 或相近语言经验"
+    ],
+    "caveats": [
+      "官网要求至少一年专业软件工程经验，需要以已证实经历逐项核对",
+      "官方未写明 2027 cohort 或 sponsorship 政策"
+    ],
+    "applyUrl": "https://www.abnormal.ai/careers/jobs/7814567003",
+    "status": "open"
+  },
+  {
+    "id": "kayak-associate-software-engineer",
+    "canonicalUrl": "https://jobs.ashbyhq.com/kayak/91e2d7f3-5601-4e4a-8e57-0799ef225f16",
+    "company": "KAYAK",
+    "role": "Associate Software Engineer",
+    "location": "Cambridge, MA / Concord, MA (Hybrid)",
+    "ageDays": 11,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "firstSeenAt": "2026-07-31T08:00:33-07:00",
+    "lastCheckedAt": "2026-07-31T08:00:33-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 86,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE",
+    "reasons": [
+      "React、JavaScript、Git、测试和产品工程要求与已有全栈项目匹配",
+      "官网接受相关学位或等效项目经历，岗位级别适合早期职业候选人"
+    ],
+    "caveats": [
+      "官方未写明 2027 cohort 或 sponsorship 政策",
+      "岗位要求每周三天在办公室，TypeScript 是主要技术栈之一"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/kayak/91e2d7f3-5601-4e4a-8e57-0799ef225f16",
+    "alternateApplyUrls": [
+      {
+        "label": "Concord 岗位",
+        "url": "https://jobs.ashbyhq.com/kayak/f422da95-ab63-400a-863c-97d2427c7c53"
+      }
+    ],
+    "status": "open"
   }
 ]
