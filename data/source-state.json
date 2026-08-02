@@ -1,7 +1,7 @@
 {
   "source": "SpeedyApply/2027-SWE-College-Jobs",
   "sourceUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
-  "scope": "USA full-time roles with repository age <= 60d",
+  "scope": "USA full-time discovery roles with source age <= 60d; existing-card retention cleanup temporarily paused",
   "sourceMonitoring": {
     "configuredAt": "2026-07-26T12:51:46-07:00",
     "scanOrder": [
@@ -15,10 +15,10 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-01T08:01:26-07:00",
+        "lastCheckedAt": "2026-08-02T10:38:37-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 747,
+          "entryCount": 797,
           "urlSetField": "seenCanonicalUrls"
         }
       },
@@ -26,11 +26,11 @@
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
-        "cycleStatus": "2025-2026-list-with-explicit-2027-exceptions",
-        "lastCheckedAt": "2026-08-01T08:01:26-07:00",
+        "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
+        "lastCheckedAt": "2026-08-02T10:38:37-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
-          "entryCount": 23,
+          "entryCount": 25,
           "seenCandidateCanonicalUrls": [
             "https://job-boards.greenhouse.io/appian/jobs/8035750",
             "https://jobs.uber.com/en/jobs/160017/",
@@ -54,7 +54,9 @@
             "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0",
             "https://jobs.apple.com/en-us/details/200657382",
             "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063",
-            "https://metacareers.com/jobs/609052015548260"
+            "https://metacareers.com/jobs/609052015548260",
+            "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+            "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005"
           ]
         }
       },
@@ -64,13 +66,13 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-01T08:01:26-07:00",
+        "lastCheckedAt": "2026-08-02T10:38:37-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 0,
           "seenCandidateCanonicalUrls": []
         },
-        "note": "The existing repository is still headed as the 2026 New Grad cycle for 2025/2026 graduates. The organization has a Summer2027-Internships repository, but no explicit 2027 full-time new-grad source is available."
+        "note": "The existing repository remains headed as the 2026 New Grad cycle for 2025/2026 graduates. The organization has Summer2027-Internships, but no explicit 2027 full-time new-grad source."
       }
     },
     "sourceMentions": {
@@ -88,14 +90,43 @@
       "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063": [
         "speedyapply",
         "vanshb03"
+      ],
+      "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005": [
+        "vanshb03"
+      ],
+      "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005": [
+        "vanshb03"
       ]
     },
-    "suspectedDuplicates": []
+    "suspectedDuplicates": [
+      {
+        "company": "Syncreon Consulting",
+        "role": "Python Developer with Risk Modelling",
+        "currentCanonicalUrl": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140941596-python-developer-with-risk-modelling",
+        "possiblePriorCanonicalUrls": [
+          "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140496569-python-developer-with-risk-modelling",
+          "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140730074-python-developer-with-risk-modelling"
+        ],
+        "reason": "Same company and title with a new SmartRecruiters requisition; client and reopening status are unresolved.",
+        "status": "needs-review"
+      },
+      {
+        "company": "Syncreon Consulting",
+        "role": "Informatica ETL Developer",
+        "currentCanonicalUrl": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140943189-informatica-etl-developer-pl-sql-exadata-skills-are-mandatory-w2-position-independent-profiles-only-",
+        "possiblePriorCanonicalUrls": [
+          "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140519329-informatica-etl-developer-pl-sql-exadata-skills-are-mandatory-w2-position-independent-profiles-only-",
+          "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140730069-informatica-etl-developer-pl-sql-exadata-skills-are-mandatory-w2-position-independent-profiles-only-"
+        ],
+        "reason": "Same company and title with a new SmartRecruiters requisition; client and reopening status are unresolved.",
+        "status": "needs-review"
+      }
+    ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-01T08:01:26-07:00",
-  "lastSuccessfulScanAt": "2026-08-01T08:01:26-07:00",
-  "lastSourceUpdatedAt": "2026-08-01T08:01:26-07:00",
+  "lastScanStartedAt": "2026-08-02T10:38:37-07:00",
+  "lastSuccessfulScanAt": "2026-08-02T10:38:37-07:00",
+  "lastSourceUpdatedAt": "2026-08-02T10:38:37-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -843,7 +874,57 @@
     "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008",
     "https://boards.greenhouse.io/accenturefederalservices/jobs/4693259006",
     "https://careers-peraton.icims.com/jobs/167926/software-engineering-%28ignite-innovator-pgm%29%2c-associate--blacksburg%2c-va/job",
-    "https://jobs.ashbyhq.com/rundoo/c1fa53ea-dadf-4dcf-a144-f71bda03c9fa"
+    "https://jobs.ashbyhq.com/rundoo/c1fa53ea-dadf-4dcf-a144-f71bda03c9fa",
+    "https://www.amazon.jobs/jobs/10482935",
+    "https://www.amazon.jobs/jobs/10489298",
+    "https://bespoketechinc.applytojob.com/apply/3fl3yJTgAG/Full-Stack-Developer",
+    "https://chameleonintegratedservices.applytojob.com/apply/ON4qgsVer9/Junior-Software-Engineer-DAFFM",
+    "https://jobs.ashbyhq.com/clera/b4405fb9-3917-48ff-b623-e3f3a09ee473",
+    "https://jobs.ashbyhq.com/clera/04a55796-a954-4c4f-acbf-8ad44f645a37",
+    "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e",
+    "https://job-boards.greenhouse.io/neweratech/jobs/8662227002",
+    "https://omegahires.applytojob.com/apply/sy6CQn5GrO/NET-Developer",
+    "https://jobs.ashbyhq.com/polymarket/c69d06c3-96df-493a-afdc-80636d494cf2",
+    "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "https://simisinc.applytojob.com/apply/UtaFwTRZV9/Junior-Software-Developer-Modeling-Simulation",
+    "https://job-boards.greenhouse.io/smartsheet/jobs/8070067",
+    "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140941596-python-developer-with-risk-modelling",
+    "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140943189-informatica-etl-developer-pl-sql-exadata-skills-are-mandatory-w2-position-independent-profiles-only-",
+    "https://jobs.smartrecruiters.com/SyncreonConsulting/744000140943409-full-stack-developer-only-gc-citizens-overall-5yrs-also-okay",
+    "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Entry-Level-Cloud-Services-Analyst_JR202638192",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185-1",
+    "https://cityutilities.wd5.myworkdayjobs.com/en-US/careers/job/Springfield-MO/IT-Software-Developer-I--II--or-III_R26_208",
+    "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Pharmacy-Technician-II---Front-End_R0963114",
+    "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494",
+    "https://newrez.wd1.myworkdayjobs.com/en-US/nrz/job/TX-Coppell/Application-Developer-I_R10154-1",
+    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/Electrical-Software-Test-Equipment-Engineer-I--onsite-White-Sands--NM-_01854075",
+    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436",
+    "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Springfield-OH-45504/Front-End-Coordinator_REQ141044",
+    "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Reston-VA/Software-Engineer_R-00186022",
+    "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Orem-UT/System-Software-Integration-Engineer--US-Citizenship-Required-_REQ34613",
+    "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Nights_J-00341340",
+    "https://idexx.wd1.myworkdayjobs.com/en-US/idexx/job/Frisco-TX/Software-Support-Specialist---Veterinary-Software_J-054198",
+    "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Long-Beach-MS/Embedded-Systems-Electrical---Computer-Engineer_R-00188216",
+    "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Medical-Image-Reconstruction--C---CUDA-_586931",
+    "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Software-Engineer--All-Levels-_R32116-1",
+    "https://healthcare.wd1.myworkdayjobs.com/en-US/search/job/Remote---Georgia/Analytics-Application-Developer_R01132512",
+    "https://topcon.wd1.myworkdayjobs.com/en-US/topconpositioningcareers/job/Remote-TX-US/Software-Sales-Account-Manager_JR107198",
+    "https://apply.workable.com/clearlyagile/j/6B01739B1D",
+    "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Intermediate-Software-Engineer---Part-Time-_R0157454",
+    "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/System-Integration-and-Test-Engineer--CWW-Back-end-Nights_J-00346825",
+    "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Orange-Apron-Media--Remote-_Req184687",
+    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1",
+    "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React-_R264790",
+    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771",
+    "https://texascapitalbank.wd12.myworkdayjobs.com/en-US/careers/job/Richardson-TX/Business-Analytics-Product-Owner_JR105067",
+    "https://blackstone.wd1.myworkdayjobs.com/en-US/blackstone_careers/job/New-York/Platform-Engineer--Associate---Physical-Security_41692-1",
+    "https://westlake.wd1.myworkdayjobs.com/en-US/westlake/job/US---Henderson-CO/Front-End-Loader_R32230",
+    "https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Saint-Cloud-MN/Mortgage-Loan-Officer---St-Cloud--MN_R0072505",
+    "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Days_J-00338895-1",
+    "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Enterprise-Data-Warehouse--Remote-_Req178729",
+    "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Career_R0159650",
+    "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Associate_R0159654",
+    "https://onehealthineers.wd3.myworkdayjobs.com/en-US/shsjb/job/HES/DevOps-Engineer_R-26937-1"
   ],
-  "baselineEntryCount": 747
+  "baselineEntryCount": 797
 }
