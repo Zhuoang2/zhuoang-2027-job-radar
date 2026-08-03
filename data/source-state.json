@@ -15,7 +15,7 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-02T10:38:37-07:00",
+        "lastCheckedAt": "2026-08-03T08:00:30-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 797,
@@ -27,7 +27,7 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-02T10:38:37-07:00",
+        "lastCheckedAt": "2026-08-03T08:00:30-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 25,
@@ -66,13 +66,13 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-02T10:38:37-07:00",
+        "lastCheckedAt": "2026-08-03T08:00:30-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 0,
           "seenCandidateCanonicalUrls": []
         },
-        "note": "The existing repository remains headed as the 2026 New Grad cycle for 2025/2026 graduates. The organization has Summer2027-Internships, but no explicit 2027 full-time new-grad source."
+        "note": "The existing repository remains headed as the 2026 New Grad cycle for 2025/2026 graduates. The organization has Summer2027-Internships, but no explicit 2027 full-time new-grad source as of the latest incremental check."
       }
     },
     "sourceMentions": {
@@ -124,9 +124,9 @@
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-02T10:38:37-07:00",
-  "lastSuccessfulScanAt": "2026-08-02T10:38:37-07:00",
-  "lastSourceUpdatedAt": "2026-08-02T10:38:37-07:00",
+  "lastScanStartedAt": "2026-08-03T08:00:30-07:00",
+  "lastSuccessfulScanAt": "2026-08-03T08:00:30-07:00",
+  "lastSourceUpdatedAt": "2026-08-03T08:00:30-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
