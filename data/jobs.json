@@ -314,6 +314,109 @@
     "status": "open"
   },
   {
+    "id": "jane-street-machine-learning-researcher-new-grad",
+    "canonicalUrl": "https://www.janestreet.com/join-jane-street/position/8576928002/",
+    "company": "Jane Street",
+    "role": "Machine Learning Researcher, Full-Time: New Grad",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "Jane Street official careers (manual audit)",
+    "firstSeenAt": "2026-08-03T15:57:44-07:00",
+    "lastCheckedAt": "2026-08-03T15:57:44-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "directions": [
+      "AI/ML",
+      "ML Systems",
+      "Quant"
+    ],
+    "resumeTrack": "AI/ML Engineer / Quant / ML Systems-HPC",
+    "reasons": [
+      "官方明确标注 Full-Time: New Grad，申请表允许选择 2027 全职开始时间",
+      "岗位覆盖深度学习、LLM、强化学习、推荐系统与经典机器学习",
+      "现有强化学习、LLM 调试、CUDA 和分布式训练项目高度匹配"
+    ],
+    "caveats": [
+      "职位正文未限定为 2027 cohort，具体入职月份仍需在申请时确认",
+      "Sponsorship 政策未说明",
+      "职位对深入的实证机器学习能力要求很高",
+      "官方未公开发布日期；0 天表示本次手动发现日"
+    ],
+    "applyUrl": "https://www.janestreet.com/join-jane-street/position/8576928002/",
+    "status": "open"
+  },
+  {
+    "id": "jane-street-quantitative-researcher-new-grad",
+    "canonicalUrl": "https://www.janestreet.com/join-jane-street/position/8573726002/",
+    "company": "Jane Street",
+    "role": "Quantitative Researcher, Full-Time: New Grad",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "Jane Street official careers (manual audit)",
+    "firstSeenAt": "2026-08-03T15:57:44-07:00",
+    "lastCheckedAt": "2026-08-03T15:57:44-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant / Finance / Market Systems",
+    "reasons": [
+      "官方明确标注 Full-Time: New Grad，申请表允许选择 2027 全职开始时间",
+      "岗位核心是实验设计、数据建模、时间序列、特征工程与金融机器学习",
+      "现有数学统计、Python、强化学习和预测市场项目直接相关"
+    ],
+    "caveats": [
+      "职位正文未限定为 2027 cohort，具体入职月份仍需在申请时确认",
+      "Sponsorship 政策未说明",
+      "职位竞争极强，申请材料必须严格区分已证实的个人贡献",
+      "官方未公开发布日期；0 天表示本次手动发现日"
+    ],
+    "applyUrl": "https://www.janestreet.com/join-jane-street/position/8573726002/",
+    "status": "open"
+  },
+  {
+    "id": "jane-street-linux-engineer-new-grad",
+    "canonicalUrl": "https://www.janestreet.com/join-jane-street/position/8635672002/",
+    "company": "Jane Street",
+    "role": "Linux Engineer, Full-Time: New Grad",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "Jane Street official careers (manual audit)",
+    "firstSeenAt": "2026-08-03T15:57:44-07:00",
+    "lastCheckedAt": "2026-08-03T15:57:44-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 84,
+    "directions": [
+      "SWE/Data Infra",
+      "ML Systems"
+    ],
+    "resumeTrack": "Backend / Data Infra / ML Systems-HPC",
+    "reasons": [
+      "官方明确标注 Full-Time: New Grad，申请表允许选择 2027 全职开始时间，并说明不要求已有深度运维经验",
+      "岗位涉及 Linux、计算与存储基础设施、自动化和生产问题排查",
+      "现有 C++、CUDA、Linux、性能测试与云基础设施经历可形成匹配"
+    ],
+    "caveats": [
+      "职位正文未限定为 2027 cohort，具体入职月份仍需在申请时确认",
+      "Sponsorship 政策未说明",
+      "现有材料对 Nix、RPM、网络和生产 Linux 管理的直接证据较少",
+      "官方未公开发布日期；0 天表示本次手动发现日"
+    ],
+    "applyUrl": "https://www.janestreet.com/join-jane-street/position/8635672002/",
+    "status": "open"
+  },
+  {
     "id": "pylon-swe-new-grad",
     "canonicalUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
     "company": "Pylon",

@@ -11,6 +11,22 @@
       "simplifyjobs"
     ],
     "sources": {
+      "jane-street-official-manual": {
+        "role": "manual-official-audit",
+        "publicCareersUrl": "https://www.janestreet.com/join-jane-street/open-roles/",
+        "cycleStatus": "new-grad-roles-with-2027-start-option",
+        "lastCheckedAt": "2026-08-03T15:57:44-07:00",
+        "baseline": {
+          "mode": "official-position-ids-added-manually",
+          "entryCount": 3,
+          "seenCandidateCanonicalUrls": [
+            "https://www.janestreet.com/join-jane-street/position/8576928002/",
+            "https://www.janestreet.com/join-jane-street/position/8573726002/",
+            "https://www.janestreet.com/join-jane-street/position/8635672002/"
+          ]
+        },
+        "note": "One-time official careers audit; this source is not part of the daily scan order. Official application forms identify these as Full-Time: New Grad and offer 2027 as a full-time start year; role text does not label a dedicated 2027 cohort."
+      },
       "speedyapply": {
         "role": "primary",
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
@@ -89,6 +105,15 @@
       }
     },
     "sourceMentions": {
+      "https://www.janestreet.com/join-jane-street/position/8576928002/": [
+        "jane-street-official-manual"
+      ],
+      "https://www.janestreet.com/join-jane-street/position/8573726002/": [
+        "jane-street-official-manual"
+      ],
+      "https://www.janestreet.com/join-jane-street/position/8635672002/": [
+        "jane-street-official-manual"
+      ],
       "https://job-boards.greenhouse.io/simplisafe/jobs/8049515": [
         "vanshb03"
       ],
