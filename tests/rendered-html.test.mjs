@@ -53,10 +53,16 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(state.seenCanonicalUrls.length, state.baselineEntryCount);
   assert.ok(state.baselineEntryCount >= jobs.length);
   assert.deepEqual(state.sourceMonitoring.scanOrder, [
+    "swelist-email",
     "speedyapply",
     "vanshb03",
     "simplifyjobs",
   ]);
+  assert.equal(state.sourceMonitoring.sources["swelist-email"].role, "email-lead");
+  assert.equal(
+    state.sourceMonitoring.sources["swelist-email"].baseline.mode,
+    "normalized-public-candidate-urls",
+  );
   assert.equal(state.sourceMonitoring.sources.speedyapply.role, "primary");
   assert.equal(state.sourceMonitoring.sources.vanshb03.role, "supplemental");
   assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
@@ -83,6 +89,29 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.doesNotMatch(
     `${jobsText}\n${stateText}\n${applicationsText}`,
-    /@stanford\.edu|comstock|date of birth|birthday|phone number/i,
+    /@stanford\.edu|@gmail\.com|@swelist\.com|comstock|date of birth|birthday|phone number/i,
   );
+
+  const forbiddenMailKeys = new Set([
+    "body",
+    "email",
+    "labels",
+    "messageid",
+    "recipient",
+    "sender",
+    "subject",
+    "threadid",
+  ]);
+  const visit = (value) => {
+    if (Array.isArray(value)) {
+      value.forEach(visit);
+      return;
+    }
+    if (!value || typeof value !== "object") return;
+    for (const [key, nested] of Object.entries(value)) {
+      assert.ok(!forbiddenMailKeys.has(key.toLowerCase()), `forbidden mail key: ${key}`);
+      visit(nested);
+    }
+  };
+  visit(state);
 });

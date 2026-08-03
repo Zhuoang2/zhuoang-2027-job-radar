@@ -5,6 +5,7 @@
   "sourceMonitoring": {
     "configuredAt": "2026-07-26T12:51:46-07:00",
     "scanOrder": [
+      "swelist-email",
       "speedyapply",
       "vanshb03",
       "simplifyjobs"
@@ -73,6 +74,18 @@
           "seenCandidateCanonicalUrls": []
         },
         "note": "The existing repository remains headed as the 2026 New Grad cycle for 2025/2026 graduates. The organization has Summer2027-Internships, but no explicit 2027 full-time new-grad source as of the latest incremental check."
+      },
+      "swelist-email": {
+        "role": "email-lead",
+        "publicSiteUrl": "https://swelist.com",
+        "cycleStatus": "daily-previous-calendar-day-monitoring",
+        "lastCheckedAt": null,
+        "baseline": {
+          "mode": "normalized-public-candidate-urls",
+          "entryCount": 0,
+          "seenCandidateCanonicalUrls": []
+        },
+        "note": "Read-only Gmail discovery source. Mailbox identity, sender metadata, subjects, message IDs, bodies, and labels are never persisted."
       }
     },
     "sourceMentions": {
