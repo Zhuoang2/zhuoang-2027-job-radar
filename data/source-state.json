@@ -17,15 +17,19 @@
         "cycleStatus": "new-grad-roles-with-2027-start-option",
         "lastCheckedAt": "2026-08-03T15:57:44-07:00",
         "baseline": {
-          "mode": "official-position-ids-added-manually",
+          "mode": "official-position-ids-audited-manually",
           "entryCount": 3,
           "seenCandidateCanonicalUrls": [
             "https://www.janestreet.com/join-jane-street/position/8576928002/",
             "https://www.janestreet.com/join-jane-street/position/8573726002/",
             "https://www.janestreet.com/join-jane-street/position/8635672002/"
+          ],
+          "addedEntryCount": 2,
+          "excludedCandidateCanonicalUrls": [
+            "https://www.janestreet.com/join-jane-street/position/8635672002/"
           ]
         },
-        "note": "One-time official careers audit; this source is not part of the daily scan order. Official application forms identify these as Full-Time: New Grad and offer 2027 as a full-time start year; role text does not label a dedicated 2027 cohort."
+        "note": "One-time official careers audit; this source is not part of the daily scan order. Two matching roles were added. The Linux Engineer role was audited but excluded because low-level Linux and operating-systems work is outside the user's target scope."
       },
       "speedyapply": {
         "role": "primary",
@@ -109,9 +113,6 @@
         "jane-street-official-manual"
       ],
       "https://www.janestreet.com/join-jane-street/position/8573726002/": [
-        "jane-street-official-manual"
-      ],
-      "https://www.janestreet.com/join-jane-street/position/8635672002/": [
         "jane-street-official-manual"
       ],
       "https://job-boards.greenhouse.io/simplisafe/jobs/8049515": [
