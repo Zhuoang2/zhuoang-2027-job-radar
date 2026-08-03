@@ -974,37 +974,6 @@
     "status": "open"
   },
   {
-    "id": "crusoe-software-engineer-i-storage",
-    "canonicalUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
-    "company": "Crusoe",
-    "role": "Software Engineer I - Storage",
-    "location": "San Francisco, CA",
-    "ageDays": 5,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-29T08:03:05-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 92,
-    "directions": [
-      "ML Systems",
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "ML Systems-HPC / Backend-Data Infra",
-    "reasons": [
-      "官网定位为 early-career，接受实习、课程项目或约一年经验",
-      "云存储、分布式系统、Linux 与性能/基础设施经历方向匹配"
-    ],
-    "caveats": [
-      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
-      "Sponsorship 政策未说明"
-    ],
-    "applyUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
-    "status": "open"
-  },
-  {
     "id": "tebra-software-engineer-1",
     "canonicalUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005",
     "company": "Tebra",
@@ -1032,37 +1001,6 @@
       "申请流程询问 sponsorship，但官方职位说明未给出政策"
     ],
     "applyUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005",
-    "status": "open"
-  },
-  {
-    "id": "vultr-associate-platform-engineer-cloud-native",
-    "canonicalUrl": "https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b",
-    "company": "Vultr",
-    "role": "Associate Platform Engineer - Cloud Native",
-    "location": "Remote - USA",
-    "ageDays": 11,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-29T08:03:05-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 91,
-    "directions": [
-      "ML Systems",
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "ML Systems-HPC / Backend-Data Infra",
-    "reasons": [
-      "官网接受相关学位或实践经验，并要求 Go、Python 或 Bash 中至少一项",
-      "Kubernetes、容器和云平台基础设施工作与 ML Systems/Infra 方向匹配"
-    ],
-    "caveats": [
-      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
-      "Sponsorship 政策未说明；岗位包含 on-call"
-    ],
-    "applyUrl": "https://jobs.ashbyhq.com/vultr/be419ddf-2f80-4e5a-9b58-25c3bab8390b",
     "status": "open"
   },
   {
@@ -1253,37 +1191,6 @@
       "要求现代 C++20+；未来长期 sponsorship 政策未说明"
     ],
     "applyUrl": "https://akunacapital.com/careers/job/8013085/",
-    "status": "open"
-  },
-  {
-    "id": "amazon-efa-network-software-engineer-i-10481932",
-    "canonicalUrl": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
-    "company": "Amazon",
-    "role": "EFA Network Software Engineer I - Annapurna Labs",
-    "location": "Seattle, WA",
-    "ageDays": 11,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-31T10:44:45-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 96,
-    "directions": [
-      "ML Systems",
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "ML Systems-HPC / Backend-Data Infra",
-    "reasons": [
-      "EFA、Libfabric/Open MPI、Linux 和 ML/HPC 集群工作高度匹配 ML Systems",
-      "官网接受通过课程、项目或实习获得的 C、系统与协作开发经验"
-    ],
-    "caveats": [
-      "官方未写明 2027 cohort 或能否等待至 July 2027 入职",
-      "Sponsorship 政策未说明；岗位更侧重 C 和网络系统"
-    ],
-    "applyUrl": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
     "status": "open"
   },
   {
@@ -1571,37 +1478,6 @@
         "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
       }
     ],
-    "status": "open"
-  },
-  {
-    "id": "charles-schwab-junior-site-reliability-engineer",
-    "canonicalUrl": "https://career-schwab.icims.com/jobs/124405/junior-site-reliability-engineer/job",
-    "company": "Charles Schwab",
-    "role": "Junior Site Reliability Engineer",
-    "location": "Austin, TX",
-    "ageDays": 4,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-08-01T08:01:26-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 88,
-    "directions": [
-      "SWE/Data Infra",
-      "ML Systems"
-    ],
-    "resumeTrack": "Backend-Data Infra / ML Systems-HPC",
-    "reasons": [
-      "生产运维、监控、自动化、Linux、网络和可观测性工作匹配 Infra/SRE 方向",
-      "官网为全职 Junior SRE，并要求相关本科与 1–2 年平台经验"
-    ],
-    "caveats": [
-      "官方未写明 2027 cohort、入职日期或 sponsorship 政策",
-      "企业平台与 incident response 经验需逐项核对；官方有效期至 August 4"
-    ],
-    "applyUrl": "https://career-schwab.icims.com/jobs/124405/junior-site-reliability-engineer/job",
     "status": "open"
   },
   {
