@@ -58,7 +58,7 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-03T08:00:30-07:00",
+        "lastCheckedAt": "2026-08-04T08:05:04-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 797,
@@ -70,7 +70,7 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-03T08:00:30-07:00",
+        "lastCheckedAt": "2026-08-04T08:05:04-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 25,
@@ -109,7 +109,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-03T08:00:30-07:00",
+        "lastCheckedAt": "2026-08-04T08:05:04-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 0,
@@ -121,7 +121,7 @@
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": null,
+        "lastCheckedAt": "2026-08-04T08:05:04-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
           "entryCount": 0,
@@ -185,9 +185,9 @@
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-03T08:00:30-07:00",
-  "lastSuccessfulScanAt": "2026-08-03T08:00:30-07:00",
-  "lastSourceUpdatedAt": "2026-08-03T08:00:30-07:00",
+  "lastScanStartedAt": "2026-08-04T08:05:04-07:00",
+  "lastSuccessfulScanAt": "2026-08-04T08:05:04-07:00",
+  "lastSourceUpdatedAt": "2026-08-04T07:28:55-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
