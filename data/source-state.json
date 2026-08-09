@@ -78,6 +78,30 @@
       {
         "canonicalUrl": "https://jobs.lever.co/bluesight/e51efb52-0290-4cb7-80fe-4c786e0e3e7b/apply",
         "reason": "Firmware and hardware-facing embedded development are central to the role."
+      },
+      {
+        "canonicalUrl": "https://starbucks.eightfold.ai/careers/job/481078166214",
+        "reason": "Systems/network administration, production operations, monitoring and incident response are central to the role."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/",
+        "reason": "Embedded real-time tactical-radio software and hardware/software interfaces are central to the role."
+      },
+      {
+        "canonicalUrl": "https://joinbytedance.com/search/7671145911004842245",
+        "reason": "Datacenter network automation, network lifecycle management and switch/control protocols are central to the role."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
+        "reason": "Embedded firmware, peripheral drivers, RTOS/bare-metal systems and hardware bring-up are central to the role."
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/flexcompute/j/143ECD1848/",
+        "reason": "Production infrastructure operations, Linux, incident response and GPU-capacity management are central to the role."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
+        "reason": "Factory-control, embedded/real-time software and hardware integration are central, and the role is limited to December 2026 new graduates."
       }
     ],
     "sources": {
@@ -106,24 +130,24 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-08T14:15:23-07:00",
+        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 1095,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 2,
+          "addedIdentityCount": 0,
           "changedUrlCount": 0,
-          "changedContentCount": 1,
-          "removedSourceEntryCount": 6
+          "changedContentCount": 0,
+          "removedSourceEntryCount": 0
         },
-        "note": "Incremental comparison 989a376339c18cef3108500c8adfaf19243340cb..8de8874b0be1b2ef5dad88cd835fb1c9b64ef619; age-only changes were ignored. Two previously unseen official URL identities were added, one previously seen URL reappeared, and six source rows were removed. All three candidate rows were excluded after official-page review for citizenship, active-clearance, or no-sponsorship requirements."
+        "note": "Incremental comparison 8de8874b0be1b2ef5dad88cd835fb1c9b64ef619..355df29e6480e34d080917070bb0c2fe2b9fd6aa; official URL identities and age-insensitive row content were unchanged, so no official pages were reopened."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-08T14:15:23-07:00",
+        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 26,
@@ -166,23 +190,24 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-08T14:15:23-07:00",
+        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 0,
           "seenCandidateCanonicalUrls": [],
-          "addedEntryCount": 0
+          "addedEntryCount": 0,
+          "observedUnconfirmedEntryCount": 3
         },
-        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle. Two current 0d rows were non-US, and no explicit 2027 full-time new-grad repository or cycle switch was found. Summer2027-Internships remains internship-only."
+        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle. Three new U.S. PhD-new-grad SentiLink rows were observed, but none has official 2027 timing, so they were not admitted under the Simplify 2026-cycle restriction. No explicit 2027 full-time repository or cycle switch was found; Summer2027-Internships remains internship-only."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": "2026-08-08T14:15:23-07:00",
+        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
-          "entryCount": 218,
+          "entryCount": 281,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/5337603b-0f1a-4a67-afa8-9fbf72830c5a",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
@@ -401,12 +426,75 @@
             "https://simplify.jobs/p/223fbdf3-1b1a-4d1e-b9c7-de2234eec1d6",
             "https://simplify.jobs/p/8e628ef5-914a-48c1-b704-c391c1ddd73f",
             "https://simplify.jobs/p/963773db-5832-45f9-a6d4-23d5cfe8c0fb",
-            "https://simplify.jobs/p/dbb7bfc6-dec7-4bee-a3d7-35a59742fb45"
+            "https://simplify.jobs/p/dbb7bfc6-dec7-4bee-a3d7-35a59742fb45",
+            "https://simplify.jobs/p/e0a94eec-3148-4c4a-a240-6dbffb7885f3",
+            "https://simplify.jobs/p/83116fa6-882c-4fa7-8844-5fdf4d862637",
+            "https://simplify.jobs/p/5758b587-5d39-4b73-8bb5-2d965c5e2d83",
+            "https://simplify.jobs/p/41280a36-4216-449a-9315-6144bfec8a2b",
+            "https://simplify.jobs/p/3306d8fb-6c29-4d88-94cb-972dc1945579",
+            "https://simplify.jobs/p/fc0ba9c7-8038-43b5-ae74-d319237d1147",
+            "https://simplify.jobs/p/1d3e2472-9db6-4a89-bd75-41e4897d497d",
+            "https://simplify.jobs/p/02f2beb7-58e8-4aea-9598-45728f820599",
+            "https://simplify.jobs/p/6afc654a-5326-48ff-a97e-39f9353340da",
+            "https://simplify.jobs/p/3bfbb235-198a-418b-9666-20a752afb4c3",
+            "https://simplify.jobs/p/d6debf76-4ef7-44a8-9332-487d370d73c9",
+            "https://simplify.jobs/p/b086381d-4ccc-4726-abc2-f3012a2ce678",
+            "https://simplify.jobs/p/6d9c521b-4981-4ab1-83b7-6b548f71bd40",
+            "https://simplify.jobs/p/72d71f3c-7e47-4d52-aaf3-407c1f8bea58",
+            "https://simplify.jobs/p/4de68cbe-0993-4762-a0d2-c73cf82179a7",
+            "https://simplify.jobs/p/c3e573a8-0146-4cc2-b742-83734b0e097e",
+            "https://simplify.jobs/p/0b97fdf6-a3a1-4d8e-9058-100f1745c966",
+            "https://simplify.jobs/p/40aa0190-c45b-4a2d-a809-42427db7b79a",
+            "https://simplify.jobs/p/81283453-036b-4d9b-bd42-859e788f6308",
+            "https://simplify.jobs/p/51f21a70-c93d-450b-8650-0e6409df2aee",
+            "https://simplify.jobs/p/ee1a3b7b-ed9d-4664-8291-c30e79a97e63",
+            "https://simplify.jobs/p/78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
+            "https://simplify.jobs/p/75af4966-3c71-447e-9622-da5d0c139e79",
+            "https://simplify.jobs/p/09ac72aa-0f43-481a-96de-e6ced6efa7f5",
+            "https://simplify.jobs/p/63403c85-fbe7-476d-be6a-aa1a080ff05c",
+            "https://simplify.jobs/p/171df98e-6146-40e8-a69b-36b0da737aef",
+            "https://simplify.jobs/p/4f68b635-7be5-445f-aaac-a9387cb64385",
+            "https://simplify.jobs/p/aec682d0-cef7-4fab-b024-14111b89bd50",
+            "https://simplify.jobs/p/ddacec5d-fc6c-4021-afc2-ec6d2ebf5046",
+            "https://simplify.jobs/p/5b6fcb51-769c-47bd-b2d0-4569cca29535",
+            "https://simplify.jobs/p/8caf8a32-6383-404c-8f0e-49c55ec304a7",
+            "https://simplify.jobs/p/601c9bc9-49e0-4394-be4f-8a40c9b2ffba",
+            "https://simplify.jobs/p/553c6727-2707-4c4c-8dc1-507b8740d4fb",
+            "https://simplify.jobs/p/290bfc2a-b8a3-46eb-b815-fa0296cb7b4d",
+            "https://simplify.jobs/p/44d659f8-4edf-405b-b579-79593f6180a1",
+            "https://simplify.jobs/p/821b07ac-500a-4806-b0c7-aaefb49a05c7",
+            "https://simplify.jobs/p/58d9d263-e25e-491b-9e3e-42e08454509c",
+            "https://simplify.jobs/p/8409f053-0a2e-4db0-a442-df2b158519eb",
+            "https://simplify.jobs/p/a816fc22-5a40-4e12-bbe3-256e268684c6",
+            "https://simplify.jobs/p/34e8252a-5780-4198-ae6b-5c5a32bab687",
+            "https://simplify.jobs/p/d4d7c8e0-a6c3-4abd-933c-fb0fd6204aa9",
+            "https://simplify.jobs/p/39d9b269-0240-45be-82e9-74737c54d8fb",
+            "https://simplify.jobs/p/5528242c-b9a0-420f-abfa-d1e637954990",
+            "https://simplify.jobs/p/bee2567d-0e15-453a-b27d-35f0cb478489",
+            "https://simplify.jobs/p/4e253679-7e15-4e91-b4f3-c685ab851e82",
+            "https://simplify.jobs/p/d744664b-48c0-4d62-bc42-1881b5fcaec3",
+            "https://simplify.jobs/p/983f8874-b9ed-43ca-9910-718e20bcac70",
+            "https://simplify.jobs/p/1298b443-28f2-4d31-9110-7a09d55bb4a9",
+            "https://simplify.jobs/p/2694ea49-cd71-451a-b6f9-8ea865e64699",
+            "https://simplify.jobs/p/4915b29d-de2c-4adf-8f91-a6dd8ecb25ac",
+            "https://simplify.jobs/p/952bbac0-18af-4767-b6a2-6d9e3639a5af",
+            "https://simplify.jobs/p/92122bed-5dd8-4873-9655-05dfab34db5c",
+            "https://simplify.jobs/p/93a991e2-fb09-4f11-98cb-81279037b68e",
+            "https://simplify.jobs/p/9b0f8950-0501-4d6a-b6c6-0079f375db8f",
+            "https://simplify.jobs/p/c9372099-ac31-46fe-82ad-547ac87f1e6f",
+            "https://simplify.jobs/p/f4b05847-d015-43a2-b07f-482144c9580f",
+            "https://simplify.jobs/p/4c7bdc4b-632f-444b-a685-4c7753e48cdb",
+            "https://simplify.jobs/p/bcbc1c63-69cc-468c-830b-8eb1aeed8fe4",
+            "https://simplify.jobs/p/7b15856e-8d6a-4c0c-8bb6-0d9b679d0d8c",
+            "https://simplify.jobs/p/9b21ed6d-9470-47a0-9541-a96ca2368ba6",
+            "https://simplify.jobs/p/0ab1b050-e71d-498f-b2a9-5ef4572f92ca",
+            "https://simplify.jobs/p/4e5efc2d-9a6e-47ca-a99c-2528b7d343ec",
+            "https://simplify.jobs/p/38224599-12f2-43b5-aa53-a54aa26060ef"
           ],
-          "extractedPublicLinkCount": 70,
-          "officialCandidateCount": 32
+          "extractedPublicLinkCount": 63,
+          "officialCandidateCount": 35
         },
-        "note": "Read-only previous-day check completed: one matching message yielded 70 public job links. Thirty-two in-scope or potentially in-scope leads were checked against official pages; only public job URLs and public job facts were used, and no mailbox metadata was persisted."
+        "note": "Read-only previous-day check completed: one matching message yielded 63 public job links. Thirty-five in-scope or potentially in-scope leads were checked against official pages; 11 roles were added, no cross-source duplicates were found, and no mailbox metadata was persisted."
       }
     },
     "sourceMentions": {
@@ -764,6 +852,66 @@
       "https://www.ixl.com/company/careers?gh_jid=8663379002": [
         "swelist-email",
         "simplifyjobs"
+      ],
+      "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee": [
+        "swelist-email"
+      ],
+      "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f": [
+        "swelist-email"
+      ],
+      "https://apply.workable.com/wallstreetquants/j/615D982644/": [
+        "swelist-email"
+      ],
+      "https://apply.workable.com/wallstreetquants/j/AA3FB20456/": [
+        "swelist-email"
+      ],
+      "https://apply.workable.com/wallstreetquants/j/C611D9282B/": [
+        "swelist-email"
+      ],
+      "https://apply.workable.com/kanbrick/j/CA9D01A008/": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/allcareers/jobs/8692383002": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/ibotta/783515d0-f5d4-44d3-a3b3-58c99942403f": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/trovy/952381a5-607c-4470-8a97-1c7a8c48c2f0": [
+        "swelist-email"
+      ],
+      "https://jobs.lever.co/optionmetrics/cd628723-e18f-4f4c-985f-4740d23c22ab": [
+        "swelist-email"
+      ],
+      "https://starbucks.eightfold.ai/careers/job/481078166214": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7671145911004842245": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/ionq/jobs/6096581004": [
+        "swelist-email"
+      ],
+      "https://apply.workable.com/flexcompute/j/143ECD1848/": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f": [
+        "simplifyjobs"
+      ],
+      "https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2": [
+        "simplifyjobs"
+      ],
+      "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a": [
+        "simplifyjobs"
       ]
     },
     "suspectedDuplicates": [
@@ -792,9 +940,9 @@
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-08T08:00:52-07:00",
-  "lastSuccessfulScanAt": "2026-08-08T14:15:23-07:00",
-  "lastSourceUpdatedAt": "2026-08-08T05:59:42-07:00",
+  "lastScanStartedAt": "2026-08-09T08:00:31-07:00",
+  "lastSuccessfulScanAt": "2026-08-09T08:11:34-07:00",
+  "lastSourceUpdatedAt": "2026-08-09T06:02:00-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
