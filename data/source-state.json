@@ -102,6 +102,10 @@
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
         "reason": "Factory-control, embedded/real-time software and hardware integration are central, and the role is limited to December 2026 new graduates."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100/",
+        "reason": "Embedded real-time tactical-radio software and hardware/software interfaces are central to the role."
       }
     ],
     "sources": {
@@ -130,24 +134,24 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
+        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 1095,
+          "entryCount": 1122,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 0,
-          "changedUrlCount": 0,
-          "changedContentCount": 0,
-          "removedSourceEntryCount": 0
+          "addedIdentityCount": 27,
+          "changedUrlCount": 4,
+          "changedContentCount": 3,
+          "removedSourceEntryCount": 35
         },
-        "note": "Incremental comparison 8de8874b0be1b2ef5dad88cd835fb1c9b64ef619..355df29e6480e34d080917070bb0c2fe2b9fd6aa; official URL identities and age-insensitive row content were unchanged, so no official pages were reopened."
+        "note": "Incremental comparison 355df29e6480e34d080917070bb0c2fe2b9fd6aa..2d53f3d6127c5f518425114eaf98765e53d627ff: source rows 593 to 589, with 31 added URL rows, 35 removed rows, 27 never-seen URLs, four historical reappearances, and three age-insensitive content changes. Official pages were opened for in-scope candidates; source-only removals were not treated as confirmed closures."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
+        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 26,
@@ -190,24 +194,28 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
+        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
-          "entryCount": 0,
-          "seenCandidateCanonicalUrls": [],
-          "addedEntryCount": 0,
-          "observedUnconfirmedEntryCount": 3
+          "entryCount": 1,
+          "seenCandidateCanonicalUrls": [
+            "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164"
+          ],
+          "addedEntryCount": 1,
+          "observedUnconfirmedEntryCount": 0,
+          "observedNewEntryCount": 5,
+          "removedSourceEntryCount": 4
         },
-        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle. Three new U.S. PhD-new-grad SentiLink rows were observed, but none has official 2027 timing, so they were not admitted under the Simplify 2026-cycle restriction. No explicit 2027 full-time repository or cycle switch was found; Summer2027-Internships remains internship-only."
+        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle. Five rows were added and four removed since the prior baseline. One Cummins role has official September 2027 timing and was admitted with sponsorship unknown plus export-control review; four new rows failed location, timing, citizenship, clearance, or target-direction rules. No explicit 2027 full-time repository or cycle switch was found."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": "2026-08-09T08:11:34-07:00",
+        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
-          "entryCount": 281,
+          "entryCount": 286,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/5337603b-0f1a-4a67-afa8-9fbf72830c5a",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
@@ -489,12 +497,17 @@
             "https://simplify.jobs/p/9b21ed6d-9470-47a0-9541-a96ca2368ba6",
             "https://simplify.jobs/p/0ab1b050-e71d-498f-b2a9-5ef4572f92ca",
             "https://simplify.jobs/p/4e5efc2d-9a6e-47ca-a99c-2528b7d343ec",
-            "https://simplify.jobs/p/38224599-12f2-43b5-aa53-a54aa26060ef"
+            "https://simplify.jobs/p/38224599-12f2-43b5-aa53-a54aa26060ef",
+            "https://simplify.jobs/p/5526d232-bcb1-4da8-8ea8-a1119c798659",
+            "https://simplify.jobs/p/e5423846-60f1-41d6-a26a-f21c73bf39c1",
+            "https://simplify.jobs/p/6dd7314e-401a-4dcc-9e85-8edf326cdbe1",
+            "https://simplify.jobs/p/54ed1437-cf0b-48cb-a3d9-def5e71badd3",
+            "https://simplify.jobs/p/8bebde66-32b0-43c4-93ea-9c10bd8e3aaf"
           ],
-          "extractedPublicLinkCount": 63,
-          "officialCandidateCount": 35
+          "extractedPublicLinkCount": 5,
+          "officialCandidateCount": 5
         },
-        "note": "Read-only previous-day check completed: one matching message yielded 63 public job links. Thirty-five in-scope or potentially in-scope leads were checked against official pages; 11 roles were added, no cross-source duplicates were found, and no mailbox metadata was persisted."
+        "note": "Read-only previous-day check completed. Five public job leads were resolved to official pages; four suitable SentiLink roles were added as timing-check and one embedded tactical-radio role was excluded. No mailbox metadata was persisted."
       }
     },
     "sourceMentions": {
@@ -833,7 +846,8 @@
         "swelist-email"
       ],
       "https://www.google.com/about/careers/applications/jobs/results/78703249065943750": [
-        "swelist-email"
+        "swelist-email",
+        "speedyapply"
       ],
       "https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006": [
         "swelist-email"
@@ -857,7 +871,8 @@
         "swelist-email"
       ],
       "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f": [
-        "swelist-email"
+        "swelist-email",
+        "speedyapply"
       ],
       "https://apply.workable.com/wallstreetquants/j/615D982644/": [
         "swelist-email"
@@ -896,22 +911,129 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/ionq/jobs/6096581004": [
-        "swelist-email"
+        "swelist-email",
+        "speedyapply"
       ],
       "https://apply.workable.com/flexcompute/j/143ECD1848/": [
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003": [
-        "swelist-email"
+        "swelist-email",
+        "speedyapply"
       ],
       "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a": [
+        "simplifyjobs",
+        "swelist-email"
+      ],
+      "https://www.amazon.jobs/jobs/10496265/apply": [
+        "speedyapply"
+      ],
+      "http://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior": [
+        "speedyapply"
+      ],
+      "https://jobs.lever.co/jobgether/26d56a5a-11e0-463e-865c-f43a6b9d5f91": [
+        "speedyapply"
+      ],
+      "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace": [
+        "speedyapply"
+      ],
+      "https://jobs.eu.lever.co/cirrus/109a84e8-333a-4cb2-b464-00d3b4ca756b": [
+        "speedyapply"
+      ],
+      "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1": [
+        "speedyapply"
+      ],
+      "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107": [
+        "speedyapply"
+      ],
+      "https://apply.workable.com/ace-it-careers-1/j/123BC500CB": [
+        "speedyapply"
+      ],
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1": [
+        "speedyapply"
+      ],
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489": [
+        "speedyapply"
+      ],
+      "https://career-schwab.icims.com/jobs/124915/jr.-database-developer/job": [
+        "speedyapply"
+      ],
+      "https://career-schwab.icims.com/jobs/124881/associate---software-development-%26-engineering/job": [
+        "speedyapply"
+      ],
+      "https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Integration-Developer--Azure_R-144479": [
+        "speedyapply"
+      ],
+      "https://careers-kimley-horn.icims.com/jobs/25739/software-analyst/job": [
+        "speedyapply"
+      ],
+      "https://careers-lmi.icims.com/jobs/14396/integrating-firmware-engineer-mesh/job": [
+        "speedyapply"
+      ],
+      "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-II_JR-45571-1": [
+        "speedyapply"
+      ],
+      "https://careers-steampunk.icims.com/jobs/8031/full-stack-developer/job": [
+        "speedyapply"
+      ],
+      "https://careers-steampunk.icims.com/jobs/8030/full-stack-developer/job": [
+        "speedyapply"
+      ],
+      "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1": [
+        "speedyapply"
+      ],
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer--Entry-level-_82578": [
+        "speedyapply"
+      ],
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185": [
+        "speedyapply"
+      ],
+      "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/Software-Configuration-Management-Analyst---Level-2-or-3_R10241281": [
+        "speedyapply"
+      ],
+      "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Hanover/Front-End-Angular-2--Full-Stack-Java-Developer_RQ220540": [
+        "speedyapply"
+      ],
+      "https://jobs.lever.co/protolabs/9da2126b-76e7-4d10-aee7-ec97cbff5bec": [
+        "speedyapply"
+      ],
+      "https://careers-peraton.icims.com/jobs/167372/cloud-administrator-%e2%80%93-ai-ml-ts-sci-w-poly/job": [
+        "speedyapply"
+      ],
+      "https://jobs.ashbyhq.com/govwell/5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd": [
+        "speedyapply"
+      ],
+      "https://careers-peraton.icims.com/jobs/166301/devops-software-engineer/job": [
+        "speedyapply"
+      ],
+      "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior": [
         "simplifyjobs"
+      ],
+      "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164": [
+        "simplifyjobs"
+      ],
+      "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081": [
+        "simplifyjobs"
+      ],
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154": [
+        "simplifyjobs"
+      ],
+      "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703013006": [
+        "simplifyjobs"
+      ],
+      "https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100": [
+        "swelist-email"
       ]
     },
     "suspectedDuplicates": [
@@ -937,12 +1059,30 @@
         "reason": "Same company and title with a new SmartRecruiters requisition; client and reopening status are unresolved.",
         "status": "needs-review"
       }
+    ],
+    "hardEligibilityExclusions": [
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005",
+        "reason": "Official page states that no work authorizations are being sponsored."
+      },
+      {
+        "canonicalUrl": "https://careers-kimley-horn.icims.com/jobs/25695/software-analyst/job",
+        "reason": "Official page requires work authorization without employer sponsorship."
+      },
+      {
+        "canonicalUrl": "https://careers-kimley-horn.icims.com/jobs/25698/software-analyst/job",
+        "reason": "Official page requires work authorization without employer sponsorship."
+      },
+      {
+        "canonicalUrl": "https://careers-kimley-horn.icims.com/jobs/25739/software-analyst/job",
+        "reason": "Official page requires work authorization without employer sponsorship."
+      }
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-09T08:00:31-07:00",
-  "lastSuccessfulScanAt": "2026-08-09T08:11:34-07:00",
-  "lastSourceUpdatedAt": "2026-08-09T06:02:00-07:00",
+  "lastScanStartedAt": "2026-08-10T08:09:47-07:00",
+  "lastSuccessfulScanAt": "2026-08-10T08:17:30-07:00",
+  "lastSourceUpdatedAt": "2026-08-10T06:20:58-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -2153,7 +2293,34 @@
     "https://lifeattiktok.com/search/7669957922422507781",
     "https://www.amazon.jobs/jobs/10494902/apply",
     "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Software-Engineer-Systems--Associate-Experienced-_JR2026511797-1",
-    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717-1"
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717-1",
+    "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+    "https://www.amazon.jobs/jobs/10496265/apply",
+    "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
+    "http://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior",
+    "https://jobs.lever.co/jobgether/26d56a5a-11e0-463e-865c-f43a6b9d5f91",
+    "https://jobs.eu.lever.co/cirrus/109a84e8-333a-4cb2-b464-00d3b4ca756b",
+    "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
+    "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1",
+    "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107",
+    "https://apply.workable.com/ace-it-careers-1/j/123BC500CB/",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489",
+    "https://career-schwab.icims.com/jobs/124915/jr.-database-developer/job",
+    "https://career-schwab.icims.com/jobs/124881/associate---software-development-%26-engineering/job",
+    "https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Integration-Developer--Azure_R-144479",
+    "https://careers-kimley-horn.icims.com/jobs/25739/software-analyst/job",
+    "https://careers-lmi.icims.com/jobs/14396/integrating-firmware-engineer-mesh/job",
+    "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-II_JR-45571-1",
+    "https://careers-steampunk.icims.com/jobs/8031/full-stack-developer/job",
+    "https://careers-steampunk.icims.com/jobs/8030/full-stack-developer/job",
+    "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1",
+    "https://troweprice.wd5.myworkdayjobs.com/en-US/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer--Entry-level-_82578",
+    "https://jobs.lever.co/protolabs/9da2126b-76e7-4d10-aee7-ec97cbff5bec",
+    "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
+    "https://careers-peraton.icims.com/jobs/167372/cloud-administrator-%e2%80%93-ai-ml-ts-sci-w-poly/job",
+    "https://jobs.ashbyhq.com/govwell/5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd",
+    "https://careers-peraton.icims.com/jobs/166301/devops-software-engineer/job"
   ],
-  "baselineEntryCount": 1210
+  "baselineEntryCount": 1237
 }
