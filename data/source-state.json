@@ -122,6 +122,30 @@
       {
         "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/C611D9282B/",
         "reason": "Pure trading role excluded while WallStreetQuants Quantitative Developer - Entry Level remains active."
+      },
+      {
+        "canonicalUrl": "https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-GA-USA/Electronics-and-Firmware-Engineer_JR102601",
+        "reason": "Electronics, firmware, and hardware-facing embedded development are central to the role."
+      },
+      {
+        "canonicalUrl": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
+        "reason": "Embedded C/C++ development is central, with Linux-kernel and low-level firmware knowledge directly relevant to the role."
+      },
+      {
+        "canonicalUrl": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465",
+        "reason": "Production IT support, uptime monitoring, operational troubleshooting, and support escalation are central to the role."
+      },
+      {
+        "canonicalUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Louisville---West-Market/Public-Cloud-Administrator--Entry-Level-_R_346358",
+        "reason": "Cloud administration, networking/storage operations, monitoring, incident response, and on-call support are central to the role."
+      },
+      {
+        "canonicalUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953615",
+        "reason": "Network security services, Unix/Linux, TCP/IP, DNS, and proxy-stack engineering are central to the role."
+      },
+      {
+        "canonicalUrl": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800",
+        "reason": "Storage firmware and hardware-facing embedded development are central to the role."
       }
     ],
     "sources": {
@@ -150,24 +174,25 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
+        "lastCheckedAt": "2026-08-11T08:30:41-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 1122,
+          "entryCount": 1158,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 27,
-          "changedUrlCount": 4,
-          "changedContentCount": 3,
-          "removedSourceEntryCount": 35
+          "addedIdentityCount": 36,
+          "changedUrlCount": 5,
+          "changedContentCount": 1,
+          "removedSourceEntryCount": 31,
+          "upstreamCommit": "03fe4e2a446b25b89c3bcfc623ac91eb75ac0610"
         },
-        "note": "Incremental comparison 355df29e6480e34d080917070bb0c2fe2b9fd6aa..2d53f3d6127c5f518425114eaf98765e53d627ff: source rows 593 to 589, with 31 added URL rows, 35 removed rows, 27 never-seen URLs, four historical reappearances, and three age-insensitive content changes. Official pages were opened for in-scope candidates; source-only removals were not treated as confirmed closures."
+        "note": "Incremental comparison 2d53f3d6127c5f518425114eaf98765e53d627ff..03fe4e2a446b25b89c3bcfc623ac91eb75ac0610: source rows 589 to 599, with 41 added URL rows, 31 removed rows, 36 never-seen URLs, five historical reappearances, and one age-insensitive content change. Official pages were opened for in-scope candidates; source-only removals were not treated as confirmed closures."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
+        "lastCheckedAt": "2026-08-11T08:30:41-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 26,
@@ -200,7 +225,8 @@
             "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db"
           ],
           "addedEntryCount": 0,
-          "changedEntryCount": 0
+          "changedEntryCount": 0,
+          "upstreamCommit": "ac3093c1b67d6af1910361a75396508e8b257fb7"
         },
         "note": "No commits affecting README.md since the prior successful baseline; no incremental candidates were opened."
       },
@@ -210,28 +236,30 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
+        "lastCheckedAt": "2026-08-11T08:30:41-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
-          "entryCount": 1,
+          "entryCount": 2,
           "seenCandidateCanonicalUrls": [
-            "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164"
+            "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164",
+            "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600"
           ],
           "addedEntryCount": 1,
           "observedUnconfirmedEntryCount": 0,
-          "observedNewEntryCount": 5,
-          "removedSourceEntryCount": 4
+          "observedNewEntryCount": 23,
+          "removedSourceEntryCount": 19,
+          "upstreamCommit": "0b027d54814e"
         },
-        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle. Five rows were added and four removed since the prior baseline. One Cummins role has official September 2027 timing and was admitted with sponsorship unknown plus export-control review; four new rows failed location, timing, citizenship, clearance, or target-direction rules. No explicit 2027 full-time repository or cycle switch was found."
+        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle. Twenty-three rows were added and nineteen removed since the prior baseline. One ExxonMobil program has official 2026/2027 graduate eligibility and a technical Trading Data, Analytics and AI path; the other new rows failed eligibility, timing, age, target-direction, or official-2027-source rules. No explicit 2027 full-time repository or cycle switch was found."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": "2026-08-10T08:17:30-07:00",
+        "lastCheckedAt": "2026-08-11T08:30:41-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
-          "entryCount": 286,
+          "entryCount": 338,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/5337603b-0f1a-4a67-afa8-9fbf72830c5a",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
@@ -518,12 +546,64 @@
             "https://simplify.jobs/p/e5423846-60f1-41d6-a26a-f21c73bf39c1",
             "https://simplify.jobs/p/6dd7314e-401a-4dcc-9e85-8edf326cdbe1",
             "https://simplify.jobs/p/54ed1437-cf0b-48cb-a3d9-def5e71badd3",
-            "https://simplify.jobs/p/8bebde66-32b0-43c4-93ea-9c10bd8e3aaf"
+            "https://simplify.jobs/p/8bebde66-32b0-43c4-93ea-9c10bd8e3aaf",
+            "https://simplify.jobs/p/f2c3c70c-c6e6-4528-a3d9-92c1c83b6993",
+            "https://simplify.jobs/p/30af4cb3-8434-47ef-9bb3-09ffc7232d71",
+            "https://simplify.jobs/p/23cd3623-0650-4b9c-86ca-0a9978610327",
+            "https://simplify.jobs/p/2248f171-9493-45ea-a49d-ad059b8be5c5",
+            "https://simplify.jobs/p/ae069648-6277-46da-b659-da37fa1ba9c3",
+            "https://simplify.jobs/p/1d51f370-90d2-47da-be5e-00b82325b0dc",
+            "https://simplify.jobs/p/ff3a075b-b45b-4c88-8471-f4a4f79e4257",
+            "https://simplify.jobs/p/b45813fe-2ef0-4d2a-8254-1b090c8f722f",
+            "https://simplify.jobs/p/5a459f2c-547d-4a43-a05e-1e87ef0fee39",
+            "https://simplify.jobs/p/e714ee6c-33d1-40a5-b4ec-c8eafe227eac",
+            "https://simplify.jobs/p/2edede57-7aef-4b3c-bf5a-75457e023318",
+            "https://simplify.jobs/p/397cafb0-369c-47fd-8c4e-e641e4ecd653",
+            "https://simplify.jobs/p/13dd6724-1cd9-4292-842c-fa60c2494ce4",
+            "https://simplify.jobs/p/5a152a2e-e24c-436f-956f-af3bbe77d37f",
+            "https://simplify.jobs/p/5f8b5dc8-9249-4335-8b58-02805752d3d3",
+            "https://simplify.jobs/p/b5fe4c52-21e7-4dc3-84c5-8ac04e30282b",
+            "https://simplify.jobs/p/9a619b68-d20f-4079-8141-a119b2b79dcb",
+            "https://simplify.jobs/p/a54b79b0-c2c0-419f-bcdd-15f9b8a33ec7",
+            "https://simplify.jobs/p/08cca5ea-66d4-4c06-bc78-8aa1c6a832e4",
+            "https://simplify.jobs/p/8def6cd4-02f6-4045-9290-2e08f2f10b24",
+            "https://simplify.jobs/p/b7d2b969-6593-4660-bd91-dc2baae3f910",
+            "https://simplify.jobs/p/794d9023-0e6c-4e52-aba9-a759253853f2",
+            "https://simplify.jobs/p/2d0fc8ab-a65f-4024-8688-eecdfe5f3bbb",
+            "https://simplify.jobs/p/607c0322-55ec-4777-815b-f66588579d34",
+            "https://simplify.jobs/p/435c2fcd-ac89-454c-8594-e00acf0c463c",
+            "https://simplify.jobs/p/28c2ca86-b1be-498b-b941-e52d0ef05727",
+            "https://simplify.jobs/p/28be03da-801e-4180-a761-ffb6ac098c30",
+            "https://simplify.jobs/p/1d6917cc-c2ac-4a2b-8ffc-9e08ecc68f64",
+            "https://simplify.jobs/p/fdf2a40c-2157-4a2f-98b2-c2360a5a3268",
+            "https://simplify.jobs/p/1119f190-988e-48d2-8fe4-84593739c464",
+            "https://simplify.jobs/p/50f47dfa-2767-4349-b388-347aa02f6f46",
+            "https://simplify.jobs/p/c97845b7-902d-4b6d-8530-ebea1aab2949",
+            "https://simplify.jobs/p/6dc9143c-6c06-4df4-b661-bc4df745d399",
+            "https://simplify.jobs/p/342f7097-0268-4450-804f-12dc945e691d",
+            "https://simplify.jobs/p/3efdc7b2-1860-4b97-9063-442a5ddeea64",
+            "https://simplify.jobs/p/6a24eac0-34c2-46a9-816e-f6a3e716a259",
+            "https://simplify.jobs/p/3fd7c27a-a027-4f40-9a9f-b819aee35931",
+            "https://simplify.jobs/p/8e8f7392-2530-41cd-b2fe-8ba9e55a6f68",
+            "https://simplify.jobs/p/6e1de79a-7eda-4b86-ae66-4edba96f4c12",
+            "https://simplify.jobs/p/1a85985f-01cb-4170-8fde-a4651581ff65",
+            "https://simplify.jobs/p/3fbf5ae8-8157-4653-8f90-0b8fbee733e2",
+            "https://simplify.jobs/p/6ae10384-f163-4945-850b-2047b484ea0f",
+            "https://simplify.jobs/p/3de8274a-c574-4b59-b828-cdade0c70e7e",
+            "https://simplify.jobs/p/7177ea0f-a13f-41bb-9fcc-a501ddd955b8",
+            "https://simplify.jobs/p/a5b1d7a6-f70b-415f-ad22-5d9d5d254bdd",
+            "https://simplify.jobs/p/f6b8d12a-cf43-489d-bc8a-0f256ee904e4",
+            "https://simplify.jobs/p/f525acd9-4c68-4e06-89cb-b3550a089638",
+            "https://simplify.jobs/p/fa3c88a2-0853-449c-b826-5d5f3be7d108",
+            "https://simplify.jobs/p/1d7f8877-9386-42ef-b847-cab4b072a46e",
+            "https://simplify.jobs/p/32ab9955-ba40-4d52-bf87-a16a3a7834be",
+            "https://simplify.jobs/p/3b63253d-e96a-4f15-9172-0f3dd8bf65df",
+            "https://simplify.jobs/p/ca0cd3ef-a95c-4dd7-9c4c-88869ed44814"
           ],
-          "extractedPublicLinkCount": 5,
-          "officialCandidateCount": 5
+          "extractedPublicLinkCount": 52,
+          "officialCandidateCount": 23
         },
-        "note": "Read-only previous-day check completed. Five public job leads were resolved to official pages; four suitable SentiLink roles were added as timing-check and one embedded tactical-radio role was excluded. No mailbox metadata was persisted."
+        "note": "Read-only previous-day check completed. Fifty-two public job leads were extracted; twenty-three target-direction leads were resolved to official pages. Three suitable ByteDance 2027 roles were added, one existing Cummins role was deduplicated, and the remaining reviewed leads were excluded or left for review because of public eligibility, timing, direction, or evidence gaps. No mailbox metadata was persisted."
       }
     },
     "sourceMentions": {
@@ -1034,13 +1114,16 @@
         "simplifyjobs"
       ],
       "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703013006": [
         "simplifyjobs"
@@ -1049,6 +1132,221 @@
         "swelist-email"
       ],
       "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100": [
+        "swelist-email"
+      ],
+      "https://henryscheinone.applytojob.com/apply/OYTDJSu9dE/Software-Trainer-I": [
+        "speedyapply"
+      ],
+      "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Cincinnati-4th-Street-Corp/Junior-DevOps-Engineer_R00332498": [
+        "speedyapply"
+      ],
+      "https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-GA-USA/Electronics-and-Firmware-Engineer_JR102601": [
+        "speedyapply"
+      ],
+      "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055": [
+        "speedyapply",
+        "simplifyjobs"
+      ],
+      "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051": [
+        "speedyapply",
+        "simplifyjobs"
+      ],
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050-1": [
+        "speedyapply"
+      ],
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050": [
+        "speedyapply"
+      ],
+      "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Junior-Software-Engineer_326714": [
+        "speedyapply"
+      ],
+      "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Altus-OK-USA/ATS-Software-Engineer_122982": [
+        "speedyapply"
+      ],
+      "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Altus-OK-USA/ATS-Software-Engineer_122983-1": [
+        "speedyapply"
+      ],
+      "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122969": [
+        "speedyapply"
+      ],
+      "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122970": [
+        "speedyapply"
+      ],
+      "https://careers-aacr.icims.com/jobs/1787/junior-salesforce-developer/job": [
+        "speedyapply"
+      ],
+      "https://careers-dewberry.icims.com/jobs/15975/power-platform-developer/job": [
+        "speedyapply"
+      ],
+      "https://careers-gdms.icims.com/jobs/72592/entry-level-software-engineer/job": [
+        "speedyapply"
+      ],
+      "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880": [
+        "speedyapply",
+        "simplifyjobs"
+      ],
+      "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859": [
+        "speedyapply",
+        "simplifyjobs",
+        "swelist-email"
+      ],
+      "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188": [
+        "speedyapply",
+        "simplifyjobs",
+        "swelist-email"
+      ],
+      "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42823-1": [
+        "speedyapply"
+      ],
+      "https://jda.wd5.myworkdayjobs.com/en-US/jda_careers/job/BYDS-Dallas/Software-Engineer-I--US-Citizenship-Required-_261334-1": [
+        "speedyapply"
+      ],
+      "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005": [
+        "speedyapply"
+      ],
+      "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702969006": [
+        "speedyapply"
+      ],
+      "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703760006": [
+        "speedyapply"
+      ],
+      "https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850": [
+        "speedyapply"
+      ],
+      "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Hillsboro-OR/Software-Engineer-3_2636494": [
+        "speedyapply"
+      ],
+      "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-280783": [
+        "speedyapply",
+        "simplifyjobs"
+      ],
+      "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465": [
+        "speedyapply"
+      ],
+      "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Louisville---West-Market/Public-Cloud-Administrator--Entry-Level-_R_346358": [
+        "speedyapply"
+      ],
+      "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930": [
+        "speedyapply"
+      ],
+      "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Associate-Software-Developer-C---Java_2026-16010-1": [
+        "speedyapply"
+      ],
+      "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Software-Engineer_2026-15645-1": [
+        "speedyapply"
+      ],
+      "https://truist.wd1.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Associate-Software-Engineer_R0117651": [
+        "speedyapply"
+      ],
+      "https://varsitybrands.wd503.myworkdayjobs.com/en-US/ExternalCareerSite/job/US---TN---Memphis---711-N-Front-St/Software-Engineer-I_JR113976-1": [
+        "speedyapply",
+        "simplifyjobs"
+      ],
+      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5bf927d-75b0-4e6e-8d59-de5517866227&jobId=609941": [
+        "speedyapply"
+      ],
+      "https://www.amazon.jobs/en/jobs/10485096/software-development-engineer-android": [
+        "speedyapply"
+      ],
+      "https://www.amazon.jobs/en/jobs/10497189/software-development-engineer-s3-buckets": [
+        "speedyapply"
+      ],
+      "https://job-boards.greenhouse.io/captivation/jobs/5384983008": [
+        "simplifyjobs"
+      ],
+      "https://apply.careers.microsoft.com/careers/job/1970393556953615": [
+        "simplifyjobs"
+      ],
+      "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755": [
+        "simplifyjobs"
+      ],
+      "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475": [
+        "simplifyjobs",
+        "swelist-email"
+      ],
+      "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413": [
+        "simplifyjobs"
+      ],
+      "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1": [
+        "simplifyjobs"
+      ],
+      "https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply": [
+        "simplifyjobs"
+      ],
+      "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false": [
+        "simplifyjobs"
+      ],
+      "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1": [
+        "simplifyjobs",
+        "swelist-email"
+      ],
+      "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995": [
+        "simplifyjobs"
+      ],
+      "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600": [
+        "simplifyjobs"
+      ],
+      "https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007": [
+        "simplifyjobs"
+      ],
+      "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800": [
+        "simplifyjobs"
+      ],
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--Radar-Analyst_01865798": [
+        "simplifyjobs"
+      ],
+      "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Onsite-_01864802": [
+        "simplifyjobs"
+      ],
+      "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009": [
+        "simplifyjobs"
+      ],
+      "https://careers.cisco.com/global/en/job/2022055": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7671103763276663045": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7671102043532462389": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7671095905295075637": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7671141679848933685": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7671107540954777861": [
+        "swelist-email"
+      ],
+      "https://careers-vhb.icims.com/jobs/6218/job": [
+        "swelist-email"
+      ],
+      "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434473": [
+        "swelist-email"
+      ],
+      "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434259": [
+        "swelist-email"
+      ],
+      "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineeriing-IN-46818/1417402600": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000": [
+        "swelist-email"
+      ],
+      "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465": [
+        "swelist-email"
+      ],
+      "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/RDA-Application-Engineer_JR107745": [
+        "swelist-email"
+      ],
+      "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data_R105087": [
+        "swelist-email"
+      ],
+      "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Associate-Software-Engineer_R0117651": [
         "swelist-email"
       ]
     },
@@ -1092,13 +1390,141 @@
       {
         "canonicalUrl": "https://careers-kimley-horn.icims.com/jobs/25739/software-analyst/job",
         "reason": "Official page requires work authorization without employer sponsorship."
+      },
+      {
+        "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050-1",
+        "reason": "Official page requires active Top Secret/SCI clearance and U.S. citizenship, and states that employer visa sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Altus-OK-USA/ATS-Software-Engineer_122982",
+        "reason": "Official page states that only U.S. citizens are eligible because of U.S. Government contract requirements."
+      },
+      {
+        "canonicalUrl": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Altus-OK-USA/ATS-Software-Engineer_122983-1",
+        "reason": "Official page states that only U.S. citizens are eligible because of U.S. Government contract requirements."
+      },
+      {
+        "canonicalUrl": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122969",
+        "reason": "Official page states that only U.S. citizens are eligible because of U.S. Government contract requirements."
+      },
+      {
+        "canonicalUrl": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122970",
+        "reason": "Official page states that only U.S. citizens are eligible because of U.S. Government contract requirements."
+      },
+      {
+        "canonicalUrl": "https://careers-dewberry.icims.com/jobs/15975/power-platform-developer/job",
+        "reason": "Official page requires U.S. citizenship and states that Dewberry will not sponsor a new applicant for work authorization."
+      },
+      {
+        "canonicalUrl": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859",
+        "reason": "Official page requires current work authorization without current or future sponsorship and explicitly excludes OPT, CPT, STEM OPT, and visa sponsorship."
+      },
+      {
+        "canonicalUrl": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
+        "reason": "Official page requires U.S. citizenship and eligibility for a DoD Secret clearance."
+      },
+      {
+        "canonicalUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
+        "reason": "Official page requires U.S. citizenship and an active TS/SCI clearance with polygraph."
+      },
+      {
+        "canonicalUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428",
+        "reason": "Official page requires U.S. citizenship and TS/SCI clearance with polygraph."
+      },
+      {
+        "canonicalUrl": "https://jda.wd5.myworkdayjobs.com/en-US/jda_careers/job/BYDS-Dallas/Software-Engineer-I--US-Citizenship-Required-_261334-1",
+        "reason": "Official page states that applicants must be U.S. citizens."
+      },
+      {
+        "canonicalUrl": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
+        "reason": "Official page requires eligibility for a Secret clearance and states that U.S. citizenship is a prerequisite."
+      },
+      {
+        "canonicalUrl": "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Software-Engineer_2026-15645-1",
+        "reason": "Official page states that Swift is unable to sponsor employment authorization now or in the future."
+      },
+      {
+        "canonicalUrl": "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Associate-Software-Developer-C---Java_2026-16010-1",
+        "reason": "Official page states that Swift is unable to sponsor employment authorization now or in the future."
+      },
+      {
+        "canonicalUrl": "https://varsitybrands.wd503.myworkdayjobs.com/en-US/ExternalCareerSite/job/US---TN---Memphis---711-N-Front-St/Software-Engineer-I_JR113976-1",
+        "reason": "Official page states that the role is not eligible for employer-sponsored work authorization."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/captivation/jobs/5384983008",
+        "reason": "Official page requires U.S. citizenship and a government security clearance."
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
+        "reason": "Official page requires U.S. citizenship and the ability to obtain a security clearance."
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--Radar-Analyst_01865798",
+        "reason": "Official page requires U.S. citizenship and the ability to obtain a security clearance."
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Onsite-_01864802",
+        "reason": "Official page requires U.S. citizenship and the ability to obtain a security clearance."
+      },
+      {
+        "canonicalUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
+        "reason": "Official page states that early-career applicants requiring current or future sponsorship cannot be considered."
+      },
+      {
+        "canonicalUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+        "reason": "Official page states that early-career applicants requiring current or future sponsorship cannot be considered."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007",
+        "reason": "Official page states that current and future employer sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
+        "reason": "Official title limits the role to 2026 starts, which is incompatible with a July 2027 or later start."
+      },
+      {
+        "canonicalUrl": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055",
+        "reason": "Official title limits the role to 2026 starts, which is incompatible with a July 2027 or later start."
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply",
+        "reason": "Official posting is limited to the 2026 cohort."
+      },
+      {
+        "canonicalUrl": "https://careers.cisco.com/global/en/job/2022055",
+        "reason": "Official page requires a final-year or recent PhD candidate."
+      },
+      {
+        "canonicalUrl": "https://joinbytedance.com/search/7671095905295075637",
+        "reason": "Official title and qualifications require a PhD."
+      },
+      {
+        "canonicalUrl": "https://joinbytedance.com/search/7671103763276663045",
+        "reason": "Official qualifications require a PhD."
+      },
+      {
+        "canonicalUrl": "https://careers-vhb.icims.com/jobs/6218/job",
+        "reason": "Official page requires U.S. work authorization without employer sponsorship now or in the future."
+      },
+      {
+        "canonicalUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081",
+        "reason": "Official page specifies a June 2027 start, earlier than the July 2027 availability."
+      },
+      {
+        "canonicalUrl": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data_R105087",
+        "reason": "Official page states that Regions will not sponsor applicants for work visas for this position."
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154",
+        "reason": "Official page requires U.S. citizenship and the ability to obtain and maintain a Secret security clearance."
       }
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-10T08:09:47-07:00",
-  "lastSuccessfulScanAt": "2026-08-10T08:17:30-07:00",
-  "lastSourceUpdatedAt": "2026-08-10T06:20:58-07:00",
+  "lastScanStartedAt": "2026-08-11T08:11:20-07:00",
+  "lastSuccessfulScanAt": "2026-08-11T08:30:41-07:00",
+  "lastSourceUpdatedAt": "2026-08-11T06:17:47-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -2336,7 +2762,43 @@
     "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
     "https://careers-peraton.icims.com/jobs/167372/cloud-administrator-%e2%80%93-ai-ml-ts-sci-w-poly/job",
     "https://jobs.ashbyhq.com/govwell/5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd",
-    "https://careers-peraton.icims.com/jobs/166301/devops-software-engineer/job"
+    "https://careers-peraton.icims.com/jobs/166301/devops-software-engineer/job",
+    "https://henryscheinone.applytojob.com/apply/OYTDJSu9dE/Software-Trainer-I",
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Cincinnati-4th-Street-Corp/Junior-DevOps-Engineer_R00332498",
+    "https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-GA-USA/Electronics-and-Firmware-Engineer_JR102601",
+    "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055",
+    "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050-1",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050",
+    "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Junior-Software-Engineer_326714",
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Altus-OK-USA/ATS-Software-Engineer_122982",
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Altus-OK-USA/ATS-Software-Engineer_122983-1",
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122969",
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122970",
+    "https://careers-aacr.icims.com/jobs/1787/junior-salesforce-developer/job",
+    "https://careers-dewberry.icims.com/jobs/15975/power-platform-developer/job",
+    "https://careers-gdms.icims.com/jobs/72592/entry-level-software-engineer/job",
+    "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
+    "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859",
+    "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
+    "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42823-1",
+    "https://jda.wd5.myworkdayjobs.com/en-US/jda_careers/job/BYDS-Dallas/Software-Engineer-I--US-Citizenship-Required-_261334-1",
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
+    "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702969006",
+    "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703760006",
+    "https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850",
+    "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Hillsboro-OR/Software-Engineer-3_2636494",
+    "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-280783",
+    "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465",
+    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Louisville---West-Market/Public-Cloud-Administrator--Entry-Level-_R_346358",
+    "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+    "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Associate-Software-Developer-C---Java_2026-16010-1",
+    "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Software-Engineer_2026-15645-1",
+    "https://truist.wd1.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Associate-Software-Engineer_R0117651",
+    "https://varsitybrands.wd503.myworkdayjobs.com/en-US/ExternalCareerSite/job/US---TN---Memphis---711-N-Front-St/Software-Engineer-I_JR113976-1",
+    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5bf927d-75b0-4e6e-8d59-de5517866227&jobId=609941",
+    "https://www.amazon.jobs/en/jobs/10485096/software-development-engineer-android",
+    "https://www.amazon.jobs/en/jobs/10497189/software-development-engineer-s3-buckets"
   ],
-  "baselineEntryCount": 1237
+  "baselineEntryCount": 1273
 }
