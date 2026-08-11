@@ -2551,44 +2551,6 @@
     "lastCheckedAt": "2026-08-05T08:42:00-07:00"
   },
   {
-    "id": "ctc-quant-trading-associate-2027",
-    "canonicalUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
-    "company": "Chicago Trading Company",
-    "role": "Quant Trading Associate - 2027 Start",
-    "location": "Chicago, IL",
-    "ageDays": 6,
-    "source": "SWELIST / vanshb03",
-    "eligibility": "eligible",
-    "startTiming": "confirmed-2027",
-    "sponsorship": "unknown",
-    "fitTier": "priority",
-    "fitScore": 95,
-    "directions": [
-      "Quant",
-      "AI/ML"
-    ],
-    "resumeTrack": "Quant / AI/ML",
-    "reasons": [
-      "官方要求 2026 年 12 月至 2027 年 6 月毕业",
-      "交易、回测、数据分析与衍生品建模方向高度相关",
-      "接受本科或硕士且无需既有金融经验"
-    ],
-    "caveats": [
-      "官方未公开 sponsorship/OPT 政策，保持 unknown",
-      "与 CTC Associate Engineer 为不同岗位；提交前需确定申请优先级"
-    ],
-    "applyUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
-    "alternateApplyUrls": [
-      {
-        "label": "Prior 2027 campus posting",
-        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005"
-      }
-    ],
-    "status": "open",
-    "firstSeenAt": "2026-08-05T08:07:45-07:00",
-    "lastCheckedAt": "2026-08-05T08:42:00-07:00"
-  },
-  {
     "id": "garmin-data-scientist-i-19526",
     "canonicalUrl": "https://careers.garmin.com/jobs/19526?icims=1",
     "company": "Garmin",
@@ -4097,38 +4059,6 @@
     "status": "open"
   },
   {
-    "id": "belvedere-quantitative-trader-entry-level-2027",
-    "canonicalUrl": "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee",
-    "company": "Belvedere Trading",
-    "role": "Quantitative Trader - Entry Level 2027",
-    "location": "Chicago, IL",
-    "ageDays": 2,
-    "source": "SWELIST email lead",
-    "firstSeenAt": "2026-08-09T08:11:34-07:00",
-    "lastCheckedAt": "2026-08-09T08:11:34-07:00",
-    "eligibility": "eligible",
-    "startTiming": "confirmed-2027",
-    "sponsorship": "confirmed",
-    "fitTier": "priority",
-    "fitScore": 94,
-    "directions": [
-      "Quant",
-      "General SWE"
-    ],
-    "resumeTrack": "Quant / Finance / Market Systems",
-    "reasons": [
-      "官方标题明确为 Entry Level 2027，毕业窗口覆盖 2026 年 12 月及 2027 年 5/6 月",
-      "量化交易、数据分析、策略研究和 Python/C++ 方向匹配",
-      "官方职位页明确写明 Sponsorship: Yes"
-    ],
-    "caveats": [
-      "岗位以交易决策和市场直觉为主，编程只是组成部分",
-      "需在 Chicago 线下工作"
-    ],
-    "applyUrl": "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee",
-    "status": "open"
-  },
-  {
     "id": "belvedere-software-engineer-entry-level-2027",
     "canonicalUrl": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
     "company": "Belvedere Trading",
@@ -4162,36 +4092,6 @@
     "status": "open"
   },
   {
-    "id": "wallstreetquants-new-grad-quant-trader-chicago-615d982644",
-    "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/615D982644/",
-    "company": "WallStreetQuants",
-    "role": "Quantitative Trader - New Grad",
-    "location": "Chicago, IL",
-    "ageDays": 2,
-    "source": "SWELIST email lead",
-    "firstSeenAt": "2026-08-09T08:11:34-07:00",
-    "lastCheckedAt": "2026-08-09T08:11:34-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "priority",
-    "fitScore": 91,
-    "directions": [
-      "Quant"
-    ],
-    "resumeTrack": "Quant / Finance / Market Systems",
-    "reasons": [
-      "官方招聘页明确为美国全职 New Grad 量化交易岗位",
-      "接受本科、硕士或博士并将 Python 列为加分项"
-    ],
-    "caveats": [
-      "官方未说明 2027 入职周期或 sponsorship",
-      "招聘页未公开实际 proprietary trading firm 名称，申请前必须核实雇主身份"
-    ],
-    "applyUrl": "https://apply.workable.com/wallstreetquants/j/615D982644/",
-    "status": "open"
-  },
-  {
     "id": "wallstreetquants-entry-level-quant-developer-aa3fb20456",
     "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/AA3FB20456/",
     "company": "WallStreetQuants",
@@ -4221,36 +4121,6 @@
       "招聘页未公开实际 proprietary trading firm 名称，申请前必须核实雇主身份"
     ],
     "applyUrl": "https://apply.workable.com/wallstreetquants/j/AA3FB20456/",
-    "status": "open"
-  },
-  {
-    "id": "wallstreetquants-new-grad-quant-trader-nyc-c611d9282b",
-    "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/C611D9282B/",
-    "company": "WallStreetQuants",
-    "role": "Quantitative Trader - New Graduate",
-    "location": "New York, NY (Hybrid)",
-    "ageDays": 2,
-    "source": "SWELIST email lead",
-    "firstSeenAt": "2026-08-09T08:11:34-07:00",
-    "lastCheckedAt": "2026-08-09T08:11:34-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "priority",
-    "fitScore": 91,
-    "directions": [
-      "Quant"
-    ],
-    "resumeTrack": "Quant / Finance / Market Systems",
-    "reasons": [
-      "官方招聘页明确为美国全职 New Graduate 量化交易岗位",
-      "概率、风险、交易策略和 Python 方向匹配"
-    ],
-    "caveats": [
-      "官方未说明 2027 入职周期或 sponsorship",
-      "招聘页未公开实际 proprietary trading firm 名称，申请前必须核实雇主身份"
-    ],
-    "applyUrl": "https://apply.workable.com/wallstreetquants/j/C611D9282B/",
     "status": "open"
   },
   {
