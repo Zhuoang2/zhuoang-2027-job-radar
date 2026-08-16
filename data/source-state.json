@@ -226,29 +226,29 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-15T08:26:54-07:00",
+        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 1419,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 53,
-          "changedUrlCount": 0,
+          "addedIdentityCount": 0,
+          "changedUrlCount": 1,
           "changedContentCount": 0,
-          "removedSourceEntryCount": 31,
-          "upstreamCommit": "c2bebe59d2b28bf96f89f5bdef270964cf90d4de",
-          "neverSeenIdentityCount": 47,
-          "historicalReappearanceCount": 6,
-          "rawAddedUrlCount": 57,
-          "rawRemovedUrlCount": 35
+          "removedSourceEntryCount": 1,
+          "upstreamCommit": "cd044b3fdea2ded77f748a51e5665766cd2006a6",
+          "neverSeenIdentityCount": 0,
+          "historicalReappearanceCount": 0,
+          "rawAddedUrlCount": 1,
+          "rawRemovedUrlCount": 2
         },
-        "note": "Incremental comparison 58b70099edc031cc64a401ab987d499a974fc7fc..c2bebe59d2b28bf96f89f5bdef270964cf90d4de: source rows 598 to 620; 57 raw URL additions and 35 removals resolved to 53 normalized identities, including 47 never-seen identities and six historical reappearances. Official pages were opened for prioritized candidates; unresolved long-tail entries remain needs-review and source-only removals were not treated as closures."
+        "note": "Incremental comparison c2bebe59d2b28bf96f89f5bdef270964cf90d4de..cd044b3fdea2ded77f748a51e5665766cd2006a6: no new normalized job identity; one known Boeing requisition changed its official URL and one out-of-range source row was removed. The Boeing role was excluded after official confirmation of U.S.-citizenship, clearance and no-sponsorship requirements."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-15T08:26:54-07:00",
+        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 26,
@@ -292,7 +292,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-15T08:26:54-07:00",
+        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 8,
@@ -306,22 +306,22 @@
             "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
             "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"
           ],
-          "addedEntryCount": 3,
-          "observedUnconfirmedEntryCount": 4,
-          "observedNewEntryCount": 38,
-          "removedSourceEntryCount": 20,
-          "upstreamCommit": "f77e71d1c68292f2fe3bb55c5d2fd2eb5a65c922"
+          "addedEntryCount": 0,
+          "observedUnconfirmedEntryCount": 0,
+          "observedNewEntryCount": 0,
+          "removedSourceEntryCount": 0,
+          "upstreamCommit": "11a837dcae04cf827c547bbb65fc3834e760fac6"
         },
-        "note": "New-Grad-Positions remains explicitly headed as the 2026 cycle and the organization has no explicit 2027 full-time repository. The +38/-20 normalized URL diff yielded three roles whose official pages explicitly cover the 2027 graduation cycle; four new entries lacked official 2027 evidence and were not admitted from this source."
+        "note": "New-Grad-Positions remains explicitly in the 2026 cycle; the normalized URL and material row diff were both empty, and no explicit 2027 full-time repository appeared in the organization."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": "2026-08-15T08:26:54-07:00",
+        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
-          "entryCount": 675,
+          "entryCount": 727,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/5337603b-0f1a-4a67-afa8-9fbf72830c5a",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
@@ -997,16 +997,68 @@
             "https://simplify.jobs/p/cb243aa3-0969-4c76-a554-9495b06509f9",
             "https://simplify.jobs/p/b82ebee3-b9ea-4a22-b498-9b803e53e092",
             "https://simplify.jobs/p/a06fff13-7f57-418b-8a60-089543530e70",
-            "https://simplify.jobs/p/203b29e3-691b-4bd0-b6b9-67ee0cd10daf"
+            "https://simplify.jobs/p/203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+            "https://simplify.jobs/p/6dda02da-3ec3-49ed-a963-fa6db627f830",
+            "https://simplify.jobs/p/5e2b041d-3b5b-414f-8491-242be06bf425",
+            "https://simplify.jobs/p/e09149c6-13df-4156-b091-ebf0159330f8",
+            "https://simplify.jobs/p/43a5374e-0e70-4dc9-82b0-687b54e8c5da",
+            "https://simplify.jobs/p/a84b5ca0-5e89-4893-97cb-4be5aead281c",
+            "https://simplify.jobs/p/ebecfe1f-3890-4cf8-8663-d7b118197e24",
+            "https://simplify.jobs/p/00e9ac82-474b-46a0-bc46-aa9e240f3efd",
+            "https://simplify.jobs/p/8b2ac290-4592-4349-9f0f-52381aae132f",
+            "https://simplify.jobs/p/d7cea207-2957-4628-96f0-d1470db7594c",
+            "https://simplify.jobs/p/d10e8010-8a1d-4cbb-83a1-5bade54928c6",
+            "https://simplify.jobs/p/4ac72dac-062c-4ad9-94fb-8bd0961f1d95",
+            "https://simplify.jobs/p/13e63ccc-9879-4a3a-a29a-f10688ec7ba6",
+            "https://simplify.jobs/p/24b848e7-18bc-4eab-b684-9d352141cbdd",
+            "https://simplify.jobs/p/ee50e885-5709-43c5-adf1-bd280a6e8786",
+            "https://simplify.jobs/p/e5f41de9-f6f5-454c-b80a-c5df9b9e417a",
+            "https://simplify.jobs/p/549f3df3-0ef0-4157-8a32-ee4acfbb3080",
+            "https://simplify.jobs/p/880f2a36-5a43-4a08-ba33-5d4e5a77f266",
+            "https://simplify.jobs/p/d78d7fa5-5be2-4430-82b9-0881e459e9ff",
+            "https://simplify.jobs/p/4d16eaba-a1fb-42c2-93dd-fd62894f764b",
+            "https://simplify.jobs/p/b9bd95eb-643e-4a5e-a87e-d146140da756",
+            "https://simplify.jobs/p/4d832015-4925-4dd1-9116-01c214d52c1e",
+            "https://simplify.jobs/p/e6c623f1-7c59-4af3-ae61-5c9cc5795e33",
+            "https://simplify.jobs/p/c528e735-94f5-43d1-9b58-85865240e916",
+            "https://simplify.jobs/p/a537c9a6-baac-4468-9e36-ec8c0bea98ec",
+            "https://simplify.jobs/p/0e79e8bc-db11-456f-97e4-54fea42c6715",
+            "https://simplify.jobs/p/1436f890-5733-4b9e-ad61-4df307e22f43",
+            "https://simplify.jobs/p/1f50cd90-b872-416f-8df0-0c482c23b642",
+            "https://simplify.jobs/p/ee6ad71b-9c92-4578-a0ef-9e90fab6cc97",
+            "https://simplify.jobs/p/1e5443b7-9106-40cd-ace8-a45d3bfe8afe",
+            "https://simplify.jobs/p/00592559-74bf-4659-b573-2b630465cfc8",
+            "https://simplify.jobs/p/59376e30-4b2e-4ba7-8acb-1cf947065c18",
+            "https://simplify.jobs/p/e750b9b5-dda4-440f-a574-33bb25d575af",
+            "https://simplify.jobs/p/94d01de5-9fda-4158-938a-a669c956dc3e",
+            "https://simplify.jobs/p/e1e46d1c-0205-405e-8063-32075566d4d4",
+            "https://simplify.jobs/p/36765a45-f997-47bc-a1a9-88ed5650308a",
+            "https://simplify.jobs/p/abd48cd7-7236-4856-8308-48d8cda4895a",
+            "https://simplify.jobs/p/8b82242b-ee49-413d-9ba5-a840c2dc3385",
+            "https://simplify.jobs/p/ba941674-b45f-40cd-a5b5-1271c336c202",
+            "https://simplify.jobs/p/44cfae05-3432-4ad6-9b3d-a72958d87695",
+            "https://simplify.jobs/p/87d1b39d-5c83-431c-9e1f-bc13469fde4b",
+            "https://simplify.jobs/p/7378026f-0707-48bb-8570-ac926d5ca53f",
+            "https://simplify.jobs/p/f2855012-e2cd-499e-acf4-000f068e1489",
+            "https://simplify.jobs/p/d3390d67-7747-49e6-b8fd-35726e1b99a6",
+            "https://simplify.jobs/p/a0232ac3-fb39-45ea-8cae-40341afe8099",
+            "https://simplify.jobs/p/e4b69970-8719-4f84-aaa7-678f8a1f7649",
+            "https://simplify.jobs/p/39f8a5fb-c056-4d0f-8325-830b6ca2205d",
+            "https://simplify.jobs/p/ce547a46-a04e-430f-b6bc-d648b857be0b",
+            "https://simplify.jobs/p/ecd3e9e0-32d3-41ff-b808-99cb49ee80c2",
+            "https://simplify.jobs/p/0c670f1e-4360-480d-9023-b1bfad85c99f",
+            "https://simplify.jobs/p/a78650db-2f4a-457e-a704-6dcd67c12122",
+            "https://simplify.jobs/p/9e9c1a90-b002-4352-8852-856c07d71a53",
+            "https://simplify.jobs/p/3c2a5b0f-4b17-430c-ae44-2186d722f9b2"
           ],
-          "extractedPublicLinkCount": 141,
-          "officialCandidateCount": 0,
+          "extractedPublicLinkCount": 52,
+          "officialCandidateCount": 6,
           "matchedMessageCount": 1,
-          "newCandidateUrlCount": 141,
+          "newCandidateUrlCount": 52,
           "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 48
+          "officialCandidateReviewCount": 31
         },
-        "note": "Read-only previous-calendar-day Gmail check found one matching SWELIST message and 141 unique public job leads. Forty-eight title-filtered technical candidates were resolved for official-page review; mailbox state was not changed and no mailbox metadata was persisted."
+        "note": "Read-only previous-calendar-day Gmail check found one matching SWELIST message and 52 unique public job leads. Official-page review produced six new site cards after consolidating same-role location variants; six leads matched existing cards. Mailbox state was not changed and no mailbox metadata was persisted."
       }
     },
     "sourceMentions": {
@@ -2071,7 +2123,8 @@
         "speedyapply"
       ],
       "https://lifeattiktok.com/search/7673409179353139461": [
-        "speedyapply"
+        "speedyapply",
+        "swelist-email"
       ],
       "https://www.amazon.jobs/jobs/10502486/apply": [
         "speedyapply"
@@ -2081,7 +2134,8 @@
       ],
       "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694": [
         "speedyapply",
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19": [
         "speedyapply"
@@ -2165,9 +2219,6 @@
       "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/North-York-Ontario/Associate-Software-Engineer_JR00126945-2": [
         "speedyapply"
       ],
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1": [
-        "speedyapply"
-      ],
       "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540": [
         "speedyapply",
         "simplifyjobs"
@@ -2195,13 +2246,15 @@
       ],
       "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b": [
         "speedyapply",
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7": [
         "speedyapply"
       ],
       "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://apply.careers.microsoft.com/careers/job/1970393556959253": [
         "swelist-email"
@@ -2214,6 +2267,45 @@
         "simplifyjobs"
       ],
       "https://job-boards.greenhouse.io/worldquant/jobs/4700347006": [
+        "swelist-email"
+      ],
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089": [
+        "speedyapply"
+      ],
+      "https://higher.gs.com/roles/171568": [
+        "swelist-email"
+      ],
+      "https://higher.gs.com/roles/171569": [
+        "swelist-email"
+      ],
+      "https://higher.gs.com/roles/171570": [
+        "swelist-email"
+      ],
+      "https://higher.gs.com/roles/180807": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7673672141010815237": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7673672141012093189": [
+        "swelist-email"
+      ],
+      "https://apply.careers.microsoft.com/careers/job/1970393556937438": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7673674256393890101": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7673674246042806533": [
         "swelist-email"
       ]
     },
@@ -2681,13 +2773,17 @@
       {
         "canonicalUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000143599414",
         "reason": "Official page requires unrestricted work authorization without sponsorship."
+      },
+      {
+        "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
+        "reason": "Official page requires U.S. citizenship and Secret-clearance eligibility and states that employer visa sponsorship is unavailable."
       }
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-15T08:10:32-07:00",
-  "lastSuccessfulScanAt": "2026-08-15T08:26:54-07:00",
-  "lastSourceUpdatedAt": "2026-08-15T05:48:00-07:00",
+  "lastScanStartedAt": "2026-08-16T08:01:05-07:00",
+  "lastSuccessfulScanAt": "2026-08-16T08:48:56-07:00",
+  "lastSourceUpdatedAt": "2026-08-16T08:48:56-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -4098,7 +4194,7 @@
     "https://mii.wd5.myworkdayjobs.com/en-US/mitek/job/Greenwood-Village-CO-USA/Software-Engineer_R06590-1",
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/North-York-Ontario/Associate-Software-Engineer_JR00126945-2",
     "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
-    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
+    "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
     "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
     "https://mrisoftware.wd501.myworkdayjobs.com/en-US/external_careersite/job/Cleveland-Ohio-Office/Account-Manager---Occupier-Software-Solutions_R-109192",
     "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Forward-Deployed-Software-Engineer--Warehouse-Innovation_R000155929",
