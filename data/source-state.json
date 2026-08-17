@@ -226,29 +226,29 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
+        "lastCheckedAt": "2026-08-17T11:06:00-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 1419,
+          "entryCount": 1420,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 0,
+          "addedIdentityCount": 1,
           "changedUrlCount": 1,
-          "changedContentCount": 0,
-          "removedSourceEntryCount": 1,
-          "upstreamCommit": "cd044b3fdea2ded77f748a51e5665766cd2006a6",
-          "neverSeenIdentityCount": 0,
-          "historicalReappearanceCount": 0,
-          "rawAddedUrlCount": 1,
-          "rawRemovedUrlCount": 2
+          "changedContentCount": 1,
+          "removedSourceEntryCount": 10,
+          "upstreamCommit": "efec290fdd7df28c250da3647a24811681b2e13c",
+          "neverSeenIdentityCount": 1,
+          "historicalReappearanceCount": 6,
+          "rawAddedUrlCount": 8,
+          "rawRemovedUrlCount": 10
         },
-        "note": "Incremental comparison c2bebe59d2b28bf96f89f5bdef270964cf90d4de..cd044b3fdea2ded77f748a51e5665766cd2006a6: no new normalized job identity; one known Boeing requisition changed its official URL and one out-of-range source row was removed. The Boeing role was excluded after official confirmation of U.S.-citizenship, clearance and no-sponsorship requirements."
+        "note": "Incremental comparison cd044b3fdea2ded77f748a51e5665766cd2006a6..efec290fdd7df28c250da3647a24811681b2e13c: one never-seen General Dynamics requisition, six historical reappearances and one known Boeing link change. The General Dynamics role was excluded after official confirmation of U.S.-citizenship and TS/SCI-clearance requirements; the only material common-URL change was an out-of-range NAVEX location update."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
+        "lastCheckedAt": "2026-08-17T11:06:00-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 26,
@@ -292,7 +292,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
+        "lastCheckedAt": "2026-08-17T11:06:00-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 8,
@@ -308,20 +308,20 @@
           ],
           "addedEntryCount": 0,
           "observedUnconfirmedEntryCount": 0,
-          "observedNewEntryCount": 0,
-          "removedSourceEntryCount": 0,
-          "upstreamCommit": "11a837dcae04cf827c547bbb65fc3834e760fac6"
+          "observedNewEntryCount": 2,
+          "removedSourceEntryCount": 20,
+          "upstreamCommit": "2451cc1cf42d80ad270fdcecc23e5b6213c8e2ce"
         },
-        "note": "New-Grad-Positions remains explicitly in the 2026 cycle; the normalized URL and material row diff were both empty, and no explicit 2027 full-time repository appeared in the organization."
+        "note": "New-Grad-Positions remains explicitly in the 2026 cycle and no explicit 2027 full-time repository appeared in the organization. Two new source rows were observed: the General Dynamics software role was hard-excluded and deduplicated across sources, while the Leidos cartographic role was outside the target technical scope."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": "2026-08-16T08:48:56-07:00",
+        "lastCheckedAt": "2026-08-17T11:06:00-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
-          "entryCount": 727,
+          "entryCount": 729,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/5337603b-0f1a-4a67-afa8-9fbf72830c5a",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
@@ -1049,16 +1049,18 @@
             "https://simplify.jobs/p/0c670f1e-4360-480d-9023-b1bfad85c99f",
             "https://simplify.jobs/p/a78650db-2f4a-457e-a704-6dcd67c12122",
             "https://simplify.jobs/p/9e9c1a90-b002-4352-8852-856c07d71a53",
-            "https://simplify.jobs/p/3c2a5b0f-4b17-430c-ae44-2186d722f9b2"
+            "https://simplify.jobs/p/3c2a5b0f-4b17-430c-ae44-2186d722f9b2",
+            "https://simplify.jobs/p/717279b5-3392-4184-8ec5-92924c627291",
+            "https://simplify.jobs/p/755afd21-51a6-4a39-994c-35c6a3c2b71d"
           ],
-          "extractedPublicLinkCount": 52,
-          "officialCandidateCount": 6,
+          "extractedPublicLinkCount": 2,
+          "officialCandidateCount": 0,
           "matchedMessageCount": 1,
-          "newCandidateUrlCount": 52,
+          "newCandidateUrlCount": 2,
           "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 31
+          "officialCandidateReviewCount": 0
         },
-        "note": "Read-only previous-calendar-day Gmail check found one matching SWELIST message and 52 unique public job leads. Official-page review produced six new site cards after consolidating same-role location variants; six leads matched existing cards. Mailbox state was not changed and no mailbox metadata was persisted."
+        "note": "Read-only previous-calendar-day Gmail check found one matching SWELIST message and two unique public job leads. Both titles were outside the target role scope, so no official candidate page was opened and no job card was added. Mailbox state was not changed and no mailbox metadata was persisted."
       }
     },
     "sourceMentions": {
@@ -2307,6 +2309,13 @@
       ],
       "https://lifeattiktok.com/search/7673674246042806533": [
         "swelist-email"
+      ],
+      "https://careers-gdms.icims.com/jobs/74274/software-engineer---entry-level/job": [
+        "speedyapply",
+        "simplifyjobs"
+      ],
+      "https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665": [
+        "simplifyjobs"
       ]
     },
     "suspectedDuplicates": [
@@ -2777,13 +2786,17 @@
       {
         "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
         "reason": "Official page requires U.S. citizenship and Secret-clearance eligibility and states that employer visa sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://careers-gdms.icims.com/jobs/74274/software-engineer---entry-level/job",
+        "reason": "Official page requires U.S. citizenship and the ability to obtain a Department of Defense TS/SCI clearance."
       }
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-16T08:01:05-07:00",
-  "lastSuccessfulScanAt": "2026-08-16T08:48:56-07:00",
-  "lastSourceUpdatedAt": "2026-08-16T08:48:56-07:00",
+  "lastScanStartedAt": "2026-08-17T10:49:10-07:00",
+  "lastSuccessfulScanAt": "2026-08-17T11:06:00-07:00",
+  "lastSourceUpdatedAt": "2026-08-17T11:06:00-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -4203,7 +4216,8 @@
     "https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/PA---West-Chester-1354-Boot-Rd/Oracle-Fusion-Cloud-Engineer_R442372",
     "https://apply.workable.com/valsoft-corp/j/26C53130AE/",
     "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
-    "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+    "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+    "https://careers-gdms.icims.com/jobs/74274/software-engineer---entry-level/job"
   ],
-  "baselineEntryCount": 1419
+  "baselineEntryCount": 1420
 }
