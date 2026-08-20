@@ -40,10 +40,11 @@ test("server-renders the job radar dashboard", async () => {
 });
 
 test("keeps the public job and application datasets privacy-safe", async () => {
-  const [jobsText, stateText, applicationsText] = await Promise.all([
+  const [jobsText, stateText, applicationsText, automationText] = await Promise.all([
     readFile(new URL("../data/jobs.json", import.meta.url), "utf8"),
     readFile(new URL("../data/source-state.json", import.meta.url), "utf8"),
     readFile(new URL("../data/applications.json", import.meta.url), "utf8"),
+    readFile(new URL("../AUTOMATION.md", import.meta.url), "utf8"),
   ]);
 
   const jobs = JSON.parse(jobsText);
@@ -67,6 +68,20 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(state.sourceMonitoring.sources.vanshb03.role, "supplemental");
   assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
   assert.ok(Array.isArray(state.sourceMonitoring.suspectedDuplicates));
+  assert.equal(new Set(jobs.map((job) => job.id)).size, jobs.length);
+  assert.equal(new Set(jobs.map((job) => job.canonicalUrl)).size, jobs.length);
+  assert.match(
+    automationText,
+    /isolated official-page access failure as a candidate-level verification failure/i,
+  );
+  assert.ok(Array.isArray(state.sourceMonitoring.officialVerificationNeedsReview));
+  assert.ok(
+    state.sourceMonitoring.officialVerificationNeedsReview.every(
+      (candidate) =>
+        candidate.status === "needs-review" &&
+        !jobs.some((job) => job.canonicalUrl === candidate.canonicalUrl),
+    ),
+  );
   assert.ok(
     jobs.every(
       (job) =>
