@@ -6742,5 +6742,380 @@
     "firstSeenAt": "2026-08-19T22:30:00-07:00",
     "lastCheckedAt": "2026-08-19T22:30:00-07:00",
     "status": "open"
+  },
+  {
+    "id": "tiktok-search-data-infra-7675829388634392837",
+    "canonicalUrl": "https://lifeattiktok.com/search/7675829388634392837",
+    "company": "TikTok",
+    "role": "Software Engineer Graduate - TikTok Search Data Infra - 2027 Start",
+    "location": "San Jose, CA",
+    "ageDays": 1,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "directions": ["Data", "Backend", "ML Systems"],
+    "resumeTrack": "Backend-Data Infra / ML Systems-HPC",
+    "reasons": [
+      "官方标题明确为 2027 Start，并接受本科或硕士毕业生",
+      "Spark、Flink、Hive、Iceberg 与分布式搜索数据基础设施方向高度匹配",
+      "核心是数据平台与软件工程，不是低层 Linux/OS 或生产运维"
+    ],
+    "caveats": [
+      "官方职位正文未说明 sponsorship 政策"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7675829388634392837",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "nisc-telecom-bill-calculations-backend-8142867",
+    "canonicalUrl": "https://job-boards.greenhouse.io/nisc/jobs/8142867",
+    "company": "National Information Solutions Cooperative",
+    "role": "Software Developer - Telecom Bill Calculations Software (Back End / Python)",
+    "location": "Cedar Rapids, IA / Lake Saint Louis, MO / Mandan, ND / Atlanta, GA",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 83,
+    "directions": ["Backend", "Data"],
+    "resumeTrack": "Backend-Data Infra / General SWE",
+    "reasons": [
+      "Python、SQL、面向对象开发和 AWS 技能与后端方向匹配",
+      "四个地点 requisition 的职责一致，已合并为一张卡片",
+      "Linux 只是开发环境，不是低层系统工作的核心"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策",
+      "要求 1+ 年软件开发经验，申请材料需突出实习与项目经历"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/nisc/jobs/8142867",
+    "alternateApplyUrls": [
+      {"label": "Lake Saint Louis", "url": "https://job-boards.greenhouse.io/testnisc/jobs/8142924"},
+      {"label": "Mandan", "url": "https://job-boards.greenhouse.io/testnisc/jobs/8142921"},
+      {"label": "Atlanta / Any NISC location", "url": "https://job-boards.greenhouse.io/testnisc/jobs/8142918"}
+    ],
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "prometheum-software-engineer-1-fullstack-lmc9mw6rcq",
+    "canonicalUrl": "https://prometheum.applytojob.com/apply/Lmc9MW6rCq/Software-Engineer-1-FullStack",
+    "company": "Prometheum",
+    "role": "Software Engineer 1 - Full-Stack",
+    "location": "Remote - United States",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 85,
+    "directions": ["General SWE", "Backend", "Quant"],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官方为美国全职 W-2、远程且接受 0–2 年经验",
+      "Node.js、React、TypeScript、SQL 与金融科技产品方向匹配",
+      "岗位强调资本市场和交易系统兴趣，适合作为 Quant Development 邻近选择"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://prometheum.applytojob.com/apply/Lmc9MW6rCq/Software-Engineer-1-FullStack",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "315-junior-dotnet-developer-cac111c86e",
+    "canonicalUrl": "https://apply.workable.com/315/j/CAC111C86E",
+    "company": "3:15",
+    "role": "Junior .NET Developer - C# - Remote",
+    "location": "Remote - United States",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "possible",
+    "fitScore": 79,
+    "directions": ["General SWE", "Backend"],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官方为美国全职远程并提供结构化 mentorship",
+      "C#/.NET、API 和数据库开发属于目标后端方向",
+      "官方明确将实习和实质项目计入 1–3 年经验要求"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://apply.workable.com/315/j/CAC111C86E",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "lexisnexis-software-engineer-i-r117314",
+    "canonicalUrl": "https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314",
+    "company": "LexisNexis",
+    "role": "Software Engineer I",
+    "location": "Raleigh, NC",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 84,
+    "directions": ["General SWE", "Backend"],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官方为美国全职 Software Engineer I",
+      "软件设计、编码、测试和云端产品开发与通用 SWE 方向匹配",
+      "资格强调基础软件工程能力，没有明显的高年限门槛"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "paypal-software-engineer-r0137244",
+    "canonicalUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137244",
+    "company": "PayPal",
+    "role": "Software Engineer",
+    "location": "Austin, TX",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "pending",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "possible",
+    "fitScore": 77,
+    "directions": ["General SWE", "Backend"],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官方为美国全职软件工程岗位",
+      "后端服务、API、数据和分布式系统能力与目标方向相邻"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策",
+      "要求硕士及一年特定软件工程经验，需由招聘方确认实习与项目是否满足口径"
+    ],
+    "applyUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137244",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "disney-product-software-engineer-i-10151599",
+    "canonicalUrl": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+    "company": "Walt Disney",
+    "role": "Product Software Engineer I",
+    "location": "Glendale, CA",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 84,
+    "directions": ["Data", "Backend", "General SWE"],
+    "resumeTrack": "Backend-Data Infra / General SWE",
+    "reasons": [
+      "官方为美国全职且接受 0–2 年经验",
+      "Java、Scala、Python 与数据平台和产品工程方向匹配",
+      "与现有 10157015 是不同 requisition、地点和团队职责"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "disney-software-engineer-i-10158076",
+    "canonicalUrl": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076",
+    "company": "Walt Disney",
+    "role": "Software Engineer I",
+    "location": "Glendale, CA",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 82,
+    "directions": ["General SWE", "Backend"],
+    "resumeTrack": "General SWE / Backend-Data Infra",
+    "reasons": [
+      "官方为美国全职 Software Engineer I",
+      "面向对象编程、测试、API 与产品软件开发符合通用 SWE 方向",
+      "岗位接受相关本科学历且未列高年限要求"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "normal-computing-ai-research-resident-975c754f",
+    "canonicalUrl": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f",
+    "company": "Normal Computing",
+    "role": "AI Research Resident",
+    "location": "New York, NY / Palo Alto, CA",
+    "ageDays": 1,
+    "source": "SWELIST",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "directions": ["AI/ML", "ML Systems", "Research"],
+    "resumeTrack": "AI-ML / ML Systems-HPC",
+    "reasons": [
+      "官方为 6–12 个月全职 AI research residency",
+      "Agentic LLM、强化学习、评测与可复现研究代码和现有项目高度匹配",
+      "接受在读或近期毕业的 MS/PhD 候选人"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职日期或 sponsorship 政策",
+      "需要确认全职 residency 是否可在 2027 年 7 月后开始"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "deeter-analytics-machine-learning-engineer-2c12339b",
+    "canonicalUrl": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0",
+    "company": "Deeter Analytics",
+    "role": "Machine Learning Engineer",
+    "location": "Remote - United States",
+    "ageDays": 1,
+    "source": "SWELIST",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "directions": ["Quant", "AI/ML", "Data"],
+    "resumeTrack": "Quant / AI-ML",
+    "reasons": [
+      "官方为美国全职远程的早期职业岗位",
+      "工作覆盖市场数据、交易建模、特征工程和端到端机器学习",
+      "不要求既有交易行业经验，与 Quant Research / Development 定位高度匹配"
+    ],
+    "caveats": [
+      "官方未明确 2027 入职周期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "bytedance-ecommerce-risk-control-mle-2027-7675477660855781637",
+    "canonicalUrl": "https://joinbytedance.com/search/7675477660855781637",
+    "company": "ByteDance",
+    "role": "Machine Learning Engineer Graduate - E-Commerce Risk Control - 2027 Start",
+    "location": "San Jose, CA / Seattle, WA",
+    "ageDays": 1,
+    "source": "SWELIST",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "directions": ["AI/ML", "ML Systems", "Data"],
+    "resumeTrack": "AI-ML / ML Systems-HPC",
+    "reasons": [
+      "官方标题明确为 2027 Start，并接受本科或硕士毕业生",
+      "多智能体、风险控制、模型训练与大规模电商数据方向高度匹配",
+      "San Jose 与 Seattle requisition 职责一致，已合并为一张卡片"
+    ],
+    "caveats": [
+      "官方职位正文未说明 sponsorship 政策"
+    ],
+    "applyUrl": "https://joinbytedance.com/search/7675477660855781637",
+    "alternateApplyUrls": [
+      {"label": "Seattle", "url": "https://joinbytedance.com/search/7675477254315428149"}
+    ],
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "tiktok-data-analyst-supply-chain-2027-7675510156642142469",
+    "canonicalUrl": "https://lifeattiktok.com/search/7675510156642142469",
+    "company": "TikTok",
+    "role": "Data Analyst Graduate - Global E-Commerce Supply Chain - 2027 Start",
+    "location": "Fontana, CA",
+    "ageDays": 1,
+    "source": "SWELIST",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "possible",
+    "fitScore": 78,
+    "directions": ["Data"],
+    "resumeTrack": "Backend-Data Infra / Quant",
+    "reasons": [
+      "官方标题明确为 2027 Start",
+      "SQL、Python、BI 和运营数据分析属于目标 Data 方向",
+      "岗位为 Regular 且官方页面仍开放"
+    ],
+    "caveats": [
+      "职责偏供应链运营分析，优先级低于 ML、Quant 和数据平台岗位",
+      "官方职位正文未说明 sponsorship 政策"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7675510156642142469",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
+  },
+  {
+    "id": "tiktok-data-engineer-global-live-2027-7675484418022181173",
+    "canonicalUrl": "https://lifeattiktok.com/search/7675484418022181173",
+    "company": "TikTok",
+    "role": "Data Engineer Graduate - Data Platform - Global Live - 2027 Start",
+    "location": "San Jose, CA",
+    "ageDays": 1,
+    "source": "SWELIST",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "directions": ["Data", "Backend", "ML Systems"],
+    "resumeTrack": "Backend-Data Infra / ML Systems-HPC",
+    "reasons": [
+      "官方标题明确为 2027 Start",
+      "大规模数据平台、数据仓库、SQL 与 Python 方向高度匹配",
+      "核心是数据工程和平台开发，不是低层系统或生产运维"
+    ],
+    "caveats": [
+      "官方职位正文未说明 sponsorship 政策"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7675484418022181173",
+    "firstSeenAt": "2026-08-20T08:30:39-07:00",
+    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
+    "status": "open"
   }
 ]

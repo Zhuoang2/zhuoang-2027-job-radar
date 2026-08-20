@@ -214,6 +214,14 @@
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
         "reason": "Embedded, real-time and industrial hardware-facing software are central to the role."
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+        "reason": "Network software and network infrastructure are central to the role."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/jobgether/269037b6-9534-43cd-97c8-a005df7a4314",
+        "reason": "Application support, cloud operations and technical support are central to the role."
       }
     ],
     "sources": {
@@ -242,29 +250,29 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-19T22:30:00-07:00",
+        "lastCheckedAt": "2026-08-20T08:30:39-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 1476,
+          "entryCount": 1520,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 56,
-          "changedUrlCount": 6,
-          "changedContentCount": 6,
-          "removedSourceEntryCount": 57,
-          "upstreamCommit": "d058245dda217171521afedf888a2af71da32103",
-          "neverSeenIdentityCount": 56,
-          "historicalReappearanceCount": 10,
-          "rawAddedUrlCount": 66,
-          "rawRemovedUrlCount": 57
+          "addedIdentityCount": 44,
+          "changedUrlCount": 5,
+          "changedContentCount": 5,
+          "removedSourceEntryCount": 33,
+          "upstreamCommit": "8b547a1d7881f40ed9ecaab6f974a1856b10b1cf",
+          "neverSeenIdentityCount": 44,
+          "historicalReappearanceCount": 4,
+          "rawAddedUrlCount": 48,
+          "rawRemovedUrlCount": 33
         },
-        "note": "Cumulative incremental comparison from the last successful 2026-08-17 baseline through 2026-08-19: 66 added source URLs, 57 removed source URLs and six material common-URL changes. Fifty-six identities were never seen and ten were historical reappearances. Only independently verified candidates were admitted; source removal alone did not delete any card."
+        "note": "Incremental comparison from the 2026-08-19 successful baseline: 48 added source URLs, 33 removed source URLs and five material common-URL changes. Forty-four identities were never seen and four were historical reappearances. Only independently verified candidates were admitted; source removal alone did not delete any card."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-19T22:30:00-07:00",
+        "lastCheckedAt": "2026-08-20T08:30:39-07:00",
         "baseline": {
           "mode": "us-technical-roles-within-60d",
           "entryCount": 26,
@@ -308,7 +316,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-19T22:30:00-07:00",
+        "lastCheckedAt": "2026-08-20T08:30:39-07:00",
         "baseline": {
           "mode": "explicit-2027-eligible-candidates-only",
           "entryCount": 9,
@@ -323,23 +331,23 @@
             "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39",
             "https://careers-sig.icims.com/jobs/11321/job"
           ],
-          "addedEntryCount": 1,
-          "observedUnconfirmedEntryCount": 44,
-          "observedNewEntryCount": 45,
-          "removedSourceEntryCount": 35,
-          "upstreamCommit": "40b0cee3e8f7222c83d4bba8c86dcbed174c9f06",
-          "changedContentCount": 2
+          "addedEntryCount": 0,
+          "observedUnconfirmedEntryCount": 5,
+          "observedNewEntryCount": 5,
+          "removedSourceEntryCount": 5,
+          "upstreamCommit": "53297db7bed8648af240f8228be1df0982048f15",
+          "changedContentCount": 0
         },
-        "note": "New-Grad-Positions remains explicitly in the 2026 cycle and no explicit 2027 full-time repository appeared in the organization. Forty-five source URLs were added, 35 removed and two materially changed; only the SIG role had official 2027-compatible timing and passed the full eligibility review."
+        "note": "New-Grad-Positions remains explicitly in the 2026 cycle and no explicit 2027 full-time repository appeared in the organization. Five source URLs were added, five removed and none materially changed; all five additions failed official eligibility review, so no 2026-cycle card was admitted."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-previous-calendar-day-monitoring",
-        "lastCheckedAt": "2026-08-19T22:30:00-07:00",
+        "lastCheckedAt": "2026-08-20T08:30:39-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls",
-          "entryCount": 876,
+          "entryCount": 949,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/5337603b-0f1a-4a67-afa8-9fbf72830c5a",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
@@ -1216,16 +1224,89 @@
             "https://simplify.jobs/p/2a88a485-421f-4470-819f-8b7d41dd3b5e",
             "https://simplify.jobs/p/fd6d6115-31db-499a-a902-6bb1250b91e1",
             "https://simplify.jobs/p/16fbaaca-5c43-4db3-b340-4731c9d9677d",
-            "https://simplify.jobs/p/ecbe02a9-9c69-459f-b420-d44fe98d4b08"
+            "https://simplify.jobs/p/ecbe02a9-9c69-459f-b420-d44fe98d4b08",
+            "https://simplify.jobs/p/cde54a34-8b03-4afc-924b-1edb973229c8",
+            "https://simplify.jobs/p/a4aabf38-92c7-4e05-b84e-51c4d41178a4",
+            "https://simplify.jobs/p/5b1d56c3-edb8-4669-a88c-35690b805b82",
+            "https://simplify.jobs/p/818c0cd0-d0e6-4a8b-ad0d-80cf17c1f4ad",
+            "https://simplify.jobs/p/b4a8f426-6ada-440c-9532-098801627864",
+            "https://simplify.jobs/p/3163c14a-7b55-40a3-b21d-2696e2c37cd5",
+            "https://simplify.jobs/p/c5c96698-e25e-4209-8af4-5886495e5a80",
+            "https://simplify.jobs/p/346d8f19-1d85-4b8c-86d6-ff97f475fa36",
+            "https://simplify.jobs/p/b6779cfa-4ff6-44d0-a10f-ec56ec748276",
+            "https://simplify.jobs/p/305c88f1-71fe-42aa-a836-a22087066e85",
+            "https://simplify.jobs/p/7fa698b8-dc5d-4c42-88c4-fa95408d986d",
+            "https://simplify.jobs/p/0b0ab15f-84cb-4235-9e36-8ce8a45ce164",
+            "https://simplify.jobs/p/649dd754-7be6-47ff-9eb9-6e43146c9ab6",
+            "https://simplify.jobs/p/dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
+            "https://simplify.jobs/p/bb30d995-17f5-4fd7-adb3-c099ee477b37",
+            "https://simplify.jobs/p/1857df4e-de24-4423-8bd0-99dd5371717e",
+            "https://simplify.jobs/p/173a8b63-ed46-4aa4-be9f-9519b5d3ebe2",
+            "https://simplify.jobs/p/048a4ff3-3e1e-4263-befe-a0355b1afce4",
+            "https://simplify.jobs/p/0634f360-590b-4d02-bc5d-9ef50c18a1a3",
+            "https://simplify.jobs/p/62751ae8-bd05-4fa8-8629-d50f034fcc04",
+            "https://simplify.jobs/p/b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
+            "https://simplify.jobs/p/aa4bbef5-7c2d-408f-ac85-631b5d94b82c",
+            "https://simplify.jobs/p/812dde3e-f5d8-4568-a880-22c4d06b394d",
+            "https://simplify.jobs/p/1b072285-49c1-4f27-a37f-d7fa58045e21",
+            "https://simplify.jobs/p/41eb13a2-e04a-495a-8e9a-3d83273bbb01",
+            "https://simplify.jobs/p/20a58aca-229f-4e97-b6ae-6ffb0759e594",
+            "https://simplify.jobs/p/d64c581e-d6de-4f0f-a0e3-d8216eb8614a",
+            "https://simplify.jobs/p/c0ff0ed8-d99a-4394-b967-956c4d6fa4ae",
+            "https://simplify.jobs/p/3d4bb444-d328-44a8-9c50-2a5c0e35d574",
+            "https://simplify.jobs/p/2f40cd6e-8384-4c3f-8dee-e8ef4a5fa827",
+            "https://simplify.jobs/p/5cdfd2b6-551a-4584-8bf2-0a20f449ccd0",
+            "https://simplify.jobs/p/8a308b93-06a7-472d-a655-a49f2bf19ab1",
+            "https://simplify.jobs/p/9d9eb552-2b86-429d-875e-4c930c609200",
+            "https://simplify.jobs/p/1e098824-6a50-4571-a1b8-3d3c30c1ae57",
+            "https://simplify.jobs/p/0ba0bbb6-cd1c-45fc-88c1-82c26a9333b1",
+            "https://simplify.jobs/p/1366c200-21e0-464f-ade7-0f3ea4e05672",
+            "https://simplify.jobs/p/d1b109a6-58b7-44a3-8f0d-f218c896370a",
+            "https://simplify.jobs/p/1421431b-ee3b-4b28-b0be-5939c60ce29b",
+            "https://simplify.jobs/p/4388d2b7-1db2-48f0-9a19-d0a507325ca8",
+            "https://simplify.jobs/p/5717ebc4-2dd1-4c3c-b6c9-4c0f1852e31a",
+            "https://simplify.jobs/p/a4d60c96-41c7-4910-868f-209db98b953c",
+            "https://simplify.jobs/p/a87b5fe2-d9d8-48e7-b330-39a40d3088b6",
+            "https://simplify.jobs/p/caffb303-d8dd-47dd-9f60-54d863c58335",
+            "https://simplify.jobs/p/6d6c159b-3efe-4228-ac8e-22aa958fb8f2",
+            "https://simplify.jobs/p/10dc0728-ebb9-4b22-b529-89f376b30e93",
+            "https://simplify.jobs/p/6677ee34-5236-4d72-a9f0-40a1b0ec9227",
+            "https://simplify.jobs/p/696a07de-2f62-4c57-a4f1-3ca7aafc074f",
+            "https://simplify.jobs/p/5c963361-407c-460e-b8be-87eeff139db5",
+            "https://simplify.jobs/p/74801ff9-78bb-408c-aeb8-991527f809e8",
+            "https://simplify.jobs/p/b2c6199d-57c1-4fbb-9de4-1dbb413f3c65",
+            "https://simplify.jobs/p/7162223f-d901-4fff-b611-efabc6e5abce",
+            "https://simplify.jobs/p/de930e2a-dc89-4d37-9ba8-a81206dce5c6",
+            "https://simplify.jobs/p/47d621be-b576-487a-b9f7-cf67475de10c",
+            "https://simplify.jobs/p/4506de68-0345-4100-ae80-9c4008c8db0f",
+            "https://simplify.jobs/p/fc58f590-9e9b-4b9d-9262-f7a7cae2d464",
+            "https://simplify.jobs/p/bce73b16-47b6-4170-86c3-8da8216579de",
+            "https://simplify.jobs/p/ad41f039-3c18-4399-bce0-ac21b2f617ec",
+            "https://simplify.jobs/p/9560628e-382e-4abf-8490-b978e15d27fe",
+            "https://simplify.jobs/p/932484fb-a927-4a15-9975-c10859273e8e",
+            "https://simplify.jobs/p/6e49662c-f403-4d54-acb4-df81b23afb54",
+            "https://simplify.jobs/p/542b64c8-2818-4c7a-ac2e-819703cd81c0",
+            "https://simplify.jobs/p/f91bd59e-d676-4e4a-989d-4faa02dba3d3",
+            "https://simplify.jobs/p/58d76026-06e1-4eda-b528-b3b0a38ec9d0",
+            "https://simplify.jobs/p/7b4418e9-7bf5-406f-ae87-67a80d64b411",
+            "https://simplify.jobs/p/ff8e5ead-dfcf-475e-969e-b6c251dce6ae",
+            "https://simplify.jobs/p/3dbcee54-b89f-4ded-a74d-6acab2f32410",
+            "https://simplify.jobs/p/b2f3978d-c756-4403-b415-41f4b1a5826b",
+            "https://simplify.jobs/p/560db1fb-22f5-4680-b792-9bf27494b76e",
+            "https://simplify.jobs/p/d97d15b1-1e5d-4fcf-8640-1261f9169aea",
+            "https://simplify.jobs/p/51fe32fd-f8f8-4aa8-aa29-d1a0b213bed5",
+            "https://simplify.jobs/p/42fd1db9-f60e-4e19-9ba2-5ee6a6c2c4b4",
+            "https://simplify.jobs/p/e388f3ae-1f83-414c-aa91-7073a448bb2e",
+            "https://simplify.jobs/p/5c6a7acc-7059-4cd2-b311-ad9527733e79"
           ],
-          "extractedPublicLinkCount": 147,
-          "officialCandidateCount": 9,
-          "matchedMessageCount": 2,
-          "newCandidateUrlCount": 147,
+          "extractedPublicLinkCount": 73,
+          "officialCandidateCount": 5,
+          "matchedMessageCount": 1,
+          "newCandidateUrlCount": 73,
           "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 47
+          "officialCandidateReviewCount": 40
         },
-        "note": "Read-only recovery scan covered the complete 2026-08-17 and 2026-08-18 America/Los_Angeles calendar-day windows. Two matching SWELIST messages yielded 147 unique new public job leads. Nine verified job cards were admitted; mailbox state was not changed and no mailbox metadata was persisted."
+        "note": "Read-only scan covered the complete 2026-08-19 America/Los_Angeles calendar-day window. One matching SWELIST message yielded 73 unique new public job leads. Five verified job cards were admitted; mailbox state was not changed and no mailbox metadata was persisted."
       }
     },
     "sourceMentions": {
@@ -2930,12 +3011,52 @@
         "swelist-email"
       ],
       "https://careers-sig.icims.com/jobs/11321/job": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "speedyapply"
       ],
       "https://x.company/careers/8722582002": [
         "swelist-email"
       ],
       "https://careers.msasafety.com/jobs/9830": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7675829388634392837": [
+        "speedyapply"
+      ],
+      "https://job-boards.greenhouse.io/nisc/jobs/8142867": [
+        "speedyapply"
+      ],
+      "https://prometheum.applytojob.com/apply/Lmc9MW6rCq/Software-Engineer-1-FullStack": [
+        "speedyapply"
+      ],
+      "https://apply.workable.com/315/j/CAC111C86E": [
+        "speedyapply"
+      ],
+      "https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314": [
+        "speedyapply"
+      ],
+      "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137244": [
+        "speedyapply"
+      ],
+      "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2": [
+        "speedyapply"
+      ],
+      "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076": [
+        "speedyapply"
+      ],
+      "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0": [
+        "swelist-email"
+      ],
+      "https://joinbytedance.com/search/7675477660855781637": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7675510156642142469": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7675484418022181173": [
         "swelist-email"
       ]
     },
@@ -2988,6 +3109,16 @@
         "currentCanonicalUrl": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
         "possiblePriorCanonicalUrls": [],
         "reason": "Same company, similar title, and location as a historical requisition; link-replacement status is unresolved.",
+        "status": "needs-review"
+      },
+      {
+        "company": "State Street",
+        "role": "Software Engineer - CRD - New Graduate",
+        "currentCanonicalUrl": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
+        "possiblePriorCanonicalUrls": [
+          "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953"
+        ],
+        "reason": "Same company, title and location with a new requisition, but the official candidate endpoint did not return verifiable details; no second card was created.",
         "status": "needs-review"
       }
     ],
@@ -3455,6 +3586,66 @@
       {
         "canonicalUrl": "https://gf.wd1.myworkdayjobs.com/en-US/external/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832",
         "reason": "Official title limits the role to the 2026 New College Graduate cycle."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
+        "reason": "Official page states that sponsorship is not offered."
+      },
+      {
+        "canonicalUrl": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Software-Engineer--Test-Automation_JR-207707-1",
+        "reason": "Official page states that the role cannot sponsor or transfer employment visas."
+      },
+      {
+        "canonicalUrl": "https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057",
+        "reason": "Official page states that employment sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://healthcatalyst.wd5.myworkdayjobs.com/en-US/healthcatalystcareers/job/Salt-Lake-City-UT/Jr-DevOps-Engineer--Interoperability_REQ-3280",
+        "reason": "Official page states that the position is not eligible for visa sponsorship."
+      },
+      {
+        "canonicalUrl": "https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Payments-Tech---Java-Developer_R0074687",
+        "reason": "Official page states that sponsorship is unavailable, including F-1, OPT and H-1B."
+      },
+      {
+        "canonicalUrl": "https://pnc.wd5.myworkdayjobs.com/en-US/external/job/PA---Pittsburgh-15222/Software-Developer-Associate_R217594-1",
+        "reason": "Official page states that visa sponsorship and STEM OPT participation are unavailable."
+      },
+      {
+        "canonicalUrl": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Austin/Software-Engineer_R0337305-2",
+        "reason": "Official page states that visa sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/seeq/j/6F40FF632B",
+        "reason": "Official page states that Seeq does not sponsor U.S. F-1 or H-1B work visas."
+      },
+      {
+        "canonicalUrl": "https://jobs.keysight.com/external/jobs/53966",
+        "reason": "Official page states that visa sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://www.noom.com/careers/job-listings/?gh_jid=8140376",
+        "reason": "Official qualification requires the degree to be completed or expected within six months, which is incompatible with a June 2027 graduation at this scan date."
+      },
+      {
+        "canonicalUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395",
+        "reason": "Official page states that current or future employment sponsorship is unavailable."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7668854153882011957",
+        "reason": "Official posting is limited to PhD candidates."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7668838052657678597",
+        "reason": "Official posting is limited to PhD candidates."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7668831188103481605",
+        "reason": "Official posting is limited to PhD candidates."
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189",
+        "reason": "Official page requires U.S. citizenship and eligibility for a security clearance."
       }
     ],
     "officialVerificationNeedsReview": [
@@ -3462,13 +3653,38 @@
         "canonicalUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086",
         "reason": "The official Workday candidate endpoint returned access denied and did not expose verifiable requisition details; this candidate is held out until the official page can be verified.",
         "status": "needs-review"
+      },
+      {
+        "canonicalUrl": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
+        "reason": "The official candidate endpoint returned no verifiable requisition details; the role is held out as a possible link replacement for R-795953.",
+        "status": "needs-review"
+      },
+      {
+        "canonicalUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260770",
+        "reason": "The official page exposed the public role summary but not complete timing, sponsorship and qualification details; the candidate is held out.",
+        "status": "needs-review"
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002",
+        "reason": "The official page contains export-control eligibility language; no candidate-specific legal inference was made and the role is held out.",
+        "status": "needs-review"
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+        "reason": "The official page contains export-control eligibility language; no candidate-specific legal inference was made and the role is held out.",
+        "status": "needs-review"
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002",
+        "reason": "The official page contains export-control eligibility language; no candidate-specific legal inference was made and the role is held out.",
+        "status": "needs-review"
       }
     ]
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-19T22:30:00-07:00",
-  "lastSuccessfulScanAt": "2026-08-19T22:30:00-07:00",
-  "lastSourceUpdatedAt": "2026-08-19T22:30:00-07:00",
+  "lastScanStartedAt": "2026-08-20T08:30:39-07:00",
+  "lastSuccessfulScanAt": "2026-08-20T08:30:39-07:00",
+  "lastSourceUpdatedAt": "2026-08-20T08:30:39-07:00",
   "seenCanonicalUrls": [
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C",
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -4945,7 +5161,51 @@
     "http://omegahires.applytojob.com/apply/jJzxCq99z7/GCP-Cloud-Infra-Engineer",
     "https://www.esri.com/careers/5205997007",
     "https://www.esri.com/careers/5173239007",
-    "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36"
+    "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36",
+    "https://lifeattiktok.com/search/7675829388634392837",
+    "https://www.google.com/about/careers/applications/jobs/results/101300536594047686",
+    "https://lifeattiktok.com/search/7668854153882011957",
+    "https://lifeattiktok.com/search/7668838052657678597",
+    "https://lifeattiktok.com/search/7668831188103481605",
+    "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+    "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
+    "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+    "https://job-boards.greenhouse.io/nisc/jobs/8142867",
+    "https://job-boards.greenhouse.io/testnisc/jobs/8142924",
+    "https://job-boards.greenhouse.io/testnisc/jobs/8142921",
+    "https://job-boards.greenhouse.io/testnisc/jobs/8142918",
+    "http://omegahires.applytojob.com/apply/QsO1Ex3b6l/Java-AWS-Developer",
+    "http://omegahires.applytojob.com/apply/uk9wgVVYYW/SAP-ABAP-Developer",
+    "https://prometheum.applytojob.com/apply/Lmc9MW6rCq/Software-Engineer-1-FullStack",
+    "https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002",
+    "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+    "https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002",
+    "https://apply.workable.com/315/j/CAC111C86E",
+    "https://autodesk.wd1.myworkdayjobs.com/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
+    "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Software-Engineer--Test-Automation_JR-207707-1",
+    "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057",
+    "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Launch-and-Test-Engineer-III--Ground-Software-_R70730-1",
+    "https://centific.wd1.myworkdayjobs.com/centific_global/job/Redmond-Washington/Software-Engineer_JR108257-1",
+    "https://globalfoundries.wd1.myworkdayjobs.com/external/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832",
+    "https://healthcatalyst.wd5.myworkdayjobs.com/healthcatalystcareers/job/Salt-Lake-City-UT/Jr-DevOps-Engineer--Interoperability_REQ-3280",
+    "https://huntington.wd12.myworkdayjobs.com/hnbcareers/job/Columbus-OH/Payments-Tech---Java-Developer_R0074687",
+    "https://jobs.lever.co/jobgether/269037b6-9534-43cd-97c8-a005df7a4314",
+    "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314",
+    "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Footwear-Product-Developer_R-90233",
+    "https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137244",
+    "https://pnc.wd5.myworkdayjobs.com/external/job/PA---Pittsburgh-15222/Software-Developer-Associate_R217594-1",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189",
+    "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
+    "https://thales.wd3.myworkdayjobs.com/careers/job/Austin/Software-Engineer_R0337305-2",
+    "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+    "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076",
+    "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Mission-Systems--MS--Software-Stores-Management-Computing--SMS--Manager_JR2026520964",
+    "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Mission-Systems--MS--Software-Test-and-Infrastructure-Manager_JR2026520967-1",
+    "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Mission-Systems--MS--Software-Stores-Management-Computing--SMS--Manager_JR2026520964-1",
+    "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Mission-Systems--MS--Software-Test-and-Infrastructure-Manager_JR2026520967",
+    "https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
+    "http://henryscheinone.applytojob.com/apply/OYTDJSu9dE/Software-Trainer-I-Clinical"
   ],
-  "baselineEntryCount": 1476
+  "baselineEntryCount": 1520
 }
