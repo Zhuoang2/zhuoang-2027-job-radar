@@ -1,6 +1,11 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
+import {
+  canonicalDirections,
+  jobMatchesDirection,
+  selectVisibleJob,
+} from "../lib/job-taxonomy.mjs";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -43,15 +48,17 @@ test("server-renders the job radar dashboard", async () => {
 });
 
 test("keeps the public job and application datasets privacy-safe", async () => {
-  const [jobsText, stateText, applicationsText, automationText] = await Promise.all([
+  const [jobsText, stateText, dispositionsText, applicationsText, automationText] = await Promise.all([
     readFile(new URL("../data/jobs.json", import.meta.url), "utf8"),
     readFile(new URL("../data/source-state.json", import.meta.url), "utf8"),
+    readFile(new URL("../data/candidate-dispositions.json", import.meta.url), "utf8"),
     readFile(new URL("../data/applications.json", import.meta.url), "utf8"),
     readFile(new URL("../AUTOMATION.md", import.meta.url), "utf8"),
   ]);
 
   const jobs = JSON.parse(jobsText);
   const state = JSON.parse(stateText);
+  const dispositionLedger = JSON.parse(dispositionsText);
   const applications = JSON.parse(applicationsText);
   assert.ok(jobs.length >= 20);
   assert.equal(state.seenCanonicalUrls.length, state.baselineEntryCount);
@@ -65,12 +72,23 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(state.sourceMonitoring.sources["swelist-email"].role, "email-lead");
   assert.equal(
     state.sourceMonitoring.sources["swelist-email"].baseline.mode,
-    "normalized-public-candidate-urls",
+    "normalized-public-candidate-urls-with-dispositions",
   );
   assert.equal(state.sourceMonitoring.sources.speedyapply.role, "primary");
   assert.equal(state.sourceMonitoring.sources.vanshb03.role, "supplemental");
   assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
   assert.ok(Array.isArray(state.sourceMonitoring.suspectedDuplicates));
+  assert.ok(
+    state.sourceMonitoring.suspectedDuplicates.every(
+      (candidate) =>
+        candidate.status === "needs-review" &&
+        typeof candidate.firstSeenAt === "string" &&
+        typeof candidate.lastAttemptAt === "string" &&
+        typeof candidate.retryAfter === "string" &&
+        dispositionLedger.candidates[candidate.currentCanonicalUrl]?.status === "needs-review",
+    ),
+    "suspected duplicates must stay retryable until resolved",
+  );
   assert.equal(new Set(jobs.map((job) => job.id)).size, jobs.length);
   assert.equal(new Set(jobs.map((job) => job.canonicalUrl)).size, jobs.length);
   assert.match(
@@ -82,8 +100,60 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     state.sourceMonitoring.officialVerificationNeedsReview.every(
       (candidate) =>
         candidate.status === "needs-review" &&
+        typeof candidate.firstSeenAt === "string" &&
+        typeof candidate.lastAttemptAt === "string" &&
+        typeof candidate.retryAfter === "string" &&
         !jobs.some((job) => job.canonicalUrl === candidate.canonicalUrl),
     ),
+  );
+  assert.equal(
+    dispositionLedger.checkedAt,
+    state.sourceMonitoring.candidateDispositionLedger.lastCheckedAt,
+  );
+  assert.equal(
+    Object.keys(dispositionLedger.candidates).length,
+    state.sourceMonitoring.candidateDispositionLedger.entryCount,
+  );
+  const dispositionValues = Object.values(dispositionLedger.candidates);
+  const allowedDispositions = new Set([
+    "admitted",
+    "hard-excluded",
+    "preference-excluded",
+    "out-of-scope",
+    "duplicate",
+    "needs-review",
+  ]);
+  assert.ok(dispositionValues.length > 0);
+  assert.ok(
+    dispositionValues.every((candidate) =>
+      allowedDispositions.has(candidate.status),
+    ),
+  );
+  assert.ok(
+    dispositionValues
+      .filter((candidate) => candidate.status === "needs-review")
+      .every(
+        (candidate) =>
+          typeof candidate.firstSeenAt === "string" &&
+          typeof candidate.lastAttemptAt === "string" &&
+          typeof candidate.retryAfter === "string",
+      ),
+    "retryable candidates must not be suppressed without retry metadata",
+  );
+  assert.ok(
+    state.sourceMonitoring.officialVerificationNeedsReview.every(
+      (candidate) =>
+        dispositionLedger.candidates[candidate.canonicalUrl]?.status === "needs-review",
+    ),
+    "every official retry queue entry must be represented in the disposition ledger",
+  );
+  assert.equal(
+    state.sourceMonitoring.sources["swelist-email"].baseline.entryCount,
+    state.sourceMonitoring.sources["swelist-email"].baseline.seenCandidateCanonicalUrls.length,
+  );
+  assert.ok(
+    state.sourceMonitoring.sources["swelist-email"].baseline.entryCount >= 949,
+    "the SWELIST baseline must be unioned rather than replaced by a shorter window",
   );
   assert.ok(
     jobs.every(
@@ -92,6 +162,36 @@ test("keeps the public job and application datasets privacy-safe", async () => {
         ["confirmed-2027", "timing-check"].includes(job.startTiming) &&
         ["confirmed", "opt-accepted", "unknown"].includes(job.sponsorship),
     ),
+  );
+  assert.ok(
+    jobs.every(
+      (job) =>
+        job.directions.length > 0 &&
+        new Set(job.directions).size === job.directions.length &&
+        job.directions.every((direction) =>
+          canonicalDirections.includes(direction),
+        ),
+    ),
+    "every job should use only canonical direction tags",
+  );
+  const bytedanceRecommendationRole = jobs.find(
+    (job) => job.id === "bytedance-research-scientist-recommendation-2027",
+  );
+  assert.ok(bytedanceRecommendationRole);
+  assert.equal(
+    jobMatchesDirection(bytedanceRecommendationRole.directions, "Quant"),
+    false,
+    "the ByteDance recommendation-research role must not leak into Quant",
+  );
+  assert.doesNotMatch(bytedanceRecommendationRole.resumeTrack, /Quant/i);
+  const genericDataScientistRole = jobs.find(
+    (job) => job.id === "sciemo-data-scientist-63626f61",
+  );
+  assert.ok(genericDataScientistRole);
+  assert.equal(
+    jobMatchesDirection(genericDataScientistRole.directions, "Quant"),
+    false,
+    "generic quantitative methods alone must not create a Quant tag",
   );
   assert.ok(Array.isArray(applications.applications));
   assert.ok(
@@ -122,7 +222,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     }),
   );
   assert.doesNotMatch(
-    `${jobsText}\n${stateText}\n${applicationsText}`,
+    `${jobsText}\n${stateText}\n${dispositionsText}\n${applicationsText}`,
     /@stanford\.edu|@gmail\.com|@swelist\.com|comstock|date of birth|birthday|phone number/i,
   );
 
@@ -148,4 +248,18 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     }
   };
   visit(state);
+  visit(dispositionLedger);
+});
+
+test("direction filtering cannot retain an out-of-filter detail card", () => {
+  const jobs = [
+    { id: "quant-role", directions: ["Quant"] },
+    { id: "ml-role", directions: ["AI/ML"] },
+  ];
+  const quantJobs = jobs.filter((job) =>
+    jobMatchesDirection(job.directions, "Quant"),
+  );
+
+  assert.deepEqual(quantJobs.map((job) => job.id), ["quant-role"]);
+  assert.equal(selectVisibleJob(quantJobs, "ml-role")?.id, "quant-role");
 });

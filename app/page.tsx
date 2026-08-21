@@ -18,6 +18,12 @@ import { useEffect, useMemo, useState } from "react";
 import applicationsData from "../data/applications.json";
 import jobsData from "../data/jobs.json";
 import sourceState from "../data/source-state.json";
+import {
+  directionLabels,
+  directionOptions,
+  jobMatchesDirection,
+  selectVisibleJob,
+} from "../lib/job-taxonomy.mjs";
 
 type SortKey = "priority" | "newest" | "fit";
 type ViewKey = "jobs" | "applications";
@@ -50,13 +56,6 @@ const sponsorshipLabel: Record<string, string> = {
   confirmed: "支持 Sponsorship",
   "opt-accepted": "接受 OPT",
   unknown: "Sponsorship 未说明",
-};
-
-const directionLabel: Record<string, string> = {
-  Quant: "Quant",
-  "AI/ML": "AI / ML",
-  "ML Systems": "ML Systems",
-  "SWE/Data Infra": "SWE / Data Infra",
 };
 
 const applicationStatusLabel: Record<string, string> = {
@@ -149,7 +148,7 @@ export default function Home() {
         return (
           (!normalizedQuery || searchable.includes(normalizedQuery)) &&
           (tier === "all" || job.fitTier === tier) &&
-          (direction === "all" || job.directions.includes(direction)) &&
+          jobMatchesDirection(job.directions, direction) &&
           (sponsorship === "all" || job.sponsorship === sponsorship) &&
           (timing === "all" || job.startTiming === timing)
         );
@@ -171,14 +170,11 @@ export default function Home() {
       });
   }, [availableJobs, query, tier, direction, sponsorship, timing, sortBy]);
 
-  const selectedJob =
-    availableJobs.find((job) => job.id === selectedId) ??
-    filteredJobs[0] ??
-    availableJobs[0];
-  const confirmedCount = availableJobs.filter(
+  const selectedJob = selectVisibleJob(filteredJobs, selectedId);
+  const confirmedCount = filteredJobs.filter(
     (job) => job.startTiming === "confirmed-2027",
   ).length;
-  const priorityCount = availableJobs.filter(
+  const priorityCount = filteredJobs.filter(
     (job) => job.fitTier === "priority",
   ).length;
   const activeFilters = [tier, direction, sponsorship, timing].filter(
@@ -260,7 +256,7 @@ export default function Home() {
         <>
           <section className="summary-strip" aria-label="岗位概览">
             <div>
-              <strong>{availableJobs.length}</strong>
+              <strong>{filteredJobs.length}</strong>
               <span>已筛选岗位</span>
             </div>
             <div>
@@ -302,13 +298,7 @@ export default function Home() {
               label="方向"
               value={direction}
               onChange={setDirection}
-              options={[
-                ["all", "全部方向"],
-                ["Quant", "Quant"],
-                ["AI/ML", "AI / ML"],
-                ["ML Systems", "ML Systems"],
-                ["SWE/Data Infra", "SWE / Data Infra"],
-              ]}
+              options={[["all", "全部方向"], ...directionOptions]}
             />
             <FilterSelect
               label="签证信息"
@@ -444,7 +434,7 @@ export default function Home() {
               </div>
               <div>
                 <span>岗位方向</span>
-                <strong>{selectedJob.directions.map((item) => directionLabel[item]).join(" · ")}</strong>
+                <strong>{selectedJob.directions.map((item) => directionLabels[item] ?? item).join(" · ")}</strong>
               </div>
               <div>
                 <span>资格判断</span>
