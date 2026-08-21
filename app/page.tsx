@@ -28,7 +28,7 @@ import {
 } from "../lib/job-taxonomy.mjs";
 
 type SortKey = "priority" | "newest" | "fit";
-type ViewKey = "jobs" | "applications" | "skipped";
+type ViewKey = "jobs" | "handled";
 type ApplicationStatus =
   | "applying"
   | "needs-review"
@@ -72,6 +72,8 @@ const applicationStatusLabel: Record<string, string> = {
   paused: "暂停",
   skipped: "不投递",
 };
+
+const radarJobIds = new Set(jobsData.map((job) => job.id));
 
 function mergeApplications(
   base: ApplicationRecord[],
@@ -131,14 +133,6 @@ export default function Home() {
 
   const applicationsById = useMemo(
     () => new Map(applications.map((application) => [application.id, application])),
-    [applications],
-  );
-  const activeApplications = useMemo(
-    () => applications.filter((application) => application.status !== "skipped"),
-    [applications],
-  );
-  const skippedApplications = useMemo(
-    () => applications.filter((application) => application.status === "skipped"),
     [applications],
   );
   const availableJobs = useMemo(
@@ -290,18 +284,11 @@ export default function Home() {
           岗位 <span>{availableJobs.length}</span>
         </button>
         <button
-          className={view === "applications" ? "active" : ""}
-          onClick={() => setView("applications")}
+          className={view === "handled" ? "active" : ""}
+          onClick={() => setView("handled")}
           type="button"
         >
-          申请记录 <span>{activeApplications.length}</span>
-        </button>
-        <button
-          className={view === "skipped" ? "active" : ""}
-          onClick={() => setView("skipped")}
-          type="button"
-        >
-          不投递 <span>{skippedApplications.length}</span>
+          已处理 <span>{applications.length}</span>
         </button>
       </nav>
 
@@ -551,69 +538,47 @@ export default function Home() {
         </>
       )}
 
-      {view === "applications" && (
-        <section className="applications-panel" aria-label="申请记录">
+      {view === "handled" && (
+        <section className="applications-panel" aria-label="已处理岗位">
           <div className="applications-toolbar">
-            <strong>申请记录</strong>
-            <span>{activeApplications.length} 个岗位</span>
+            <strong>已处理</strong>
+            <span>{applications.length} 个岗位</span>
           </div>
-          {activeApplications.length > 0 ? (
+          {applications.length > 0 ? (
             <div className="application-rows">
-              {activeApplications.map((application) => (
+              {applications.map((application) => (
                 <div className="application-row" key={application.id}>
                   <div>
                     <strong>{application.company}</strong>
                     {application.role && <span>{application.role}</span>}
                   </div>
-                  <span className={`application-status status-${application.status}`}>
-                    {applicationStatusLabel[application.status] ?? application.status}
-                  </span>
+                  <div className="application-row-actions">
+                    <span className={`application-status status-${application.status}`}>
+                      {applicationStatusLabel[application.status] ?? application.status}
+                    </span>
+                    {application.status === "skipped" &&
+                      radarJobIds.has(application.id) && (
+                      <button
+                        className="restore-button"
+                        disabled={savingApplicationId === application.id}
+                        onClick={() => restoreJob(application)}
+                        type="button"
+                      >
+                        <RotateCcw size={14} />
+                        {savingApplicationId === application.id
+                          ? "正在恢复…"
+                          : "恢复到岗位列表"}
+                      </button>
+                    )}
+                  </div>
                 </div>
               ))}
             </div>
           ) : (
             <div className="empty-state application-empty">
               <BriefcaseBusiness size={22} />
-              <strong>还没有申请记录</strong>
-              <span>开始申请后，这里只显示公司、岗位和当前状态。</span>
-            </div>
-          )}
-        </section>
-      )}
-
-      {view === "skipped" && (
-        <section className="applications-panel" aria-label="不投递岗位">
-          <div className="applications-toolbar">
-            <strong>不投递</strong>
-            <span>{skippedApplications.length} 个岗位</span>
-          </div>
-          {skippedApplications.length > 0 ? (
-            <div className="application-rows">
-              {skippedApplications.map((application) => (
-                <div className="application-row" key={application.id}>
-                  <div>
-                    <strong>{application.company}</strong>
-                    {application.role && <span>{application.role}</span>}
-                  </div>
-                  <button
-                    className="restore-button"
-                    disabled={savingApplicationId === application.id}
-                    onClick={() => restoreJob(application)}
-                    type="button"
-                  >
-                    <RotateCcw size={14} />
-                    {savingApplicationId === application.id
-                      ? "正在恢复…"
-                      : "恢复到岗位列表"}
-                  </button>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="empty-state application-empty">
-              <Trash2 size={22} />
-              <strong>还没有不投递的岗位</strong>
-              <span>在岗位详情中点击“不投递”后，岗位会保存在这里。</span>
+              <strong>还没有已处理的岗位</strong>
+              <span>已提交或标记为不投递的岗位会显示在这里。</span>
             </div>
           )}
           {statusError && <p className="status-error list-status-error" role="alert">{statusError}</p>}

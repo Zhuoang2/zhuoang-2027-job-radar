@@ -38,8 +38,8 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /美国 New Grad 全职岗位/);
   assert.match(html, /SpeedyApply/);
   assert.match(html, /优先申请/);
-  assert.match(html, /申请记录/);
-  assert.match(html, /不投递/);
+  assert.match(html, /已处理/);
+  assert.doesNotMatch(html, /申请记录/);
   assert.match(html, /Optiver/);
   assert.match(html, /查看官方岗位/);
   assert.match(html, /标记为已提交/);

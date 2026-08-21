@@ -798,6 +798,20 @@ a {
   white-space: nowrap;
 }
 
+.application-row-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.application-row-actions .application-status {
+  display: inline-block;
+  margin-top: 0;
+  overflow: visible;
+  text-overflow: clip;
+}
+
 .application-status {
   padding: 4px 8px;
   border-radius: 4px;
@@ -925,6 +939,15 @@ a {
   .detail-pane {
     border-top: 1px solid var(--line);
     padding: 20px;
+  }
+
+  .application-row {
+    gap: 12px;
+  }
+
+  .application-row-actions {
+    align-items: flex-end;
+    flex-direction: column;
   }
 }
 
