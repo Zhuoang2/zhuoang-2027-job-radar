@@ -122,9 +122,20 @@ export default function Home() {
     };
   }, []);
 
+  const applicationsById = useMemo(
+    () => new Map(applications.map((application) => [application.id, application])),
+    [applications],
+  );
+  const availableJobs = useMemo(
+    () =>
+      jobsData.filter(
+        (job) => applicationsById.get(job.id)?.status !== "submitted",
+      ),
+    [applicationsById],
+  );
   const filteredJobs = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
-    return jobsData
+    return availableJobs
       .filter((job) => {
         const searchable = [
           job.company,
@@ -158,25 +169,18 @@ export default function Home() {
           b.fitScore - a.fitScore
         );
       });
-  }, [query, tier, direction, sponsorship, timing, sortBy]);
+  }, [availableJobs, query, tier, direction, sponsorship, timing, sortBy]);
 
   const selectedJob =
-    jobsData.find((job) => job.id === selectedId) ?? filteredJobs[0] ?? jobsData[0];
-  const applicationsById = useMemo(
-    () => new Map(applications.map((application) => [application.id, application])),
-    [applications],
-  );
-  const activeApplications = useMemo(
-    () => applications.filter((application) => application.status !== "submitted"),
-    [applications],
-  );
-  const selectedApplication = selectedJob
-    ? applicationsById.get(selectedJob.id)
-    : undefined;
-  const confirmedCount = jobsData.filter(
+    availableJobs.find((job) => job.id === selectedId) ??
+    filteredJobs[0] ??
+    availableJobs[0];
+  const confirmedCount = availableJobs.filter(
     (job) => job.startTiming === "confirmed-2027",
   ).length;
-  const priorityCount = jobsData.filter((job) => job.fitTier === "priority").length;
+  const priorityCount = availableJobs.filter(
+    (job) => job.fitTier === "priority",
+  ).length;
   const activeFilters = [tier, direction, sponsorship, timing].filter(
     (value) => value !== "all",
   ).length;
@@ -241,14 +245,14 @@ export default function Home() {
           onClick={() => setView("jobs")}
           type="button"
         >
-          岗位 <span>{jobsData.length}</span>
+          岗位 <span>{availableJobs.length}</span>
         </button>
         <button
           className={view === "applications" ? "active" : ""}
           onClick={() => setView("applications")}
           type="button"
         >
-          申请记录 <span>{activeApplications.length}</span>
+          申请记录 <span>{applications.length}</span>
         </button>
       </nav>
 
@@ -256,7 +260,7 @@ export default function Home() {
         <>
           <section className="summary-strip" aria-label="岗位概览">
             <div>
-              <strong>{jobsData.length}</strong>
+              <strong>{availableJobs.length}</strong>
               <span>已筛选岗位</span>
             </div>
             <div>
@@ -378,9 +382,6 @@ export default function Home() {
                   <span>{job.ageDays === null ? "发布日期待同步" : `${job.ageDays}d`}</span>
                 </div>
                 <div className="row-badges">
-                  {applicationsById.get(job.id)?.status === "submitted" && (
-                    <span className="badge application-submitted-badge">已提交</span>
-                  )}
                   <span className={`badge tier-${job.fitTier}`}>
                     {tierLabel[job.fitTier]}
                   </span>
@@ -472,22 +473,15 @@ export default function Home() {
                   </a>
                 ))}
               <button
-                className={`status-button ${
-                  selectedApplication?.status === "submitted" ? "recorded" : ""
-                }`}
-                disabled={
-                  selectedApplication?.status === "submitted" ||
-                  savingApplicationId === selectedJob.id
-                }
+                className="status-button"
+                disabled={savingApplicationId === selectedJob.id}
                 onClick={() => markSubmitted(selectedJob)}
                 type="button"
               >
                 <CheckCircle2 size={16} />
-                {selectedApplication?.status === "submitted"
-                  ? "已记录提交"
-                  : savingApplicationId === selectedJob.id
-                    ? "正在保存…"
-                    : "标记为已提交"}
+                {savingApplicationId === selectedJob.id
+                  ? "正在保存…"
+                  : "标记为已提交"}
               </button>
             </div>
 
@@ -507,11 +501,11 @@ export default function Home() {
         <section className="applications-panel" aria-label="申请记录">
           <div className="applications-toolbar">
             <strong>申请记录</strong>
-            <span>{activeApplications.length} 个岗位</span>
+            <span>{applications.length} 个岗位</span>
           </div>
-          {activeApplications.length > 0 ? (
+          {applications.length > 0 ? (
             <div className="application-rows">
-              {activeApplications.map((application) => (
+              {applications.map((application) => (
                 <div className="application-row" key={application.id}>
                   <div>
                     <strong>{application.company}</strong>
@@ -526,8 +520,8 @@ export default function Home() {
           ) : (
             <div className="empty-state application-empty">
               <BriefcaseBusiness size={22} />
-              <strong>没有进行中的申请</strong>
-              <span>已提交岗位会保留在岗位列表中，不在这里重复显示。</span>
+              <strong>还没有申请记录</strong>
+              <span>开始申请后，这里只显示公司、岗位和当前状态。</span>
             </div>
           )}
         </section>

@@ -37,6 +37,8 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /Optiver/);
   assert.match(html, /查看官方岗位/);
   assert.match(html, /标记为已提交/);
+  assert.doesNotMatch(html, /DV Trading/);
+  assert.doesNotMatch(html, /已记录提交/);
   assert.match(html, /name="robots" content="noindex, nofollow"/i);
 });
 
@@ -98,6 +100,15 @@ test("keeps the public job and application datasets privacy-safe", async () => {
         application.id === "dv-trading-2027-graduate-swe-4719126005" &&
         application.status === "submitted",
     ),
+  );
+  const submittedIds = new Set(
+    applications.applications
+      .filter((application) => application.status === "submitted")
+      .map((application) => application.id),
+  );
+  assert.ok(
+    jobs.some((job) => submittedIds.has(job.id)),
+    "submitted applications should retain their public job record for the applications view",
   );
   assert.ok(
     applications.applications.every((application) => {
