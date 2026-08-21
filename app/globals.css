@@ -473,6 +473,11 @@ a {
   background: var(--green-soft);
 }
 
+.application-submitted-badge {
+  color: white;
+  background: var(--green);
+}
+
 .tier-recommended,
 .sponsorship-unknown {
   color: var(--blue);
@@ -629,6 +634,39 @@ a {
 
 .apply-button:hover {
   background: var(--green);
+}
+
+.status-button {
+  height: 38px;
+  padding: 0 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--green);
+  background: var(--green-soft);
+  border: 1px solid #bddbcb;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 650;
+}
+
+.status-button:hover:not(:disabled) {
+  color: white;
+  background: var(--green);
+  border-color: var(--green);
+}
+
+.status-button.recorded,
+.status-button:disabled {
+  cursor: default;
+  opacity: 0.82;
+}
+
+.status-error {
+  margin: 10px 0 0;
+  color: var(--red);
+  font-size: 11px;
 }
 
 .alternate-link {

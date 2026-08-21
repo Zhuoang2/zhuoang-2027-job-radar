@@ -36,6 +36,7 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /申请记录/);
   assert.match(html, /Optiver/);
   assert.match(html, /查看官方岗位/);
+  assert.match(html, /标记为已提交/);
   assert.match(html, /name="robots" content="noindex, nofollow"/i);
 });
 
@@ -91,6 +92,13 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     ),
   );
   assert.ok(Array.isArray(applications.applications));
+  assert.ok(
+    applications.applications.some(
+      (application) =>
+        application.id === "dv-trading-2027-graduate-swe-4719126005" &&
+        application.status === "submitted",
+    ),
+  );
   assert.ok(
     applications.applications.every((application) => {
       const fields = Object.keys(application).sort();

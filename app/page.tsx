@@ -14,13 +14,20 @@ import {
   ShieldCheck,
   SlidersHorizontal,
 } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import applicationsData from "../data/applications.json";
 import jobsData from "../data/jobs.json";
 import sourceState from "../data/source-state.json";
 
 type SortKey = "priority" | "newest" | "fit";
 type ViewKey = "jobs" | "applications";
+type ApplicationStatus = "applying" | "needs-review" | "submitted" | "paused";
+type ApplicationRecord = {
+  id: string;
+  company: string;
+  role?: string | null;
+  status: ApplicationStatus;
+};
 
 const tierOrder: Record<string, number> = {
   priority: 0,
@@ -59,6 +66,15 @@ const applicationStatusLabel: Record<string, string> = {
   paused: "暂停",
 };
 
+function mergeApplications(
+  base: ApplicationRecord[],
+  updates: ApplicationRecord[],
+) {
+  const merged = new Map(base.map((application) => [application.id, application]));
+  updates.forEach((application) => merged.set(application.id, application));
+  return [...merged.values()];
+}
+
 function formatScanTime(value: string) {
   return new Intl.DateTimeFormat("zh-CN", {
     month: "short",
@@ -78,6 +94,33 @@ export default function Home() {
   const [timing, setTiming] = useState("all");
   const [sortBy, setSortBy] = useState<SortKey>("priority");
   const [selectedId, setSelectedId] = useState(jobsData[0]?.id ?? "");
+  const [applications, setApplications] = useState<ApplicationRecord[]>(
+    applicationsData.applications as ApplicationRecord[],
+  );
+  const [savingApplicationId, setSavingApplicationId] = useState("");
+  const [statusError, setStatusError] = useState("");
+
+  useEffect(() => {
+    let active = true;
+
+    fetch("/api/applications")
+      .then(async (response) => {
+        if (!response.ok) throw new Error("Unable to load application statuses");
+        return (await response.json()) as { applications: ApplicationRecord[] };
+      })
+      .then((payload) => {
+        if (active) {
+          setApplications((current) => mergeApplications(current, payload.applications));
+        }
+      })
+      .catch(() => {
+        // The deployment-bundled record remains available if remote storage is offline.
+      });
+
+    return () => {
+      active = false;
+    };
+  }, []);
 
   const filteredJobs = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -119,6 +162,13 @@ export default function Home() {
 
   const selectedJob =
     jobsData.find((job) => job.id === selectedId) ?? filteredJobs[0] ?? jobsData[0];
+  const applicationsById = useMemo(
+    () => new Map(applications.map((application) => [application.id, application])),
+    [applications],
+  );
+  const selectedApplication = selectedJob
+    ? applicationsById.get(selectedJob.id)
+    : undefined;
   const confirmedCount = jobsData.filter(
     (job) => job.startTiming === "confirmed-2027",
   ).length;
@@ -133,6 +183,31 @@ export default function Home() {
     setDirection("all");
     setSponsorship("all");
     setTiming("all");
+  }
+
+  async function markSubmitted(job: (typeof jobsData)[number]) {
+    setSavingApplicationId(job.id);
+    setStatusError("");
+
+    try {
+      const response = await fetch("/api/applications", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ jobId: job.id, status: "submitted" }),
+      });
+      const payload = (await response.json()) as {
+        application?: ApplicationRecord;
+        error?: string;
+      };
+      if (!response.ok || !payload.application) {
+        throw new Error(payload.error ?? "Unable to save application status");
+      }
+      setApplications((current) => mergeApplications(current, [payload.application!]));
+    } catch {
+      setStatusError("保存失败，请稍后重试；现有记录没有改变。");
+    } finally {
+      setSavingApplicationId("");
+    }
   }
 
   return (
@@ -169,7 +244,7 @@ export default function Home() {
           onClick={() => setView("applications")}
           type="button"
         >
-          申请记录 <span>{applicationsData.applications.length}</span>
+          申请记录 <span>{applications.length}</span>
         </button>
       </nav>
 
@@ -299,6 +374,9 @@ export default function Home() {
                   <span>{job.ageDays === null ? "发布日期待同步" : `${job.ageDays}d`}</span>
                 </div>
                 <div className="row-badges">
+                  {applicationsById.get(job.id)?.status === "submitted" && (
+                    <span className="badge application-submitted-badge">已提交</span>
+                  )}
                   <span className={`badge tier-${job.fitTier}`}>
                     {tierLabel[job.fitTier]}
                   </span>
@@ -389,7 +467,27 @@ export default function Home() {
                     {item.label} <ExternalLink size={13} />
                   </a>
                 ))}
+              <button
+                className={`status-button ${
+                  selectedApplication?.status === "submitted" ? "recorded" : ""
+                }`}
+                disabled={
+                  selectedApplication?.status === "submitted" ||
+                  savingApplicationId === selectedJob.id
+                }
+                onClick={() => markSubmitted(selectedJob)}
+                type="button"
+              >
+                <CheckCircle2 size={16} />
+                {selectedApplication?.status === "submitted"
+                  ? "已记录提交"
+                  : savingApplicationId === selectedJob.id
+                    ? "正在保存…"
+                    : "标记为已提交"}
+              </button>
             </div>
+
+            {statusError && <p className="status-error" role="alert">{statusError}</p>}
 
             <p className="source-note">
               <ShieldCheck size={14} />
@@ -405,11 +503,11 @@ export default function Home() {
         <section className="applications-panel" aria-label="申请记录">
           <div className="applications-toolbar">
             <strong>申请记录</strong>
-            <span>{applicationsData.applications.length} 个岗位</span>
+            <span>{applications.length} 个岗位</span>
           </div>
-          {applicationsData.applications.length > 0 ? (
+          {applications.length > 0 ? (
             <div className="application-rows">
-              {applicationsData.applications.map((application) => (
+              {applications.map((application) => (
                 <div className="application-row" key={application.id}>
                   <div>
                     <strong>{application.company}</strong>
