@@ -1265,37 +1265,6 @@
     "status": "open"
   },
   {
-    "id": "abridge-software-engineer-early-career",
-    "canonicalUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-    "company": "Abridge",
-    "role": "Software Engineer, Early Career",
-    "location": "San Francisco, CA / New York, NY",
-    "ageDays": 36,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-28T10:42:42-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 94,
-    "directions": [
-      "AI/ML",
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "AI-ML",
-    "reasons": [
-      "官网要求 GenAI/LLM、RAG/agents、evaluation、前后端与可观测性经验",
-      "LLM post-training、评估、数据管道与 AI 产品工程方向高度匹配"
-    ],
-    "caveats": [
-      "岗位需在 San Francisco 或 New York 线下工作",
-      "官方未写明 2027 cohort、July 2027 入职兼容性或 sponsorship 政策"
-    ],
-    "applyUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-    "status": "open"
-  },
-  {
     "id": "akuna-junior-quant-developer-strategist",
     "canonicalUrl": "https://akunacapital.com/careers/job/8016687/junior-quantitative-developer-strategist/",
     "company": "Akuna Capital",
@@ -2248,37 +2217,6 @@
       "官网只确认当前 OPT 可接受，没有说明未来 H-1B sponsorship"
     ],
     "applyUrl": "https://job-boards.greenhouse.io/abacusinsights/jobs/8674746002",
-    "status": "open"
-  },
-  {
-    "id": "abnormal-software-engineer-i-data-platform",
-    "canonicalUrl": "https://www.abnormal.ai/careers/jobs/7814567003",
-    "company": "Abnormal Security",
-    "role": "Software Engineer I - Data Platform",
-    "location": "Remote - USA",
-    "ageDays": 21,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-31T08:00:33-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 93,
-    "directions": [
-      "AI/ML",
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "Backend-Data Infra / AI-ML",
-    "reasons": [
-      "数据平台、自动化基础设施、可靠性和 GenAI 开发体验与目标方向匹配",
-      "官网接受在学校、个人项目或工作中获得的 Python、Go 或相近语言经验"
-    ],
-    "caveats": [
-      "官网要求至少一年专业软件工程经验，需要以已证实经历逐项核对",
-      "官方未写明 2027 cohort 或 sponsorship 政策"
-    ],
-    "applyUrl": "https://www.abnormal.ai/careers/jobs/7814567003",
     "status": "open"
   },
   {
@@ -4272,36 +4210,6 @@
       "官网未说明 sponsorship/OPT 政策，保持 unknown"
     ],
     "applyUrl": "https://www.uber.com/global/en/careers/list/159863",
-    "status": "open"
-  },
-  {
-    "id": "applovin-data-scientist-analytics-4705263006",
-    "canonicalUrl": "https://job-boards.greenhouse.io/applovin/jobs/4705263006",
-    "company": "AppLovin",
-    "role": "Data Scientist - Analytics",
-    "location": "Palo Alto, CA",
-    "ageDays": 5,
-    "source": "SWELIST email lead",
-    "firstSeenAt": "2026-08-15T08:26:54-07:00",
-    "lastCheckedAt": "2026-08-15T08:26:54-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 89,
-    "directions": [
-      "SWE/Data Infra",
-      "AI/ML"
-    ],
-    "resumeTrack": "AI-ML / Data",
-    "reasons": [
-      "Production analytics, monitoring and automated reporting align with data science experience",
-      "Official qualifications are early-career compatible"
-    ],
-    "caveats": [
-      "Official posting does not state a 2027 start cycle or sponsorship policy"
-    ],
-    "applyUrl": "https://job-boards.greenhouse.io/applovin/jobs/4705263006",
     "status": "open"
   },
   {
@@ -7064,36 +6972,6 @@
     "status": "open"
   },
   {
-    "id": "315-junior-dotnet-developer-cac111c86e",
-    "canonicalUrl": "https://apply.workable.com/315/j/CAC111C86E",
-    "company": "3:15",
-    "role": "Junior .NET Developer - C# - Remote",
-    "location": "Remote - United States",
-    "ageDays": 0,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "possible",
-    "fitScore": 79,
-    "directions": [
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": [
-      "官方为美国全职远程并提供结构化 mentorship",
-      "C#/.NET、API 和数据库开发属于目标后端方向",
-      "官方明确将实习和实质项目计入 1–3 年经验要求"
-    ],
-    "caveats": [
-      "官方未明确 2027 入职周期或 sponsorship 政策"
-    ],
-    "applyUrl": "https://apply.workable.com/315/j/CAC111C86E",
-    "firstSeenAt": "2026-08-20T08:30:39-07:00",
-    "lastCheckedAt": "2026-08-20T08:30:39-07:00",
-    "status": "open"
-  },
-  {
     "id": "esri-sde-i-5209800007",
     "canonicalUrl": "https://www.esri.com/careers/5209800007?gh_jid=5209800007",
     "company": "Esri",
@@ -7525,6 +7403,71 @@
       "岗位强调较强的前端和端到端产品交付经验"
     ],
     "applyUrl": "https://careers.upstart.com/jobs?gh_jid=8014391",
+    "status": "open"
+  },
+  {
+    "id": "akuna-junior-quantitative-researcher-8036541",
+    "canonicalUrl": "https://akunacapital.com/careers/job/8036541/junior-quantitative-researcher/",
+    "company": "Akuna Capital",
+    "role": "Junior Quantitative Researcher",
+    "location": "Chicago, IL",
+    "ageDays": 0,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-08-21T08:01:11-07:00",
+    "lastCheckedAt": "2026-08-21T08:01:11-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "opt-accepted",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant",
+    "reasons": [
+      "官方 Junior Quantitative Researcher 岗位要求在 2027 年 8 月前毕业，并明确接受入职时使用 F-1 OPT 或 STEM OPT",
+      "职责覆盖统计和机器学习交易策略、组合优化与市场行为建模",
+      "Python、概率统计、机器学习、数值方法和优化背景高度匹配"
+    ],
+    "caveats": [
+      "Akuna 本招聘季只考虑一个 Quant/Tech 首选岗位，申请前必须与其他 Akuna Quant/Tech 岗位统一排序",
+      "官网仅确认入职时 OPT/STEM OPT 可接受，没有说明未来 H-1B sponsorship"
+    ],
+    "applyUrl": "https://akunacapital.com/careers/job/8036541/junior-quantitative-researcher/",
+    "status": "open"
+  },
+  {
+    "id": "applovin-measurement-data-scientist-4705264006",
+    "canonicalUrl": "https://job-boards.greenhouse.io/applovin/jobs/4705264006",
+    "company": "AppLovin",
+    "role": "Measurement Data Scientist",
+    "location": "Palo Alto, CA",
+    "ageDays": 0,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-08-21T08:01:11-07:00",
+    "lastCheckedAt": "2026-08-21T08:01:11-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "AI-ML / Data",
+    "reasons": [
+      "官方职责覆盖 SQL/Python 大规模数据分析、实验设计、归因建模和增量效果评估",
+      "统计分析、模型评估、实验方法和数据管道经历与岗位要求匹配",
+      "官方最低资格未列硬性工作年限要求"
+    ],
+    "caveats": [
+      "官方未说明 2027 cohort 或开始日期，保留 timing-check",
+      "官网未公开 sponsorship/OPT 政策，保持 unknown",
+      "岗位偏广告与营销效果衡量，需要突出实验设计和因果/增量评估能力"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/applovin/jobs/4705264006",
     "status": "open"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-21T01:58:48-07:00",
+  "checkedAt": "2026-08-21T08:01:11-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -12035,6 +12035,66 @@
       "reasonCode": "officially-verified-match",
       "firstSeenAt": "2026-08-21T01:58:48-07:00",
       "lastCheckedAt": "2026-08-21T01:58:48-07:00"
+    },
+    "https://www.amazon.jobs/jobs/10508283/apply": {
+      "status": "hard-excluded",
+      "reasonCode": "minimum-two-years-non-internship-experience",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://akunacapital.com/careers/job/8036541/junior-quantitative-researcher/": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://job-boards.greenhouse.io/applovin/jobs/4705264006": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace": {
+      "status": "hard-excluded",
+      "reasonCode": "officially-closed",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://www.abnormal.ai/careers/jobs/7814567003": {
+      "status": "hard-excluded",
+      "reasonCode": "officially-closed",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://job-boards.greenhouse.io/applovin/jobs/4705263006": {
+      "status": "hard-excluded",
+      "reasonCode": "officially-closed",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://apply.workable.com/315/j/CAC111C86E": {
+      "status": "hard-excluded",
+      "reasonCode": "officially-closed",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://job-boards.greenhouse.io/walleyecapital/jobs/4571842006": {
+      "status": "hard-excluded",
+      "reasonCode": "senior-experience-requirement",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4687291006": {
+      "status": "hard-excluded",
+      "reasonCode": "minimum-four-years-experience",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://job-boards.greenhouse.io/babelstreet/jobs/8143905": {
+      "status": "out-of-scope",
+      "reasonCode": "source-age-over-sixty-days",
+      "firstSeenAt": "2026-08-21T08:01:11-07:00",
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00"
     }
   }
 }

@@ -300,8 +300,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-large-catalog-deferrals",
-        "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+        "cycleStatus": "completed-with-large-catalog-deferrals-and-needs-review",
+        "lastCheckedAt": "2026-08-21T08:01:11-07:00",
         "baseline": {
           "mode": "company-derived-official-career-inventory",
           "queueSource": "Unique public company names in data/jobs.json that are not already current in companyStates or deferredLargeCompanies.",
@@ -533,6 +533,208 @@
               "hardExcludedCount": 9,
               "preferenceExcludedCount": 0,
               "outOfScopeCount": 0
+            },
+            "Walleye Capital": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/walleyecapital",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 11,
+              "inventoryFingerprint": "sha256:c874e77347f4cc33",
+              "candidateCount": 4,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 2
+            },
+            "WallStreetQuants": {
+              "publicCareersUrl": "https://apply.workable.com/wallstreetquants/",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-21T08:01:11-07:00",
+              "retryAfter": "2026-08-22T08:01:11-07:00",
+              "reason": "The public catalog reported 16 openings but the stable endpoint returned only 10 and did not expose a complete pagination token; no partial admission was made.",
+              "catalogSizeObservation": 16,
+              "observedOpeningCount": 10
+            },
+            "WorldQuant": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/worldquant",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 103,
+              "inventoryFingerprint": "sha256:2fced84721814f96",
+              "candidateCount": 5,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 4,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Hudson River Trading": {
+              "publicCareersUrl": "https://www.hudsonrivertrading.com/careers/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 5,
+              "inventoryFingerprint": "sha256:e2bfcc7577c35052",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 2,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Akuna Capital": {
+              "publicCareersUrl": "https://akunacapital.com/careers/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 34,
+              "inventoryFingerprint": "sha256:1c0f55a869f3a366",
+              "candidateCount": 10,
+              "addedCount": 1,
+              "duplicateCount": 3,
+              "hardExcludedCount": 6,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Jane Street": {
+              "publicCareersUrl": "https://www.janestreet.com/join-jane-street/open-roles/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 3,
+              "inventoryFingerprint": "sha256:371bf70044143671",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 2,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 0
+            },
+            "SentiLink": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/sentilink",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 56,
+              "inventoryFingerprint": "sha256:4f68e3679d237fd0",
+              "candidateCount": 4,
+              "addedCount": 0,
+              "duplicateCount": 4,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "3:15": {
+              "publicCareersUrl": "https://apply.workable.com/315/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 7,
+              "inventoryFingerprint": "sha256:86673eb7124781a5",
+              "candidateCount": 0,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0,
+              "closedCount": 1
+            },
+            "Abacus Insights": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/abacusinsights",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 16,
+              "inventoryFingerprint": "sha256:7899a38e94d56f00",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Abnormal Security": {
+              "publicCareersUrl": "https://www.abnormal.ai/careers",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 81,
+              "inventoryFingerprint": "sha256:1c856e4002541b4c",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0,
+              "closedCount": 1
+            },
+            "Abridge": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/abridge",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 47,
+              "inventoryFingerprint": "sha256:46c7a7d456c311c7",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 1,
+              "closedCount": 1
+            },
+            "Agate Software": {
+              "publicCareersUrl": "https://jobs.lever.co/agatesoftware",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 2,
+              "inventoryFingerprint": "sha256:1453819ac0bae345",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Amerisure": {
+              "publicCareersUrl": "https://careers.amerisure.com/",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-21T08:01:11-07:00",
+              "retryAfter": "2026-08-22T08:01:11-07:00",
+              "reason": "The official job-search endpoint returned an invalid-query response, so the catalog could not be enumerated completely and no partial admission was made."
+            },
+            "AppLovin": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/applovin",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 27,
+              "inventoryFingerprint": "sha256:620fa8bc444bcca5",
+              "candidateCount": 2,
+              "addedCount": 1,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0,
+              "closedCount": 1
+            },
+            "Babel Street": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/babelstreet",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T08:01:11-07:00",
+              "nextDueAt": "2026-09-04T08:01:11-07:00",
+              "inventoryCount": 17,
+              "inventoryFingerprint": "sha256:ca1ef5af01e78793",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 1
             }
           },
           "deferredLargeCompanies": [
@@ -581,8 +783,64 @@
               "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
               "firstDeferredAt": "2026-08-21T01:58:48-07:00",
               "lastObservedAt": "2026-08-21T01:58:48-07:00"
+            },
+            {
+              "company": "Abbott",
+              "publicCareersUrl": "https://www.jobs.abbott/us/en/search-results",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-21T08:01:11-07:00",
+              "catalogSizeObservation": 2000,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "lastObservedAt": "2026-08-21T08:01:11-07:00"
+            },
+            {
+              "company": "Atoms",
+              "publicCareersUrl": "https://job-boards.greenhouse.io/cssmerge",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-21T08:01:11-07:00",
+              "catalogSizeObservation": 249,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "lastObservedAt": "2026-08-21T08:01:11-07:00"
+            },
+            {
+              "company": "Automobile Club of Southern California",
+              "publicCareersUrl": "https://careers.ace.aaa.com/",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-21T08:01:11-07:00",
+              "catalogSizeObservation": 467,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "lastObservedAt": "2026-08-21T08:01:11-07:00"
+            },
+            {
+              "company": "Avanade",
+              "publicCareersUrl": "https://www.avanade.com/en-us/career/search-jobs",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-21T08:01:11-07:00",
+              "catalogSizeObservation": 611,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "lastObservedAt": "2026-08-21T08:01:11-07:00"
+            },
+            {
+              "company": "Bank of America",
+              "publicCareersUrl": "https://careers.bankofamerica.com/en-us/job-search",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-21T08:01:11-07:00",
+              "catalogSizeObservation": 2064,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "lastObservedAt": "2026-08-21T08:01:11-07:00"
             }
-          ]
+          ],
+          "lastBatch": {
+            "checkedAt": "2026-08-21T08:01:11-07:00",
+            "selectedCompanyCount": 20,
+            "completeAuditCount": 13,
+            "needsReviewCount": 2,
+            "deferredLargeCount": 5,
+            "candidateCount": 38,
+            "addedCount": 2,
+            "duplicateCount": 16,
+            "closedCount": 4
+          }
         },
         "note": "First bounded batch completed: 20 companies checked, 16 manageable catalogs inventoried completely, 4 large catalogs deferred without partial screening, and 6 new official-company roles admitted after official-page verification and cross-source dedupe."
       },
@@ -591,21 +849,21 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-20T18:07:56-07:00",
+        "lastCheckedAt": "2026-08-21T08:01:11-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 1628,
+          "entryCount": 1629,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 44,
-          "changedUrlCount": 5,
-          "changedContentCount": 5,
-          "removedSourceEntryCount": 33,
-          "upstreamCommit": "8b547a1d7881f40ed9ecaab6f974a1856b10b1cf",
-          "neverSeenIdentityCount": 44,
-          "historicalReappearanceCount": 4,
-          "rawAddedUrlCount": 48,
-          "rawRemovedUrlCount": 33,
-          "current60DayEntryCount": 105,
+          "addedIdentityCount": 1,
+          "changedUrlCount": 0,
+          "changedContentCount": 0,
+          "removedSourceEntryCount": 0,
+          "upstreamCommit": "cbbcdb360faaab09e96f9e4a41e6b98b2953d76c",
+          "neverSeenIdentityCount": 1,
+          "historicalReappearanceCount": 0,
+          "rawAddedUrlCount": 1,
+          "rawRemovedUrlCount": 0,
+          "current60DayEntryCount": 106,
           "current60DayCandidateCanonicalUrls": [
             "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
             "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
@@ -711,7 +969,8 @@
             "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845",
             "https://www.janestreet.com/join-jane-street/position/8594541002",
             "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
-            "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002"
+            "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+            "https://www.amazon.jobs/jobs/10508283/apply"
           ],
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 277
@@ -723,7 +982,7 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-20T18:07:56-07:00",
+        "lastCheckedAt": "2026-08-21T08:01:11-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
           "entryCount": 242,
@@ -986,7 +1245,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-20T18:07:56-07:00",
+        "lastCheckedAt": "2026-08-21T08:01:11-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-2027-admission-gate",
           "entryCount": 426,
@@ -1419,12 +1678,12 @@
             "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345"
           ],
           "addedEntryCount": 0,
-          "observedUnconfirmedEntryCount": 5,
-          "observedNewEntryCount": 5,
-          "removedSourceEntryCount": 5,
-          "upstreamCommit": "b5fde535e5373a90a3d10b8eeff5784aefdb4dde",
+          "observedUnconfirmedEntryCount": 0,
+          "observedNewEntryCount": 0,
+          "removedSourceEntryCount": 0,
+          "upstreamCommit": "bd5bbceaef34c49214eab1669379ce0a96cfc5ff",
           "changedContentCount": 0,
-          "current60DayEntryCount": 419,
+          "current60DayEntryCount": 401,
           "backfillStatus": "complete"
         },
         "note": "New-Grad-Positions still identifies itself as the 2026 cycle. The full 60-day source snapshot was retained for change detection, but 2026-cycle roles were not admitted; no separate explicit 2027 full-time repository was found in the organization."
@@ -1432,8 +1691,8 @@
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
-        "cycleStatus": "60-day-backfill-complete-daily-monitoring-resumed",
-        "lastCheckedAt": "2026-08-20T18:07:56-07:00",
+        "cycleStatus": "daily-window-complete-with-retryable-candidates",
+        "lastCheckedAt": "2026-08-21T08:01:11-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
           "entryCount": 1207,
@@ -2646,15 +2905,18 @@
             "https://simplify.jobs/p/ff6e43c3-bc97-4b08-84ad-0e0b9943e092",
             "https://simplify.jobs/p/ff8e5ead-dfcf-475e-969e-b6c251dce6ae"
           ],
-          "extractedPublicLinkCount": 1206,
-          "officialCandidateCount": 5,
-          "matchedMessageCount": 17,
-          "newCandidateUrlCount": 73,
-          "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 195,
+          "extractedPublicLinkCount": 70,
+          "officialCandidateCount": 70,
+          "matchedMessageCount": 1,
+          "newCandidateUrlCount": 0,
+          "priorRepeatCount": 70,
+          "officialCandidateReviewCount": 64,
           "backfillWindowStart": "2026-06-21",
           "backfillWindowEndExclusive": "2026-08-21",
-          "admittedJobCount": 4
+          "admittedJobCount": 0,
+          "retryableCandidateCount": 6,
+          "windowStart": "2026-08-20",
+          "windowEndExclusive": "2026-08-21"
         },
         "note": "Read-only 60-day SWELIST backfill completed with exact America/Los_Angeles calendar-day windows. Only public job facts and URLs were persisted; mailbox state and private mail metadata were not stored."
       }
@@ -4477,6 +4739,234 @@
       ],
       "https://www.uber.com/global/en/careers/list/159863": [
         "speedyapply"
+      ],
+      "https://simplify.jobs/p/028c80a3-b1c3-4ac9-b3a4-d8c95d7b3a56": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/19b37e51-2041-4d10-a23e-d342a6b7f791": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/88f4f093-dfc9-401d-ab20-692dbbd59ab2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/92c6183d-d851-4394-b104-02bfa42a14e0": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/6654047a-c686-4ee9-a050-c53f8cdb885e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/9433e524-35be-4f97-972f-f2413cfc67d6": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/48051e5a-f365-417e-8fa7-367c8d11d93f": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/0857080a-9114-4b43-85c4-0dd64e20ad44": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/aac4e683-8759-4295-9c11-862d924abaf4": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/89c30bf6-fa8a-4d37-a508-5221855d1f69": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/56082bd5-7ff2-4b3c-a7df-c69e8373d451": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fee08a6e-e0de-4bb8-84ad-c51e7658c69d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c15fdda6-c63a-4851-a515-02b1bdf30cbd": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/84a07b3a-bb9d-463f-a6fd-8fe81831e8dd": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5b5f1d64-64ce-4ba5-8385-34e05c21ece5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4f4c4349-199a-4321-b0ab-2645e3c64667": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b9c5ff13-4910-4322-af0b-3a5fb4823c54": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f3e7ea1f-fd8f-4fcc-b0ad-a9fa301dd0a5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fdb7c5e9-3d58-4332-bb5d-4b3446253fd0": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bc603108-972a-4e9c-ae80-4db10074d449": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5050a4ec-870d-44d2-894d-d2369c296564": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4d3acee9-3b15-433a-a4c9-4ca461058f7a": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f3bdb586-bbfb-45b8-95e7-a64529d56300": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c9dff2be-8f4e-4123-866d-9dac43703bd2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/46147fdd-7fda-4c72-b739-309c869a3093": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/52d714b0-b625-4783-b857-83034faa144c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/8f638b06-36c6-4e9a-bf22-b4ab3f14aaca": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/929cfe45-2ac9-4d39-80b3-b3fa750e2ceb": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b48e8f93-c2ad-44d1-9027-1587b93c5796": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f6f17706-f32e-4624-8175-889945a160e5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/179e11a1-a541-4256-a6c3-e36544663802": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a52aff07-0926-4ea8-9430-fa80a6a723b4": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f01af695-62ad-4e53-aadb-563704195b18": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/cb2e6fa3-bfdc-4488-ae12-4f2fba3bc1c8": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c8c30733-c4c8-42b2-8665-fbbf5743b33d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c86d490b-4b50-4436-9a7b-0d6287bbb4ca": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/9190f460-aac6-464a-b61b-065cafa8244e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5c1339cf-b909-45f0-8b4d-d3383a87dde2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c382b781-c095-4a4e-ad0f-c6b109e2af26": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5dadacce-9d03-47c0-bdfd-2b67dfc21892": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/93f774ec-026f-401e-90e9-1d2bbe9631d8": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e4486a23-13c9-4839-a4e2-e968c94ed6df": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/54c4c395-7b69-498c-9917-759b96d7b1c5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f29e1ac8-0631-4c59-b495-659418e4abf5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4f308070-caa1-4da7-8630-fcba5b621f04": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/3773c43b-c721-49d4-a9ed-3cc2ed025d04": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/abecf82f-cb0a-4491-be70-8126304decb0": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b1348800-005e-4627-be39-113471718fac": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/03168c7d-a3ff-4da7-9e0a-378b83a7de04": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/2af3ba79-14af-4850-8c1e-0d20dff0736a": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/8dfade5e-c456-454f-bcf5-48d209688127": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f75b9eb2-f21c-4ee4-ae1a-88fa264ced45": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/94e681fb-5d76-4fc7-a06f-6b5eaa731490": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4bf977f7-8855-4cc1-8aac-d9c577e1687d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/20d13b00-29e6-46f7-a36c-1b045a33bc61": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/01e96f8b-3039-4c34-807c-eb95ca76fd52": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a94991ee-70e0-44d8-a55a-cb34f951f096": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/14a90f50-6be6-4afd-8fb8-e8de804afe10": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/95645a1a-37b5-46b8-82dc-51c06ded8cbd": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b24b9bfc-11b6-464c-821f-0c89eeb4d3d2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ff6a64ad-4278-4b87-bd22-42fb9df0c074": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/8a4649b2-64d5-4bd5-863d-3476b0bb1592": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/29747a2d-bc91-46f3-9ce7-fa937df2a891": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/d81a1240-55ae-4d3d-9cbb-850b013a2504": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/7d1d12f5-8c3f-44c9-b583-4f7181dead74": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/0971ae6e-d5a7-43e1-b765-46f5e8e920ef": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/7b5d37d6-560a-4b85-8015-ec8b2ecff8c1": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e38d607d-510b-4316-beec-46d1cb3cea8e": [
+        "swelist-email"
+      ],
+      "https://www.amazon.jobs/jobs/10508283/apply": [
+        "speedyapply"
+      ],
+      "https://akunacapital.com/careers/job/8036541/junior-quantitative-researcher/": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/applovin/jobs/4705264006": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/walleyecapital/jobs/4571842006": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/worldquant/jobs/4687291006": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/babelstreet/jobs/8143905": [
+        "company-careers"
       ]
     },
     "suspectedDuplicates": [
@@ -6607,8 +7097,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2237,
-      "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+      "entryCount": 2247,
+      "lastCheckedAt": "2026-08-21T08:01:11-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
@@ -8244,7 +8734,8 @@
     "https://www.uber.com/global/en/careers/list/160024",
     "https://www.uber.com/global/en/careers/list/160028",
     "https://www.vectra.ai/about/jobs?gh_jid=8003612",
-    "https://www.verition.com/open-positions?gh_jid=5188872007"
+    "https://www.verition.com/open-positions?gh_jid=5188872007",
+    "https://www.amazon.jobs/jobs/10508283/apply"
   ],
-  "baselineEntryCount": 1628
+  "baselineEntryCount": 1629
 }
