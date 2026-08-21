@@ -86,7 +86,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.equal(
     state.sourceMonitoring.sources["company-careers"].baseline.maxCompaniesPerRun,
-    8,
+    20,
   );
   assert.ok(
     state.sourceMonitoring.sources[
@@ -333,7 +333,7 @@ test("company career expansion prioritizes bounded unaudited companies", () => {
     ],
     {
       baseline: {
-        maxCompaniesPerRun: 8,
+        maxCompaniesPerRun: 20,
         companyStates: {},
         deferredLargeCompanies: [{ company: "LargeCo" }],
       },

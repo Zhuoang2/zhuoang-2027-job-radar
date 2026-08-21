@@ -49,7 +49,7 @@ export function buildCompanyCareerQueue(jobs, source, now = new Date()) {
         a.company.localeCompare(b.company),
     );
 
-  const limit = baseline.maxCompaniesPerRun ?? 8;
+  const limit = baseline.maxCompaniesPerRun ?? 20;
   return {
     generatedAt: now.toISOString(),
     totalPublicCompanyCount: companies.size,

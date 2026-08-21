@@ -273,7 +273,7 @@
         "baseline": {
           "mode": "company-derived-official-career-inventory",
           "queueSource": "Unique public company names in data/jobs.json that are not already current in companyStates or deferredLargeCompanies.",
-          "maxCompaniesPerRun": 8,
+          "maxCompaniesPerRun": 20,
           "recheckIntervalDays": 14,
           "maxEnumeratedOpenings": 200,
           "maxPaginationPages": 10,
