@@ -200,7 +200,42 @@ test("keeps the public job and application datasets privacy-safe", async () => {
       (application) =>
         application.id === "dv-trading-2027-graduate-swe-4719126005" &&
         application.status === "submitted",
+      ),
+  );
+  const mavenQuantResearchRole = jobs.find(
+    (job) => job.id === "maven-graduate-quant-researcher-chicago-2027",
+  );
+  assert.ok(mavenQuantResearchRole);
+  assert.ok(mavenQuantResearchRole.directions.includes("Quant"));
+  assert.equal(
+    dispositionLedger.candidates[
+      "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830"
+    ]?.status,
+    "admitted",
+    "Maven Quant Research must not be misclassified as out of scope",
+  );
+  assert.ok(
+    applications.applications.some(
+      (application) =>
+        application.id === "maven-graduate-quant-researcher-chicago-2027" &&
+        application.status === "submitted",
     ),
+  );
+  assert.ok(
+    !jobs.some(
+      (job) =>
+        job.canonicalUrl ===
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635",
+    ),
+    "the same-company pure Trader role should not remain in the active dataset",
+  );
+  assert.ok(
+    state.sourceMonitoring.preferenceExclusions.some(
+      (candidate) =>
+        candidate.canonicalUrl ===
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635",
+    ),
+    "the excluded Maven Trader role must remain suppressed across future scans",
   );
   const submittedIds = new Set(
     applications.applications

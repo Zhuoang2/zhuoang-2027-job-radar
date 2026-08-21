@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-20T17:02:55-07:00",
+  "updatedAt": "2026-08-20T23:36:15-07:00",
   "applications": [
     {
       "id": "dv-trading-2027-graduate-swe-4719126005",
       "company": "DV Trading",
       "role": "2027 Graduate Software Engineer - DV Commodities",
+      "status": "submitted"
+    },
+    {
+      "id": "maven-graduate-quant-researcher-chicago-2027",
+      "company": "Maven Securities",
+      "role": "Graduate Quant Researcher 2027 - Chicago",
       "status": "submitted"
     }
   ]

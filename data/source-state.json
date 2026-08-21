@@ -12,6 +12,10 @@
     ],
     "preferenceExclusions": [
       {
+        "canonicalUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635",
+        "reason": "Pure Graduate Trader role excluded because Maven's retained Graduate Quant Researcher role is the selected same-company alternative."
+      },
+      {
         "canonicalUrl": "https://www.janestreet.com/join-jane-street/position/8635672002/",
         "reason": "Low-level Linux and operating-systems engineering is outside the target scope."
       },
@@ -2444,6 +2448,10 @@
       ],
       "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635": [
         "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830": [
+        "speedyapply",
+        "maven-official-manual"
       ],
       "https://job-boards.greenhouse.io/emergingtalent/jobs/8051636": [
         "swelist-email"
@@ -6235,7 +6243,7 @@
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
       "entryCount": 2231,
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00",
+      "lastCheckedAt": "2026-08-20T23:36:15-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

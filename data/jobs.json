@@ -1666,41 +1666,36 @@
     "status": "open"
   },
   {
-    "id": "maven-graduate-trader-chicago-2027",
-    "canonicalUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635",
+    "id": "maven-graduate-quant-researcher-chicago-2027",
+    "canonicalUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830",
     "company": "Maven Securities",
-    "role": "Graduate Trader Program Chicago 2027",
-    "location": "Chicago, IL (11-week training in London)",
-    "ageDays": 14,
-    "source": "SWELIST email lead",
-    "firstSeenAt": "2026-08-06T08:01:44-07:00",
-    "lastCheckedAt": "2026-08-06T08:20:00-07:00",
+    "role": "Graduate Quant Researcher 2027 - Chicago",
+    "location": "Chicago, IL (7-week training in London)",
+    "ageDays": 0,
+    "source": "SpeedyApply/2027-SWE-College-Jobs / Maven official careers",
+    "firstSeenAt": "2026-08-20T18:07:56-07:00",
+    "lastCheckedAt": "2026-08-20T23:36:15-07:00",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
-    "sponsorship": "unknown",
+    "sponsorship": "confirmed",
     "fitTier": "priority",
-    "fitScore": 94,
+    "fitScore": 96,
     "directions": [
-      "Quant"
+      "Quant",
+      "AI/ML"
     ],
     "resumeTrack": "Quant / Finance / Market Systems",
     "reasons": [
-      "官方明确为 Chicago 2027 Graduate Trader Program，2027 年 9 月入职",
-      "概率、统计、Python 与 prediction-market RL 经历高度相关",
-      "岗位提供系统化期权做市训练"
+      "官方明确为 2027 Chicago Graduate Quant Researcher，2027 年 9 月 6 日入职",
+      "职责覆盖自动交易算法、量化定价模型、波动率建模和交易数据研究",
+      "Python/C++、应用数学、统计建模和 prediction-market 项目高度匹配"
     ],
     "caveats": [
-      "官方未公开 sponsorship/OPT 政策，保持 unknown",
-      "入职培训前 11 周需在 London",
-      "两个 Greenhouse 发布页为同一项目，已合并为一张卡片"
+      "入职培训前 7 周需在 London",
+      "岗位要求金融市场知识，现有简历未直接展示期权定价经验",
+      "官方每个招聘周期只接受一份 Emerging Talent 申请"
     ],
-    "applyUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635",
-    "alternateApplyUrls": [
-      {
-        "label": "Emerging Talent posting",
-        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051636"
-      }
-    ],
+    "applyUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830",
     "status": "open"
   },
   {
