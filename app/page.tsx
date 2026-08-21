@@ -166,6 +166,10 @@ export default function Home() {
     () => new Map(applications.map((application) => [application.id, application])),
     [applications],
   );
+  const activeApplications = useMemo(
+    () => applications.filter((application) => application.status !== "submitted"),
+    [applications],
+  );
   const selectedApplication = selectedJob
     ? applicationsById.get(selectedJob.id)
     : undefined;
@@ -244,7 +248,7 @@ export default function Home() {
           onClick={() => setView("applications")}
           type="button"
         >
-          申请记录 <span>{applications.length}</span>
+          申请记录 <span>{activeApplications.length}</span>
         </button>
       </nav>
 
@@ -503,11 +507,11 @@ export default function Home() {
         <section className="applications-panel" aria-label="申请记录">
           <div className="applications-toolbar">
             <strong>申请记录</strong>
-            <span>{applications.length} 个岗位</span>
+            <span>{activeApplications.length} 个岗位</span>
           </div>
-          {applications.length > 0 ? (
+          {activeApplications.length > 0 ? (
             <div className="application-rows">
-              {applications.map((application) => (
+              {activeApplications.map((application) => (
                 <div className="application-row" key={application.id}>
                   <div>
                     <strong>{application.company}</strong>
@@ -522,8 +526,8 @@ export default function Home() {
           ) : (
             <div className="empty-state application-empty">
               <BriefcaseBusiness size={22} />
-              <strong>还没有申请记录</strong>
-              <span>开始申请后，这里只显示公司和当前状态。</span>
+              <strong>没有进行中的申请</strong>
+              <span>已提交岗位会保留在岗位列表中，不在这里重复显示。</span>
             </div>
           )}
         </section>
