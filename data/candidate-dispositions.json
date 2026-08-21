@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-20T23:36:15-07:00",
+  "checkedAt": "2026-08-21T01:58:48-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -11999,6 +11999,42 @@
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
       "lastAttemptAt": "2026-08-20T18:07:56-07:00",
       "retryAfter": "2026-08-27T08:00:00-07:00"
+    },
+    "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T01:58:48-07:00",
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00"
+    },
+    "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet/job/Boston/Quantitative-Researcher_R1066-3": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T01:58:48-07:00",
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T01:58:48-07:00",
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00"
+    },
+    "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T01:58:48-07:00",
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00"
+    },
+    "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720816005": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T01:58:48-07:00",
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00"
+    },
+    "https://careers.upstart.com/jobs?gh_jid=8014391": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-21T01:58:48-07:00",
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00"
     }
   }
 }

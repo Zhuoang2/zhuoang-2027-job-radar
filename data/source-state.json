@@ -230,7 +230,39 @@
       },
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
-        "reason": "60-day backfill: previously dispositioned."
+        "reason": "Pure trading role excluded while Chicago Trading Company Associate Engineer - 2027 Start remains active."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
+        "reason": "Maven accepts one application per recruiting cycle; the retained Graduate Quant Researcher role is the better fit than the Graduate Developer role."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4725689005",
+        "reason": "Pure Junior Quantitative Trader role excluded while DV Trading software-engineering roles remain active."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008",
+        "reason": "Pure Quantitative Trader role excluded while Five Rings Software Developer remains active."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008",
+        "reason": "Trading operations rather than software development or quantitative research is central to the role."
+      },
+      {
+        "canonicalUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796044003",
+        "reason": "Pure 2027 Quantitative Trader role excluded while Old Mission Software Engineer - 2027 Start remains active."
+      },
+      {
+        "canonicalUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796031003",
+        "reason": "Pure 2027 Junior Quantitative Trader role excluded while Old Mission Software Engineer - 2027 Start remains active."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007",
+        "reason": "Pure Junior Quantitative Trader role excluded while TransMarket Group Junior Algorithmic Trader remains active."
+      },
+      {
+        "canonicalUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/",
+        "reason": "Pure Quantitative Trader role excluded while Citadel Securities software-engineering roles remain active."
       },
       {
         "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors",
@@ -268,8 +300,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "queued-incremental-audit",
-        "lastCheckedAt": null,
+        "cycleStatus": "completed-with-large-catalog-deferrals",
+        "lastCheckedAt": "2026-08-21T01:58:48-07:00",
         "baseline": {
           "mode": "company-derived-official-career-inventory",
           "queueSource": "Unique public company names in data/jobs.json that are not already current in companyStates or deferredLargeCompanies.",
@@ -277,7 +309,232 @@
           "recheckIntervalDays": 14,
           "maxEnumeratedOpenings": 200,
           "maxPaginationPages": 10,
-          "companyStates": {},
+          "companyStates": {
+            "Arrowstreet Capital": {
+              "publicCareersUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 23,
+              "inventoryFingerprint": "sha256:a31f81ffc2cbaf36",
+              "candidateCount": 4,
+              "addedCount": 1,
+              "duplicateCount": 1,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Belvedere Trading": {
+              "publicCareersUrl": "https://jobs.lever.co/belvederetrading",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 14,
+              "inventoryFingerprint": "sha256:26267224e2c6db78",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 0
+            },
+            "Chicago Trading Company": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/ctccampusboard",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 6,
+              "inventoryFingerprint": "sha256:44165758de7a15c7",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 0
+            },
+            "Citadel": {
+              "publicCareersUrl": "https://www.citadel.com/careers/open-positions/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 51,
+              "inventoryFingerprint": "sha256:6ebc45b88c9f9671",
+              "candidateCount": 6,
+              "addedCount": 1,
+              "duplicateCount": 1,
+              "hardExcludedCount": 3,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 0
+            },
+            "Citadel Securities": {
+              "publicCareersUrl": "https://www.citadelsecurities.com/careers/open-positions/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 85,
+              "inventoryFingerprint": "sha256:18610b84131fc79e",
+              "candidateCount": 6,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 3,
+              "preferenceExcludedCount": 2,
+              "outOfScopeCount": 0
+            },
+            "Deeter Analytics": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/deeter-analytics",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 13,
+              "inventoryFingerprint": "sha256:b5eb12f7a34b6799",
+              "candidateCount": 4,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 1
+            },
+            "DV Trading": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/dvtrading",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 60,
+              "inventoryFingerprint": "sha256:5c6fc6d28638e0d3",
+              "candidateCount": 5,
+              "addedCount": 1,
+              "duplicateCount": 1,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 0
+            },
+            "Ellipsis Labs": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/ellipsislabs",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 12,
+              "inventoryFingerprint": "sha256:a858e7156984e6b8",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 1
+            },
+            "Five Rings": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/fiveringsllc",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 17,
+              "inventoryFingerprint": "sha256:33ac2710eeaae5f5",
+              "candidateCount": 5,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 3,
+              "outOfScopeCount": 1
+            },
+            "Maven Securities": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 38,
+              "inventoryFingerprint": "sha256:617e3a0c643d6b05",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 2,
+              "outOfScopeCount": 0
+            },
+            "Old Mission": {
+              "publicCareersUrl": "https://www.oldmissioncapital.com/careers/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 35,
+              "inventoryFingerprint": "sha256:94b0bae74f800fbb",
+              "candidateCount": 4,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 2,
+              "outOfScopeCount": 0
+            },
+            "OptionMetrics": {
+              "publicCareersUrl": "https://jobs.lever.co/optionmetrics",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 5,
+              "inventoryFingerprint": "sha256:6ab5fb4ee2b10cb2",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Prometheum": {
+              "publicCareersUrl": "https://prometheum.applytojob.com/apply",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 2,
+              "inventoryFingerprint": "sha256:d24948e7b400edea",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "The Brattle Group": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/thebrattlegroup",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 31,
+              "inventoryFingerprint": "sha256:80f670707f4a0233",
+              "candidateCount": 5,
+              "addedCount": 2,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 1
+            },
+            "TransMarket Group": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/transmarketgroup",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 18,
+              "inventoryFingerprint": "sha256:5193728863eed52e",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 1
+            },
+            "Upstart": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/upstart",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-21T01:58:48-07:00",
+              "nextDueAt": "2026-09-04T01:58:48-07:00",
+              "inventoryCount": 95,
+              "inventoryFingerprint": "sha256:259e10be4f7d4008",
+              "candidateCount": 11,
+              "addedCount": 1,
+              "duplicateCount": 1,
+              "hardExcludedCount": 9,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            }
+          },
           "deferredLargeCompanies": [
             {
               "company": "TikTok",
@@ -286,10 +543,48 @@
               "reason": "The dynamic official catalog exposes a very large, frequently changing role inventory; the user requested that large-company catalogs be recorded for a later dedicated audit instead of expanded in the bounded daily scan.",
               "firstDeferredAt": "2026-08-21T00:55:11-07:00",
               "lastObservedAt": "2026-08-21T00:55:11-07:00"
+            },
+            {
+              "company": "ExxonMobil",
+              "publicCareersUrl": "https://jobs.exxonmobil.com/",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 612,
+              "paginationPagesObservation": 25,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles and 10 result pages; no partial screening was performed.",
+              "firstDeferredAt": "2026-08-21T01:58:48-07:00",
+              "lastObservedAt": "2026-08-21T01:58:48-07:00"
+            },
+            {
+              "company": "Optiver",
+              "publicCareersUrl": "https://optiver.com/working-at-optiver/career-opportunities/",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 179,
+              "paginationPagesObservation": 12,
+              "reason": "The official catalog requires more than 10 result pages; no partial screening was performed.",
+              "firstDeferredAt": "2026-08-21T01:58:48-07:00",
+              "lastObservedAt": "2026-08-21T01:58:48-07:00"
+            },
+            {
+              "company": "Point72",
+              "publicCareersUrl": "https://careers.point72.com/",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 230,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "firstDeferredAt": "2026-08-21T01:58:48-07:00",
+              "lastObservedAt": "2026-08-21T01:58:48-07:00"
+            },
+            {
+              "company": "Susquehanna International Group",
+              "publicCareersUrl": "https://careers.sig.com/",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 238,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "firstDeferredAt": "2026-08-21T01:58:48-07:00",
+              "lastObservedAt": "2026-08-21T01:58:48-07:00"
             }
           ]
         },
-        "note": "After the four lead sources, audit a bounded batch of companies already represented in the public Job Radar. Enumerate manageable official career catalogs completely, compare official job identities incrementally, and route every new or materially changed candidate through the normal official-page verification and disposition rules."
+        "note": "First bounded batch completed: 20 companies checked, 16 manageable catalogs inventoried completely, 4 large catalogs deferred without partial screening, and 6 new official-company roles admitted after official-page verification and cross-source dedupe."
       },
       "speedyapply": {
         "role": "primary",
@@ -2387,7 +2682,8 @@
         "vanshb03"
       ],
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005": [
-        "vanshb03"
+        "vanshb03",
+        "company-careers"
       ],
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005": [
         "vanshb03"
@@ -2458,7 +2754,8 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007": [
-        "swelist-email"
+        "swelist-email",
+        "company-careers"
       ],
       "https://jobs.smartrecruiters.com/Socotec/744000141326319": [
         "swelist-email"
@@ -2477,7 +2774,8 @@
       ],
       "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830": [
         "speedyapply",
-        "maven-official-manual"
+        "maven-official-manual",
+        "company-careers"
       ],
       "https://job-boards.greenhouse.io/emergingtalent/jobs/8051636": [
         "swelist-email"
@@ -2730,7 +3028,8 @@
       ],
       "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f": [
         "swelist-email",
-        "speedyapply"
+        "speedyapply",
+        "company-careers"
       ],
       "https://apply.workable.com/wallstreetquants/j/615D982644/": [
         "swelist-email"
@@ -2757,7 +3056,8 @@
         "swelist-email"
       ],
       "https://jobs.lever.co/optionmetrics/cd628723-e18f-4f4c-985f-4740d23c22ab": [
-        "swelist-email"
+        "swelist-email",
+        "company-careers"
       ],
       "https://starbucks.eightfold.ai/careers/job/481078166214": [
         "swelist-email"
@@ -2965,7 +3265,8 @@
       ],
       "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005": [
         "speedyapply",
-        "swelist-email"
+        "swelist-email",
+        "company-careers"
       ],
       "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702969006": [
         "speedyapply"
@@ -3601,7 +3902,8 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005": [
-        "swelist-email"
+        "swelist-email",
+        "company-careers"
       ],
       "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005": [
         "swelist-email"
@@ -4086,7 +4388,8 @@
         "speedyapply"
       ],
       "https://prometheum.applytojob.com/apply/Lmc9MW6rCq/Software-Engineer-1-FullStack": [
-        "speedyapply"
+        "speedyapply",
+        "company-careers"
       ],
       "https://apply.workable.com/315/j/CAC111C86E": [
         "speedyapply"
@@ -4107,7 +4410,8 @@
         "swelist-email"
       ],
       "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0": [
-        "swelist-email"
+        "swelist-email",
+        "company-careers"
       ],
       "https://joinbytedance.com/search/7675477660855781637": [
         "swelist-email"
@@ -4122,7 +4426,8 @@
         "swelist-email"
       ],
       "https://jobs.ashbyhq.com/ellipsislabs/0664c1db-ef07-44fc-947e-fda5a2948ee9": [
-        "swelist-email"
+        "swelist-email",
+        "company-careers"
       ],
       "https://job-boards.greenhouse.io/abacusinsights/jobs/8674746002": [
         "swelist-email"
@@ -4134,7 +4439,41 @@
         "swelist-email"
       ],
       "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet/job/Boston/Quantitative-Developer_R1433-1": [
-        "speedyapply"
+        "speedyapply",
+        "company-careers"
+      ],
+      "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/": [
+        "company-careers"
+      ],
+      "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008": [
+        "company-careers"
+      ],
+      "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003": [
+        "company-careers"
+      ],
+      "https://careers.upstart.com/jobs/applied-scientist?gh_jid=7293116": [
+        "company-careers"
+      ],
+      "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/": [
+        "company-careers"
+      ],
+      "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet/job/Boston/Quantitative-Researcher_R1066-3": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720816005": [
+        "company-careers"
+      ],
+      "https://careers.upstart.com/jobs?gh_jid=8014391": [
+        "company-careers"
       ],
       "https://www.uber.com/global/en/careers/list/159863": [
         "speedyapply"
@@ -6268,8 +6607,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2231,
-      "lastCheckedAt": "2026-08-20T23:36:15-07:00",
+      "entryCount": 2237,
+      "lastCheckedAt": "2026-08-21T01:58:48-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

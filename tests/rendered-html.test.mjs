@@ -44,7 +44,7 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /Optiver/);
   assert.match(html, /查看官方岗位/);
   assert.match(html, /标记为已提交/);
-  assert.doesNotMatch(html, /DV Trading/);
+  assert.doesNotMatch(html, /2027 Graduate Software Engineer - DV Commodities/);
   assert.doesNotMatch(html, /已记录提交/);
   assert.match(html, /name="robots" content="noindex, nofollow"/i);
 });

@@ -5059,8 +5059,8 @@
     "canonicalUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
     "company": "The Brattle Group",
     "role": "Research Analyst (Economics) - July 2027",
-    "location": "Washington, DC / Boston, MA",
-    "ageDays": 4,
+    "location": "Chicago / New York / Washington, DC / Boston",
+    "ageDays": 5,
     "source": "SWELIST email lead",
     "firstSeenAt": "2026-08-16T08:48:56-07:00",
     "lastCheckedAt": "2026-08-16T08:48:56-07:00",
@@ -5086,6 +5086,14 @@
     ],
     "applyUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
     "alternateApplyUrls": [
+      {
+        "label": "Chicago",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005"
+      },
+      {
+        "label": "New York",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005"
+      },
       {
         "label": "Boston",
         "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005"
@@ -7298,5 +7306,225 @@
     "status": "open",
     "firstSeenAt": "2026-08-05T08:07:45-07:00",
     "lastCheckedAt": "2026-08-05T08:42:00-07:00"
+  },
+  {
+    "id": "citadel-quantitative-research-analyst-university-graduate-us",
+    "canonicalUrl": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "company": "Citadel",
+    "role": "Quantitative Research Analyst - University Graduate",
+    "location": "New York / Miami / Greenwich",
+    "ageDays": 0,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-08-21T01:58:48-07:00",
+    "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+    "eligibility": "eligible",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 98,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant / AI/ML",
+    "reasons": [
+      "官方 University Graduate 通道接受数学、统计、计算机科学等定量专业的本科或硕士",
+      "职责直接覆盖交易信号、回测、统计研究、数学模型和 Python/R/C++ 实现",
+      "概率统计、机器学习、时序分析和独立研究能力与目标方向高度匹配"
+    ],
+    "caveats": [
+      "官方未注明 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "status": "open"
+  },
+  {
+    "id": "arrowstreet-capital-quantitative-researcher-r1066",
+    "canonicalUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet/job/Boston/Quantitative-Researcher_R1066-3",
+    "company": "Arrowstreet Capital",
+    "role": "Quantitative Researcher",
+    "location": "Boston, MA",
+    "ageDays": 43,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-07-09T00:00:00-07:00",
+    "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant / AI/ML",
+    "reasons": [
+      "官方职责直接覆盖投资信号研究、回测、风险和交易成本预测以及组合构建",
+      "岗位要求概率统计、回归、时序分析、优化和 Python/R/MATLAB，匹配目标 Quant Research 方向",
+      "官方接受本科或研究生定量专业背景，相关经验为 recommended 而非硬性最低年限"
+    ],
+    "caveats": [
+      "官方建议具备 1–3 年相关经验，需由招聘方确认实习和研究经历是否满足",
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet/job/Boston/Quantitative-Researcher_R1066-3",
+    "status": "open"
+  },
+  {
+    "id": "dv-trading-software-developer-us-2026-08",
+    "canonicalUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005",
+    "company": "DV Trading",
+    "role": "Software Developer",
+    "location": "Chicago, IL / New York, NY",
+    "ageDays": 16,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-08-05T11:14:34-04:00",
+    "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "Quant",
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Quant / ML Systems-HPC",
+    "reasons": [
+      "官方接受 0–7 年相关经验，覆盖应届和早期职业候选人",
+      "职责聚焦自动交易系统、生产级 C++、性能和金融市场技术",
+      "C++、Python、并行计算和量化系统方向与目标简历高度匹配"
+    ],
+    "caveats": [
+      "官方未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005",
+    "alternateApplyUrls": [
+      {
+        "label": "New York",
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4687462005"
+      }
+    ],
+    "status": "open"
+  },
+  {
+    "id": "brattle-research-analyst-economics-finance-securities-2027",
+    "canonicalUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
+    "company": "The Brattle Group",
+    "role": "Research Analyst (Economics & Finance - Securities) - July 2027",
+    "location": "New York / Boston / Washington, DC / San Francisco",
+    "ageDays": 2,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-08-19T15:30:42-04:00",
+    "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "confirmed",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant / Data",
+    "reasons": [
+      "官方明确 2027 年 7 月入职，并以金融、估值、统计和计量分析为核心",
+      "职责使用 Python、R、Stata、SAS、Excel 等工具建立金融与经济模型",
+      "官方明确为符合条件的全职 STEM 候选人提供 H-1B、E-3 和 TN 支持"
+    ],
+    "caveats": [
+      "主要截止日期为 2026 年 9 月 14 日，次要截止日期为 10 月 12 日",
+      "经济咨询与系统化量化研究相邻，但并非完全相同"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
+    "alternateApplyUrls": [
+      {
+        "label": "Boston",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005"
+      },
+      {
+        "label": "Washington, DC",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720808005"
+      },
+      {
+        "label": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005"
+      }
+    ],
+    "status": "open"
+  },
+  {
+    "id": "brattle-research-analyst-economics-finance-arbitration-2027",
+    "canonicalUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720816005",
+    "company": "The Brattle Group",
+    "role": "Research Analyst (Economics & Finance - International Arbitration) - July 2027",
+    "location": "New York / Washington, DC",
+    "ageDays": 2,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-08-19T15:30:42-04:00",
+    "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "confirmed",
+    "fitTier": "recommended",
+    "fitScore": 89,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant / Data",
+    "reasons": [
+      "官方明确 2027 年 7 月入职，职责覆盖估值、资本成本、统计和计量分析",
+      "岗位以定量方法解决国际仲裁中的金融和经济问题",
+      "官方明确为符合条件的全职 STEM 候选人提供 H-1B、E-3 和 TN 支持"
+    ],
+    "caveats": [
+      "主要截止日期为 2026 年 9 月 14 日，次要截止日期为 10 月 12 日",
+      "工作更偏诉讼与仲裁经济咨询，优先级低于系统化 Quant Research"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720816005",
+    "alternateApplyUrls": [
+      {
+        "label": "Washington, DC",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720815005"
+      }
+    ],
+    "status": "open"
+  },
+  {
+    "id": "upstart-software-engineer-conversion-8014391",
+    "canonicalUrl": "https://careers.upstart.com/jobs?gh_jid=8014391",
+    "company": "Upstart",
+    "role": "Software Engineer, Conversion",
+    "location": "United States (Remote)",
+    "ageDays": 21,
+    "source": "Official company careers audit",
+    "firstSeenAt": "2026-07-31T13:32:14-04:00",
+    "lastCheckedAt": "2026-08-21T01:58:48-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Backend-Data Infra / General SWE",
+    "reasons": [
+      "官方最低资格未列工作年限要求，职责覆盖前后端、API、微服务和高规模用户流程",
+      "岗位直接与产品、设计和机器学习团队协作并参与模型升级和实验",
+      "全栈开发、云端服务、实验和数据驱动产品能力与目标 SWE 方向匹配"
+    ],
+    "caveats": [
+      "岗位未明确 New Grad、2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown",
+      "岗位强调较强的前端和端到端产品交付经验"
+    ],
+    "applyUrl": "https://careers.upstart.com/jobs?gh_jid=8014391",
+    "status": "open"
   }
 ]
