@@ -8,7 +8,8 @@
       "swelist-email",
       "speedyapply",
       "vanshb03",
-      "simplifyjobs"
+      "simplifyjobs",
+      "company-careers"
     ],
     "preferenceExclusions": [
       {
@@ -264,6 +265,31 @@
           ]
         },
         "note": "One-time official careers audit; this source is not part of the daily scan order. Two matching roles were added. The Linux Engineer role was audited but excluded because low-level Linux and operating-systems work is outside the user's target scope."
+      },
+      "company-careers": {
+        "role": "official-company-expansion",
+        "cycleStatus": "queued-incremental-audit",
+        "lastCheckedAt": null,
+        "baseline": {
+          "mode": "company-derived-official-career-inventory",
+          "queueSource": "Unique public company names in data/jobs.json that are not already current in companyStates or deferredLargeCompanies.",
+          "maxCompaniesPerRun": 8,
+          "recheckIntervalDays": 14,
+          "maxEnumeratedOpenings": 200,
+          "maxPaginationPages": 10,
+          "companyStates": {},
+          "deferredLargeCompanies": [
+            {
+              "company": "TikTok",
+              "publicCareersUrl": "https://lifeattiktok.com/search",
+              "status": "deferred-large-catalog",
+              "reason": "The dynamic official catalog exposes a very large, frequently changing role inventory; the user requested that large-company catalogs be recorded for a later dedicated audit instead of expanded in the bounded daily scan.",
+              "firstDeferredAt": "2026-08-21T00:55:11-07:00",
+              "lastObservedAt": "2026-08-21T00:55:11-07:00"
+            }
+          ]
+        },
+        "note": "After the four lead sources, audit a bounded batch of companies already represented in the public Job Radar. Enumerate manageable official career catalogs completely, compare official job identities incrementally, and route every new or materially changed candidate through the normal official-page verification and disposition rules."
       },
       "speedyapply": {
         "role": "primary",

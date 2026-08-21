@@ -6,6 +6,7 @@ import {
   jobMatchesDirection,
   selectVisibleJob,
 } from "../lib/job-taxonomy.mjs";
+import { buildCompanyCareerQueue } from "../scripts/list-company-career-queue.mjs";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -69,6 +70,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     "speedyapply",
     "vanshb03",
     "simplifyjobs",
+    "company-careers",
   ]);
   assert.equal(state.sourceMonitoring.sources["swelist-email"].role, "email-lead");
   assert.equal(
@@ -78,6 +80,25 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(state.sourceMonitoring.sources.speedyapply.role, "primary");
   assert.equal(state.sourceMonitoring.sources.vanshb03.role, "supplemental");
   assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
+  assert.equal(
+    state.sourceMonitoring.sources["company-careers"].role,
+    "official-company-expansion",
+  );
+  assert.equal(
+    state.sourceMonitoring.sources["company-careers"].baseline.maxCompaniesPerRun,
+    8,
+  );
+  assert.ok(
+    state.sourceMonitoring.sources[
+      "company-careers"
+    ].baseline.deferredLargeCompanies.some(
+      (company) =>
+        company.company === "TikTok" &&
+        company.status === "deferred-large-catalog" &&
+        company.publicCareersUrl.startsWith("https://"),
+    ),
+    "large official career catalogs must remain explicitly deferred rather than partially screened",
+  );
   assert.ok(Array.isArray(state.sourceMonitoring.suspectedDuplicates));
   assert.ok(
     state.sourceMonitoring.suspectedDuplicates.every(
@@ -96,6 +117,9 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     automationText,
     /isolated official-page access failure as a candidate-level verification failure/i,
   );
+  assert.match(automationText, /Official company expansion/i);
+  assert.match(automationText, /deferred-large-catalog/i);
+  assert.match(automationText, /sibling roles that aggregators omitted/i);
   assert.ok(Array.isArray(state.sourceMonitoring.officialVerificationNeedsReview));
   assert.ok(
     state.sourceMonitoring.officialVerificationNeedsReview.every(
@@ -298,4 +322,28 @@ test("direction filtering cannot retain an out-of-filter detail card", () => {
 
   assert.deepEqual(quantJobs.map((job) => job.id), ["quant-role"]);
   assert.equal(selectVisibleJob(quantJobs, "ml-role")?.id, "quant-role");
+});
+
+test("company career expansion prioritizes bounded unaudited companies", () => {
+  const queue = buildCompanyCareerQueue(
+    [
+      { company: "LargeCo", directions: ["Quant"] },
+      { company: "QuantCo", directions: ["Quant"] },
+      { company: "SoftwareCo", directions: ["SWE/Data Infra"] },
+    ],
+    {
+      baseline: {
+        maxCompaniesPerRun: 8,
+        companyStates: {},
+        deferredLargeCompanies: [{ company: "LargeCo" }],
+      },
+    },
+    new Date("2026-08-21T08:00:00Z"),
+  );
+
+  assert.deepEqual(
+    queue.selectedCompanies.map((entry) => entry.company),
+    ["QuantCo", "SoftwareCo"],
+  );
+  assert.equal(queue.deferredLargeCompanyCount, 1);
 });
