@@ -10,9 +10,11 @@ import {
   ExternalLink,
   FilterX,
   MapPin,
+  RotateCcw,
   Search,
   ShieldCheck,
   SlidersHorizontal,
+  Trash2,
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import applicationsData from "../data/applications.json";
@@ -26,8 +28,13 @@ import {
 } from "../lib/job-taxonomy.mjs";
 
 type SortKey = "priority" | "newest" | "fit";
-type ViewKey = "jobs" | "applications";
-type ApplicationStatus = "applying" | "needs-review" | "submitted" | "paused";
+type ViewKey = "jobs" | "applications" | "skipped";
+type ApplicationStatus =
+  | "applying"
+  | "needs-review"
+  | "submitted"
+  | "paused"
+  | "skipped";
 type ApplicationRecord = {
   id: string;
   company: string;
@@ -63,6 +70,7 @@ const applicationStatusLabel: Record<string, string> = {
   "needs-review": "待检查",
   submitted: "已提交",
   paused: "暂停",
+  skipped: "不投递",
 };
 
 function mergeApplications(
@@ -125,10 +133,21 @@ export default function Home() {
     () => new Map(applications.map((application) => [application.id, application])),
     [applications],
   );
+  const activeApplications = useMemo(
+    () => applications.filter((application) => application.status !== "skipped"),
+    [applications],
+  );
+  const skippedApplications = useMemo(
+    () => applications.filter((application) => application.status === "skipped"),
+    [applications],
+  );
   const availableJobs = useMemo(
     () =>
       jobsData.filter(
-        (job) => applicationsById.get(job.id)?.status !== "submitted",
+        (job) =>
+          !["submitted", "skipped"].includes(
+            applicationsById.get(job.id)?.status ?? "",
+          ),
       ),
     [applicationsById],
   );
@@ -189,7 +208,10 @@ export default function Home() {
     setTiming("all");
   }
 
-  async function markSubmitted(job: (typeof jobsData)[number]) {
+  async function saveJobStatus(
+    job: (typeof jobsData)[number],
+    status: "submitted" | "skipped",
+  ) {
     setSavingApplicationId(job.id);
     setStatusError("");
 
@@ -197,7 +219,7 @@ export default function Home() {
       const response = await fetch("/api/applications", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ jobId: job.id, status: "submitted" }),
+        body: JSON.stringify({ jobId: job.id, status }),
       });
       const payload = (await response.json()) as {
         application?: ApplicationRecord;
@@ -209,6 +231,30 @@ export default function Home() {
       setApplications((current) => mergeApplications(current, [payload.application!]));
     } catch {
       setStatusError("保存失败，请稍后重试；现有记录没有改变。");
+    } finally {
+      setSavingApplicationId("");
+    }
+  }
+
+  async function restoreJob(application: ApplicationRecord) {
+    setSavingApplicationId(application.id);
+    setStatusError("");
+
+    try {
+      const response = await fetch("/api/applications", {
+        method: "DELETE",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ jobId: application.id }),
+      });
+      const payload = (await response.json()) as { id?: string; error?: string };
+      if (!response.ok || payload.id !== application.id) {
+        throw new Error(payload.error ?? "Unable to restore job");
+      }
+      setApplications((current) =>
+        current.filter((item) => item.id !== application.id),
+      );
+    } catch {
+      setStatusError("恢复失败，请稍后重试；现有记录没有改变。");
     } finally {
       setSavingApplicationId("");
     }
@@ -248,7 +294,14 @@ export default function Home() {
           onClick={() => setView("applications")}
           type="button"
         >
-          申请记录 <span>{applications.length}</span>
+          申请记录 <span>{activeApplications.length}</span>
+        </button>
+        <button
+          className={view === "skipped" ? "active" : ""}
+          onClick={() => setView("skipped")}
+          type="button"
+        >
+          不投递 <span>{skippedApplications.length}</span>
         </button>
       </nav>
 
@@ -465,13 +518,24 @@ export default function Home() {
               <button
                 className="status-button"
                 disabled={savingApplicationId === selectedJob.id}
-                onClick={() => markSubmitted(selectedJob)}
+                onClick={() => saveJobStatus(selectedJob, "submitted")}
                 type="button"
               >
                 <CheckCircle2 size={16} />
                 {savingApplicationId === selectedJob.id
                   ? "正在保存…"
                   : "标记为已提交"}
+              </button>
+              <button
+                className="skip-button"
+                disabled={savingApplicationId === selectedJob.id}
+                onClick={() => saveJobStatus(selectedJob, "skipped")}
+                type="button"
+              >
+                <Trash2 size={16} />
+                {savingApplicationId === selectedJob.id
+                  ? "正在保存…"
+                  : "不投递"}
               </button>
             </div>
 
@@ -491,11 +555,11 @@ export default function Home() {
         <section className="applications-panel" aria-label="申请记录">
           <div className="applications-toolbar">
             <strong>申请记录</strong>
-            <span>{applications.length} 个岗位</span>
+            <span>{activeApplications.length} 个岗位</span>
           </div>
-          {applications.length > 0 ? (
+          {activeApplications.length > 0 ? (
             <div className="application-rows">
-              {applications.map((application) => (
+              {activeApplications.map((application) => (
                 <div className="application-row" key={application.id}>
                   <div>
                     <strong>{application.company}</strong>
@@ -514,6 +578,45 @@ export default function Home() {
               <span>开始申请后，这里只显示公司、岗位和当前状态。</span>
             </div>
           )}
+        </section>
+      )}
+
+      {view === "skipped" && (
+        <section className="applications-panel" aria-label="不投递岗位">
+          <div className="applications-toolbar">
+            <strong>不投递</strong>
+            <span>{skippedApplications.length} 个岗位</span>
+          </div>
+          {skippedApplications.length > 0 ? (
+            <div className="application-rows">
+              {skippedApplications.map((application) => (
+                <div className="application-row" key={application.id}>
+                  <div>
+                    <strong>{application.company}</strong>
+                    {application.role && <span>{application.role}</span>}
+                  </div>
+                  <button
+                    className="restore-button"
+                    disabled={savingApplicationId === application.id}
+                    onClick={() => restoreJob(application)}
+                    type="button"
+                  >
+                    <RotateCcw size={14} />
+                    {savingApplicationId === application.id
+                      ? "正在恢复…"
+                      : "恢复到岗位列表"}
+                  </button>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="empty-state application-empty">
+              <Trash2 size={22} />
+              <strong>还没有不投递的岗位</strong>
+              <span>在岗位详情中点击“不投递”后，岗位会保存在这里。</span>
+            </div>
+          )}
+          {statusError && <p className="status-error list-status-error" role="alert">{statusError}</p>}
         </section>
       )}
     </main>

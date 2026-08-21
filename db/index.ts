@@ -14,7 +14,7 @@ export async function getDb() {
       id TEXT PRIMARY KEY NOT NULL,
       company TEXT NOT NULL,
       role TEXT,
-      status TEXT NOT NULL CHECK(status IN ('applying', 'needs-review', 'submitted', 'paused')),
+      status TEXT NOT NULL CHECK(status IN ('applying', 'needs-review', 'submitted', 'paused', 'skipped')),
       updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
     )
   `).run();

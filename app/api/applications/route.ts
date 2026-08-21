@@ -1,4 +1,4 @@
-import { desc, sql } from "drizzle-orm";
+import { and, desc, eq, sql } from "drizzle-orm";
 import jobsData from "../../../data/jobs.json";
 import { getDb } from "../../../db";
 import { applications } from "../../../db/schema";
@@ -8,6 +8,7 @@ const allowedStatuses = new Set([
   "needs-review",
   "submitted",
   "paused",
+  "skipped",
 ]);
 
 function errorMessage(error: unknown) {
@@ -21,6 +22,37 @@ function errorMessage(error: unknown) {
   }
 
   return message;
+}
+
+export async function DELETE(request: Request) {
+  try {
+    const payload = (await request.json()) as { jobId?: string };
+    const jobId = payload.jobId?.trim() ?? "";
+    const job = jobsData.find((candidate) => candidate.id === jobId);
+
+    if (!job) {
+      return Response.json({ error: "Unknown job" }, { status: 404 });
+    }
+
+    const db = await getDb();
+    const [removed] = await db
+      .delete(applications)
+      .where(
+        and(
+          eq(applications.id, jobId),
+          eq(applications.status, "skipped"),
+        ),
+      )
+      .returning({ id: applications.id });
+
+    if (!removed) {
+      return Response.json({ error: "Application status not found" }, { status: 404 });
+    }
+
+    return Response.json(removed);
+  } catch (error) {
+    return Response.json({ error: errorMessage(error) }, { status: 500 });
+  }
 }
 
 export async function GET() {

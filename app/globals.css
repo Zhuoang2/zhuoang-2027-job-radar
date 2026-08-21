@@ -657,6 +657,50 @@ a {
   opacity: 0.82;
 }
 
+.skip-button,
+.restore-button {
+  height: 38px;
+  padding: 0 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 650;
+}
+
+.skip-button {
+  color: var(--red);
+  background: var(--red-soft);
+  border: 1px solid #e9c7c3;
+}
+
+.skip-button:hover:not(:disabled) {
+  color: white;
+  background: var(--red);
+  border-color: var(--red);
+}
+
+.restore-button {
+  color: var(--green);
+  background: var(--green-soft);
+  border: 1px solid #bddbcb;
+}
+
+.restore-button:hover:not(:disabled) {
+  color: white;
+  background: var(--green);
+  border-color: var(--green);
+}
+
+.skip-button:disabled,
+.restore-button:disabled {
+  cursor: default;
+  opacity: 0.7;
+}
+
 .status-error {
   margin: 10px 0 0;
   color: var(--red);
@@ -780,6 +824,15 @@ a {
 .status-paused {
   color: var(--muted);
   background: #ecefed;
+}
+
+.status-skipped {
+  color: var(--red);
+  background: var(--red-soft);
+}
+
+.list-status-error {
+  margin: 12px 18px;
 }
 
 .application-empty {

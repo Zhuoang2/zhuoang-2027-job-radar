@@ -39,6 +39,7 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /SpeedyApply/);
   assert.match(html, /优先申请/);
   assert.match(html, /申请记录/);
+  assert.match(html, /不投递/);
   assert.match(html, /Optiver/);
   assert.match(html, /查看官方岗位/);
   assert.match(html, /标记为已提交/);
@@ -215,7 +216,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
       const fields = Object.keys(application).sort();
       return (
         fields.every((field) => ["company", "id", "role", "status"].includes(field)) &&
-        ["applying", "needs-review", "submitted", "paused"].includes(
+        ["applying", "needs-review", "submitted", "paused", "skipped"].includes(
           application.status,
         )
       );

@@ -13,7 +13,7 @@ export const applications = sqliteTable(
   (table) => [
     check(
       "applications_status_check",
-      sql`${table.status} IN ('applying', 'needs-review', 'submitted', 'paused')`,
+      sql`${table.status} IN ('applying', 'needs-review', 'submitted', 'paused', 'skipped')`,
     ),
   ],
 );
