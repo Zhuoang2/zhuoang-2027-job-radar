@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-21T08:01:11-07:00",
+  "checkedAt": "2026-08-22T02:40:55-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -12077,6 +12077,12 @@
       "reasonCode": "officially-closed",
       "firstSeenAt": "2026-08-21T08:01:11-07:00",
       "lastCheckedAt": "2026-08-21T08:01:11-07:00"
+    },
+    "https://careers.sig.com/recent-graduate/jobs/11018?lang=en-us": {
+      "status": "admitted",
+      "reasonCode": "user-provided-official-2027-quant-research-match",
+      "firstSeenAt": "2026-08-22T02:40:55-07:00",
+      "lastCheckedAt": "2026-08-22T02:40:55-07:00"
     },
     "https://job-boards.greenhouse.io/walleyecapital/jobs/4571842006": {
       "status": "hard-excluded",

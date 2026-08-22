@@ -4637,6 +4637,9 @@
         "simplifyjobs",
         "speedyapply"
       ],
+      "https://careers.sig.com/recent-graduate/jobs/11018?lang=en-us": [
+        "company-careers"
+      ],
       "https://x.company/careers/8722582002": [
         "swelist-email"
       ],
@@ -7097,8 +7100,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2247,
-      "lastCheckedAt": "2026-08-21T08:01:11-07:00",
+      "entryCount": 2248,
+      "lastCheckedAt": "2026-08-22T02:40:55-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
@@ -7462,6 +7465,7 @@
     "https://careers-sas.icims.com/jobs/42347/software-development-engineer-in-test-%28emerging-careers%29/job",
     "https://careers-sevenhills.icims.com/jobs/36403/case-manager-i---job-developer/job",
     "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
+    "https://careers.sig.com/recent-graduate/jobs/11018?lang=en-us",
     "https://careers-softtechconsulting.icims.com/jobs/3406/full-stack-software-engineer/job",
     "https://careers-sonalysts.icims.com/jobs/2463/junior-software-engineer/job",
     "https://careers-steampunk.icims.com/jobs/8030/full-stack-developer/job",
@@ -8737,5 +8741,5 @@
     "https://www.verition.com/open-positions?gh_jid=5188872007",
     "https://www.amazon.jobs/jobs/10508283/apply"
   ],
-  "baselineEntryCount": 1629
+  "baselineEntryCount": 1630
 }

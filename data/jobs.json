@@ -1,5 +1,36 @@
 [
   {
+    "id": "sig-quantitative-researcher-masters-2027-11018",
+    "canonicalUrl": "https://careers.sig.com/recent-graduate/jobs/11018?lang=en-us",
+    "company": "Susquehanna International Group",
+    "role": "Quantitative Researcher – Master's: 2027",
+    "location": "New York, NY / Bala Cynwyd, PA",
+    "ageDays": 0,
+    "source": "SIG official careers (user-provided review)",
+    "firstSeenAt": "2026-08-22T02:40:55-07:00",
+    "lastCheckedAt": "2026-08-22T02:40:55-07:00",
+    "eligibility": "likely",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "confirmed",
+    "fitTier": "priority",
+    "fitScore": 98,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant / AI-ML",
+    "reasons": [
+      "官方标题与页面明确为 Master's 2027、June 2027 Start",
+      "概率统计、机器学习、alpha 研究、大规模数据分析与回测直接匹配 Quant Research 方向",
+      "官方明确说明该岗位提供 visa sponsorship"
+    ],
+    "caveats": [
+      "官网资格段落仍写 Masters graduating by Summer 2026，与 2027 标题和 June 2027 Start 矛盾；投递时需留意或向招聘方确认",
+      "申请此岗位会被自动纳入 Quantitative Systematic Trader 岗位考虑"
+    ],
+    "applyUrl": "https://careers-sig.icims.com/jobs/11018/login",
+    "status": "open"
+  },
+  {
     "id": "arrowstreet-capital-quantitative-developer-r1433",
     "canonicalUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/arrowstreet/job/Boston/Quantitative-Developer_R1433-1",
     "company": "Arrowstreet Capital",
