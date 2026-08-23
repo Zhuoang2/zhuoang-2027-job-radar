@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T08:00:45-07:00",
+  "checkedAt": "2026-08-22T20:07:37-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -12631,6 +12631,93 @@
       "reasonCode": "production-platform-operations-storage-and-kubernetes-core",
       "firstSeenAt": "2026-08-22T08:00:45-07:00",
       "lastCheckedAt": "2026-08-22T08:00:45-07:00"
+    },
+    "https://www.imc.com/us/careers/jobs/4907368101": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://www.drw.com/work-at-drw/listings/software-developer-3463408": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://www.headlandstech.com/careers/": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://job-boards.greenhouse.io/radixuniversity/jobs/8521642002": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://trexquant.com/careers/A634E0E3F4?departments=Quantitative+Research+and+Machine+Learning": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13258": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://www.deshaw.com/careers/quantitative-analyst-2636": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-match",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://job-boards.greenhouse.io/imc/jobs/4907416101": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-degree-required",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://job-boards.greenhouse.io/imc/jobs/4667814101": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us-location-scope",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    },
+    "https://www.squarepoint-capital.com/early-careers": {
+      "status": "needs-review",
+      "reasonCode": "no-stable-current-job-detail-page",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastAttemptAt": "2026-08-22T20:07:37-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00"
+    },
+    "https://careers.twosigma.com/careers/SearchJobs/": {
+      "status": "needs-review",
+      "reasonCode": "specific-campus-software-role-not-verified",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastAttemptAt": "2026-08-22T20:07:37-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00"
+    },
+    "https://www.jumptrading.com/hr/students-new-grads": {
+      "status": "needs-review",
+      "reasonCode": "no-stable-specific-us-requisition",
+      "firstSeenAt": "2026-08-22T20:07:37-07:00",
+      "lastAttemptAt": "2026-08-22T20:07:37-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00"
     }
   }
 }

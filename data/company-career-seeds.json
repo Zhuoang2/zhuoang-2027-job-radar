@@ -1,0 +1,52 @@
+[
+  {
+    "company": "IMC",
+    "publicCareersUrl": "https://www.imc.com/us/careers/search",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "DRW",
+    "publicCareersUrl": "https://www.drw.com/work-at-drw/listings",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "Headlands Technologies",
+    "publicCareersUrl": "https://www.headlandstech.com/careers/",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "Radix Trading",
+    "publicCareersUrl": "https://job-boards.greenhouse.io/radixuniversity",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "Trexquant",
+    "publicCareersUrl": "https://trexquant.com/careers",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "Two Sigma",
+    "publicCareersUrl": "https://careers.twosigma.com/careers/SearchJobs/",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "The D. E. Shaw Group",
+    "publicCareersUrl": "https://www.deshaw.com/careers",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
+    "directions": ["Quant"]
+  },
+  {
+    "company": "PDT Partners",
+    "publicCareersUrl": "https://job-boards.greenhouse.io/pdtpartners",
+    "directions": ["Quant", "ML Systems"]
+  },
+  {
+    "company": "Jump Trading",
+    "publicCareersUrl": "https://www.jumptrading.com/hr/students-new-grads",
+    "directions": ["Quant"]
+  }
+]

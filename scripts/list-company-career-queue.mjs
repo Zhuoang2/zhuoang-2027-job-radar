@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 
-export function buildCompanyCareerQueue(jobs, source, now = new Date()) {
+export function buildCompanyCareerQueue(jobs, source, now = new Date(), seeds = []) {
   const baseline = source?.baseline ?? {};
   const companyStates = baseline.companyStates ?? {};
   const deferred = new Set(
@@ -20,6 +20,18 @@ export function buildCompanyCareerQueue(jobs, source, now = new Date()) {
     companies.set(job.company, current);
   }
 
+  for (const seed of seeds) {
+    const current = companies.get(seed.company) ?? {
+      company: seed.company,
+      activeCardCount: 0,
+      directions: new Set(),
+      publicCareersUrl: seed.publicCareersUrl ?? null,
+    };
+    for (const direction of seed.directions ?? []) current.directions.add(direction);
+    current.publicCareersUrl ??= seed.publicCareersUrl ?? null;
+    companies.set(seed.company, current);
+  }
+
   const dueCompanies = [...companies.values()]
     .filter(({ company }) => !deferred.has(company))
     .map((entry) => {
@@ -29,6 +41,7 @@ export function buildCompanyCareerQueue(jobs, source, now = new Date()) {
         company: entry.company,
         activeCardCount: entry.activeCardCount,
         directions: [...entry.directions].sort(),
+        publicCareersUrl: prior.publicCareersUrl ?? entry.publicCareersUrl ?? null,
         lastSuccessfulCheckAt: prior.lastSuccessfulCheckAt ?? null,
         nextDueAt: prior.nextDueAt ?? null,
         isDue:
@@ -60,14 +73,16 @@ export function buildCompanyCareerQueue(jobs, source, now = new Date()) {
 }
 
 async function main() {
-  const [jobsText, stateText] = await Promise.all([
+  const [jobsText, stateText, seedsText] = await Promise.all([
     readFile(new URL("../data/jobs.json", import.meta.url), "utf8"),
     readFile(new URL("../data/source-state.json", import.meta.url), "utf8"),
+    readFile(new URL("../data/company-career-seeds.json", import.meta.url), "utf8"),
   ]);
   const jobs = JSON.parse(jobsText);
   const state = JSON.parse(stateText);
+  const seeds = JSON.parse(seedsText);
   const source = state.sourceMonitoring.sources["company-careers"];
-  console.log(JSON.stringify(buildCompanyCareerQueue(jobs, source), null, 2));
+  console.log(JSON.stringify(buildCompanyCareerQueue(jobs, source, new Date(), seeds), null, 2));
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {

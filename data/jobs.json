@@ -7702,5 +7702,272 @@
     "status": "open",
     "firstSeenAt": "2026-08-22T08:00:45-07:00",
     "lastCheckedAt": "2026-08-22T08:00:45-07:00"
+  },
+  {
+    "id": "imc-graduate-quantitative-researcher-4907368101",
+    "canonicalUrl": "https://www.imc.com/us/careers/jobs/4907368101",
+    "company": "IMC",
+    "role": "Graduate Quantitative Researcher (BS/MS)",
+    "location": "Chicago, IL",
+    "ageDays": 0,
+    "source": "IMC official careers",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方明确面向 2026 年 9 月至 2027 年 7 月毕业的本科或硕士，并安排 2027 年 2 月或 8 月入职",
+      "统计研究、机器学习、预测模型和 Python/C++ 与量化研究背景高度匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 sponsorship/OPT 政策"
+    ],
+    "applyUrl": "https://www.imc.com/us/careers/jobs/4907368101",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "drw-quantitative-researcher-3481214",
+    "canonicalUrl": "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214",
+    "company": "DRW",
+    "role": "Quantitative Researcher",
+    "location": "Chicago, IL / New York, NY",
+    "ageDays": 0,
+    "source": "DRW official careers",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方明确 Summer 2027 入职，并接受 2026 年 12 月至 2027 年 8 月毕业的本科、硕士或博士",
+      "预测信号、机器学习、统计建模与策略研究职责与经历高度匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 sponsorship/OPT 政策"
+    ],
+    "applyUrl": "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "drw-software-developer-3463408",
+    "canonicalUrl": "https://www.drw.com/work-at-drw/listings/software-developer-3463408",
+    "company": "DRW",
+    "role": "Software Developer",
+    "location": "Chicago, IL",
+    "ageDays": 0,
+    "source": "DRW official careers",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "directions": [
+      "Quant",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Quant Development / SWE",
+    "reasons": [
+      "官方明确 Summer 2027 入职，并接受 2026 年 12 月至 2027 年 6 月毕业生",
+      "Python/C++、实时系统和交易技术方向与 CUDA/MPI 和数据管道经历匹配"
+    ],
+    "caveats": [
+      "相较 DRW Quantitative Researcher 更依赖系统工程与 C++",
+      "官方职位页未说明 sponsorship/OPT 政策"
+    ],
+    "applyUrl": "https://www.drw.com/work-at-drw/listings/software-developer-3463408",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "headlands-quantitative-researcher-new-grad",
+    "canonicalUrl": "https://www.headlandstech.com/careers/",
+    "company": "Headlands Technologies",
+    "role": "Quantitative Researcher (New Grad)",
+    "location": "Chicago, IL / New York, NY",
+    "ageDays": 0,
+    "source": "Headlands Technologies official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方 New Grad 岗位要求统计、机器学习、噪声现实数据和 Python/C++/Java",
+      "预测信号与自动交易模型研究方向和现有经历高度匹配"
+    ],
+    "caveats": [
+      "官方页面未明确 2027 入职年份或 sponsorship 政策",
+      "公司要求只提交一个最匹配岗位"
+    ],
+    "applyUrl": "https://www.headlandstech.com/careers/",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "radix-quantitative-researcher-bs-ms-8521642002",
+    "canonicalUrl": "https://job-boards.greenhouse.io/radixuniversity/jobs/8521642002",
+    "company": "Radix Trading",
+    "role": "Quantitative Researcher (Full-Time - Master's/Bachelor's)",
+    "location": "Chicago, IL / New York, NY",
+    "ageDays": 0,
+    "source": "Radix Trading official university careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方全职校园岗位明确面向本科和硕士，强调概率、统计、机器学习和研究能力",
+      "数学、统计、预测建模和 Python/C++ 经历与岗位高度匹配"
+    ],
+    "caveats": [
+      "官方页面未明确 2027 入职年份或 sponsorship 政策",
+      "Radix 要求同一时间只选择一个岗位，本岗位优先于纯 C++ Technology 岗"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/radixuniversity/jobs/8521642002",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "trexquant-quantitative-researcher-early-career-a634e0e3f4",
+    "canonicalUrl": "https://trexquant.com/careers/A634E0E3F4?departments=Quantitative+Research+and+Machine+Learning",
+    "company": "Trexquant",
+    "role": "Quantitative Researcher - Early Career",
+    "location": "Stamford, CT / New York, NY",
+    "ageDays": 0,
+    "source": "Trexquant official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 94,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方 Early Career 岗位接受 STEM 本科、硕士或博士，并强调 Python、机器学习和预测模型",
+      "大规模数据、模型研究和模拟验证与实习及项目经历匹配"
+    ],
+    "caveats": [
+      "美国职位页未明确 2027 入职年份或 sponsorship 政策"
+    ],
+    "applyUrl": "https://trexquant.com/careers/A634E0E3F4?departments=Quantitative+Research+and+Machine+Learning",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "two-sigma-quantitative-researcher-campus-hire-13258",
+    "canonicalUrl": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13258",
+    "company": "Two Sigma",
+    "role": "Quantitative Researcher - Full-Time Campus Hire",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "Two Sigma official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方 Early Careers 岗位接受本科至博士，并要求真实数据研究项目与机器学习能力",
+      "统计建模、实验研究和 Python/C++ 背景与岗位高度匹配"
+    ],
+    "caveats": [
+      "官方职位页未明确 2027 cohort、开始日期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13258",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "de-shaw-quantitative-analyst-2636",
+    "canonicalUrl": "https://www.deshaw.com/careers/quantitative-analyst-2636",
+    "company": "The D. E. Shaw Group",
+    "role": "Quantitative Analyst",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "The D. E. Shaw Group official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 93,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方岗位接受完成本科、硕士或博士的候选人且未设最低工作年限",
+      "系统化模型、交易想法、风险与成本分析和软件开发与背景匹配"
+    ],
+    "caveats": [
+      "官方职位页未明确 2027 cohort、开始日期或 sponsorship 政策"
+    ],
+    "applyUrl": "https://www.deshaw.com/careers/quantitative-analyst-2636",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "pdt-partners-research-engineer-5403145",
+    "canonicalUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145",
+    "company": "PDT Partners",
+    "role": "Research Engineer",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "PDT Partners official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 93,
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
+    "resumeTrack": "Quant Development / ML Systems",
+    "reasons": [
+      "官方职责集中于机器学习研究基础设施、模型训练、硬件加速和性能瓶颈分析",
+      "CUDA/MPI、分布式训练、PyTorch/TensorFlow 和研究工程经历直接匹配"
+    ],
+    "caveats": [
+      "岗位不是明确校园招聘，具体 2027 入职时间需核实",
+      "官方职位页未说明 sponsorship/OPT 政策"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145",
+    "status": "open",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
   }
 ]

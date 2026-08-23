@@ -328,11 +328,11 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-large-catalog-deferrals-and-needs-review",
-        "lastCheckedAt": "2026-08-22T08:00:45-07:00",
+        "cycleStatus": "completed-with-targeted-quant-backfill-and-needs-review",
+        "lastCheckedAt": "2026-08-22T20:07:37-07:00",
         "baseline": {
-          "mode": "company-derived-official-career-inventory",
-          "queueSource": "Unique public company names in data/jobs.json that are not already current in companyStates or deferredLargeCompanies.",
+          "mode": "public-company-registry-and-card-derived-official-career-inventory",
+          "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
           "maxCompaniesPerRun": 20,
           "recheckIntervalDays": 14,
           "maxEnumeratedOpenings": 200,
@@ -1092,6 +1092,18 @@
             "duplicateCount": 13,
             "closedCount": 5,
             "preferenceExcludedCount": 1
+          },
+          "seedRegistry": {
+            "path": "data/company-career-seeds.json",
+            "entryCount": 10,
+            "lastTargetedAuditAt": "2026-08-22T20:07:37-07:00"
+          },
+          "lastTargetedAuditSummary": {
+            "reviewedRoleCount": 14,
+            "addedCount": 9,
+            "hardExcludedCount": 1,
+            "outOfScopeCount": 1,
+            "needsReviewCount": 3
           }
         },
         "note": "Twenty due companies were processed. Thirteen complete official catalogs were enumerated without partial scans, three catalogs remain retryable, and four catalogs were newly deferred for exceeding the bounded daily limits."
@@ -5329,6 +5341,33 @@
       ],
       "https://www.github.careers/careers-home/jobs/5743": [
         "speedyapply"
+      ],
+      "https://www.imc.com/us/careers/jobs/4907368101": [
+        "company-careers"
+      ],
+      "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214": [
+        "company-careers"
+      ],
+      "https://www.drw.com/work-at-drw/listings/software-developer-3463408": [
+        "company-careers"
+      ],
+      "https://www.headlandstech.com/careers/": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/radixuniversity/jobs/8521642002": [
+        "company-careers"
+      ],
+      "https://trexquant.com/careers/A634E0E3F4?departments=Quantitative+Research+and+Machine+Learning": [
+        "company-careers"
+      ],
+      "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13258": [
+        "company-careers"
+      ],
+      "https://www.deshaw.com/careers/quantitative-analyst-2636": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145": [
+        "company-careers"
       ]
     },
     "suspectedDuplicates": [
@@ -7484,6 +7523,30 @@
         "firstSeenAt": "2026-08-20T18:07:56-07:00",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/early-careers",
+        "reason": "The official early-careers page names Graduate Software Developer, but no stable current U.S. job-detail page with timing and application evidence was exposed; hold for a later complete catalog audit.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-22T20:07:37-07:00",
+        "lastAttemptAt": "2026-08-22T20:07:37-07:00",
+        "retryAfter": "2026-08-29T08:00:00-07:00"
+      },
+      {
+        "canonicalUrl": "https://careers.twosigma.com/careers/SearchJobs/",
+        "reason": "The official catalog exposed the Quantitative Research campus role, but no stable current full-time Software Engineering Campus Hire detail page was verified; do not infer it from an internship posting.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-22T20:07:37-07:00",
+        "lastAttemptAt": "2026-08-22T20:07:37-07:00",
+        "retryAfter": "2026-08-29T08:00:00-07:00"
+      },
+      {
+        "canonicalUrl": "https://www.jumptrading.com/hr/students-new-grads",
+        "reason": "The official student and new-grad page states that U.S. 2027 hiring is opening, but it did not expose a stable specific matching U.S. requisition to admit.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-22T20:07:37-07:00",
+        "lastAttemptAt": "2026-08-22T20:07:37-07:00",
+        "retryAfter": "2026-08-29T08:00:00-07:00"
       }
     ],
     "directionTaxonomy": {
@@ -7515,8 +7578,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2336,
-      "lastCheckedAt": "2026-08-22T08:00:45-07:00",
+      "entryCount": 2350,
+      "lastCheckedAt": "2026-08-22T20:07:37-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

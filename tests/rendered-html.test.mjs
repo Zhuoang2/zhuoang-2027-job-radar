@@ -339,11 +339,24 @@ test("company career expansion prioritizes bounded unaudited companies", () => {
       },
     },
     new Date("2026-08-21T08:00:00Z"),
+    [
+      {
+        company: "SeedOnlyQuant",
+        publicCareersUrl: "https://example.com/seed-only-quant-careers",
+        directions: ["Quant"],
+      },
+    ],
   );
 
   assert.deepEqual(
     queue.selectedCompanies.map((entry) => entry.company),
-    ["QuantCo", "SoftwareCo"],
+    ["SeedOnlyQuant", "QuantCo", "SoftwareCo"],
+  );
+  assert.equal(queue.totalPublicCompanyCount, 4);
+  assert.equal(queue.selectedCompanies[0].activeCardCount, 0);
+  assert.equal(
+    queue.selectedCompanies[0].publicCareersUrl,
+    "https://example.com/seed-only-quant-careers",
   );
   assert.equal(queue.deferredLargeCompanyCount, 1);
 });
