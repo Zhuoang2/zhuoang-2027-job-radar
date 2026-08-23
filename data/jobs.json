@@ -1,5 +1,156 @@
 [
   {
+    "id": "jump-campus-quantitative-researcher-7728630",
+    "canonicalUrl": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
+    "company": "Jump Trading",
+    "role": "Campus Quantitative Researcher (Undergraduate/Master's)",
+    "location": "Chicago, IL / New York, NY",
+    "ageDays": 0,
+    "source": "Jump Trading official careers",
+    "firstSeenAt": "2026-08-23T08:00:47-07:00",
+    "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+    "eligibility": "eligible",
+    "startTiming": "timing-check",
+    "sponsorship": "confirmed",
+    "fitTier": "priority",
+    "fitScore": 98,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方校园全职岗位面向本科和研究生，职责涵盖大规模数据、预测模型、统计分析、机器学习与自动交易策略",
+      "概率统计、Python/C++、预测建模和研究经历与 Quant Research 方向高度匹配",
+      "官方明确接受 CPT/OPT，并为全职岗位提供工作签证 sponsorship"
+    ],
+    "caveats": [
+      "官方页面表示美国 2027 岗位正在开放，但该职位详情未单独写明具体入职月份"
+    ],
+    "applyUrl": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
+    "status": "open"
+  },
+  {
+    "id": "jump-campus-ai-research-engineer-8052313",
+    "canonicalUrl": "https://www.jumptrading.com/hr/job?gh_jid=8052313",
+    "company": "Jump Trading",
+    "role": "Campus AI Research Engineer (Full-Time)",
+    "location": "Chicago, IL / New York, NY",
+    "ageDays": 0,
+    "source": "Jump Trading official careers",
+    "firstSeenAt": "2026-08-23T08:00:47-07:00",
+    "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "confirmed",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "AI/ML",
+      "ML Systems",
+      "Quant"
+    ],
+    "resumeTrack": "MLE / AI",
+    "reasons": [
+      "官方校园全职岗位负责金融 AI/ML 框架、HPC 训练管线和低延迟推理系统",
+      "CUDA/MPI、分布式训练、PyTorch、Python/C++ 与现有 ML Systems 项目直接匹配",
+      "官方明确接受 CPT/OPT，并为全职岗位提供工作签证 sponsorship"
+    ],
+    "caveats": [
+      "官方页面表示美国 2027 岗位正在开放，但该职位详情未单独写明具体入职月份",
+      "岗位覆盖面广且强调大规模 ML 系统深度，属于竞争较强的优先尝试岗位"
+    ],
+    "applyUrl": "https://www.jumptrading.com/hr/job?gh_jid=8052313",
+    "status": "open"
+  },
+  {
+    "id": "garmin-software-engineer-1-19680",
+    "canonicalUrl": "https://careers.garmin.com/careers-home/jobs/19680",
+    "company": "Garmin",
+    "role": "Software Engineer 1",
+    "location": "Yarmouth, ME",
+    "ageDays": 2,
+    "source": "SWELIST email lead; Garmin official careers",
+    "firstSeenAt": "2026-08-23T08:00:47-07:00",
+    "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 89,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE",
+    "reasons": [
+      "官方职位为美国 Regular Full-Time Software Engineer 1，接受计算机科学相关学位或等效经历",
+      "软件开发、测试、数据结构与算法基础和现有工程经历匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 2027 cohort、开始日期或 sponsorship/OPT 政策"
+    ],
+    "applyUrl": "https://careers.garmin.com/careers-home/jobs/19680",
+    "status": "open"
+  },
+  {
+    "id": "heb-software-engineer-1-231773",
+    "canonicalUrl": "https://careers-heb.icims.com/jobs/231773/job",
+    "company": "H-E-B",
+    "role": "Software Engineer I - Multiple Teams",
+    "location": "San Antonio, TX / Austin, TX",
+    "ageDays": 2,
+    "source": "SWELIST email lead; H-E-B official careers",
+    "firstSeenAt": "2026-08-23T08:00:47-07:00",
+    "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 87,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE",
+    "reasons": [
+      "官方职位为美国全职初级软件工程岗位，要求 0–2 年全栈开发经验",
+      "Python/Java、云服务、数据管线与产品工程经历和岗位技术范围匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 2027 cohort、开始日期或 sponsorship/OPT 政策",
+      "官方页面标题标为 Software Engineer I，但正文个别位置写 Software Engineer II，申请前需留意"
+    ],
+    "applyUrl": "https://careers-heb.icims.com/jobs/231773/job",
+    "status": "open"
+  },
+  {
+    "id": "constructconnect-associate-software-engineer-2191",
+    "canonicalUrl": "https://careers-constructconnect.icims.com/jobs/2191/job",
+    "company": "ConstructConnect",
+    "role": "Associate Software Engineer - Product Development",
+    "location": "Atlanta / Peachtree Corners, GA (Hybrid)",
+    "ageDays": 2,
+    "source": "SWELIST email lead; ConstructConnect official careers",
+    "firstSeenAt": "2026-08-23T08:00:47-07:00",
+    "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 88,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE",
+    "reasons": [
+      "官方职位为美国全职 Associate Software Engineer，接受计算机科学学位或等效经历",
+      "后端开发、数据管线、云平台和软件工程项目与岗位职责匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 2027 cohort、开始日期或 sponsorship/OPT 政策"
+    ],
+    "applyUrl": "https://careers-constructconnect.icims.com/jobs/2191/job",
+    "status": "open"
+  },
+  {
     "id": "sig-quantitative-researcher-masters-2027-11018",
     "canonicalUrl": "https://careers.sig.com/recent-graduate/jobs/11018?lang=en-us",
     "company": "Susquehanna International Group",

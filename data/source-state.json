@@ -328,8 +328,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-targeted-quant-backfill-and-needs-review",
-        "lastCheckedAt": "2026-08-22T20:07:37-07:00",
+        "cycleStatus": "completed-with-partial-company-needs-review",
+        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -578,10 +578,17 @@
             },
             "WallStreetQuants": {
               "publicCareersUrl": "https://apply.workable.com/wallstreetquants/",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-22T08:00:45-07:00",
-              "retryAfter": "2026-08-23T08:00:45-07:00",
-              "reason": "The official catalog was blocked by a verification challenge and no equivalent stable public index was available."
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 10,
+              "inventoryFingerprint": "sha256:97e0f062f8f45a14",
+              "candidateCount": 4,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 2,
+              "outOfScopeCount": 1
             },
             "WorldQuant": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/worldquant",
@@ -729,9 +736,9 @@
             "Amerisure": {
               "publicCareersUrl": "https://amerisure.wd5.myworkdayjobs.com/AmerisureCareers",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-22T08:00:45-07:00",
-              "retryAfter": "2026-08-23T08:00:45-07:00",
-              "reason": "The official Workday endpoint returned 422 across the discoverable tenant and site variants, so complete enumeration could not be proven."
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The official Workday catalog still could not be completely enumerated through a stable public endpoint."
             },
             "AppLovin": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/applovin",
@@ -947,9 +954,170 @@
             "Cummins": {
               "publicCareersUrl": "https://cummins.jobs/",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-22T08:00:45-07:00",
-              "retryAfter": "2026-08-23T08:00:45-07:00",
-              "reason": "The Oracle-backed official catalog could not be enumerated through a stable public index within this run."
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The Oracle-backed official catalog could not be completely enumerated through a stable public index in this run."
+            },
+            "Acadian Asset Management": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/acadianassetmanagementllc",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 13,
+              "inventoryFingerprint": "sha256:fc2330b97e4955b4",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Headlands Technologies": {
+              "publicCareersUrl": "https://www.headlandstech.com/careers/",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 5,
+              "inventoryFingerprint": "sha256:bc7ae0be8ce75016",
+              "candidateCount": 5,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 3,
+              "outOfScopeCount": 0
+            },
+            "Jump Trading": {
+              "publicCareersUrl": "https://www.jumptrading.com/hr/students-new-grads",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 106,
+              "inventoryFingerprint": "sha256:ee08c6535f070106",
+              "candidateCount": 6,
+              "addedCount": 2,
+              "duplicateCount": 0,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 2,
+              "outOfScopeCount": 0
+            },
+            "Mulligan Funding": {
+              "publicCareersUrl": "https://jobs.lever.co/mulliganfunding",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 3,
+              "inventoryFingerprint": "sha256:bd4227b8a3d5bbd6",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 2,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "PDT Partners": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/pdtpartners",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 10,
+              "inventoryFingerprint": "sha256:1db5f2921f6c305e",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Radix Trading": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/radixuniversity",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 8,
+              "inventoryFingerprint": "sha256:7774afa0db5cb8c0",
+              "candidateCount": 5,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 4,
+              "outOfScopeCount": 0
+            },
+            "The D. E. Shaw Group": {
+              "publicCareersUrl": "https://www.deshaw.com/careers",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-23T08:00:47-07:00",
+              "nextDueAt": "2026-09-06T08:00:47-07:00",
+              "inventoryCount": 93,
+              "inventoryFingerprint": "sha256:48fddbdfcf791b51",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "DRW": {
+              "publicCareersUrl": "https://www.drw.com/work-at-drw/listings",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; existing verified cards were retained."
+            },
+            "Garmin": {
+              "publicCareersUrl": "https://careers.garmin.com/careers-home/jobs",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "One SWELIST-discovered official detail page was verified, but the full official catalog could not be enumerated through a stable public index in this run."
+            },
+            "GitHub": {
+              "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The official search returned no complete inventory while an existing verified role remains open; complete enumeration could not be proven."
+            },
+            "Goldman Sachs": {
+              "publicCareersUrl": "https://higher.gs.com/results",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run."
+            },
+            "IMC": {
+              "publicCareersUrl": "https://www.imc.com/us/careers/search",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; existing verified cards were retained."
+            },
+            "Mackenzie Investments": {
+              "publicCareersUrl": "https://careersen-mackenzieinvestments.icims.com/jobs/search",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; the existing verified card was retained."
+            },
+            "Squarepoint Capital": {
+              "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The official early-careers page exposed the full role list, but current role-detail pages were not stably readable for complete official verification."
+            },
+            "Trexquant": {
+              "publicCareersUrl": "https://www.trexquant.com/careers",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The dynamic official catalog did not expose a stable complete public inventory; the existing verified role was retained."
+            },
+            "Two Sigma": {
+              "publicCareersUrl": "https://careers.twosigma.com/careers/SearchJobs/",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+              "retryAfter": "2026-08-24T08:00:47-07:00",
+              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; the existing verified role was retained."
             }
           },
           "deferredLargeCompanies": [
@@ -1079,19 +1247,29 @@
               "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
               "firstDeferredAt": "2026-08-22T08:00:45-07:00",
               "lastObservedAt": "2026-08-22T08:00:45-07:00"
+            },
+            {
+              "company": "Globus Medical",
+              "publicCareersUrl": "https://globusmedical.wd5.myworkdayjobs.com/GlobusMedical",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 329,
+              "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
+              "firstDeferredAt": "2026-08-23T08:00:47-07:00",
+              "lastObservedAt": "2026-08-23T08:00:47-07:00"
             }
           ],
           "lastBatch": {
-            "checkedAt": "2026-08-22T08:00:45-07:00",
+            "checkedAt": "2026-08-23T08:00:47-07:00",
             "selectedCompanyCount": 20,
-            "completeAuditCount": 13,
-            "needsReviewCount": 3,
-            "deferredLargeCount": 4,
-            "candidateCount": 2,
-            "addedCount": 1,
-            "duplicateCount": 13,
-            "closedCount": 5,
-            "preferenceExcludedCount": 1
+            "completeAuditCount": 8,
+            "needsReviewCount": 11,
+            "deferredLargeCount": 1,
+            "candidateCount": 27,
+            "addedCount": 2,
+            "duplicateCount": 8,
+            "hardExcludedCount": 5,
+            "preferenceExcludedCount": 11,
+            "outOfScopeCount": 1
           },
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
@@ -1106,28 +1284,28 @@
             "needsReviewCount": 3
           }
         },
-        "note": "Twenty due companies were processed. Thirteen complete official catalogs were enumerated without partial scans, three catalogs remain retryable, and four catalogs were newly deferred for exceeding the bounded daily limits."
+        "note": "Twenty due companies were processed. Eight complete official catalogs were enumerated, eleven remain retryable because complete public enumeration could not be proven, and Globus Medical was deferred after its official catalog reported 329 openings. Two verified Jump Trading campus roles were admitted."
       },
       "speedyapply": {
         "role": "primary",
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-22T08:00:45-07:00",
+        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 1631,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 2,
+          "addedIdentityCount": 0,
           "changedUrlCount": 0,
-          "changedContentCount": 1,
+          "changedContentCount": 0,
           "removedSourceEntryCount": 1,
-          "upstreamCommit": "a54e4778d838e92d1dbbe7d9b26a2d4e3882de5a",
-          "neverSeenIdentityCount": 2,
+          "upstreamCommit": "7839dcdd44a6712950ca99a80e1a4b55ca51a424",
+          "neverSeenIdentityCount": 0,
           "historicalReappearanceCount": 0,
-          "rawAddedUrlCount": 2,
+          "rawAddedUrlCount": 0,
           "rawRemovedUrlCount": 1,
-          "current60DayEntryCount": 106,
+          "current60DayEntryCount": 121,
           "current60DayCandidateCanonicalUrls": [
             "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
             "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
@@ -1240,14 +1418,14 @@
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 277
         },
-        "note": "Incremental comparison found two new canonical URLs, one substantive title change and one removed source row. GitHub was admitted after official verification; Amazon was excluded for a two-year non-internship experience minimum; the changed TikTok URL still renders an official not-found state."
+        "note": "The successful incremental comparison found no new canonical URLs and no substantive changed candidates; one removed source row was recorded without reopening unchanged historical candidates."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-22T08:00:45-07:00",
+        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
           "entryCount": 242,
@@ -1496,13 +1674,13 @@
             "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer"
           ],
           "addedEntryCount": 0,
-          "changedEntryCount": 4,
+          "changedEntryCount": 1,
           "upstreamCommit": "d69b33c329ae797a137550e89ceb9672d01962c2",
-          "current60DayEntryCount": 226,
+          "current60DayEntryCount": 242,
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 26
         },
-        "note": "No new canonical URLs were added. Four source removals were recorded without reopening unchanged historical candidates; no non-explicit-2027 role was admitted."
+        "note": "No new canonical URLs were added. One substantive title change was recorded for the already-reviewed Trexquant role; the existing official card was retained and no historical candidate was reopened."
       },
       "simplifyjobs": {
         "role": "monitor",
@@ -1510,7 +1688,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-22T08:00:45-07:00",
+        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-2027-admission-gate",
           "entryCount": 505,
@@ -1942,25 +2120,25 @@
             "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
             "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345"
           ],
-          "addedEntryCount": 79,
-          "observedUnconfirmedEntryCount": 79,
-          "observedNewEntryCount": 79,
-          "removedSourceEntryCount": 14,
-          "upstreamCommit": "0467fd33a92141b3c58869fc3ed24f466e8c787f",
-          "changedContentCount": 85,
-          "current60DayEntryCount": 411,
+          "addedEntryCount": 0,
+          "observedUnconfirmedEntryCount": 0,
+          "observedNewEntryCount": 0,
+          "removedSourceEntryCount": 0,
+          "upstreamCommit": "bc04590aae3dc1be6b49b6c6fd953f9d2cc03a04",
+          "changedContentCount": 0,
+          "current60DayEntryCount": 505,
           "backfillStatus": "complete"
         },
-        "note": "New-Grad-Positions still identifies itself as the 2026 cycle. Changes were retained for monitoring only; no 2026-cycle job was admitted, and no explicit 2027 full-time repository was found in the SimplifyJobs organization."
+        "note": "New-Grad-Positions still explicitly identifies itself as the 2026 cycle. No explicit 2027 full-time repository was found in the SimplifyJobs organization, so no role was admitted."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-window-complete",
-        "lastCheckedAt": "2026-08-22T08:00:45-07:00",
+        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
-          "entryCount": 1277,
+          "entryCount": 1294,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/00592559-74bf-4659-b573-2b630465cfc8",
             "https://simplify.jobs/p/00b35da0-c4cc-49e0-8c0c-81457f3767d9",
@@ -3238,22 +3416,39 @@
             "https://simplify.jobs/p/ff3a075b-b45b-4c88-8471-f4a4f79e4257",
             "https://simplify.jobs/p/ff6a64ad-4278-4b87-bd22-42fb9df0c074",
             "https://simplify.jobs/p/ff6e43c3-bc97-4b08-84ad-0e0b9943e092",
-            "https://simplify.jobs/p/ff8e5ead-dfcf-475e-969e-b6c251dce6ae"
+            "https://simplify.jobs/p/ff8e5ead-dfcf-475e-969e-b6c251dce6ae",
+            "https://simplify.jobs/p/7a70a260-965f-4aec-902f-7d5704f201a2",
+            "https://simplify.jobs/p/0d0456e6-2edb-4a9d-9c1f-34a36da5c0e3",
+            "https://simplify.jobs/p/cfcc9210-ac3f-4e1e-a97c-3efbdd92ee97",
+            "https://simplify.jobs/p/098e6975-4832-47d1-b6bb-c4bd8ca0b2c4",
+            "https://simplify.jobs/p/2878fb2f-f01b-4b99-82a0-1d04fe1d03a2",
+            "https://simplify.jobs/p/8c12740c-e2b9-4a03-a8a0-151f0eb2def0",
+            "https://simplify.jobs/p/2af5ac17-a498-44a7-829b-c3147a8a150b",
+            "https://simplify.jobs/p/4df3922d-a5db-4de5-8e1c-015be9c67458",
+            "https://simplify.jobs/p/3692e654-561c-46fc-a55d-1b5f8eed579b",
+            "https://simplify.jobs/p/d3fb5a6d-95ca-4c74-a448-f3db8b8d1a0a",
+            "https://simplify.jobs/p/620df5f1-110c-447c-8999-cf2d664001e9",
+            "https://simplify.jobs/p/025d3284-8d03-4fa6-aab3-067596ccb178",
+            "https://simplify.jobs/p/fbb57292-a7b0-4d96-9fe8-7e4f56edcad0",
+            "https://simplify.jobs/p/9e276b36-0027-450c-b77d-ba9d4664b668",
+            "https://simplify.jobs/p/10c0f3d2-b3b5-448c-b33a-9dfbbfbe255c",
+            "https://simplify.jobs/p/90f9f1b5-758f-40b8-b6dd-9a555735a261",
+            "https://simplify.jobs/p/ded4c8dd-a85f-4856-a22e-0d16e9b77a68"
           ],
-          "extractedPublicLinkCount": 70,
-          "officialCandidateCount": 70,
+          "extractedPublicLinkCount": 17,
+          "officialCandidateCount": 6,
           "matchedMessageCount": 1,
-          "newCandidateUrlCount": 70,
+          "newCandidateUrlCount": 17,
           "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 70,
-          "backfillWindowStart": "2026-08-21",
-          "backfillWindowEndExclusive": "2026-08-22",
-          "admittedJobCount": 10,
+          "officialCandidateReviewCount": 6,
+          "backfillWindowStart": "2026-08-22",
+          "backfillWindowEndExclusive": "2026-08-23",
+          "admittedJobCount": 3,
           "retryableCandidateCount": 0,
-          "windowStart": "2026-08-21",
-          "windowEndExclusive": "2026-08-22"
+          "windowStart": "2026-08-22",
+          "windowEndExclusive": "2026-08-23"
         },
-        "note": "The prior-day window was searched read-only with both authorized sender queries. All public candidate links were resolved through the current public Simplify structured index after the legacy page parser stopped matching the redesigned public page, then verified on official employer pages."
+        "note": "The prior-day window was searched read-only with both authorized sender queries. One deduplicated message yielded 17 public job links; six in-scope candidates were verified on official pages, three were admitted, and three failed hard eligibility checks."
       }
     },
     "sourceMentions": {
@@ -5367,6 +5562,25 @@
         "company-careers"
       ],
       "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145": [
+        "company-careers"
+      ],
+      "https://www.jumptrading.com/hr/job?gh_jid=7728630": [
+        "company-careers"
+      ],
+      "https://www.jumptrading.com/hr/job?gh_jid=8052313": [
+        "company-careers"
+      ],
+      "https://careers.garmin.com/careers-home/jobs/19680": [
+        "swelist-email"
+      ],
+      "https://careers-heb.icims.com/jobs/231773/job": [
+        "swelist-email"
+      ],
+      "https://careers-constructconnect.icims.com/jobs/2191/job": [
+        "swelist-email"
+      ],
+      "https://www.trexquant.com/careers": [
+        "vanshb03",
         "company-careers"
       ]
     },
@@ -7539,14 +7753,6 @@
         "firstSeenAt": "2026-08-22T20:07:37-07:00",
         "lastAttemptAt": "2026-08-22T20:07:37-07:00",
         "retryAfter": "2026-08-29T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://www.jumptrading.com/hr/students-new-grads",
-        "reason": "The official student and new-grad page states that U.S. 2027 hiring is opening, but it did not expose a stable specific matching U.S. requisition to admit.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-22T20:07:37-07:00",
-        "lastAttemptAt": "2026-08-22T20:07:37-07:00",
-        "retryAfter": "2026-08-29T08:00:00-07:00"
       }
     ],
     "directionTaxonomy": {
@@ -7578,15 +7784,15 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2350,
-      "lastCheckedAt": "2026-08-22T20:07:37-07:00",
+      "entryCount": 2377,
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-20T08:30:39-07:00",
-  "lastSuccessfulScanAt": "2026-08-20T08:30:39-07:00",
-  "lastSourceUpdatedAt": "2026-08-20T08:30:39-07:00",
+  "lastScanStartedAt": "2026-08-23T08:00:47-07:00",
+  "lastSuccessfulScanAt": "2026-08-23T08:00:47-07:00",
+  "lastSourceUpdatedAt": "2026-08-23T08:00:47-07:00",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
@@ -9301,10 +9507,15 @@
     "https://www.uber.com/global/en/careers/list/160024",
     "https://www.uber.com/global/en/careers/list/160028",
     "https://www.vectra.ai/about/jobs?gh_jid=8003612",
-    "https://www.verition.com/open-positions?gh_jid=5188872007"
+    "https://www.verition.com/open-positions?gh_jid=5188872007",
+    "https://www.jumptrading.com/hr/job?gh_jid=7728630",
+    "https://www.jumptrading.com/hr/job?gh_jid=8052313",
+    "https://careers.garmin.com/careers-home/jobs/19680",
+    "https://careers-heb.icims.com/jobs/231773/job",
+    "https://careers-constructconnect.icims.com/jobs/2191/job"
   ],
-  "baselineEntryCount": 1714,
-  "lastCheckedAt": "2026-08-22T08:00:45-07:00",
-  "lastSuccessfulRunAt": "2026-08-22T08:00:45-07:00",
+  "baselineEntryCount": 1719,
+  "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+  "lastSuccessfulRunAt": "2026-08-23T08:00:47-07:00",
   "lastRunStatus": "complete"
 }

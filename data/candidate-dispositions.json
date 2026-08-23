@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T20:07:37-07:00",
+  "checkedAt": "2026-08-23T08:00:47-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -12681,10 +12681,10 @@
       "lastCheckedAt": "2026-08-22T20:07:37-07:00"
     },
     "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-match",
+      "status": "duplicate",
+      "reasonCode": "existing-site-card",
       "firstSeenAt": "2026-08-22T20:07:37-07:00",
-      "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
     },
     "https://job-boards.greenhouse.io/imc/jobs/4907416101": {
       "status": "hard-excluded",
@@ -12700,24 +12700,188 @@
     },
     "https://www.squarepoint-capital.com/early-careers": {
       "status": "needs-review",
-      "reasonCode": "no-stable-current-job-detail-page",
+      "reasonCode": "official-detail-pages-not-stably-readable",
       "firstSeenAt": "2026-08-22T20:07:37-07:00",
-      "lastAttemptAt": "2026-08-22T20:07:37-07:00",
-      "retryAfter": "2026-08-29T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+      "retryAfter": "2026-08-30T08:00:47-07:00"
     },
     "https://careers.twosigma.com/careers/SearchJobs/": {
       "status": "needs-review",
-      "reasonCode": "specific-campus-software-role-not-verified",
+      "reasonCode": "official-catalog-not-stably-enumerable",
       "firstSeenAt": "2026-08-22T20:07:37-07:00",
-      "lastAttemptAt": "2026-08-22T20:07:37-07:00",
-      "retryAfter": "2026-08-29T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+      "retryAfter": "2026-08-30T08:00:47-07:00"
     },
     "https://www.jumptrading.com/hr/students-new-grads": {
-      "status": "needs-review",
-      "reasonCode": "no-stable-specific-us-requisition",
+      "status": "duplicate",
+      "reasonCode": "specific-official-campus-requisitions-enumerated",
       "firstSeenAt": "2026-08-22T20:07:37-07:00",
-      "lastAttemptAt": "2026-08-22T20:07:37-07:00",
-      "retryAfter": "2026-08-29T08:00:00-07:00"
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/7a70a260-965f-4aec-902f-7d5704f201a2": {
+      "status": "hard-excluded",
+      "reasonCode": "temporary-role-and-us-citizenship-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/0d0456e6-2edb-4a9d-9c1f-34a36da5c0e3": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-driver-data-testing-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/cfcc9210-ac3f-4e1e-a97c-3efbdd92ee97": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-research-associate-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/098e6975-4832-47d1-b6bb-c4bd8ca0b2c4": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-ai-safety-operator-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/2878fb2f-f01b-4b99-82a0-1d04fe1d03a2": {
+      "status": "admitted",
+      "reasonCode": "official-full-time-entry-level-software-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/8c12740c-e2b9-4a03-a8a0-151f0eb2def0": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-verifications-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/2af5ac17-a498-44a7-829b-c3147a8a150b": {
+      "status": "hard-excluded",
+      "reasonCode": "us-citizenship-and-clearance-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/4df3922d-a5db-4de5-8e1c-015be9c67458": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-field-service-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/3692e654-561c-46fc-a55d-1b5f8eed579b": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-field-service-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/d3fb5a6d-95ca-4c74-a448-f3db8b8d1a0a": {
+      "status": "admitted",
+      "reasonCode": "official-full-time-entry-level-software-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/620df5f1-110c-447c-8999-cf2d664001e9": {
+      "status": "out-of-scope",
+      "reasonCode": "embedded-firmware-outside-target-directions",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/025d3284-8d03-4fa6-aab3-067596ccb178": {
+      "status": "admitted",
+      "reasonCode": "official-full-time-associate-software-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/fbb57292-a7b0-4d96-9fe8-7e4f56edcad0": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us-location-scope",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/9e276b36-0027-450c-b77d-ba9d4664b668": {
+      "status": "hard-excluded",
+      "reasonCode": "clearance-required-and-no-sponsorship",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/10c0f3d2-b3b5-448c-b33a-9dfbbfbe255c": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-business-systems-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/90f9f1b5-758f-40b8-b6dd-9a555735a261": {
+      "status": "out-of-scope",
+      "reasonCode": "postdoctoral-degree-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://simplify.jobs/p/ded4c8dd-a85f-4856-a22e-0d16e9b77a68": {
+      "status": "out-of-scope",
+      "reasonCode": "non-target-clinical-application-specialist-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7728630": {
+      "status": "admitted",
+      "reasonCode": "official-campus-quant-research-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8052313": {
+      "status": "admitted",
+      "reasonCode": "official-campus-ai-ml-systems-role",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8052343": {
+      "status": "hard-excluded",
+      "reasonCode": "strong-publication-record-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8052356": {
+      "status": "hard-excluded",
+      "reasonCode": "strong-publication-record-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8000835": {
+      "status": "preference-excluded",
+      "reasonCode": "low-level-linux-network-trading-infrastructure-core",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://job-boards.greenhouse.io/pdtpartners/jobs/1473516": {
+      "status": "hard-excluded",
+      "reasonCode": "two-years-ml-research-and-publication-record-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://job-boards.greenhouse.io/pdtpartners/jobs/82459": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-degree-required",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastCheckedAt": "2026-08-23T08:00:47-07:00"
+    },
+    "https://www.drw.com/work-at-drw/listings": {
+      "status": "needs-review",
+      "reasonCode": "official-catalog-not-stably-enumerable",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+      "retryAfter": "2026-08-30T08:00:47-07:00"
+    },
+    "https://www.trexquant.com/careers": {
+      "status": "needs-review",
+      "reasonCode": "official-catalog-not-stably-enumerable",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+      "retryAfter": "2026-08-30T08:00:47-07:00"
+    },
+    "https://www.imc.com/us/careers/search": {
+      "status": "needs-review",
+      "reasonCode": "official-catalog-not-stably-enumerable",
+      "firstSeenAt": "2026-08-23T08:00:47-07:00",
+      "lastAttemptAt": "2026-08-23T08:00:47-07:00",
+      "retryAfter": "2026-08-30T08:00:47-07:00"
     }
   }
 }
