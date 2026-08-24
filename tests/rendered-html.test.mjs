@@ -43,6 +43,7 @@ test("server-renders the job radar dashboard", async () => {
   assert.match(html, /已处理/);
   assert.doesNotMatch(html, /申请记录/);
   assert.match(html, /Optiver/);
+  assert.match(html, /Data Scientist \| Early Career 2027/);
   assert.match(html, /查看官方岗位/);
   assert.match(html, /标记为已提交/);
   assert.doesNotMatch(html, /2027 Graduate Software Engineer - DV Commodities/);
@@ -90,6 +91,17 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(linkedinSource.privacy.accountAndProfileDataExcluded, true);
   assert.equal(linkedinSource.baseline.entryCount, linkedinSource.baseline.seenLinkedInJobUrls.length);
   assert.equal(linkedinSource.baseline.lastSuccessfulCheckAt, null);
+  const handshakeSource = state.sourceMonitoring.sources["stanford-handshake-manual"];
+  assert.equal(handshakeSource.role, "manual-stanford-handshake-discovery");
+  assert.equal(handshakeSource.status, "complete");
+  assert.equal(handshakeSource.privacy.jobFactsOnly, true);
+  assert.equal(handshakeSource.privacy.studentProfileExcluded, true);
+  assert.equal(handshakeSource.privacy.messagesAndNotificationsExcluded, true);
+  assert.equal(handshakeSource.privacy.accountMetadataExcluded, true);
+  assert.equal(
+    handshakeSource.baseline.entryCount,
+    handshakeSource.baseline.seenHandshakeJobUrls.length,
+  );
   assert.equal(
     state.sourceMonitoring.sources["company-careers"].role,
     "official-company-expansion",
@@ -199,6 +211,23 @@ test("keeps the public job and application datasets privacy-safe", async () => {
         ["confirmed-2027", "timing-check"].includes(job.startTiming) &&
         ["confirmed", "opt-accepted", "unknown"].includes(job.sponsorship),
     ),
+  );
+  const handshakeAvenRole = jobs.find(
+    (job) => job.id === "aven-data-scientist-early-career-2027-handshake-11301956",
+  );
+  assert.ok(handshakeAvenRole);
+  assert.equal(
+    handshakeAvenRole.applyUrl,
+    "https://stanford.joinhandshake.com/jobs/11301956",
+  );
+  assert.deepEqual(handshakeAvenRole.directions, ["AI/ML"]);
+  assert.deepEqual(
+    state.sourceMonitoring.sourceMentions[handshakeAvenRole.canonicalUrl],
+    ["stanford-handshake-manual"],
+  );
+  assert.equal(
+    dispositionLedger.candidates[handshakeAvenRole.canonicalUrl]?.status,
+    "admitted",
   );
   assert.ok(
     jobs.every(

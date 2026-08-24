@@ -327,6 +327,29 @@
         },
         "note": "One-time official careers audit; this source is not part of the daily scan order. Two matching roles were added. The Linux Engineer role was audited but excluded because low-level Linux and operating-systems work is outside the user's target scope."
       },
+      "stanford-handshake-manual": {
+        "role": "manual-stanford-handshake-discovery",
+        "platform": "Stanford Handshake",
+        "publicJobUrl": "https://stanford.joinhandshake.com/jobs/11301956",
+        "status": "complete",
+        "lastCheckedAt": "2026-08-23T19:55:25-07:00",
+        "privacy": {
+          "jobFactsOnly": true,
+          "studentProfileExcluded": true,
+          "messagesAndNotificationsExcluded": true,
+          "accountMetadataExcluded": true
+        },
+        "baseline": {
+          "mode": "manual-single-job-stanford-handshake-test",
+          "entryCount": 1,
+          "seenHandshakeJobUrls": [
+            "https://stanford.joinhandshake.com/jobs/11301956"
+          ],
+          "admittedEntryCount": 1,
+          "lastSuccessfulCheckAt": "2026-08-23T19:55:25-07:00"
+        },
+        "note": "One-time Stanford Handshake ingestion test. The job card preserves the direct Handshake URL requested by the user. This source is not yet part of the daily scan order."
+      },
       "linkedin-jobs": {
         "role": "public-job-discovery",
         "platform": "LinkedIn Jobs",
@@ -3482,6 +3505,9 @@
       }
     },
     "sourceMentions": {
+      "https://stanford.joinhandshake.com/jobs/11301956": [
+        "stanford-handshake-manual"
+      ],
       "https://www.janestreet.com/join-jane-street/position/8576928002/": [
         "jane-street-official-manual"
       ],
@@ -7814,15 +7840,15 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2377,
-      "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+      "entryCount": 2378,
+      "lastCheckedAt": "2026-08-23T19:55:25-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
   "scanStatus": "complete",
   "lastScanStartedAt": "2026-08-23T08:00:47-07:00",
   "lastSuccessfulScanAt": "2026-08-23T08:00:47-07:00",
-  "lastSourceUpdatedAt": "2026-08-23T08:00:47-07:00",
+  "lastSourceUpdatedAt": "2026-08-23T19:55:25-07:00",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",

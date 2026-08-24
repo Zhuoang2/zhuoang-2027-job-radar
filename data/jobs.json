@@ -8120,5 +8120,35 @@
     "status": "open",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
     "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+  },
+  {
+    "id": "aven-data-scientist-early-career-2027-handshake-11301956",
+    "canonicalUrl": "https://stanford.joinhandshake.com/jobs/11301956",
+    "company": "Aven",
+    "role": "Data Scientist | Early Career 2027",
+    "location": "Campbell, CA (Onsite)",
+    "ageDays": 7,
+    "source": "Stanford Handshake (manual discovery)",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "confirmed",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "AI/ML"
+    ],
+    "resumeTrack": "AI/ML / Data",
+    "reasons": [
+      "Handshake 明确面向截至 2027 年 6 月毕业的硕士候选人，并标注支持 visa sponsorship",
+      "Python、SQL、统计与机器学习、因果分析和实验设计职责与 Stanford CME、Upstart 模型及大规模数据经历高度匹配"
+    ],
+    "caveats": [
+      "岗位要求在 Campbell, CA 全职 onsite",
+      "Handshake 申请流程要求简历、成绩单及 SAT/ACT 官方成绩"
+    ],
+    "applyUrl": "https://stanford.joinhandshake.com/jobs/11301956",
+    "status": "open",
+    "firstSeenAt": "2026-08-23T19:55:25-07:00",
+    "lastCheckedAt": "2026-08-23T19:55:25-07:00"
   }
 ]
