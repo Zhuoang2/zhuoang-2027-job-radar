@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "platform": "LinkedIn Jobs",
+  "publicSearchUrl": "https://www.linkedin.com/jobs/search/",
+  "location": "United States",
+  "employmentType": "Full-time",
+  "resultsPerQuery": 20,
+  "maxQueriesPerRun": 10,
+  "queries": [
+    {
+      "id": "quant-research-2027",
+      "keywords": "2027 quantitative researcher",
+      "directionHints": ["Quant"]
+    },
+    {
+      "id": "quant-development-2027",
+      "keywords": "2027 quantitative developer",
+      "directionHints": ["Quant"]
+    },
+    {
+      "id": "machine-learning-engineering-2027",
+      "keywords": "2027 machine learning engineer",
+      "directionHints": ["AI/ML", "ML Systems"]
+    },
+    {
+      "id": "machine-learning-research-2027",
+      "keywords": "2027 machine learning research scientist",
+      "directionHints": ["AI/ML"]
+    },
+    {
+      "id": "software-engineering-new-grad-2027",
+      "keywords": "2027 software engineer new grad",
+      "directionHints": ["SWE/Data Infra"]
+    },
+    {
+      "id": "ai-engineering-early-career",
+      "keywords": "early career AI engineer",
+      "directionHints": ["AI/ML"]
+    },
+    {
+      "id": "ml-systems-early-career",
+      "keywords": "early career ML systems engineer",
+      "directionHints": ["ML Systems"]
+    },
+    {
+      "id": "backend-engineering-new-grad",
+      "keywords": "new grad backend engineer",
+      "directionHints": ["SWE/Data Infra"]
+    },
+    {
+      "id": "data-engineering-new-grad",
+      "keywords": "new grad data engineer",
+      "directionHints": ["SWE/Data Infra"]
+    },
+    {
+      "id": "data-science-new-grad",
+      "keywords": "new grad data scientist",
+      "directionHints": ["AI/ML", "SWE/Data Infra"]
+    }
+  ]
+}

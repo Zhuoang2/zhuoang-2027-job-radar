@@ -7,6 +7,7 @@ import {
   selectVisibleJob,
 } from "../lib/job-taxonomy.mjs";
 import { buildCompanyCareerQueue } from "../scripts/list-company-career-queue.mjs";
+import { buildLinkedInJobQueryPlan } from "../scripts/list-linkedin-job-queries.mjs";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -70,6 +71,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     "speedyapply",
     "vanshb03",
     "simplifyjobs",
+    "linkedin-jobs",
     "company-careers",
   ]);
   assert.equal(state.sourceMonitoring.sources["swelist-email"].role, "email-lead");
@@ -80,6 +82,14 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(state.sourceMonitoring.sources.speedyapply.role, "primary");
   assert.equal(state.sourceMonitoring.sources.vanshb03.role, "supplemental");
   assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
+  const linkedinSource = state.sourceMonitoring.sources["linkedin-jobs"];
+  assert.equal(linkedinSource.role, "public-job-discovery");
+  assert.equal(linkedinSource.status, "needs-review");
+  assert.equal(linkedinSource.privacy.publicJobsOnly, true);
+  assert.equal(linkedinSource.privacy.messagesAndNotificationsExcluded, true);
+  assert.equal(linkedinSource.privacy.accountAndProfileDataExcluded, true);
+  assert.equal(linkedinSource.baseline.entryCount, linkedinSource.baseline.seenLinkedInJobUrls.length);
+  assert.equal(linkedinSource.baseline.lastSuccessfulCheckAt, null);
   assert.equal(
     state.sourceMonitoring.sources["company-careers"].role,
     "official-company-expansion",
@@ -120,6 +130,8 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.match(automationText, /Official company expansion/i);
   assert.match(automationText, /deferred-large-catalog/i);
   assert.match(automationText, /sibling roles that aggregators omitted/i);
+  assert.match(automationText, /LinkedIn Jobs discovery/i);
+  assert.match(automationText, /official employer job page/i);
   assert.ok(Array.isArray(state.sourceMonitoring.officialVerificationNeedsReview));
   assert.ok(
     state.sourceMonitoring.officialVerificationNeedsReview.every(
@@ -309,6 +321,30 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   };
   visit(state);
   visit(dispositionLedger);
+});
+
+test("builds a bounded, privacy-safe LinkedIn Jobs discovery plan", async () => {
+  const [configText, stateText] = await Promise.all([
+    readFile(new URL("../data/linkedin-job-searches.json", import.meta.url), "utf8"),
+    readFile(new URL("../data/source-state.json", import.meta.url), "utf8"),
+  ]);
+  const config = JSON.parse(configText);
+  const state = JSON.parse(stateText);
+  const source = state.sourceMonitoring.sources["linkedin-jobs"];
+  const plan = buildLinkedInJobQueryPlan(config, source, new Date("2026-08-23T19:00:00-07:00"));
+
+  assert.equal(plan.discoveryOnly, true);
+  assert.equal(plan.officialEmployerPageRequired, true);
+  assert.equal(plan.directionHintsRequireOfficialVerification, true);
+  assert.equal(plan.sourceStatus, "needs-review");
+  assert.ok(plan.queries.length > 0 && plan.queries.length <= 10);
+  assert.ok(plan.queries.every((query) => query.resultsLimit <= 20));
+  assert.ok(plan.queries.every((query) => !/intern(ship)?/i.test(query.keywords)));
+  assert.ok(
+    plan.queries.every((query) =>
+      query.directionHints.every((direction) => canonicalDirections.includes(direction)),
+    ),
+  );
 });
 
 test("direction filtering cannot retain an out-of-filter detail card", () => {

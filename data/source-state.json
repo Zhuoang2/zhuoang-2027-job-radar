@@ -9,6 +9,7 @@
       "speedyapply",
       "vanshb03",
       "simplifyjobs",
+      "linkedin-jobs",
       "company-careers"
     ],
     "preferenceExclusions": [
@@ -325,6 +326,35 @@
           ]
         },
         "note": "One-time official careers audit; this source is not part of the daily scan order. Two matching roles were added. The Linux Engineer role was audited but excluded because low-level Linux and operating-systems work is outside the user's target scope."
+      },
+      "linkedin-jobs": {
+        "role": "public-job-discovery",
+        "platform": "LinkedIn Jobs",
+        "publicSearchUrl": "https://www.linkedin.com/jobs/search/",
+        "backend": "linkedin-scraper-mcp",
+        "status": "needs-review",
+        "lastCheckedAt": "2026-08-23T18:49:57-07:00",
+        "privacy": {
+          "publicJobsOnly": true,
+          "messagesAndNotificationsExcluded": true,
+          "accountAndProfileDataExcluded": true
+        },
+        "baseline": {
+          "mode": "public-linkedin-job-leads-with-official-canonical-resolution",
+          "queryPlanPath": "data/linkedin-job-searches.json",
+          "queryPlanVersion": 1,
+          "entryCount": 0,
+          "seenLinkedInJobUrls": [],
+          "seenCandidateCanonicalUrls": [],
+          "lastSuccessfulCheckAt": null,
+          "returnedPublicLeadCount": 0,
+          "newLeadCount": 0,
+          "materiallyChangedLeadCount": 0,
+          "officialCandidateCount": 0,
+          "duplicateCount": 0,
+          "needsReviewCount": 0
+        },
+        "note": "Initial read-only connectivity check could not reach the configured local LinkedIn Jobs search backend. No result was counted as zero and the successful baseline was not advanced."
       },
       "company-careers": {
         "role": "official-company-expansion",

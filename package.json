@@ -12,6 +12,7 @@
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "company-career-queue": "node scripts/list-company-career-queue.mjs",
+    "linkedin-job-queries": "node scripts/list-linkedin-job-queries.mjs",
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
