@@ -9,7 +9,7 @@
       "speedyapply",
       "vanshb03",
       "simplifyjobs",
-      "linkedin-jobs",
+      "stanford-handshake",
       "company-careers"
     ],
     "preferenceExclusions": [
@@ -327,12 +327,12 @@
         },
         "note": "One-time official careers audit; this source is not part of the daily scan order. Two matching roles were added. The Linux Engineer role was audited but excluded because low-level Linux and operating-systems work is outside the user's target scope."
       },
-      "stanford-handshake-manual": {
-        "role": "manual-stanford-handshake-discovery",
+      "stanford-handshake": {
+        "role": "stanford-handshake-discovery",
         "platform": "Stanford Handshake",
-        "publicJobUrl": "https://stanford.joinhandshake.com/jobs/11301956",
+        "publicJobUrl": "https://stanford.joinhandshake.com/jobs/11290823",
         "status": "complete",
-        "lastCheckedAt": "2026-08-23T19:55:25-07:00",
+        "lastCheckedAt": "2026-08-25T03:01:04-07:00",
         "privacy": {
           "jobFactsOnly": true,
           "studentProfileExcluded": true,
@@ -340,22 +340,54 @@
           "accountMetadataExcluded": true
         },
         "baseline": {
-          "mode": "manual-single-job-stanford-handshake-test",
-          "entryCount": 1,
+          "mode": "forward-only-stanford-handshake-jobs-with-direct-card-links",
+          "maxQueriesPerRun": 10,
+          "resultsPerQuery": 20,
+          "entryCount": 26,
           "seenHandshakeJobUrls": [
-            "https://stanford.joinhandshake.com/jobs/11301956"
+            "https://stanford.joinhandshake.com/jobs/11301956",
+            "https://stanford.joinhandshake.com/jobs/11290823",
+            "https://stanford.joinhandshake.com/jobs/11138769",
+            "https://stanford.joinhandshake.com/jobs/11335213",
+            "https://stanford.joinhandshake.com/jobs/11268909",
+            "https://stanford.joinhandshake.com/jobs/11304137",
+            "https://stanford.joinhandshake.com/jobs/11249863",
+            "https://stanford.joinhandshake.com/jobs/11327092",
+            "https://stanford.joinhandshake.com/jobs/11272715",
+            "https://stanford.joinhandshake.com/jobs/11301987",
+            "https://stanford.joinhandshake.com/jobs/11332241",
+            "https://stanford.joinhandshake.com/jobs/11290165",
+            "https://stanford.joinhandshake.com/jobs/11332554",
+            "https://stanford.joinhandshake.com/jobs/11281976",
+            "https://stanford.joinhandshake.com/jobs/11235832",
+            "https://stanford.joinhandshake.com/jobs/11244239",
+            "https://stanford.joinhandshake.com/jobs/11325319",
+            "https://stanford.joinhandshake.com/jobs/11277749",
+            "https://stanford.joinhandshake.com/jobs/11266565",
+            "https://stanford.joinhandshake.com/jobs/11277584",
+            "https://stanford.joinhandshake.com/jobs/11263467",
+            "https://stanford.joinhandshake.com/jobs/11244268",
+            "https://stanford.joinhandshake.com/jobs/11323348",
+            "https://stanford.joinhandshake.com/jobs/11286834",
+            "https://stanford.joinhandshake.com/jobs/11249079",
+            "https://stanford.joinhandshake.com/jobs/11263445"
           ],
-          "admittedEntryCount": 1,
-          "lastSuccessfulCheckAt": "2026-08-23T19:55:25-07:00"
+          "returnedJobCount": 25,
+          "newOrMateriallyChangedCount": 24,
+          "admittedEntryCount": 3,
+          "duplicateCount": 8,
+          "needsReviewCount": 2,
+          "hardExcludedCount": 1,
+          "lastSuccessfulCheckAt": "2026-08-25T03:01:04-07:00"
         },
-        "note": "One-time Stanford Handshake ingestion test. The job card preserves the direct Handshake URL requested by the user. This source is not yet part of the daily scan order."
+        "note": "The bounded read-only discovery checked 25 current results. Two new matching roles were admitted with direct Stanford Handshake links; known roles were deduplicated, one timing-ineligible role was excluded, and two candidates remain retryable."
       },
       "linkedin-jobs": {
         "role": "public-job-discovery",
         "platform": "LinkedIn Jobs",
         "publicSearchUrl": "https://www.linkedin.com/jobs/search/",
         "backend": "linkedin-scraper-mcp",
-        "status": "needs-review",
+        "status": "disabled",
         "lastCheckedAt": "2026-08-23T18:49:57-07:00",
         "privacy": {
           "publicJobsOnly": true,
@@ -377,12 +409,12 @@
           "duplicateCount": 0,
           "needsReviewCount": 0
         },
-        "note": "Initial read-only connectivity check could not reach the configured local LinkedIn Jobs search backend. No result was counted as zero and the successful baseline was not advanced."
+        "note": "Disabled after Stanford Handshake replaced LinkedIn as the daily authenticated job-discovery source. Historical state is retained only for audit continuity and must not trigger health checks or queries."
       },
       "company-careers": {
         "role": "official-company-expansion",
         "cycleStatus": "completed-with-partial-company-needs-review",
-        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+        "lastCheckedAt": "2026-08-25T03:01:04-07:00",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1312,17 +1344,17 @@
             }
           ],
           "lastBatch": {
-            "checkedAt": "2026-08-23T08:00:47-07:00",
+            "checkedAt": "2026-08-25T03:01:04-07:00",
             "selectedCompanyCount": 20,
-            "completeAuditCount": 8,
-            "needsReviewCount": 11,
-            "deferredLargeCount": 1,
-            "candidateCount": 27,
-            "addedCount": 2,
-            "duplicateCount": 8,
-            "hardExcludedCount": 5,
-            "preferenceExcludedCount": 11,
-            "outOfScopeCount": 1
+            "completeAuditCount": 0,
+            "needsReviewCount": 20,
+            "deferredLargeCount": 0,
+            "candidateCount": 0,
+            "addedCount": 0,
+            "duplicateCount": 0,
+            "hardExcludedCount": 0,
+            "preferenceExcludedCount": 0,
+            "outOfScopeCount": 0
           },
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
@@ -1337,7 +1369,7 @@
             "needsReviewCount": 3
           }
         },
-        "note": "Twenty due companies were processed. Eight complete official catalogs were enumerated, eleven remain retryable because complete public enumeration could not be proven, and Globus Medical was deferred after its official catalog reported 329 openings. Two verified Jump Trading campus roles were admitted."
+        "note": "The queue selected twenty due companies, but no catalog could be recorded as completely audited in this run. All twenty remain retryable; no partial catalog results were admitted and no new large catalog was deferred."
       },
       "speedyapply": {
         "role": "primary",
@@ -1353,12 +1385,12 @@
           "changedUrlCount": 0,
           "changedContentCount": 0,
           "removedSourceEntryCount": 1,
-          "upstreamCommit": "7839dcdd44a6712950ca99a80e1a4b55ca51a424",
+          "upstreamCommit": "8520891c76a56ff823fdcd27c029ce82274677db",
           "neverSeenIdentityCount": 0,
           "historicalReappearanceCount": 0,
           "rawAddedUrlCount": 0,
           "rawRemovedUrlCount": 1,
-          "current60DayEntryCount": 121,
+          "current60DayEntryCount": 120,
           "current60DayCandidateCanonicalUrls": [
             "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
             "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
@@ -1478,7 +1510,7 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+        "lastCheckedAt": "2026-08-25T03:01:04-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
           "entryCount": 242,
@@ -1741,7 +1773,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+        "lastCheckedAt": "2026-08-25T03:01:04-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-2027-admission-gate",
           "entryCount": 505,
@@ -2177,7 +2209,7 @@
           "observedUnconfirmedEntryCount": 0,
           "observedNewEntryCount": 0,
           "removedSourceEntryCount": 0,
-          "upstreamCommit": "bc04590aae3dc1be6b49b6c6fd953f9d2cc03a04",
+          "upstreamCommit": "b7d5e7e8499db06a300bb7a3898f4f4badabaca2",
           "changedContentCount": 0,
           "current60DayEntryCount": 505,
           "backfillStatus": "complete"
@@ -2188,7 +2220,7 @@
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-window-complete",
-        "lastCheckedAt": "2026-08-23T08:00:47-07:00",
+        "lastCheckedAt": "2026-08-25T03:01:04-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
           "entryCount": 1294,
@@ -3488,25 +3520,33 @@
             "https://simplify.jobs/p/90f9f1b5-758f-40b8-b6dd-9a555735a261",
             "https://simplify.jobs/p/ded4c8dd-a85f-4856-a22e-0d16e9b77a68"
           ],
-          "extractedPublicLinkCount": 17,
-          "officialCandidateCount": 6,
+          "extractedPublicLinkCount": 25,
+          "officialCandidateCount": 2,
           "matchedMessageCount": 1,
-          "newCandidateUrlCount": 17,
+          "newCandidateUrlCount": 25,
           "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 6,
-          "backfillWindowStart": "2026-08-22",
-          "backfillWindowEndExclusive": "2026-08-23",
-          "admittedJobCount": 3,
+          "officialCandidateReviewCount": 2,
+          "backfillWindowStart": "2026-08-24",
+          "backfillWindowEndExclusive": "2026-08-25",
+          "admittedJobCount": 0,
+          "duplicateCount": 1,
+          "hardExcludedCount": 1,
           "retryableCandidateCount": 0,
-          "windowStart": "2026-08-22",
-          "windowEndExclusive": "2026-08-23"
+          "windowStart": "2026-08-24",
+          "windowEndExclusive": "2026-08-25"
         },
-        "note": "The prior-day window was searched read-only with both authorized sender queries. One deduplicated message yielded 17 public job links; six in-scope candidates were verified on official pages, three were admitted, and three failed hard eligibility checks."
+        "note": "The prior-day window was searched read-only with both authorized sender queries. One deduplicated message yielded 25 public job links; the existing Google campus role was deduplicated and the Leidos candidate was excluded for a U.S.-citizenship requirement, with no new role admitted."
       }
     },
     "sourceMentions": {
+      "https://stanford.joinhandshake.com/jobs/11290823": [
+        "stanford-handshake"
+      ],
+      "https://stanford.joinhandshake.com/jobs/11290165": [
+        "stanford-handshake"
+      ],
       "https://stanford.joinhandshake.com/jobs/11301956": [
-        "stanford-handshake-manual"
+        "stanford-handshake"
       ],
       "https://www.janestreet.com/join-jane-street/position/8576928002/": [
         "jane-street-official-manual"
@@ -7840,15 +7880,15 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2378,
-      "lastCheckedAt": "2026-08-23T19:55:25-07:00",
+      "entryCount": 2383,
+      "lastCheckedAt": "2026-08-25T03:01:04-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-23T08:00:47-07:00",
-  "lastSuccessfulScanAt": "2026-08-23T08:00:47-07:00",
-  "lastSourceUpdatedAt": "2026-08-23T19:55:25-07:00",
+  "lastScanStartedAt": "2026-08-25T03:01:04-07:00",
+  "lastSuccessfulScanAt": "2026-08-25T03:01:04-07:00",
+  "lastSourceUpdatedAt": "2026-08-25T03:01:04-07:00",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
@@ -9568,10 +9608,12 @@
     "https://www.jumptrading.com/hr/job?gh_jid=8052313",
     "https://careers.garmin.com/careers-home/jobs/19680",
     "https://careers-heb.icims.com/jobs/231773/job",
-    "https://careers-constructconnect.icims.com/jobs/2191/job"
+    "https://careers-constructconnect.icims.com/jobs/2191/job",
+    "https://stanford.joinhandshake.com/jobs/11290823",
+    "https://stanford.joinhandshake.com/jobs/11290165"
   ],
-  "baselineEntryCount": 1719,
-  "lastCheckedAt": "2026-08-23T08:00:47-07:00",
-  "lastSuccessfulRunAt": "2026-08-23T08:00:47-07:00",
+  "baselineEntryCount": 1721,
+  "lastCheckedAt": "2026-08-25T03:01:04-07:00",
+  "lastSuccessfulRunAt": "2026-08-25T03:01:04-07:00",
   "lastRunStatus": "complete"
 }

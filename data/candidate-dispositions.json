@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-23T19:55:25-07:00",
+  "checkedAt": "2026-08-25T03:01:04-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -12888,6 +12888,38 @@
       "reasonCode": "verified-stanford-handshake-2027-data-science-match",
       "firstSeenAt": "2026-08-23T19:55:25-07:00",
       "lastCheckedAt": "2026-08-23T19:55:25-07:00"
+    },
+    "https://stanford.joinhandshake.com/jobs/11290823": {
+      "status": "admitted",
+      "reasonCode": "verified-stanford-handshake-2027-software-engineering-match",
+      "firstSeenAt": "2026-08-25T03:01:04-07:00",
+      "lastCheckedAt": "2026-08-25T03:01:04-07:00"
+    },
+    "https://stanford.joinhandshake.com/jobs/11290165": {
+      "status": "admitted",
+      "reasonCode": "verified-stanford-handshake-new-grad-ai-ml-systems-match",
+      "firstSeenAt": "2026-08-25T03:01:04-07:00",
+      "lastCheckedAt": "2026-08-25T03:01:04-07:00"
+    },
+    "https://stanford.joinhandshake.com/jobs/11335213": {
+      "status": "needs-review",
+      "reasonCode": "handshake-role-without-confirmed-2027-timeline",
+      "firstSeenAt": "2026-08-25T03:01:04-07:00",
+      "lastAttemptAt": "2026-08-25T03:01:04-07:00",
+      "retryAfter": "2026-09-01T03:01:04-07:00"
+    },
+    "https://stanford.joinhandshake.com/jobs/11325319": {
+      "status": "needs-review",
+      "reasonCode": "handshake-detail-page-not-stably-readable",
+      "firstSeenAt": "2026-08-25T03:01:04-07:00",
+      "lastAttemptAt": "2026-08-25T03:01:04-07:00",
+      "retryAfter": "2026-09-01T03:01:04-07:00"
+    },
+    "https://stanford.joinhandshake.com/jobs/11327092": {
+      "status": "hard-excluded",
+      "reasonCode": "graduation-deadline-january-2027-incompatible-with-june-2027-graduation",
+      "firstSeenAt": "2026-08-25T03:01:04-07:00",
+      "lastCheckedAt": "2026-08-25T03:01:04-07:00"
     }
   }
 }

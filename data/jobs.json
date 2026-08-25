@@ -8150,5 +8150,67 @@
     "status": "open",
     "firstSeenAt": "2026-08-23T19:55:25-07:00",
     "lastCheckedAt": "2026-08-23T19:55:25-07:00"
+  },
+  {
+    "id": "voleon-software-engineer-university-hire-2027-handshake-11290823",
+    "canonicalUrl": "https://stanford.joinhandshake.com/jobs/11290823",
+    "company": "The Voleon Group",
+    "role": "Software Engineer, University Hire 2027",
+    "location": "New York, NY / Berkeley, CA (Hybrid)",
+    "ageDays": 14,
+    "source": "Stanford Handshake",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "Quant",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "Quant Development / General SWE",
+    "reasons": [
+      "Handshake 明确面向截至 2027 年 6 月毕业的 University Hire 候选人",
+      "软件工程、数据系统和量化研究环境与 Python/C++、分布式训练及大规模数据经历高度匹配"
+    ],
+    "caveats": [
+      "岗位为 New York 或 Berkeley hybrid",
+      "Handshake 职位页未说明 sponsorship 政策"
+    ],
+    "applyUrl": "https://stanford.joinhandshake.com/jobs/11290823",
+    "status": "open",
+    "firstSeenAt": "2026-08-25T03:01:04-07:00",
+    "lastCheckedAt": "2026-08-25T03:01:04-07:00"
+  },
+  {
+    "id": "goaly-ai-member-technical-staff-new-grad-handshake-11290165",
+    "canonicalUrl": "https://stanford.joinhandshake.com/jobs/11290165",
+    "company": "Goaly.ai",
+    "role": "Member of Technical Staff (New Grad)",
+    "location": "Menlo Park, CA (Hybrid)",
+    "ageDays": 14,
+    "source": "Stanford Handshake",
+    "eligibility": "eligible",
+    "startTiming": "timing-check",
+    "sponsorship": "confirmed",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "AI/ML / ML Systems",
+    "reasons": [
+      "Handshake 标注 New Grad、全职、支持 sponsorship 及 OPT/CPT",
+      "模型后训练、强化学习基础设施、大规模训练和产品工程与 LLM、RL 及 CUDA/MPI 经历高度匹配"
+    ],
+    "caveats": [
+      "Handshake 职位页未明确写出 2027 cohort 或开始日期，保留 timing-check",
+      "岗位为 Menlo Park hybrid"
+    ],
+    "applyUrl": "https://stanford.joinhandshake.com/jobs/11290165",
+    "status": "open",
+    "firstSeenAt": "2026-08-25T03:01:04-07:00",
+    "lastCheckedAt": "2026-08-25T03:01:04-07:00"
   }
 ]

@@ -72,7 +72,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     "speedyapply",
     "vanshb03",
     "simplifyjobs",
-    "linkedin-jobs",
+    "stanford-handshake",
     "company-careers",
   ]);
   assert.equal(state.sourceMonitoring.sources["swelist-email"].role, "email-lead");
@@ -85,14 +85,14 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(state.sourceMonitoring.sources.simplifyjobs.role, "monitor");
   const linkedinSource = state.sourceMonitoring.sources["linkedin-jobs"];
   assert.equal(linkedinSource.role, "public-job-discovery");
-  assert.equal(linkedinSource.status, "needs-review");
+  assert.equal(linkedinSource.status, "disabled");
   assert.equal(linkedinSource.privacy.publicJobsOnly, true);
   assert.equal(linkedinSource.privacy.messagesAndNotificationsExcluded, true);
   assert.equal(linkedinSource.privacy.accountAndProfileDataExcluded, true);
   assert.equal(linkedinSource.baseline.entryCount, linkedinSource.baseline.seenLinkedInJobUrls.length);
   assert.equal(linkedinSource.baseline.lastSuccessfulCheckAt, null);
-  const handshakeSource = state.sourceMonitoring.sources["stanford-handshake-manual"];
-  assert.equal(handshakeSource.role, "manual-stanford-handshake-discovery");
+  const handshakeSource = state.sourceMonitoring.sources["stanford-handshake"];
+  assert.equal(handshakeSource.role, "stanford-handshake-discovery");
   assert.equal(handshakeSource.status, "complete");
   assert.equal(handshakeSource.privacy.jobFactsOnly, true);
   assert.equal(handshakeSource.privacy.studentProfileExcluded, true);
@@ -142,8 +142,8 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.match(automationText, /Official company expansion/i);
   assert.match(automationText, /deferred-large-catalog/i);
   assert.match(automationText, /sibling roles that aggregators omitted/i);
-  assert.match(automationText, /LinkedIn Jobs discovery/i);
-  assert.match(automationText, /official employer job page/i);
+  assert.match(automationText, /Stanford Handshake discovery/i);
+  assert.match(automationText, /primary link pointed directly to the Stanford Handshake page/i);
   assert.ok(Array.isArray(state.sourceMonitoring.officialVerificationNeedsReview));
   assert.ok(
     state.sourceMonitoring.officialVerificationNeedsReview.every(
@@ -223,7 +223,7 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.deepEqual(handshakeAvenRole.directions, ["AI/ML"]);
   assert.deepEqual(
     state.sourceMonitoring.sourceMentions[handshakeAvenRole.canonicalUrl],
-    ["stanford-handshake-manual"],
+    ["stanford-handshake"],
   );
   assert.equal(
     dispositionLedger.candidates[handshakeAvenRole.canonicalUrl]?.status,
@@ -365,7 +365,7 @@ test("builds a bounded, privacy-safe LinkedIn Jobs discovery plan", async () => 
   assert.equal(plan.discoveryOnly, true);
   assert.equal(plan.officialEmployerPageRequired, true);
   assert.equal(plan.directionHintsRequireOfficialVerification, true);
-  assert.equal(plan.sourceStatus, "needs-review");
+  assert.equal(plan.sourceStatus, "disabled");
   assert.ok(plan.queries.length > 0 && plan.queries.length <= 10);
   assert.ok(plan.queries.every((query) => query.resultsLimit <= 20));
   assert.ok(plan.queries.every((query) => !/intern(ship)?/i.test(query.keywords)));
