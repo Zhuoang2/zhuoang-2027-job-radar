@@ -65,6 +65,10 @@ export function buildCompanyCareerQueue(jobs, source, now = new Date(), seeds = 
   const limit = baseline.maxCompaniesPerRun ?? 20;
   return {
     generatedAt: now.toISOString(),
+    operation: "selection-only",
+    auditRequired: true,
+    completionRule:
+      "A selected company is not audited until it has a complete inventory result, a concrete needs-review blocker, or a deferred-large-catalog record.",
     totalPublicCompanyCount: companies.size,
     deferredLargeCompanyCount: deferred.size,
     dueCompanyCount: dueCompanies.length,

@@ -413,8 +413,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-partial-company-needs-review",
-        "lastCheckedAt": "2026-08-25T03:01:04-07:00",
+        "cycleStatus": "completed-with-needs-review-and-deferred-catalogs",
+        "lastCheckedAt": "2026-08-25T10:15:00-07:00",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -818,13 +818,6 @@
               "preferenceExcludedCount": 0,
               "outOfScopeCount": 0
             },
-            "Amerisure": {
-              "publicCareersUrl": "https://amerisure.wd5.myworkdayjobs.com/AmerisureCareers",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The official Workday catalog still could not be completely enumerated through a stable public endpoint."
-            },
             "AppLovin": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/applovin",
               "status": "complete",
@@ -1036,13 +1029,6 @@
               "preferenceExcludedCount": 0,
               "outOfScopeCount": 0
             },
-            "Cummins": {
-              "publicCareersUrl": "https://cummins.jobs/",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The Oracle-backed official catalog could not be completely enumerated through a stable public index in this run."
-            },
             "Acadian Asset Management": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/acadianassetmanagementllc",
               "status": "complete",
@@ -1141,13 +1127,6 @@
               "preferenceExcludedCount": 0,
               "outOfScopeCount": 0
             },
-            "DRW": {
-              "publicCareersUrl": "https://www.drw.com/work-at-drw/listings",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; existing verified cards were retained."
-            },
             "Garmin": {
               "publicCareersUrl": "https://careers.garmin.com/careers-home/jobs",
               "status": "needs-review",
@@ -1157,52 +1136,150 @@
             },
             "GitHub": {
               "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
+              "reason": "The official search page did not expose a complete public inventory while an existing verified role remained open. Complete enumeration and closure reconciliation could not be proven.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The official search returned no complete inventory while an existing verified role remains open; complete enumeration could not be proven."
-            },
-            "Goldman Sachs": {
-              "publicCareersUrl": "https://higher.gs.com/results",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run."
-            },
-            "IMC": {
-              "publicCareersUrl": "https://www.imc.com/us/careers/search",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; existing verified cards were retained."
+              "lastAttemptAt": "2026-08-25T10:15:00-07:00",
+              "retryAfter": "2026-08-26T10:15:00-07:00"
             },
             "Mackenzie Investments": {
               "publicCareersUrl": "https://careersen-mackenzieinvestments.icims.com/jobs/search",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; the existing verified card was retained."
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 43,
+              "inventoryFingerprint": "sha256:7016dccb593bafc5",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
             },
             "Squarepoint Capital": {
               "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
+              "reason": "The official early-careers index exposed role names, but its role-detail responses were not stably readable, so duties, eligibility, and open status could not be verified for the complete bounded inventory.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The official early-careers page exposed the full role list, but current role-detail pages were not stably readable for complete official verification."
+              "lastAttemptAt": "2026-08-25T10:15:00-07:00",
+              "retryAfter": "2026-08-26T10:15:00-07:00"
             },
-            "Trexquant": {
-              "publicCareersUrl": "https://www.trexquant.com/careers",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The dynamic official catalog did not expose a stable complete public inventory; the existing verified role was retained."
+            "Aven": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/aven",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 6,
+              "inventoryFingerprint": "sha256:b274f8d84f6ad48a",
+              "candidateCount": 6,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 3,
+              "preferenceExcludedCount": 1,
+              "outOfScopeCount": 2
             },
-            "Two Sigma": {
-              "publicCareersUrl": "https://careers.twosigma.com/careers/SearchJobs/",
+            "ConstructConnect": {
+              "publicCareersUrl": "https://careers-constructconnect.icims.com/jobs/search",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 8,
+              "inventoryFingerprint": "sha256:200a4d6cc328a3f4",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 1
+            },
+            "Goaly.ai": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/goaly",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 6,
+              "inventoryFingerprint": "sha256:2c774ba48ef6e179",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Handshake": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/handshake",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 68,
+              "inventoryFingerprint": "sha256:ef66b384f47ee594",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Hunter Strategy": {
+              "publicCareersUrl": "https://ats.rippling.com/hunter-strategy/jobs",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 12,
+              "inventoryFingerprint": "sha256:906b9daf68bd5258",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Ibotta": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/ibotta",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 37,
+              "inventoryFingerprint": "sha256:b6b1a267e5e16316",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Kanbrick": {
+              "publicCareersUrl": "https://jobs.lever.co/kanbrick",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 7,
+              "inventoryFingerprint": "sha256:8553ba998497091b",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "KAYAK": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/kayak",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-25T10:15:00-07:00",
+              "nextDueAt": "2026-09-08T10:15:00-07:00",
+              "inventoryCount": 44,
+              "inventoryFingerprint": "sha256:dbea35420cfd53e0",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 2,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "The Voleon Group": {
+              "publicCareersUrl": "https://jobs.lever.co/voleon",
+              "reason": "The official Lever inventory returned zero open roles while the existing Stanford Handshake card remained active. The cross-source open-status conflict requires review; the existing card was retained.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-              "retryAfter": "2026-08-24T08:00:47-07:00",
-              "reason": "The dynamic official catalog could not be completely enumerated through a stable public index in this run; the existing verified role was retained."
+              "lastAttemptAt": "2026-08-25T10:15:00-07:00",
+              "retryAfter": "2026-08-26T10:15:00-07:00"
             }
           },
           "deferredLargeCompanies": [
@@ -1341,20 +1418,85 @@
               "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
               "firstDeferredAt": "2026-08-23T08:00:47-07:00",
               "lastObservedAt": "2026-08-23T08:00:47-07:00"
+            },
+            {
+              "company": "IMC",
+              "publicCareersUrl": "https://www.imc.com/us/search-careers",
+              "catalogSizeObservation": 55,
+              "reason": "The official dynamic catalog reported 55 roles but exposed only a partial initial batch without a stable complete public index; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "DRW",
+              "publicCareersUrl": "https://www.drw.com/work-at-drw/listings",
+              "reason": "The official dynamic catalog did not expose a stable complete public index or equivalent API for bounded enumeration; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "Trexquant",
+              "publicCareersUrl": "https://www.trexquant.com/careers",
+              "reason": "The official dynamic catalog did not expose a stable complete public inventory; no partial screening was admitted and the existing verified card was retained.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "Two Sigma",
+              "publicCareersUrl": "https://careers.twosigma.com/careers/SearchJobs/",
+              "reason": "The official dynamic catalog could not be completely enumerated through a stable public index in the bounded run; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "Amerisure",
+              "publicCareersUrl": "https://amerisure.wd5.myworkdayjobs.com/AmerisureCareers",
+              "reason": "The official Workday catalog did not expose a stable complete public inventory for equivalent bounded enumeration; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "Cummins",
+              "publicCareersUrl": "https://cummins.jobs/",
+              "reason": "The Oracle-backed official catalog did not expose a stable complete public index in the bounded run; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "Goldman Sachs",
+              "publicCareersUrl": "https://higher.gs.com/results",
+              "reason": "The official dynamic catalog did not expose a stable complete public inventory for equivalent bounded enumeration; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
+            },
+            {
+              "company": "H-E-B",
+              "publicCareersUrl": "https://careers-heb.icims.com/jobs/search",
+              "reason": "The enterprise iCIMS catalog could not be completely enumerated within the ordinary-run bounds through a stable public index; no partial screening was admitted.",
+              "status": "deferred-large-catalog",
+              "firstDeferredAt": "2026-08-25T10:15:00-07:00",
+              "lastObservedAt": "2026-08-25T10:15:00-07:00"
             }
           ],
           "lastBatch": {
-            "checkedAt": "2026-08-25T03:01:04-07:00",
+            "checkedAt": "2026-08-25T10:15:00-07:00",
             "selectedCompanyCount": 20,
-            "completeAuditCount": 0,
-            "needsReviewCount": 20,
-            "deferredLargeCount": 0,
-            "candidateCount": 0,
+            "completeAuditCount": 9,
+            "needsReviewCount": 3,
+            "deferredLargeCount": 8,
+            "candidateCount": 20,
             "addedCount": 0,
-            "duplicateCount": 0,
-            "hardExcludedCount": 0,
-            "preferenceExcludedCount": 0,
-            "outOfScopeCount": 0
+            "duplicateCount": 9,
+            "hardExcludedCount": 7,
+            "preferenceExcludedCount": 1,
+            "outOfScopeCount": 3
           },
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
@@ -1362,14 +1504,58 @@
             "lastTargetedAuditAt": "2026-08-22T20:07:37-07:00"
           },
           "lastTargetedAuditSummary": {
-            "reviewedRoleCount": 14,
-            "addedCount": 9,
-            "hardExcludedCount": 1,
-            "outOfScopeCount": 1,
-            "needsReviewCount": 3
+            "checkedAt": "2026-08-25T10:15:00-07:00",
+            "selectedCompanies": [
+              "Mackenzie Investments",
+              "Aven",
+              "ConstructConnect",
+              "Goaly.ai",
+              "Handshake",
+              "Hunter Strategy",
+              "Ibotta",
+              "Kanbrick",
+              "KAYAK",
+              "Squarepoint Capital",
+              "The Voleon Group",
+              "GitHub",
+              "IMC",
+              "DRW",
+              "Trexquant",
+              "Two Sigma",
+              "Amerisure",
+              "Cummins",
+              "Goldman Sachs",
+              "H-E-B"
+            ],
+            "completeCompanies": [
+              "Mackenzie Investments",
+              "Aven",
+              "ConstructConnect",
+              "Goaly.ai",
+              "Handshake",
+              "Hunter Strategy",
+              "Ibotta",
+              "Kanbrick",
+              "KAYAK"
+            ],
+            "needsReviewCompanies": [
+              "Squarepoint Capital",
+              "The Voleon Group",
+              "GitHub"
+            ],
+            "deferredCompanies": [
+              "IMC",
+              "DRW",
+              "Trexquant",
+              "Two Sigma",
+              "Amerisure",
+              "Cummins",
+              "Goldman Sachs",
+              "H-E-B"
+            ]
           }
         },
-        "note": "The queue selected twenty due companies, but no catalog could be recorded as completely audited in this run. All twenty remain retryable; no partial catalog results were admitted and no new large catalog was deferred."
+        "note": "The previously selection-only batch was remediated: nine catalogs were completely enumerated, three have concrete retryable verification conflicts, and eight were explicitly deferred because a complete stable public inventory was unavailable within the bounded-run contract. No partial catalog was admitted and no job card was removed solely because of a source conflict."
       },
       "speedyapply": {
         "role": "primary",

@@ -110,6 +110,19 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     state.sourceMonitoring.sources["company-careers"].baseline.maxCompaniesPerRun,
     20,
   );
+  const companyCareerBatch =
+    state.sourceMonitoring.sources["company-careers"].baseline.lastBatch;
+  assert.equal(
+    companyCareerBatch.selectedCompanyCount,
+    companyCareerBatch.completeAuditCount +
+      companyCareerBatch.needsReviewCount +
+      companyCareerBatch.deferredLargeCount,
+    "every selected company must end in exactly one explicit audit disposition",
+  );
+  assert.ok(
+    companyCareerBatch.completeAuditCount > 0,
+    "a completed company-career batch cannot be a selection-only queue mislabeled as an audit",
+  );
   assert.ok(
     state.sourceMonitoring.sources[
       "company-careers"
