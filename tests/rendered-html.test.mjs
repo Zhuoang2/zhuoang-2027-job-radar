@@ -93,7 +93,16 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(linkedinSource.baseline.lastSuccessfulCheckAt, null);
   const handshakeSource = state.sourceMonitoring.sources["stanford-handshake"];
   assert.equal(handshakeSource.role, "stanford-handshake-discovery");
-  assert.equal(handshakeSource.status, "complete");
+  assert.ok(
+    ["complete", "needs-review"].includes(handshakeSource.status),
+    "Handshake must record either a successful bounded run or an explicit retryable failure",
+  );
+  if (handshakeSource.status === "needs-review") {
+    assert.ok(
+      handshakeSource.baseline.lastSuccessfulCheckAt,
+      "a failed Handshake attempt must preserve its last successful forward-only baseline",
+    );
+  }
   assert.equal(handshakeSource.privacy.jobFactsOnly, true);
   assert.equal(handshakeSource.privacy.studentProfileExcluded, true);
   assert.equal(handshakeSource.privacy.messagesAndNotificationsExcluded, true);
