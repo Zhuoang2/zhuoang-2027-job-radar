@@ -72,7 +72,6 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     "speedyapply",
     "vanshb03",
     "simplifyjobs",
-    "stanford-handshake",
     "company-careers",
   ]);
   assert.equal(state.sourceMonitoring.sources["swelist-email"].role, "email-lead");
@@ -93,16 +92,12 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.equal(linkedinSource.baseline.lastSuccessfulCheckAt, null);
   const handshakeSource = state.sourceMonitoring.sources["stanford-handshake"];
   assert.equal(handshakeSource.role, "stanford-handshake-discovery");
+  assert.equal(handshakeSource.status, "disabled");
   assert.ok(
-    ["complete", "needs-review"].includes(handshakeSource.status),
-    "Handshake must record either a successful bounded run or an explicit retryable failure",
+    handshakeSource.baseline.lastSuccessfulCheckAt,
+    "disabled Handshake state must preserve its last successful historical baseline",
   );
-  if (handshakeSource.status === "needs-review") {
-    assert.ok(
-      handshakeSource.baseline.lastSuccessfulCheckAt,
-      "a failed Handshake attempt must preserve its last successful forward-only baseline",
-    );
-  }
+  assert.match(handshakeSource.note, /user-managed only/i);
   assert.equal(handshakeSource.privacy.jobFactsOnly, true);
   assert.equal(handshakeSource.privacy.studentProfileExcluded, true);
   assert.equal(handshakeSource.privacy.messagesAndNotificationsExcluded, true);
@@ -164,8 +159,8 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.match(automationText, /Official company expansion/i);
   assert.match(automationText, /deferred-large-catalog/i);
   assert.match(automationText, /sibling roles that aggregators omitted/i);
-  assert.match(automationText, /Stanford Handshake discovery/i);
-  assert.match(automationText, /primary link pointed directly to the Stanford Handshake page/i);
+  assert.match(automationText, /Stanford Handshake and LinkedIn are no longer daily sources/i);
+  assert.match(automationText, /Do not log in, query, health-check, or advance either source's baseline/i);
   assert.ok(Array.isArray(state.sourceMonitoring.officialVerificationNeedsReview));
   assert.ok(
     state.sourceMonitoring.officialVerificationNeedsReview.every(
