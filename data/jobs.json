@@ -8211,5 +8211,152 @@
     ],
     "applyUrl": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
     "status": "open"
+  },
+  {
+    "id": "marshall-wace-quant-associate-programme-2027-8636830002",
+    "canonicalUrl": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+    "company": "Marshall Wace",
+    "role": "Quant Research - Quant Associate Programme - 2027",
+    "location": "New York, NY / London, UK",
+    "ageDays": 1,
+    "source": "SWELIST / Marshall Wace official careers",
+    "firstSeenAt": "2026-08-27T15:19:25-07:00",
+    "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方 2027 Quant Associate Programme 提供系统化量化研究轮岗，覆盖研究、组合构建和交易策略",
+      "机器学习、统计建模、Python/R 与预测研究经历和岗位要求高度匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+    "status": "open"
+  },
+  {
+    "id": "tiktok-data-engineer-ecommerce-2027-7676253726624024837",
+    "canonicalUrl": "https://lifeattiktok.com/search/7676253726624024837",
+    "company": "TikTok",
+    "role": "Data Engineer Graduate (Data Platform E-commerce) - 2027 Start",
+    "location": "San Jose, CA",
+    "ageDays": 1,
+    "source": "SWELIST / TikTok official careers",
+    "firstSeenAt": "2026-08-27T15:19:25-07:00",
+    "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "MLE/AI / Data Infra",
+    "reasons": [
+      "官方明确标注 2027 Start，职责覆盖电商数据平台、数据建模、ETL 与大规模批流处理",
+      "Python、SQL、Databricks、AWS 与大规模点时训练数据经历可直接迁移"
+    ],
+    "caveats": [
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7676253726624024837",
+    "status": "open"
+  },
+  {
+    "id": "tiktok-data-engineer-live-2027-7678120538997098805",
+    "canonicalUrl": "https://lifeattiktok.com/search/7678120538997098805",
+    "company": "TikTok",
+    "role": "Data Engineer Graduate (Data Platform Global Live) - 2027 Start",
+    "location": "San Jose, CA",
+    "ageDays": 1,
+    "source": "SWELIST / TikTok official careers",
+    "firstSeenAt": "2026-08-27T15:19:25-07:00",
+    "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "MLE/AI / Data Infra",
+    "reasons": [
+      "官方明确标注 2027 Start，岗位负责 Global LIVE 的大规模数据平台、数据质量和分析基础设施",
+      "Python、SQL、云端数据管道和分布式计算经历与岗位方向匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7678120538997098805",
+    "status": "open"
+  },
+  {
+    "id": "d-wave-software-engineer-i-30e6077b",
+    "canonicalUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
+    "company": "D-Wave",
+    "role": "Software Engineer I",
+    "location": "New Haven, CT",
+    "ageDays": 1,
+    "source": "SWELIST / D-Wave official careers",
+    "firstSeenAt": "2026-08-27T15:19:25-07:00",
+    "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE / ML Systems",
+    "reasons": [
+      "官方 Software Engineer I 岗位面向早期职业候选人，要求 Python、编译型语言、AWS、REST API 和软件测试",
+      "Python/C++、云端工程和数值计算背景与岗位技术栈匹配，量子计算经验仅为加分项"
+    ],
+    "caveats": [
+      "官方未明确写出 2027 cohort 或开始日期，保留 timing-check",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
+    "status": "open"
+  },
+  {
+    "id": "man-group-systematic-graduate-rotational-4960444101",
+    "canonicalUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
+    "company": "Man Group",
+    "role": "Systematic Graduate Rotational Programme",
+    "location": "Boston, MA",
+    "ageDays": 1,
+    "source": "SWELIST / Man Group official careers",
+    "firstSeenAt": "2026-08-27T15:19:25-07:00",
+    "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+    "eligibility": "eligible",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "Quant"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "官方 20 个月 Systematic Graduate 轮岗覆盖量化研究、组合管理和交易技术",
+      "机器学习、计量方法、Python/R 和预测建模背景与系统化投资方向高度匹配"
+    ],
+    "caveats": [
+      "官方面向 recent graduates，但未明确写出 2027 cohort 或开始日期，保留 timing-check",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
+    "status": "open"
   }
 ]

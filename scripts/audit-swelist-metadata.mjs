@@ -7,17 +7,19 @@ if (!outputPath) {
   );
 }
 
-const [metadataText, repositoryAuditText, jobsText, stateText] = await Promise.all([
+const [metadataText, repositoryAuditText, jobsText, stateText, dispositionsText] = await Promise.all([
   readFile(metadataPath, "utf8"),
   readFile(repositoryAuditPath, "utf8"),
   readFile(new URL("../data/jobs.json", import.meta.url), "utf8"),
   readFile(new URL("../data/source-state.json", import.meta.url), "utf8"),
+  readFile(new URL("../data/candidate-dispositions.json", import.meta.url), "utf8"),
 ]);
 
 const metadata = JSON.parse(metadataText);
 const repositoryAudit = JSON.parse(repositoryAuditText);
 const jobs = JSON.parse(jobsText);
 const state = JSON.parse(stateText);
+const dispositions = JSON.parse(dispositionsText);
 
 function tokens(value) {
   if (!value) return [];
@@ -54,13 +56,22 @@ for (const item of state.sourceMonitoring.suspectedDuplicates ?? []) {
   for (const value of item.possiblePriorCanonicalUrls ?? []) remember(value);
 }
 for (const candidate of repositoryAudit.candidates) remember(candidate.url);
+for (const [url, candidate] of Object.entries(dispositions.candidates ?? {})) {
+  remember(url);
+  remember(candidate.canonicalUrl);
+  remember(candidate.sourceUrl);
+  for (const mention of candidate.sourceMentions ?? []) {
+    remember(typeof mention === "string" ? mention : mention.url);
+  }
+}
 
 const relevantTitle = /\b(software|developer|development|machine learning|\bml\b|artificial intelligence|\bai\b|data (engineer|scientist|analyst)|backend|back-end|infrastructure|quant|algorithm|research (scientist|engineer)|applied scientist|full[- ]?stack|front[- ]?end|mobile engineer|devops|site reliability|distributed systems|cloud engineer)\b/i;
 const obviousOutOfScope = /\b(intern(ship)?|product manager|program manager|hardware|electrical|mechanical|manufacturing|silicon|asic|fpga|security engineer|cyber|firmware|embedded|test engineer|quality assurance|solutions? engineer|sales engineer|support engineer|business analyst|accountant|designer)\b/i;
 const hardwareFunction = /hardware|electrical|mechanical|manufacturing|silicon|semiconductor/i;
-const usLocation = /\b(?:USA|United States|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b/i;
-const windowStart = new Date("2026-06-21T00:00:00-07:00");
-const windowEnd = new Date("2026-08-21T00:00:00-07:00");
+const usLocation = /\b(?:USA|United States)\b/i;
+const windowEnd = new Date(`${metadata.windowEndExclusive}T00:00:00-07:00`);
+const windowStart = new Date(windowEnd);
+windowStart.setDate(windowStart.getDate() - 60);
 
 const reviewed = metadata.results.map((candidate) => {
   let preliminaryDisposition = "official-review";

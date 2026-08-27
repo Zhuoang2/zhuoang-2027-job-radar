@@ -8,7 +8,15 @@ if (!outputPath) {
 }
 
 const source = JSON.parse(await readFile(leadPath, "utf8"));
-const leads = source.publicLeads;
+const rawLeads = source.publicLeads ?? (source.days ?? []).flatMap((day) =>
+  (day.publicJobUrls ?? []).map((leadUrl) => ({ leadUrl })),
+);
+const leads = [...new Map(
+  rawLeads
+    .map((lead) => (typeof lead === "string" ? { leadUrl: lead } : lead))
+    .filter((lead) => typeof lead.leadUrl === "string")
+    .map((lead) => [lead.leadUrl, lead]),
+).values()];
 
 function publicPosting(posting, leadUrl) {
   return {

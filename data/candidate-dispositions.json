@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-27T03:00:42-07:00",
+  "checkedAt": "2026-08-27T15:19:25-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -2379,7 +2379,7 @@
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475": {
       "status": "hard-excluded",
       "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051": {
       "status": "out-of-scope",
@@ -2764,8 +2764,8 @@
     },
     "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply": {
       "status": "out-of-scope",
@@ -2789,8 +2789,8 @@
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "private-conversion-or-restricted-pipeline",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://job-boards.greenhouse.io/doordashusa/jobs/7263610": {
       "status": "out-of-scope",
@@ -3149,8 +3149,8 @@
     },
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://www.ixl.com/company/jobs?gh_jid=8663710002": {
       "status": "out-of-scope",
@@ -3299,7 +3299,7 @@
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1": {
       "status": "hard-excluded",
       "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995": {
       "status": "duplicate",
@@ -3724,7 +3724,7 @@
     "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003": {
       "status": "preference-excluded",
       "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061": {
       "status": "duplicate",
@@ -12922,10 +12922,9 @@
       "lastCheckedAt": "2026-08-25T03:01:04-07:00"
     },
     "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-eligible-candidate",
-      "firstSeenAt": "2026-08-27T03:00:42-07:00",
-      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-active-job",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e": {
       "status": "admitted",
@@ -12981,6 +12980,1070 @@
       "firstSeenAt": "2026-08-27T03:00:42-07:00",
       "lastAttemptAt": "2026-08-27T03:00:42-07:00",
       "retryAfter": "2026-08-28T03:00:42-07:00"
+    },
+    "https://simplify.jobs/p/ce9b5601-f631-40d5-93f2-c131bea80fdd": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b027c742-1990-45d3-ad86-c77ff9d34fea": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/38c27a23-7876-45aa-b3c9-dc90974d6625": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/bb5b9ae6-1aba-4fe3-87a2-2a7855b9a86e": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/61f248d1-fb21-4da6-ba94-323cd500187e": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/9d74aeea-fa25-46c6-af6f-3d20a6065b64": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/9c0bb720-6ba8-436f-a3ff-cea11d8d3612": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f2f0bda7-32bc-4775-bfe5-5eafbca32990": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7b6de742-b69a-4b73-9a1d-98c156d01dfa": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/40b8e5c6-6160-4419-83e5-a0c6ba958867": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/ba71f8df-382e-4efc-acff-0a78b742aac8": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b9ed49c3-5548-4ba6-8bb2-6990a3fc4f9f": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/21a87bd3-3069-4bbe-9641-a5c2f04cdadb": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/a482d898-f8c8-43f9-9e7a-4cf89737f09a": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e92b0e3e-7e34-419c-b4be-9f1ec384451b": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/83a044a2-a7ca-4d5e-8ab0-acef0b22ed47": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7feb47d9-e494-43b7-b7f4-33b19d9f238e": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/77ce4406-421d-4a67-89e6-431d60b1c981": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/05682247-6baa-44b1-bcaf-d5d5becfd2e5": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/3c7e6389-ba90-4b7f-90b4-f90421053e95": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/0db410bd-2e98-4085-8c98-e2d9c6e4dfee": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e5dfbd2f-0ac5-48b7-923b-a3d69ad78c23": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7a951600-a8d3-4c43-9993-66b0fb7a3d0d": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/a707d075-8431-4357-8579-21f9516b6b9c": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/d5cb9991-9336-4138-b9c5-18d14b6c8f1b": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7a0ebab5-1cf3-49b7-b609-5c5258ac7694": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2029943e-bdea-40e0-af4d-e7e07e36b06a": {
+      "status": "hard-excluded",
+      "reasonCode": "experience-requirement-exceeds-new-grad-scope",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582": {
+      "status": "hard-excluded",
+      "reasonCode": "experience-requirement-exceeds-new-grad-scope",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e5377e60-d28f-4c0d-bc33-43bac13623e1": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f07fa99f-f6a9-4a02-bc87-c7b0aca8d367": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f6ea312c-a27d-4faa-9ea7-e433fa700f5a": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.smartrecruiters.com/STCU1/744000145379939": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/9ecb4578-6a8a-4f73-ac53-0651cbbd7167": {
+      "status": "hard-excluded",
+      "reasonCode": "2026-cycle-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026": {
+      "status": "hard-excluded",
+      "reasonCode": "2026-cycle-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2db7fa24-ce61-44d2-ab75-88bedecf3d02": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-only",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://joinbytedance.com/search/7675473897004861749": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-only",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/4e9fe751-4379-45cd-97bd-7083fd5e58d1": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/eac46790-0057-4518-8e60-be17fee9950f": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://apply.workable.com/coldquanta/j/1B97312CA0/apply": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/efe8c7af-0baa-411f-8106-bdfcbe0674b4": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/d8128313-1a27-4475-bfe7-ccff7edc883d": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/40d7d962-1019-4506-8d2b-5bfcb8ecb6d2": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/11435ff1-cc4d-469b-9935-224cfaeec6c6": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b4fbf723-b634-4b03-a717-5a7477ac972b": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/707f077b-d4f3-4d3b-a12c-a7dd9eb195ce": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/44600b6e-3825-411c-81ce-fe0455fa2ffb": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/1f2bf4b5-3f79-48a6-a9df-947ef666ee29": {
+      "status": "duplicate",
+      "reasonCode": "existing-active-job",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application": {
+      "status": "duplicate",
+      "reasonCode": "existing-active-job",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b02738f0-a8b2-46a2-b6d0-ef53d1c0da39": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/748876fb-0603-4b73-b26c-469bc138674c": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2c8d4660-6467-4fcd-8dcd-05c5cbc86604": {
+      "status": "hard-excluded",
+      "reasonCode": "us-person-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application": {
+      "status": "hard-excluded",
+      "reasonCode": "us-person-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/d23aec50-c086-4fda-9f46-1e6e598f195c": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/99a1529a-7b07-48b6-bd63-8e2367d1b196": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7fa56b8b-10a7-4ef9-97a3-1aff67b6fb0f": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/ca4209a1-54bd-41cb-8ff4-e7fcfb7ed1fe": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/501a5d9d-54bb-4a8b-a3a5-2c6efd18d963": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/14ae7761-228c-4e0f-be7d-d778f9a86d4d": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/6642fd98-f102-48bc-b226-3acb5b8c3988": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/568c6036-aeb5-4f73-9c75-fa674f965716": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2869a722-c001-41da-a388-b3e4070a9b95": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7b3404a7-c130-4dd8-b4c3-2edeb5fe414d": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/16eeb8f3-429f-490e-aa58-ed2573fecf8b": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/c4ce7b90-7d55-4593-a12f-f6e0d4f4c171": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/a2cd6925-e8fa-4880-8ab2-121c9710ccac": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/23bbe35c-c579-474a-9e66-85d18545f2cb": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/57ebe73c-5293-496b-9bf5-1b38081d2cdf": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/9148ea6a-f591-495f-9a97-2fd5c7ac2aea": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5d14a472-611a-4d2c-a490-be453b841ad9": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/1887b494-3e3f-431a-8c6f-2a8129764087": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/3b1f3732-86ae-4360-817d-59e34acf6685": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/c9509f6d-616f-4865-a883-0bb3b2fcba90": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-only",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://lifeattiktok.com/search/7676650760662157621": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-only",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/31f44b7e-6d0d-463a-802d-ce894a00130f": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-only",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://lifeattiktok.com/search/7676647728043280645": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-only",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/d4a01c7d-0ef4-4577-b4a1-aef0a553ecb2": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/3c15c4b1-a7b9-4bfc-9064-944a3e5f5fe7": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5fb3b696-65b0-447f-b258-5e70b1ffdf3c": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5458105c-13e8-4817-9425-650a59963793": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f3afd047-0a89-40c5-ba2f-e21673172f2b": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/abb10756-7c15-4694-8cfc-00d3fb05f0ad": {
+      "status": "hard-excluded",
+      "reasonCode": "future-sponsorship-not-supported",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.smartrecruiters.com/HardinDesign/744000145322155": {
+      "status": "hard-excluded",
+      "reasonCode": "future-sponsorship-not-supported",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b595d8a5-ff62-4bd0-bfd3-df111e487fd3": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/580b0f4c-0ea5-4af9-be1a-a9894f85c5aa": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/775ea63a-d9c1-4fc9-a001-25d679330b41": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/de1d03e2-96fa-43b3-95fd-d59fe77d71ba": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5eda8352-de1b-4b91-8545-ba8e7fa26458": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/703508c4-1188-4176-8539-4f1fbaeb8839": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/47850bfd-3afa-4073-a5b7-3a8734f3c0eb": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5e8c02db-c168-44ab-97d3-b9d8199fdbee": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e6405d5c-7d2f-4e65-9602-4685ada5b31b": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/9e3744d0-6013-44b6-8207-f13d87b99654": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9": {
+      "status": "hard-excluded",
+      "reasonCode": "us-citizenship-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply": {
+      "status": "hard-excluded",
+      "reasonCode": "us-citizenship-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/3cfd1fd5-6a07-4a50-9a60-1377c81e8a9f": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/84c9f989-d1bf-43c7-ace1-da5f288ace4f": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/0a24e0a1-31c0-4019-8e78-17c048481430": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b1007362-c506-42fd-b9a0-95f30bb96bac": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b556adb1-8adc-4b0f-9230-3a2067a6428d": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e803a253-ad43-430d-8733-10417d031d02": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/242a72e5-306f-4aee-83bf-394d30551f34": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7eb1feaf-2674-4186-8e2b-9988a4887949": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/6a8aa902-c0c5-40aa-9ce5-de89012320d0": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://www.newrocket.com/careers/job": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2c4cd783-a87f-4ae3-a4b9-d3197edaf47e": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e3c3148d-dbd6-4119-8953-00548ba0f6a0": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/876dc998-389d-4dd5-8fc8-c2f64e394e2c": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/c0c90a66-4251-4629-8f07-54c74f1528a1": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/77eac71b-1155-4796-a6c4-fc7fa468f17b": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/34c645aa-eab2-4e61-83ef-55755ab7503c": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/b9818860-8ae5-4d0d-85c4-fa881f59838a": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/36550989-6b9a-4283-9d04-64ff68ecf823": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/72a9c7ae-4f80-4a65-b2a0-b712fc89ee2f": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/708de150-b11f-4875-88c4-d73fd53f2cac": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/83c45c64-d3e1-4b9a-88bf-39f4e4071568": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/57715dab-c267-4352-aa7c-5aca9054a182": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/6211e1d7-9948-415e-999f-e9abcd23ac10": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/d519541f-6c0b-4028-a651-bf9bd099c8b5": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/0c6f879e-b3f8-47f4-85ed-ababb0e44d80": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/8cf72dd6-f0f9-40d1-85c5-813990262e3e": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f3037d73-79f8-4a62-8699-7aa72f598e50": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://lifeattiktok.com/search/7676253726624024837": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/014a66bd-015e-44a4-9b1a-32d3b69c73ca": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://lifeattiktok.com/search/7678120538997098805": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/81dd9e68-82e0-4042-a97f-ce2f429a825f": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/16bba879-2f7c-4b44-9d6b-f57a78ac8ee9": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/707b0824-7c02-4f4e-874d-f92052575561": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://truckingpeople.applytojob.com/apply/Q0rXW8gckn/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/cdf2ec2a-ae0d-4c4d-b7ed-06a9be1c2be2": {
+      "status": "hard-excluded",
+      "reasonCode": "experience-requirement-exceeds-new-grad-scope",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Rochester-Sr_-Associate,-Artificial-Intelligence-NY-14624/1423107000": {
+      "status": "hard-excluded",
+      "reasonCode": "experience-requirement-exceeds-new-grad-scope",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/be001f88-4df5-4cc7-be0e-2ef836029012": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7219b946-303f-467f-a812-6f215e1e9c0e": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1422892000": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-security-clearance-required",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f5899221-db12-4026-a976-4ea6742899cc": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/3f8094e9-85cc-45af-9147-882df0bfcd9f": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/ee871fc2-a48b-4f6f-8b78-4f13099021ca": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/225c073c-c7cc-420b-a859-6c087a72388a": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/be3d979b-63eb-4f25-9562-ddb20049b611": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/811b5e57-74cf-4d86-a344-f1af5fbf2b31": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f5b93158-32b1-48be-8571-3b99ee653435": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/98cc0339-dbcb-44ab-ad89-790f2ee6fd87": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e48536e1-ab9e-4515-ad9d-1c4cc770917c": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/ebce0ffb-1748-4999-b952-a7dbc9f36aae": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/bf9c69e7-fff4-453c-ba04-3b0a7f1bc733": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/63d19d89-7015-4d97-8899-336d69fd2ea4": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/bde662ce-92c7-454f-baa5-c0f859f3f0aa": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/a7773a55-d98c-4dc4-852c-a91ad91e5e94": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2ed80b78-d184-4d1d-b9c2-7150eb9067c2": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/cb929b45-7b3b-46fa-9933-c362213d4e65": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/c2e2f7ef-3469-446d-a35a-b0a767e0683e": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/66ee3d72-321b-48a0-9cb0-41117e7fb933": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/7a614b8e-eeeb-467f-a654-af659a1021c7": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/0897164b-3e59-470f-acf6-7c040c6363bc": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/ef53c5cc-cfb0-4320-96eb-9bf793d013f8": {
+      "status": "preference-excluded",
+      "reasonCode": "production-devops-core",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080": {
+      "status": "preference-excluded",
+      "reasonCode": "production-devops-core",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/da75a7d6-8ed2-4054-805c-35806d1e50de": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/0d471c98-a58e-40e3-a4d9-a332bfbec196": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/fb49ee65-7eac-4ac7-ab79-c3262d6f04d7": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/aa3e56c3-8607-42dc-a43b-9fe91f4b275d": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/e745f9f7-84b2-4962-af95-6e3faf61a307": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/59a9da96-9441-4bf5-adea-b1f68156600d": {
+      "status": "out-of-scope",
+      "reasonCode": "temporary-academic-appointment",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.smartrecruiters.com/LLNL/3743990014839366": {
+      "status": "out-of-scope",
+      "reasonCode": "temporary-academic-appointment",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/80ebf08c-0c7a-4d4e-972a-91adbc6e5509": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/d8b77af1-29eb-4b1e-ab63-2e0bfd59605e": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/ae18eaa6-88f9-486d-9112-d4feaa799338": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/cfdb84c0-3b66-4b42-90a5-9189a55f2592": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/f2e72238-f7aa-4546-964c-34afbdf904bb": {
+      "status": "duplicate",
+      "reasonCode": "previously-seen-public-candidate-url",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/bb5ce3d4-ab62-4d6c-b976-64c022ba418c": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2ad3e6d5-d4e3-4b1c-8ca8-74840b82691b": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/896a2ce6-0e75-40f5-9b7e-811079dfe6bb": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://payitgov.com/careers": {
+      "status": "needs-review",
+      "reasonCode": "official-page-evidence-incomplete",
+      "firstSeenAt": "2026-08-27T15:19:25-07:00",
+      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
+      "retryAfter": "2026-08-29T08:00:00-07:00",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/bc004c19-45d1-4e50-9d7c-27fbdd2db93a": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/9f6e8d63-9cab-4749-85bc-bfe74f9c7577": {
+      "status": "duplicate",
+      "reasonCode": "previously-seen-public-candidate-url",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/a1976308-266e-4773-9e85-830494a8efd0": {
+      "status": "out-of-scope",
+      "reasonCode": "role-outside-target-directions",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/22286d2e-ab8f-421b-9e32-02038a5bffa4": {
+      "status": "duplicate",
+      "reasonCode": "existing-active-job",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application": {
+      "status": "duplicate",
+      "reasonCode": "existing-active-job",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/c4e96033-c49b-49e3-88cd-fa2f2f99ade1": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/2b100e48-0d13-4ce4-84ba-7549d0d15f9b": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/5516fbba-d287-4ee8-b391-dd0e5a0c4797": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-or-export-control-restriction",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/a3fa760c-c8ec-4d27-8090-1ff8948cd4d0": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://simplify.jobs/p/8b350164-ca46-4403-82b0-1df7b1971cdc": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     }
   }
 }

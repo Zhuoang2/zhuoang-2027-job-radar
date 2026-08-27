@@ -221,6 +221,38 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     state.sourceMonitoring.sources["swelist-email"].baseline.entryCount >= 949,
     "the SWELIST baseline must be unioned rather than replaced by a shorter window",
   );
+  assert.equal(
+    state.sourceMonitoring.sources["swelist-email"].baseline.matchedMessageCount,
+    2,
+    "the corrected August 25-26 SWELIST window must retain both validated messages",
+  );
+  assert.equal(
+    state.sourceMonitoring.sources["swelist-email"].baseline.extractedPublicLinkCount,
+    162,
+    "the corrected SWELIST window must retain all deduplicated public job links",
+  );
+  const simplifySource = state.sourceMonitoring.sources.simplifyjobs;
+  assert.equal(
+    simplifySource.cycleStatus,
+    "mixed-cycle-explicit-2027-rows-active",
+  );
+  assert.equal(
+    simplifySource.baseline.mode,
+    "mixed-cycle-row-level-explicit-2027-admission-gate",
+  );
+  assert.ok(
+    simplifySource.baseline.observedExplicit2027EntryCount >= 7,
+    "Simplify must scan explicit 2027 rows even while the repository title remains 2026",
+  );
+  for (const id of [
+    "marshall-wace-quant-associate-programme-2027-8636830002",
+    "tiktok-data-engineer-ecommerce-2027-7676253726624024837",
+    "tiktok-data-engineer-live-2027-7678120538997098805",
+    "d-wave-software-engineer-i-30e6077b",
+    "man-group-systematic-graduate-rotational-4960444101",
+  ]) {
+    assert.ok(jobs.some((job) => job.id === id), `missing corrected SWELIST admission: ${id}`);
+  }
   assert.ok(
     jobs.every(
       (job) =>
