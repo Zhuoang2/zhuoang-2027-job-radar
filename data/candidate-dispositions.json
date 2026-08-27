@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-25T03:01:04-07:00",
+  "checkedAt": "2026-08-27T03:00:42-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -12920,6 +12920,67 @@
       "reasonCode": "graduation-deadline-january-2027-incompatible-with-june-2027-graduation",
       "firstSeenAt": "2026-08-25T03:01:04-07:00",
       "lastCheckedAt": "2026-08-25T03:01:04-07:00"
+    },
+    "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-eligible-candidate",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-eligible-candidate",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://www.metacareers.com/jobs/2145505832666693": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-eligible-candidate",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6161129004": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-eligible-candidate",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://jobs.ashbyhq.com/sentry/5c3196c7-b1f3-49b3-a1d7-50ad6c49ea84": {
+      "status": "hard-excluded",
+      "reasonCode": "official-catalog-confirms-role-closed",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers": {
+      "status": "hard-excluded",
+      "reasonCode": "official-catalog-confirms-us-associate-role-closed",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://revvity.wd103.myworkdayjobs.com/external": {
+      "status": "hard-excluded",
+      "reasonCode": "official-catalog-confirms-associate-role-closed",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://strongtie.wd1.myworkdayjobs.com/external": {
+      "status": "hard-excluded",
+      "reasonCode": "official-catalog-confirms-associate-role-closed",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://job-boards.greenhouse.io/addepar1/jobs/8733680002": {
+      "status": "hard-excluded",
+      "reasonCode": "explicitly-no-current-or-future-sponsorship",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+    },
+    "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-and-complete-catalog-status-conflict",
+      "firstSeenAt": "2026-08-27T03:00:42-07:00",
+      "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+      "retryAfter": "2026-08-28T03:00:42-07:00"
     }
   }
 }

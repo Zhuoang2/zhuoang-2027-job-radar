@@ -2021,38 +2021,6 @@
     "status": "open"
   },
   {
-    "id": "sentry-new-grad-swe-2027-5c3196c7",
-    "canonicalUrl": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421",
-    "company": "Sentry",
-    "role": "Software Engineer, New Grad (2027)",
-    "location": "San Francisco, CA",
-    "ageDays": 8,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-08-12T08:31:00-07:00",
-    "lastCheckedAt": "2026-08-12T08:31:00-07:00",
-    "eligibility": "eligible",
-    "startTiming": "confirmed-2027",
-    "sponsorship": "unknown",
-    "fitTier": "priority",
-    "fitScore": 94,
-    "directions": [
-      "SWE/Data Infra",
-      "AI/ML"
-    ],
-    "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": [
-      "官方标题明确为 2027 New Grad，且岗位仍在开放",
-      "接受至少一段实习或等效实践，产品与基础设施团队均可匹配",
-      "技术栈覆盖 Python、TypeScript、React、Kafka、ClickHouse 与 Kubernetes"
-    ],
-    "caveats": [
-      "官网未公开 sponsorship 政策",
-      "标题确认 2027 周期，但未公开精确入职月份"
-    ],
-    "applyUrl": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application",
-    "status": "open"
-  },
-  {
     "id": "tiktok-ai-engineer-client-architecture-2027",
     "canonicalUrl": "https://lifeattiktok.com/search/7664978367107713333",
     "company": "TikTok",
@@ -4176,37 +4144,6 @@
     ]
   },
   {
-    "id": "resmed-associate-software-engineer",
-    "canonicalUrl": "https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125",
-    "company": "ResMed",
-    "role": "Associate Software Engineer",
-    "location": "San Diego, CA",
-    "ageDays": 7,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-08-01T08:01:26-07:00",
-    "lastCheckedAt": "2026-08-13T08:07:00-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 90,
-    "directions": [
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "Backend-Data Infra / General SWE",
-    "reasons": [
-      "Java/Python/JavaScript/TypeScript、云原生应用和 CI/CD 要求匹配后端与全栈方向",
-      "官网接受 CS 本硕或同等背景，职责覆盖开发、测试、部署与生产支持"
-    ],
-    "caveats": [
-      "官网要求 1+ 年专业开发经验，需要逐项核对",
-      "官方未写明 2027 cohort、入职日期或 sponsorship 政策",
-      "新 requisition 取代同公司同标题的旧链接，站点继续只保留一张卡片"
-    ],
-    "applyUrl": "https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125",
-    "status": "open"
-  },
-  {
     "id": "runsybil-software-engineer-i",
     "canonicalUrl": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59",
     "company": "RunSybil",
@@ -5756,36 +5693,6 @@
     "status": "open"
   },
   {
-    "id": "revvity-associate-software-development-engineer",
-    "canonicalUrl": "https://revvity.wd103.myworkdayjobs.com/en-US/external/job/US-Remote---MA/Associate-Software-Development-Engineer--Remote-US-_JR-044961",
-    "company": "Revvity",
-    "role": "Associate Software Development Engineer",
-    "location": "Remote - USA (Eastern Time)",
-    "ageDays": 24,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-31T10:44:45-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 86,
-    "directions": [
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "Backend-Data Infra / General SWE",
-    "reasons": [
-      "Java、REST、CI/CD、JDBC/RDBMS 与 AI 工具要求匹配后端方向",
-      "美国远程全职岗位，职位级别为 Associate"
-    ],
-    "caveats": [
-      "官网要求 1–3 年经验，Vert.x/reactive programming 是明显缺口",
-      "官方未写明 2027 cohort 或 sponsorship 政策"
-    ],
-    "applyUrl": "https://revvity.wd103.myworkdayjobs.com/en-US/external/job/US-Remote---MA/Associate-Software-Development-Engineer--Remote-US-_JR-044961",
-    "status": "open"
-  },
-  {
     "id": "rundoo-software-engineer",
     "canonicalUrl": "https://jobs.ashbyhq.com/rundoo/c1fa53ea-dadf-4dcf-a144-f71bda03c9fa",
     "company": "Rundoo",
@@ -6390,36 +6297,6 @@
       "岗位可能包含夜间或周末 on-call 轮值"
     ],
     "applyUrl": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
-    "status": "open"
-  },
-  {
-    "id": "simpson-strong-tie-associate-swe-cloud-api",
-    "canonicalUrl": "https://strongtie.wd1.myworkdayjobs.com/en-US/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829",
-    "company": "Simpson Strong-Tie",
-    "role": "Associate Software Engineer - Cloud Services & API Platform",
-    "location": "Plano, TX (Hybrid)",
-    "ageDays": 27,
-    "source": "SpeedyApply/2027-SWE-College-Jobs",
-    "firstSeenAt": "2026-07-31T10:44:45-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 84,
-    "directions": [
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "Backend-Data Infra / General SWE",
-    "reasons": [
-      "REST、云平台、CI/CD 与 OOP 要求匹配后端和基础设施方向",
-      "官网允许把实习计入 1–3 年经验"
-    ],
-    "caveats": [
-      "C#/.NET 与 Azure 是主要技术缺口，且职位不提供 relocation",
-      "官方未写明 2027 cohort 或 sponsorship 政策"
-    ],
-    "applyUrl": "https://strongtie.wd1.myworkdayjobs.com/en-US/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829",
     "status": "open"
   },
   {
@@ -8212,5 +8089,127 @@
     "status": "open",
     "firstSeenAt": "2026-08-25T03:01:04-07:00",
     "lastCheckedAt": "2026-08-25T03:01:04-07:00"
+  },
+  {
+    "id": "zip-software-engineer-new-grad-2027-df6eb1ee",
+    "canonicalUrl": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+    "company": "Zip",
+    "role": "Software Engineer, New Grad (2027 Start)",
+    "location": "San Francisco, CA",
+    "ageDays": 0,
+    "source": "SpeedyApply / Zip official careers",
+    "firstSeenAt": "2026-08-27T03:00:42-07:00",
+    "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "resumeTrack": "General SWE / AI-ML",
+    "reasons": [
+      "官方明确面向 2027 New Grad，工作涵盖产品工程、数据和 AI 功能",
+      "Python、全栈开发、大规模数据与机器学习项目经历和岗位要求高度匹配"
+    ],
+    "caveats": [
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application",
+    "status": "open"
+  },
+  {
+    "id": "maximor-software-engineer-new-grad-67d0c7d0",
+    "canonicalUrl": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e",
+    "company": "Maximor AI",
+    "role": "Software Engineer, New Grad",
+    "location": "New York, NY",
+    "ageDays": 0,
+    "source": "SpeedyApply / Maximor official careers",
+    "firstSeenAt": "2026-08-27T03:00:42-07:00",
+    "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+    "eligibility": "eligible",
+    "startTiming": "timing-check",
+    "sponsorship": "opt-accepted",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方 New Grad 岗位涵盖 AI 产品、数据管道和端到端软件工程",
+      "LLM、机器学习、Python/SQL 与云端数据系统经历高度匹配，官方明确接受 OPT"
+    ],
+    "caveats": [
+      "官方未明确写出 2027 cohort 或开始日期，保留 timing-check"
+    ],
+    "applyUrl": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application",
+    "status": "open"
+  },
+  {
+    "id": "meta-software-engineer-systems-ml-compilers-backend-2145505832666693",
+    "canonicalUrl": "https://www.metacareers.com/jobs/2145505832666693",
+    "company": "Meta",
+    "role": "Software Engineer, Systems ML - Compilers / Backend",
+    "location": "Sunnyvale, CA",
+    "ageDays": 0,
+    "source": "SpeedyApply / Meta official careers",
+    "firstSeenAt": "2026-08-27T03:00:42-07:00",
+    "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+    "eligibility": "eligible",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "岗位聚焦 ML 编译器、模型执行后端和系统性能，和 CUDA/MPI Transformer 训练项目直接相关",
+      "C++、Python、分布式训练及机器学习经历与岗位技术方向匹配"
+    ],
+    "caveats": [
+      "官方未明确写出 2027 cohort 或开始日期，保留 timing-check",
+      "岗位对编译器和底层 ML 系统经验要求较高，属于 stretch 申请",
+      "官方职位页未说明 sponsorship 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.metacareers.com/jobs/2145505832666693",
+    "status": "open"
+  },
+  {
+    "id": "vercel-data-platform-engineer-6161129004",
+    "canonicalUrl": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+    "company": "Vercel",
+    "role": "Data Platform Engineer",
+    "location": "San Francisco, CA / New York, NY",
+    "ageDays": 1,
+    "source": "SpeedyApply / Vercel official careers",
+    "firstSeenAt": "2026-08-27T03:00:42-07:00",
+    "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "General SWE / Data Infra",
+    "reasons": [
+      "岗位涵盖数据平台、批流处理和可靠的数据基础设施，与大规模点时数据集和云端管道经历匹配",
+      "Python、SQL、AWS、Databricks 与分布式系统背景可直接迁移到该岗位"
+    ],
+    "caveats": [
+      "官方未明确写出 2027 cohort 或开始日期，保留 timing-check",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+    "status": "open"
   }
 ]

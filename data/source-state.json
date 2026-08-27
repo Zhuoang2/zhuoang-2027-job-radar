@@ -414,8 +414,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-needs-review-and-deferred-catalogs",
-        "lastCheckedAt": "2026-08-26T03:00:38-07:00",
+        "cycleStatus": "completed-with-needs-review-and-deferred-catalog",
+        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1137,10 +1137,10 @@
             },
             "GitHub": {
               "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
-              "reason": "The official search did not expose a stable complete public inventory while existing verified cards remained open.",
+              "reason": "A stable complete public inventory could not be enumerated.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
             },
             "Mackenzie Investments": {
               "publicCareersUrl": "https://careersen-mackenzieinvestments.icims.com/jobs/search",
@@ -1158,10 +1158,10 @@
             },
             "Squarepoint Capital": {
               "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
-              "reason": "Official early-career role details were not stably readable, so the complete inventory could not be verified.",
+              "reason": "The dynamic catalog did not expose a stable complete public inventory.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
             },
             "Aven": {
               "publicCareersUrl": "https://jobs.ashbyhq.com/aven",
@@ -1277,10 +1277,10 @@
             },
             "The Voleon Group": {
               "publicCareersUrl": "https://jobs.lever.co/voleon",
-              "reason": "The official Lever inventory returned zero roles while an existing Stanford Handshake card remained active; the cross-source status conflict requires review.",
+              "reason": "The official Lever inventory returned zero roles while a previously verified role remains active, creating a cross-source status conflict.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
             },
             "KLA": {
               "publicCareersUrl": "https://kla.wd1.myworkdayjobs.com/Search",
@@ -1423,32 +1423,186 @@
               "outOfScopeCount": 0
             },
             "Mimecast": {
-              "publicCareersUrl": "https://mimecast.wd3.myworkdayjobs.com/Mimecast_Careers",
-              "reason": "The official catalog reported 72 roles, but complete pagination was not available within the bounded run.",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "publicCareersUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "sha256:707a870e706d6ef4",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 1,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
             },
             "MSA Safety": {
               "publicCareersUrl": "https://msa.wd1.myworkdayjobs.com/MSA",
-              "reason": "A current official AI Engineer detail page was verified, but the complete catalog could not be stably enumerated.",
+              "reason": "A stable complete public inventory could not be enumerated.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
             },
             "Nexthop.ai": {
-              "publicCareersUrl": "https://jobs.ashbyhq.com/nexthop-ai",
-              "reason": "The existing new-graduate card remains verified, but the complete catalog could not be stably enumerated.",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "publicCareersUrl": "https://nexthopai.bamboohr.com/careers",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "public-inventory-40",
+              "candidateCount": 1,
+              "addedCount": 0,
+              "duplicateCount": 1,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
             },
-            "Oracle": {
-              "publicCareersUrl": "https://careers.oracle.com/jobs/",
-              "reason": "The official student and graduate pages were reachable, but a stable complete public inventory could not be enumerated.",
+            "Pylon": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/pylon",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 21,
+              "inventoryFingerprint": "sha256:c98fe29cddf92130",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 3,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Rundoo": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/rundoo",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 11,
+              "inventoryFingerprint": "sha256:66bb4c70d4374dc0",
+              "candidateCount": 0,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "RunSybil": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/runsybil-jobs",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 9,
+              "inventoryFingerprint": "sha256:ef43e0e4f61c5f4a",
+              "candidateCount": 3,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 3,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Sentry": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/sentry",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "sha256:0e3ba8edf1b20f38",
+              "candidateCount": 0,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "PayPal": {
+              "publicCareersUrl": "https://paypal.wd1.myworkdayjobs.com/jobs",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "sha256:9908eddefb5beecc",
+              "candidateCount": 9,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 9,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "ResMed": {
+              "publicCareersUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "sha256:3cbebc69cb6a0be1",
+              "candidateCount": 2,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 2,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Revvity": {
+              "publicCareersUrl": "https://revvity.wd103.myworkdayjobs.com/external",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "sha256:545aa888feec1099",
+              "candidateCount": 0,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "Simpson Strong-Tie": {
+              "publicCareersUrl": "https://strongtie.wd1.myworkdayjobs.com/external",
+              "status": "complete",
+              "lastSuccessfulCheckAt": "2026-08-27T03:00:42-07:00",
+              "nextDueAt": "2026-09-10T03:00:42-07:00",
+              "inventoryCount": 40,
+              "inventoryFingerprint": "sha256:f06daa8e386304c4",
+              "candidateCount": 0,
+              "addedCount": 0,
+              "duplicateCount": 0,
+              "hardExcludedCount": 0,
+              "preferenceExcludedCount": 0,
+              "outOfScopeCount": 0
+            },
+            "PathAI": {
+              "publicCareersUrl": "https://www.pathai.com/join-our-team",
+              "reason": "The public board returned zero roles while an existing official detail page remained reachable.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-26T03:00:38-07:00",
-              "retryAfter": "2026-08-27T03:00:38-07:00"
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
+            },
+            "Precisely": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/precisely",
+              "reason": "The expected official Greenhouse catalog returned 404 and no replacement complete index was verified.",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
+            },
+            "Rocket Companies / Redfin": {
+              "publicCareersUrl": "https://www.rocketcompanies.com/careers/",
+              "reason": "The combined company identity did not resolve to one stable, complete public catalog.",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
+            },
+            "Salesforce": {
+              "publicCareersUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site",
+              "reason": "The bounded official inventory showed only senior roles while a new source-specific AI Applications URL remained reachable; candidate and catalog evidence conflict.",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
+            },
+            "Sciemo": {
+              "publicCareersUrl": "https://www.sciemo.com/careers",
+              "reason": "No stable complete official catalog could be enumerated.",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+              "retryAfter": "2026-08-28T03:00:42-07:00"
             }
           },
           "deferredLargeCompanies": [
@@ -1679,18 +1833,27 @@
               "reason": "The official catalog exceeds the ordinary-run limit of 200 open roles; no partial screening was performed.",
               "firstDeferredAt": "2026-08-26T03:00:38-07:00",
               "lastObservedAt": "2026-08-26T03:00:38-07:00"
+            },
+            {
+              "company": "Oracle",
+              "publicCareersUrl": "https://careers.oracle.com/jobs/",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": ">200 open roles / >10 pages",
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial screening was performed.",
+              "firstDeferredAt": "2026-08-27T03:00:42-07:00",
+              "lastObservedAt": "2026-08-27T03:00:42-07:00"
             }
           ],
           "lastBatch": {
-            "checkedAt": "2026-08-26T03:00:38-07:00",
+            "checkedAt": "2026-08-27T03:00:42-07:00",
             "selectedCompanyCount": 20,
             "completeAuditCount": 10,
-            "needsReviewCount": 7,
-            "deferredLargeCount": 3,
-            "candidateCount": 11,
+            "needsReviewCount": 9,
+            "deferredLargeCount": 1,
+            "candidateCount": 19,
             "addedCount": 0,
-            "duplicateCount": 11,
-            "hardExcludedCount": 0,
+            "duplicateCount": 2,
+            "hardExcludedCount": 17,
             "preferenceExcludedCount": 0,
             "outOfScopeCount": 0
           },
@@ -1700,78 +1863,78 @@
             "lastTargetedAuditAt": "2026-08-22T20:07:37-07:00"
           },
           "lastTargetedAuditSummary": {
-            "checkedAt": "2026-08-26T03:00:38-07:00",
+            "checkedAt": "2026-08-27T03:00:42-07:00",
             "selectedCompanies": [
               "Squarepoint Capital",
               "The Voleon Group",
               "GitHub",
-              "KLA",
-              "Koah Labs",
-              "Lennar",
-              "LexisNexis",
-              "Mass General Brigham",
-              "Mercury",
-              "Micron",
               "Mimecast",
               "MSA Safety",
-              "National Software Management",
-              "Neon",
               "Nexthop.ai",
-              "Normal Computing",
-              "NVIDIA",
-              "Obsidian Security",
               "Oracle",
-              "Palantir"
+              "PathAI",
+              "PayPal",
+              "Precisely",
+              "Pylon",
+              "ResMed",
+              "Revvity",
+              "Rocket Companies / Redfin",
+              "Rundoo",
+              "RunSybil",
+              "Salesforce",
+              "Sciemo",
+              "Sentry",
+              "Simpson Strong-Tie"
             ],
             "completeCompanies": [
-              "KLA",
-              "Koah Labs",
-              "Lennar",
-              "LexisNexis",
-              "Mass General Brigham",
-              "Mercury",
-              "National Software Management",
-              "Neon",
-              "Normal Computing",
-              "Obsidian Security"
+              "Pylon",
+              "Rundoo",
+              "RunSybil",
+              "Sentry",
+              "Mimecast",
+              "PayPal",
+              "ResMed",
+              "Revvity",
+              "Simpson Strong-Tie",
+              "Nexthop.ai"
             ],
             "needsReviewCompanies": [
               "Squarepoint Capital",
               "The Voleon Group",
               "GitHub",
-              "Mimecast",
               "MSA Safety",
-              "Nexthop.ai",
-              "Oracle"
+              "PathAI",
+              "Precisely",
+              "Rocket Companies / Redfin",
+              "Salesforce",
+              "Sciemo"
             ],
             "deferredCompanies": [
-              "Palantir",
-              "Micron",
-              "NVIDIA"
+              "Oracle"
             ]
           }
         },
-        "note": "The 20-company bounded batch was fully reconciled: ten catalogs were completely enumerated, seven have concrete retryable inventory blockers, and three exceeded the 200-role limit and were deferred. No partial catalog was admitted and no new qualifying card was added."
+        "note": "The 20-company bounded batch was reconciled: ten catalogs were completely enumerated, nine have concrete retryable blockers, and Oracle exceeded the ordinary-run size limit. No partial catalog was admitted; four stale cards were removed only after their official catalogs confirmed the roles were no longer open."
       },
       "speedyapply": {
         "role": "primary",
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-26T03:00:38-07:00",
+        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
-          "entryCount": 1629,
+          "entryCount": 1643,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 1,
+          "addedIdentityCount": 14,
           "changedUrlCount": 0,
-          "changedContentCount": 1,
-          "removedSourceEntryCount": 3,
-          "upstreamCommit": "570c9604a6b90a287f91e560c202d0f1825b2486",
-          "neverSeenIdentityCount": 1,
+          "changedContentCount": 6,
+          "removedSourceEntryCount": 5,
+          "upstreamCommit": "a4027980513ad7e0fb81d2dff1ec7b94a0093977",
+          "neverSeenIdentityCount": 14,
           "historicalReappearanceCount": 0,
-          "rawAddedUrlCount": 1,
-          "rawRemovedUrlCount": 3,
+          "rawAddedUrlCount": 14,
+          "rawRemovedUrlCount": 5,
           "current60DayEntryCount": 118,
           "current60DayCandidateCanonicalUrls": [
             "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
@@ -1880,19 +2043,23 @@
             "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845",
             "https://www.janestreet.com/join-jane-street/position/8594541002",
             "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
-            "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002"
+            "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+            "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+            "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e",
+            "https://www.metacareers.com/jobs/2145505832666693",
+            "https://job-boards.greenhouse.io/vercel/jobs/6161129004"
           ],
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 277
         },
-        "note": "The incremental comparison found one new canonical URL and one substantive title change. The Amazon role was hard-excluded because it is explicitly a 2026 early-career role; the already-reviewed TikTok URL remained excluded and no historical candidate was reopened."
+        "note": "The forward incremental comparison found fourteen new candidate identities and six materially changed rows. Four officially verified roles were admitted; explicit 2026, work-authorization, citizenship/clearance, operations, and out-of-scope candidates were excluded without reopening unchanged history."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-26T03:00:38-07:00",
+        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
           "entryCount": 242,
@@ -2155,7 +2322,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "2026-cycle-monitoring",
-        "lastCheckedAt": "2026-08-26T03:00:38-07:00",
+        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-2027-admission-gate",
           "entryCount": 505,
@@ -2588,21 +2755,21 @@
             "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345"
           ],
           "addedEntryCount": 0,
-          "observedUnconfirmedEntryCount": 26,
-          "observedNewEntryCount": 26,
+          "observedUnconfirmedEntryCount": 0,
+          "observedNewEntryCount": 0,
           "removedSourceEntryCount": 26,
-          "upstreamCommit": "4bc67019dfc0cbb4f64d99128109e0204607bb5c",
-          "changedContentCount": 1,
+          "upstreamCommit": "bfc67ad5816a1699a8b8b0ed6b175333fc05e118",
+          "changedContentCount": 0,
           "current60DayEntryCount": 505,
           "backfillStatus": "complete"
         },
-        "note": "New-Grad-Positions still explicitly identifies itself as the 2026 cycle. Upstream URL churn was recorded for monitoring, but no explicit 2027 full-time repository or role was admitted."
+        "note": "New-Grad-Positions still explicitly identifies itself as the 2026 cycle, and the organization exposes no explicit 2027 full-time New Grad repository. No 2026 role was admitted."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "daily-window-complete",
-        "lastCheckedAt": "2026-08-26T03:00:38-07:00",
+        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
           "entryCount": 1294,
@@ -3908,14 +4075,14 @@
           "newCandidateUrlCount": 0,
           "priorRepeatCount": 0,
           "officialCandidateReviewCount": 0,
-          "backfillWindowStart": "2026-08-25",
-          "backfillWindowEndExclusive": "2026-08-26",
+          "backfillWindowStart": "2026-08-26",
+          "backfillWindowEndExclusive": "2026-08-27",
           "admittedJobCount": 0,
           "duplicateCount": 0,
           "hardExcludedCount": 0,
           "retryableCandidateCount": 0,
-          "windowStart": "2026-08-25",
-          "windowEndExclusive": "2026-08-26"
+          "windowStart": "2026-08-26",
+          "windowEndExclusive": "2026-08-27"
         },
         "note": "The prior-day window was searched read-only with both authorized sender queries. No matching message, public job link, or candidate was found; the successful public-URL baseline is unchanged."
       }
@@ -6059,6 +6226,22 @@
       ],
       "https://www.trexquant.com/careers": [
         "vanshb03",
+        "company-careers"
+      ],
+      "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea": [
+        "speedyapply",
+        "company-careers"
+      ],
+      "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e": [
+        "speedyapply",
+        "company-careers"
+      ],
+      "https://www.metacareers.com/jobs/2145505832666693": [
+        "speedyapply",
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/vercel/jobs/6161129004": [
+        "speedyapply",
         "company-careers"
       ]
     },
@@ -8231,6 +8414,14 @@
         "firstSeenAt": "2026-08-22T20:07:37-07:00",
         "lastAttemptAt": "2026-08-22T20:07:37-07:00",
         "retryAfter": "2026-08-29T08:00:00-07:00"
+      },
+      {
+        "canonicalUrl": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086",
+        "reason": "The official detail URL and the bounded complete catalog expose conflicting availability evidence.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-27T03:00:42-07:00",
+        "lastAttemptAt": "2026-08-27T03:00:42-07:00",
+        "retryAfter": "2026-08-28T03:00:42-07:00"
       }
     ],
     "directionTaxonomy": {
@@ -8262,15 +8453,15 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2383,
-      "lastCheckedAt": "2026-08-25T03:01:04-07:00",
+      "entryCount": 2393,
+      "lastCheckedAt": "2026-08-27T03:00:42-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
   "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-26T03:00:38-07:00",
-  "lastSuccessfulScanAt": "2026-08-26T03:00:38-07:00",
-  "lastSourceUpdatedAt": "2026-08-26T03:00:38-07:00",
+  "lastScanStartedAt": "2026-08-27T03:00:42-07:00",
+  "lastSuccessfulScanAt": "2026-08-27T03:00:42-07:00",
+  "lastSourceUpdatedAt": "2026-08-27T03:00:42-07:00",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
@@ -9995,7 +10186,7 @@
     "https://stanford.joinhandshake.com/jobs/11290165"
   ],
   "baselineEntryCount": 1721,
-  "lastCheckedAt": "2026-08-26T03:00:38-07:00",
-  "lastSuccessfulRunAt": "2026-08-26T03:00:38-07:00",
+  "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+  "lastSuccessfulRunAt": "2026-08-27T03:00:42-07:00",
   "lastRunStatus": "complete-with-needs-review"
 }
