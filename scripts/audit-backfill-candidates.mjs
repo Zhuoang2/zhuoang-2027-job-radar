@@ -1,4 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { classifyTimingEvidence } from "./job-timing-policy.mjs";
 
 const [speedyPath, vanshbPath, simplifyPath, swelistPath, outputPath] =
   process.argv.slice(2);
@@ -149,12 +150,8 @@ const obviousOutOfScope = /\b(intern(ship)?|product manager|program manager|hard
 function titleDisposition(candidate) {
   if (!relevantTitle.test(candidate.role)) return "out-of-scope-title";
   if (obviousOutOfScope.test(candidate.role)) return "out-of-scope-title";
-  if (candidate.source === "simplifyjobs" && !/2027/i.test(candidate.role + " " + candidate.url)) {
-    return "monitor-2026-cycle";
-  }
-  if (candidate.source === "vanshb03" && !/2027/i.test(candidate.role + " " + candidate.url)) {
-    return "needs-official-2027-evidence";
-  }
+  const timing = classifyTimingEvidence({ title: candidate.role });
+  if (timing.status === "exclude") return timing.reasonCode;
   return "official-review";
 }
 

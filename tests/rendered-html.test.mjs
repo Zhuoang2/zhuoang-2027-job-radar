@@ -8,6 +8,7 @@ import {
 } from "../lib/job-taxonomy.mjs";
 import { buildCompanyCareerQueue } from "../scripts/list-company-career-queue.mjs";
 import { buildLinkedInJobQueryPlan } from "../scripts/list-linkedin-job-queries.mjs";
+import { classifyTimingEvidence } from "../scripts/job-timing-policy.mjs";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -114,6 +115,13 @@ test("keeps the public job and application datasets privacy-safe", async () => {
     state.sourceMonitoring.sources["company-careers"].baseline.maxCompaniesPerRun,
     20,
   );
+  for (const sourceName of ["vanshb03", "simplifyjobs"]) {
+    const correction = state.sourceMonitoring.sources[sourceName].baseline.timingPolicyCorrection;
+    assert.equal(correction.status, "complete");
+    assert.equal(correction.windowStart, "2026-07-29T00:00:00-07:00");
+    assert.equal(correction.windowEndExclusive, "2026-08-29T00:00:00-07:00");
+    assert.ok(correction.observedAdditionCount > 0);
+  }
   const companyCareerBatch =
     state.sourceMonitoring.sources["company-careers"].baseline.lastBatch;
   assert.equal(
@@ -152,6 +160,15 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.equal(new Set(jobs.map((job) => job.id)).size, jobs.length);
   assert.equal(new Set(jobs.map((job) => job.canonicalUrl)).size, jobs.length);
+  assert.equal(
+    jobs.filter((job) => /timing backfill/i.test(job.source)).length,
+    22,
+    "the one-month timing-policy correction must retain all independently verified additions",
+  );
+  assert.ok(
+    !jobs.some((job) => job.id === "solace-health-associate-security-engineer-college-grad-2027-b021350f-40dc-4b28-ade4-2ab030bec05d"),
+    "the out-of-scope Solace security role must not remain in the active dataset",
+  );
   assert.match(
     automationText,
     /isolated official-page access failure as a candidate-level verification failure/i,
@@ -166,8 +183,8 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.match(
     automationText,
-    /selection-only: it chooses due companies but does not browse, enumerate, or audit any catalog/i,
-    "company queue selection must not be mistaken for a completed catalog audit",
+    /immediate select-and-audit command/i,
+    "company queue must immediately execute bounded official-catalog audits",
   );
   assert.match(
     automationText,
@@ -419,6 +436,18 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   };
   visit(state);
   visit(dispositionLedger);
+});
+
+test("uses the universal timing policy without treating incidental years as cohorts", () => {
+  assert.equal(classifyTimingEvidence({ title: "Software Engineer, New Grad 2027" }).status, "confirmed-2027");
+  assert.equal(classifyTimingEvidence({ title: "Software / Infrastructure Graduate - 2027" }).status, "confirmed-2027");
+  assert.equal(classifyTimingEvidence({ title: "Associate Software Engineer (College Grad 2027)" }).status, "confirmed-2027");
+  assert.equal(classifyTimingEvidence({ title: "Software Engineer, Early Career" }).status, "timing-check");
+  assert.equal(classifyTimingEvidence({ title: "Software Engineer, 2026 Start" }).status, "exclude");
+  assert.equal(
+    classifyTimingEvidence({ title: "Software Engineer, Early Career", description: "Copyright 2026 Example Corp." }).status,
+    "timing-check",
+  );
 });
 
 test("builds a bounded, privacy-safe LinkedIn Jobs discovery plan", async () => {

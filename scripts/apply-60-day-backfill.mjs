@@ -338,10 +338,6 @@ for (const candidate of repositoryAudit.candidates) {
     disposition = { status: status === "admitted" ? "duplicate" : status, reasonCode: "previously-dispositioned" };
   } else if (candidate.preliminaryDisposition === "out-of-scope-title") {
     disposition = { status: "out-of-scope", reasonCode: "title-or-function-outside-scope" };
-  } else if (candidate.preliminaryDisposition === "monitor-2026-cycle") {
-    disposition = { status: "out-of-scope", reasonCode: "simplify-repository-remains-2026-cycle" };
-  } else if (candidate.preliminaryDisposition === "needs-official-2027-evidence") {
-    disposition = { status: "needs-review", reasonCode: "vanshb03-needs-explicit-official-2027-evidence" };
   } else {
     disposition = officialDisposition(repositoryOfficialByUrl.get(normalizeUrl(candidate.url)) ?? candidate);
   }
@@ -502,9 +498,7 @@ for (const [sourceName, commit] of [
   const union = [...new Set([...priorUrls.map(normalizeUrl), ...currentUrls])].sort();
   source.lastCheckedAt = checkedAt;
   Object.assign(source.baseline, {
-    mode: sourceName === "simplifyjobs"
-      ? "full-60d-observed-url-baseline-with-2027-admission-gate"
-      : "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
+    mode: "full-60d-observed-url-baseline-with-unified-timing-policy",
     entryCount: union.length,
     seenCandidateCanonicalUrls: union,
     current60DayEntryCount: currentUrls.length,
@@ -512,9 +506,9 @@ for (const [sourceName, commit] of [
     backfillStatus: "complete",
   });
 }
-state.sourceMonitoring.sources.vanshb03.note = "Full 60-day source history was audited. Non-explicit 2027 rows remain retryable until an official page confirms the 2027 cohort; no 2026-only role was admitted.";
-state.sourceMonitoring.sources.simplifyjobs.cycleStatus = "2026-cycle-monitoring";
-state.sourceMonitoring.sources.simplifyjobs.note = "New-Grad-Positions still identifies itself as the 2026 cycle. The full 60-day source snapshot was retained for change detection, but 2026-cycle roles were not admitted; no separate explicit 2027 full-time repository was found in the organization.";
+state.sourceMonitoring.sources.vanshb03.note = "The source uses the universal timing policy: explicit compatible 2027 roles are confirmed; compatible full-time New Grad/Early Career roles without a stated year remain timing-check; explicit incompatible 2025/2026 cycles are excluded.";
+state.sourceMonitoring.sources.simplifyjobs.cycleStatus = "mixed-cycle-row-screening";
+state.sourceMonitoring.sources.simplifyjobs.note = "The repository title is not used as an admission gate. Every changed row uses the universal timing policy and official-page verification.";
 
 state.sourceMonitoring.directionTaxonomy = {
   version: 2,

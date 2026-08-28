@@ -11,7 +11,10 @@
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
-    "company-career-queue": "node scripts/list-company-career-queue.mjs",
+    "company-career-queue": "node scripts/audit-company-career-queue.mjs",
+    "timing-backfill-review": "node scripts/filter-timing-backfill.mjs",
+    "timing-backfill-verify": "node scripts/verify-timing-backfill.mjs",
+    "timing-backfill-apply": "node scripts/apply-timing-backfill.mjs",
     "linkedin-job-queries": "node scripts/list-linkedin-job-queries.mjs",
     "db:generate": "drizzle-kit generate"
   },

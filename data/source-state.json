@@ -17,7 +17,7 @@
         "reason": "Pure Graduate Trader role excluded because Maven's retained Graduate Quant Researcher role is the selected same-company alternative."
       },
       {
-        "canonicalUrl": "https://www.janestreet.com/join-jane-street/position/8635672002/",
+        "canonicalUrl": "https://www.janestreet.com/join-jane-street/position/8635672002",
         "reason": "Low-level Linux and operating-systems engineering is outside the target scope."
       },
       {
@@ -89,7 +89,7 @@
         "reason": "Systems/network administration, production operations, monitoring and incident response are central to the role."
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/",
+        "canonicalUrl": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200",
         "reason": "Embedded real-time tactical-radio software and hardware/software interfaces are central to the role."
       },
       {
@@ -101,7 +101,7 @@
         "reason": "Embedded firmware, peripheral drivers, RTOS/bare-metal systems and hardware bring-up are central to the role."
       },
       {
-        "canonicalUrl": "https://apply.workable.com/flexcompute/j/143ECD1848/",
+        "canonicalUrl": "https://apply.workable.com/flexcompute/j/143ECD1848",
         "reason": "Production infrastructure operations, Linux, incident response and GPU-capacity management are central to the role."
       },
       {
@@ -109,7 +109,7 @@
         "reason": "Factory-control, embedded/real-time software and hardware integration are central, and the role is limited to December 2026 new graduates."
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100/",
+        "canonicalUrl": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100",
         "reason": "Embedded real-time tactical-radio software and hardware/software interfaces are central to the role."
       },
       {
@@ -121,11 +121,11 @@
         "reason": "Pure trading role excluded while Belvedere Trading Software Engineer - Entry Level 2027 remains active."
       },
       {
-        "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/615D982644/",
+        "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/615D982644",
         "reason": "Pure trading role excluded while WallStreetQuants Quantitative Developer - Entry Level remains active."
       },
       {
-        "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/C611D9282B/",
+        "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/C611D9282B",
         "reason": "Pure trading role excluded while WallStreetQuants Quantitative Developer - Entry Level remains active."
       },
       {
@@ -230,7 +230,7 @@
       },
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
-        "reason": "Pure trading role excluded while Chicago Trading Company Associate Engineer - 2027 Start remains active."
+        "reason": "Official verification: pure-trading-role."
       },
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
@@ -261,19 +261,19 @@
         "reason": "Pure Junior Quantitative Trader role excluded while TransMarket Group Junior Algorithmic Trader remains active."
       },
       {
-        "canonicalUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/",
+        "canonicalUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami",
         "reason": "Pure Quantitative Trader role excluded while Citadel Securities software-engineering roles remain active."
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors",
+        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300",
         "reason": "60-day backfill: previously dispositioned."
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors",
+        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400",
         "reason": "60-day backfill: previously dispositioned."
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100/?ats=successfactors",
+        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100",
         "reason": "60-day backfill: previously dispositioned."
       },
       {
@@ -307,6 +307,14 @@
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6569010003",
         "reason": "Implant SDK, manufacturing acceptance, device integration, and low-level C/Rust/Linux work are central to the role."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200",
+        "reason": "Official verification: preference-exclusion-core-embedded-systems."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700",
+        "reason": "Official verification: preference-exclusion-core-embedded-systems."
       }
     ],
     "sources": {
@@ -418,8 +426,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "needs-review",
-        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
+        "cycleStatus": "partially-complete-needs-review",
+        "lastCheckedAt": "2026-08-28T21:03:35.121Z",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1141,10 +1149,10 @@
             },
             "GitHub": {
               "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
-              "reason": "A stable complete public inventory could not be enumerated.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "no-stable-public-full-catalog-api"
             },
             "Mackenzie Investments": {
               "publicCareersUrl": "https://careersen-mackenzieinvestments.icims.com/jobs/search",
@@ -1162,10 +1170,10 @@
             },
             "Squarepoint Capital": {
               "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
-              "reason": "The dynamic catalog did not expose a stable complete public inventory.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "no-stable-public-full-catalog-api"
             },
             "Aven": {
               "publicCareersUrl": "https://jobs.ashbyhq.com/aven",
@@ -1281,10 +1289,14 @@
             },
             "The Voleon Group": {
               "publicCareersUrl": "https://jobs.lever.co/voleon",
-              "reason": "The official Lever inventory returned zero roles while a previously verified role remains active, creating a cross-source status conflict.",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "provider": "lever",
+              "status": "complete",
+              "inventoryCount": 0,
+              "inventoryHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+              "candidateCount": 0,
+              "needsReviewCount": 0,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
             },
             "KLA": {
               "publicCareersUrl": "https://kla.wd1.myworkdayjobs.com/Search",
@@ -1442,10 +1454,10 @@
             },
             "MSA Safety": {
               "publicCareersUrl": "https://msa.wd1.myworkdayjobs.com/MSA",
-              "reason": "A stable complete public inventory could not be enumerated.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "HTTP 422 for https://msa.wd1.myworkdayjobs.com/wday/cxs/msa/MSA/jobs"
             },
             "Nexthop.ai": {
               "publicCareersUrl": "https://nexthopai.bamboohr.com/careers",
@@ -1575,38 +1587,139 @@
             },
             "PathAI": {
               "publicCareersUrl": "https://www.pathai.com/join-our-team",
-              "reason": "The public board returned zero roles while an existing official detail page remained reachable.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "no-stable-public-full-catalog-api"
             },
             "Precisely": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/precisely",
-              "reason": "The expected official Greenhouse catalog returned 404 and no replacement complete index was verified.",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "HTTP 404 for https://boards-api.greenhouse.io/v1/boards/precisely/jobs?content=true"
             },
             "Rocket Companies / Redfin": {
-              "publicCareersUrl": "https://www.rocketcompanies.com/careers/",
-              "reason": "The combined company identity did not resolve to one stable, complete public catalog.",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "publicCareersUrl": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "reason": "catalog-over-200-openings"
             },
             "Salesforce": {
               "publicCareersUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site",
-              "reason": "The bounded official inventory showed only senior roles while a new source-specific AI Applications URL remained reachable; candidate and catalog evidence conflict.",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "reason": "catalog-over-200-openings"
             },
             "Sciemo": {
-              "publicCareersUrl": "https://www.sciemo.com/careers",
-              "reason": "No stable complete official catalog could be enumerated.",
+              "publicCareersUrl": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee",
+              "provider": "ashby",
+              "status": "complete",
+              "inventoryCount": 5,
+              "inventoryHash": "773371b491865bc3e04d0ab258ff54bca285fb7cbd4730706d72fc42afcc979b",
+              "candidateCount": 0,
+              "needsReviewCount": 3,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "Man Group": {
+              "publicCareersUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
+              "provider": "greenhouse",
+              "status": "complete",
+              "inventoryCount": 52,
+              "inventoryHash": "c408f24e51303f671731d68cca31634328726c01ec093416d1e3da6f9ffedb66",
+              "candidateCount": 0,
+              "needsReviewCount": 3,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "Marshall Wace": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+              "provider": "greenhouse",
+              "status": "complete",
+              "inventoryCount": 8,
+              "inventoryHash": "76201ced55968c56e6c8f25a2ad1ac8a991cad737e7e87fb0b695bbdf9a5319c",
+              "candidateCount": 1,
+              "needsReviewCount": 1,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "D-Wave": {
+              "publicCareersUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-27T03:00:42-07:00",
-              "retryAfter": "2026-08-28T03:00:42-07:00"
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "no-stable-public-full-catalog-api"
+            },
+            "Maximor AI": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e",
+              "provider": "ashby",
+              "status": "complete",
+              "inventoryCount": 9,
+              "inventoryHash": "681181d6bd9591921a864aac4a1b66e13cb11046133d66b2b9971e0cf772a61b",
+              "candidateCount": 1,
+              "needsReviewCount": 0,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "Meta": {
+              "publicCareersUrl": "https://www.metacareers.com/jobs/2145505832666693",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "no-stable-public-full-catalog-api"
+            },
+            "Snap Finance": {
+              "publicCareersUrl": "https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
+              "provider": "workday",
+              "status": "complete",
+              "inventoryCount": 15,
+              "inventoryHash": "9d5562bd9bfac37c4186f70be49b1473e58e681f398ffdd8e2ccdbe51f530b82",
+              "candidateCount": 0,
+              "needsReviewCount": 0,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "SOCOTEC": {
+              "publicCareersUrl": "https://jobs.smartrecruiters.com/Socotec/744000141326319",
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "reason": "catalog-over-200-openings"
+            },
+            "SoFi": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/sofi/jobs/7871448003",
+              "provider": "greenhouse",
+              "status": "complete",
+              "inventoryCount": 60,
+              "inventoryHash": "3ff6e076acfb942c664e9a6850c81193c930d654d3310519f94c386a4c96f062",
+              "candidateCount": 0,
+              "needsReviewCount": 0,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "Solace Health": {
+              "publicCareersUrl": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+              "provider": "ashby",
+              "status": "complete",
+              "inventoryCount": 28,
+              "inventoryHash": "ddf25b1266f45815100b3c67a4ed26b80d825072ee3d6c7aab3653c321908427",
+              "candidateCount": 1,
+              "needsReviewCount": 4,
+              "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z",
+              "nextDueAt": "2026-09-11T21:03:35.121Z"
+            },
+            "Starbucks": {
+              "publicCareersUrl": "https://starbucks.eightfold.ai/careers/job/481078166376",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "retryAfter": "2026-08-29T21:03:35.121Z",
+              "reason": "no-stable-public-full-catalog-api"
+            },
+            "State Street": {
+              "publicCareersUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+              "reason": "catalog-over-200-openings"
             }
           },
           "deferredLargeCompanies": [
@@ -1855,10 +1968,46 @@
               "reason": "The official full-time catalog exceeds the ordinary-run limit of 200 open roles; only the user-specified candidates were verified, and no partial catalog audit was treated as complete.",
               "firstDeferredAt": "2026-08-27T22:25:29-07:00",
               "lastObservedAt": "2026-08-27T22:25:29-07:00"
+            },
+            {
+              "company": "Rocket Companies / Redfin",
+              "publicCareersUrl": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 401,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-28T21:03:35.121Z",
+              "lastObservedAt": "2026-08-28T21:03:35.121Z"
+            },
+            {
+              "company": "Salesforce",
+              "publicCareersUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 1525,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-28T21:03:35.121Z",
+              "lastObservedAt": "2026-08-28T21:03:35.121Z"
+            },
+            {
+              "company": "SOCOTEC",
+              "publicCareersUrl": "https://jobs.smartrecruiters.com/Socotec/744000141326319",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 741,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-28T21:03:35.121Z",
+              "lastObservedAt": "2026-08-28T21:03:35.121Z"
+            },
+            {
+              "company": "State Street",
+              "publicCareersUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 1375,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-28T21:03:35.121Z",
+              "lastObservedAt": "2026-08-28T21:03:35.121Z"
             }
           ],
           "lastAttemptSummary": {
-            "checkedAt": "2026-08-28T03:01:52-07:00",
+            "checkedAt": "2026-08-28T21:03:35.121Z",
             "selectedCompanies": [
               "Squarepoint Capital",
               "Man Group",
@@ -1881,23 +2030,182 @@
               "Starbucks",
               "State Street"
             ],
-            "status": "needs-review",
-            "completeAuditCount": 0,
-            "needsReviewCount": 20,
-            "baselineAdvanced": false
+            "status": "partially-complete-needs-review",
+            "completeAuditCount": 8,
+            "needsReviewCount": 8,
+            "deferredLargeCatalogCount": 4,
+            "admittedJobCount": 1,
+            "baselineAdvanced": true
           },
           "lastBatch": {
-            "checkedAt": "2026-08-27T03:00:42-07:00",
+            "checkedAt": "2026-08-28T21:03:35.121Z",
             "selectedCompanyCount": 20,
-            "completeAuditCount": 10,
-            "needsReviewCount": 9,
-            "deferredLargeCount": 1,
-            "candidateCount": 19,
-            "addedCount": 0,
-            "duplicateCount": 2,
-            "hardExcludedCount": 17,
-            "preferenceExcludedCount": 0,
-            "outOfScopeCount": 0
+            "completeAuditCount": 8,
+            "needsReviewCount": 8,
+            "deferredLargeCount": 4,
+            "admittedJobCount": 1,
+            "companies": [
+              {
+                "company": "Squarepoint Capital",
+                "status": "needs-review",
+                "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Man Group",
+                "status": "complete",
+                "publicCareersUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
+                "blocker": null,
+                "inventoryCount": 52,
+                "candidateCount": 0
+              },
+              {
+                "company": "Marshall Wace",
+                "status": "complete",
+                "publicCareersUrl": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+                "blocker": null,
+                "inventoryCount": 8,
+                "candidateCount": 1
+              },
+              {
+                "company": "The Voleon Group",
+                "status": "complete",
+                "publicCareersUrl": "https://jobs.lever.co/voleon",
+                "blocker": null,
+                "inventoryCount": 0,
+                "candidateCount": 0
+              },
+              {
+                "company": "D-Wave",
+                "status": "needs-review",
+                "publicCareersUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "GitHub",
+                "status": "needs-review",
+                "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Maximor AI",
+                "status": "complete",
+                "publicCareersUrl": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e",
+                "blocker": null,
+                "inventoryCount": 9,
+                "candidateCount": 1
+              },
+              {
+                "company": "Meta",
+                "status": "needs-review",
+                "publicCareersUrl": "https://www.metacareers.com/jobs/2145505832666693",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "MSA Safety",
+                "status": "needs-review",
+                "publicCareersUrl": "https://msa.wd1.myworkdayjobs.com/MSA",
+                "blocker": "HTTP 422 for https://msa.wd1.myworkdayjobs.com/wday/cxs/msa/MSA/jobs",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "PathAI",
+                "status": "needs-review",
+                "publicCareersUrl": "https://www.pathai.com/join-our-team",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Precisely",
+                "status": "needs-review",
+                "publicCareersUrl": "https://job-boards.greenhouse.io/precisely",
+                "blocker": "HTTP 404 for https://boards-api.greenhouse.io/v1/boards/precisely/jobs?content=true",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Rocket Companies / Redfin",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+                "blocker": "catalog-over-200-openings",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Salesforce",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site",
+                "blocker": "catalog-over-200-openings",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Sciemo",
+                "status": "complete",
+                "publicCareersUrl": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee",
+                "blocker": null,
+                "inventoryCount": 5,
+                "candidateCount": 0
+              },
+              {
+                "company": "Snap Finance",
+                "status": "complete",
+                "publicCareersUrl": "https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
+                "blocker": null,
+                "inventoryCount": 15,
+                "candidateCount": 0
+              },
+              {
+                "company": "SOCOTEC",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://jobs.smartrecruiters.com/Socotec/744000141326319",
+                "blocker": "catalog-over-200-openings",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "SoFi",
+                "status": "complete",
+                "publicCareersUrl": "https://job-boards.greenhouse.io/sofi/jobs/7871448003",
+                "blocker": null,
+                "inventoryCount": 60,
+                "candidateCount": 0
+              },
+              {
+                "company": "Solace Health",
+                "status": "complete",
+                "publicCareersUrl": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+                "blocker": null,
+                "inventoryCount": 28,
+                "candidateCount": 1
+              },
+              {
+                "company": "Starbucks",
+                "status": "needs-review",
+                "publicCareersUrl": "https://starbucks.eightfold.ai/careers/job/481078166376",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "State Street",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+                "blocker": "catalog-over-200-openings",
+                "inventoryCount": null,
+                "candidateCount": 0
+              }
+            ]
           },
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
@@ -1956,7 +2264,8 @@
             ]
           }
         },
-        "note": "Today's 20-company queue could not be completely enumerated within the bounded run. Partial catalog observations were not admitted as complete audits; all twenty companies remain needs-review and no company-careers baseline was advanced."
+        "note": "Today's 20-company queue could not be completely enumerated within the bounded run. Partial catalog observations were not admitted as complete audits; all twenty companies remain needs-review and no company-careers baseline was advanced.",
+        "lastSuccessfulCheckAt": "2026-08-28T21:03:35.121Z"
       },
       "speedyapply": {
         "role": "primary",
@@ -2101,10 +2410,10 @@
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
-        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
+        "lastCheckedAt": "2026-08-28T22:29:25.844Z",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-timing-check-admission",
-          "entryCount": 242,
+          "entryCount": 238,
           "seenCandidateCanonicalUrls": [
             "https://.workable.com/qodeworld/j/5718A36818",
             "https://.workable.com/scitec/j/45B1B9BA15",
@@ -2125,7 +2434,6 @@
             "https://careers.blackrock.com/job/new-york/2026-full-time-analyst-program-amers/45831/83232695408",
             "https://careers.cisco.com/global/en/job/1449197",
             "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400",
-            "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors",
             "https://careers.duolingo.com/jobs/8062269002?gh_jid=8062269002",
             "https://careers.qualcomm.com/careers/job/446706411550",
             "https://careers.qualcomm.com/careers/job/446706462906",
@@ -2179,11 +2487,8 @@
             "https://jobs.citi.com/job/-/-/287/79829803904",
             "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer",
             "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700",
-            "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors",
             "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300",
-            "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
             "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800",
-            "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors",
             "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0",
             "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
             "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79",
@@ -2354,9 +2659,19 @@
           "upstreamCommit": "d69b33c329ae797a137550e89ceb9672d01962c2",
           "current60DayEntryCount": 242,
           "backfillStatus": "complete",
-          "historyWindowAdditionCount": 26
+          "historyWindowAdditionCount": 19,
+          "timingPolicyCorrection": {
+            "status": "complete",
+            "windowStart": "2026-07-29T00:00:00-07:00",
+            "windowEndExclusive": "2026-08-29T00:00:00-07:00",
+            "observedAdditionCount": 19,
+            "completedAt": "2026-08-28T22:29:25.844Z",
+            "policy": "explicit 2027 confirmed; compatible early-career roles retained as timing-check; incompatible earlier cycles excluded"
+          }
         },
-        "note": "The incremental comparison found no new canonical URL or same-identity substantive title, location, or official-link change. Future new or changed rows without explicit cohort timing remain eligible for official review as timing-check when no July 2027 availability conflict is stated."
+        "note": "The one-month timing-policy correction is complete. Future incremental additions and material changes use row-level confirmed-2027 or timing-check evaluation; explicit incompatible earlier cycles remain excluded.",
+        "status": "complete",
+        "lastSuccessfulCheckAt": "2026-08-28T22:29:25.844Z"
       },
       "simplifyjobs": {
         "role": "monitor",
@@ -2364,10 +2679,10 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
-        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
+        "lastCheckedAt": "2026-08-28T22:29:25.844Z",
         "baseline": {
           "mode": "mixed-cycle-row-level-timing-evaluation",
-          "entryCount": 427,
+          "entryCount": 494,
           "seenCandidateCanonicalUrls": [
             "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
             "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
@@ -2375,6 +2690,7 @@
             "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
             "https://amazon.jobs/en/jobs/3141336/software-engineer-i",
             "https://apply.workable.com/arondite/j/5C5C551ADA/apply",
+            "https://apply.workable.com/dcthomson/j/31E88278E1/apply",
             "https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply",
             "https://apply.workable.com/homey/j/50DF9B3D53/apply",
             "https://apply.workable.com/interimage/j/35ED59E021/apply",
@@ -2387,7 +2703,8 @@
             "https://apply.workable.com/wallstreetquants/j/615D982644/apply",
             "https://apply.workable.com/wallstreetquants/j/62537809CA/apply",
             "https://apply.workable.com/wallstreetquants/j/C611D9282B/apply",
-            "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors",
+            "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233",
+            "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
             "https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674",
             "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
             "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
@@ -2406,7 +2723,12 @@
             "https://boards.greenhouse.io/spacex/jobs/8703552002",
             "https://boards.greenhouse.io/spacex/jobs/8706884002",
             "https://boards.greenhouse.io/spacex/jobs/8706885002",
+            "https://boards.greenhouse.io/spacex/jobs/8724316002",
             "https://boards.greenhouse.io/spacex/jobs/8730567002",
+            "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1",
+            "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435",
+            "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433",
+            "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2",
             "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867",
             "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
             "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
@@ -2421,10 +2743,12 @@
             "https://careers-apogeeusa.icims.com/jobs/1432/job?mobile=true&needsRedirect=false",
             "https://careers-apogeeusa.icims.com/jobs/1442/job?mobile=true&needsRedirect=false",
             "https://careers-bluehawk.icims.com/jobs/2822/job?mobile=true&needsRedirect=false",
+            "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false",
             "https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false",
             "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false",
             "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false",
             "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false",
+            "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false",
             "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false",
             "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false",
             "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false",
@@ -2432,20 +2756,28 @@
             "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
             "https://careers-sig.icims.com/jobs/11321/job",
             "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
+            "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
             "https://careers.astrion.us/jobs/24705?icims=1",
-            "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors",
-            "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433/?ats=successfactors",
+            "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933",
+            "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433",
             "https://careers.garmin.com/jobs/18193?icims=1",
             "https://careers.garmin.com/jobs/18475?icims=1",
             "https://careers.garmin.com/jobs/18510?icims=1",
             "https://careers.garmin.com/jobs/18513?icims=1",
             "https://careers.garmin.com/jobs/19098?icims=1",
             "https://careers.garmin.com/jobs/19134?icims=1",
+            "https://careers.garmin.com/jobs/19142?icims=1",
+            "https://careers.garmin.com/jobs/19680?icims=1",
+            "https://careers.garmin.com/jobs/19695?icims=1",
+            "https://careers.garmin.com/jobs/19732?icims=1",
             "https://careers.gov2x.com/jobs/62490?icims=1",
             "https://careers.jhuapl.edu/jobs/57653?icims=1",
             "https://careers.jhuapl.edu/jobs/57801?icims=1",
             "https://careers.jhuapl.edu/jobs/58164?icims=1",
             "https://careers.jhuapl.edu/jobs/59010?icims=1",
+            "https://careers.jhuapl.edu/jobs/59654?icims=1",
+            "https://careers.jhuapl.edu/jobs/59791?icims=1",
+            "https://careers.jhuapl.edu/jobs/59818?icims=1",
             "https://careers.medpace.com/jobs/12873?icims=1",
             "https://careers.na.panasonic.com/jobs/50269?icims=1",
             "https://careers.noblis.org/jobs/27467?icims=1",
@@ -2456,13 +2788,17 @@
             "https://careers.varsitybrands.com/global/en/job/JR113976",
             "https://careers.varsitybrands.com/global/en/job/JR114562",
             "https://careers.viasat.com/jobs/6698?icims=1",
-            "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors",
+            "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300",
             "https://careers.withwaymo.com/jobs?gh_jid=7488508",
             "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
             "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Software-Engineer-I---AI_JR30290",
+            "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893",
             "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490",
             "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+            "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+            "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804",
             "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
+            "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
             "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423",
             "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076",
             "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
@@ -2471,15 +2807,21 @@
             "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818",
             "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728",
             "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342326",
+            "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770",
+            "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874",
             "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682",
+            "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224",
             "https://ejrz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/44324",
             "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Embedded-Systems-Engineer-I_JR500701",
+            "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
             "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164",
             "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081",
             "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004755",
             "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+            "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106656",
             "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991",
             "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400",
+            "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Software-Engineer-I--Infrastructure_R32300",
             "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
             "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA",
             "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395",
@@ -2494,6 +2836,7 @@
             "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01866246",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775",
+            "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866786",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
@@ -2509,17 +2852,23 @@
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I---Onsite-_01866072",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603",
+            "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/Software-Engineer-I--Onsite-_01863485",
+            "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534",
             "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineer-I_01841999-1",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1",
+            "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189",
+            "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1",
+            "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328",
+            "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027",
             "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061",
@@ -2536,6 +2885,8 @@
             "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860",
             "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED",
             "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072",
+            "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Trading-Operations-Junior-Analyst_JR100563-2",
+            "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002",
             "https://job-boards.greenhouse.io/allcareers/jobs/8692383002",
             "https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007",
             "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
@@ -2566,12 +2917,20 @@
             "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002",
             "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007",
             "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
             "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
+            "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
             "https://job-boards.greenhouse.io/twitch/jobs/8457711002",
             "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
             "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
             "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
-            "https://jobdetails.nestle.com/job/North-York-Associate-Product-Ownership-Jr_-Data-Engineer-(12-months-contract)-ON/1418872933/?ats=successfactors",
+            "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008",
+            "https://jobdetails.nestle.com/job/North-York-Associate-Product-Ownership-Jr_-Data-Engineer-(12-months-contract)-ON/1418872933",
             "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
             "https://jobs.aon.com/jobs/105952?icims=1",
             "https://jobs.apple.com/en-us/details/200678510",
@@ -2590,6 +2949,7 @@
             "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application",
             "https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application",
             "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8/application",
+            "https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application",
             "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application",
             "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application",
             "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application",
@@ -2602,6 +2962,7 @@
             "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application",
             "https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636/application",
             "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application",
+            "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application",
             "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application",
             "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application",
             "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application",
@@ -2609,9 +2970,11 @@
             "https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application",
             "https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application",
             "https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application",
+            "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application",
             "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application",
             "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application",
             "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application",
+            "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application",
             "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
             "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application",
             "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application",
@@ -2643,7 +3006,9 @@
             "https://jobs.ashbyhq.com/tracebit/b15236d9-29fa-4d7c-9873-1a23ca5cc034/application",
             "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
             "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application",
+            "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application",
             "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+            "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application",
             "https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer",
             "https://jobs.bytedance.com/en/position/7665104241446652213/detail",
             "https://jobs.bytedance.com/en/position/7665108869591140613/detail",
@@ -2658,10 +3023,12 @@
             "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
             "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
             "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600",
-            "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?ats=successfactors",
             "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+            "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700",
+            "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200",
             "https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885/apply",
             "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply",
+            "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply",
             "https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6/apply",
             "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply",
             "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
@@ -2677,12 +3044,14 @@
             "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply",
             "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply",
             "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply",
+            "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
             "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
             "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply",
             "https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7/apply",
             "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply",
             "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935",
             "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473",
+            "https://jobs.smartrecruiters.com/GDMSI/744000145530335",
             "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331",
             "https://jobs.smartrecruiters.com/MarlabsInc1/83216249",
             "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269",
@@ -2692,7 +3061,11 @@
             "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509",
             "https://jobs.smartrecruiters.com/Socotec/744000141326319",
             "https://jobs.smartrecruiters.com/Wavestone1/744000143599414",
+            "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600",
             "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
+            "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783",
+            "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745",
+            "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592",
             "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523",
             "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608",
             "https://lexical.bamboohr.com/careers/73",
@@ -2734,6 +3107,8 @@
             "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001",
             "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR106211",
             "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR89353",
+            "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+            "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
             "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
             "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538",
             "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146",
@@ -2748,8 +3123,10 @@
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
+            "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005",
+            "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
@@ -2768,7 +3145,10 @@
             "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Associate--Analytics---Early-Career-Development-Program_R26_000512",
             "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0",
             "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141",
+            "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
+            "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529",
             "https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2",
+            "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
             "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
             "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
             "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1",
@@ -2776,8 +3156,9 @@
             "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1",
             "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
             "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Med-Sch-Richards-Building---5th-Floor/Neuroimaging-Data-Analyst-Junior_JR00121050-1",
-            "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq",
-            "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq",
+            "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e",
+            "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6",
+            "https://www.asm.com/open-vacancies/?gh_jid=4876722101",
             "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us",
             "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us",
             "https://www.citadel.com/careers/details/software-engineer-university-graduate-us",
@@ -2786,6 +3167,7 @@
             "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe",
             "https://www.dmcinfo.com/careers/open-positions?gh_jid=5136284008",
             "https://www.esri.com/careers/5173239007?gh_jid=5173239007",
+            "https://www.google.com/about/careers/applications/jobs/results/84680705375642310",
             "https://www.google.com/about/careers/applications/jobs/results/92286686481785542",
             "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
             "https://www.ixl.com/company/jobs?gh_jid=8662881002",
@@ -2809,9 +3191,20 @@
           "duplicateCount": 1,
           "hardExcludedCount": 3,
           "outOfScopeCount": 2,
-          "preferenceExcludedCount": 1
+          "preferenceExcludedCount": 1,
+          "historyWindowAdditionCount": 279,
+          "timingPolicyCorrection": {
+            "status": "complete",
+            "windowStart": "2026-07-29T00:00:00-07:00",
+            "windowEndExclusive": "2026-08-29T00:00:00-07:00",
+            "observedAdditionCount": 279,
+            "completedAt": "2026-08-28T22:29:25.844Z",
+            "policy": "explicit 2027 confirmed; compatible early-career roles retained as timing-check; incompatible earlier cycles excluded"
+          }
         },
-        "note": "The repository remains mixed-cycle. The 2026-08-28 comparison observed 75 added IDs and 64 changed records; that run reviewed only one explicit-2027 candidate under the superseded admission gate. The successful baseline remains unadvanced until the full mixed-cycle delta is reconciled using row-level confirmed-2027 or timing-check evaluation."
+        "note": "The one-month timing-policy correction is complete. Future incremental additions and material changes use row-level confirmed-2027 or timing-check evaluation; explicit incompatible earlier cycles remain excluded.",
+        "status": "complete",
+        "lastSuccessfulCheckAt": "2026-08-28T22:29:25.844Z"
       },
       "swelist-email": {
         "role": "email-lead",
@@ -4331,8 +4724,8 @@
         "vanshb03"
       ],
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005": [
-        "vanshb03",
-        "company-careers"
+        "company-careers",
+        "vanshb03"
       ],
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005": [
         "vanshb03"
@@ -4363,6 +4756,7 @@
         "swelist-email"
       ],
       "https://lifeattiktok.com/search/7669691374918011141": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://lifeattiktok.com/search/7669905277419948293": [
@@ -4376,6 +4770,7 @@
         "swelist-email"
       ],
       "https://lifeattiktok.com/search/7669698543896054069": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://lifeattiktok.com/search/7669709290431236357": [
@@ -4392,8 +4787,9 @@
         "speedyapply"
       ],
       "https://job-boards.greenhouse.io/simplisafe/jobs/8095181": [
-        "swelist-email",
-        "speedyapply"
+        "simplifyjobs",
+        "speedyapply",
+        "swelist-email"
       ],
       "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005": [
         "swelist-email",
@@ -4407,6 +4803,7 @@
         "company-careers"
       ],
       "https://jobs.smartrecruiters.com/Socotec/744000141326319": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML-_2639414": [
@@ -4422,9 +4819,10 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830": [
-        "speedyapply",
+        "company-careers",
         "maven-official-manual",
-        "company-careers"
+        "simplifyjobs",
+        "speedyapply"
       ],
       "https://job-boards.greenhouse.io/emergingtalent/jobs/8051636": [
         "swelist-email"
@@ -4579,6 +4977,7 @@
         "speedyapply"
       ],
       "https://joinbytedance.com/search/7669789046777940229": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://joinbytedance.com/search/7669791940490168629": [
@@ -4606,6 +5005,7 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002": [
+        "simplifyjobs",
         "speedyapply",
         "swelist-email"
       ],
@@ -4635,8 +5035,8 @@
         "swelist-email"
       ],
       "https://joinbytedance.com/search/7667726338627356933": [
-        "swelist-email",
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://joinbytedance.com/search/7667730992538585349": [
         "swelist-email"
@@ -4658,19 +5058,20 @@
         "swelist-email"
       ],
       "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f": [
+        "company-careers",
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002": [
-        "swelist-email",
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://www.ixl.com/company/careers?gh_jid=8662881002": [
-        "swelist-email",
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://www.ixl.com/company/careers?gh_jid=8663379002": [
-        "swelist-email",
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee": [
         "swelist-email"
@@ -4693,6 +5094,7 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/allcareers/jobs/8692383002": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002": [
@@ -5193,8 +5595,8 @@
         "swelist-email"
       ],
       "https://lifeattiktok.com/search/7672976491146004741": [
-        "speedyapply",
-        "simplifyjobs"
+        "simplifyjobs",
+        "speedyapply"
       ],
       "https://lifeattiktok.com/search/7672532801686571317": [
         "speedyapply",
@@ -5380,6 +5782,7 @@
         "speedyapply"
       ],
       "https://lifeattiktok.com/search/7673409179353139461": [
+        "simplifyjobs",
         "speedyapply",
         "swelist-email"
       ],
@@ -5502,8 +5905,8 @@
         "speedyapply"
       ],
       "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b": [
-        "speedyapply",
         "simplifyjobs",
+        "speedyapply",
         "swelist-email"
       ],
       "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7": [
@@ -6383,6 +6786,7 @@
         "swelist-email"
       ],
       "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://jobs.smartrecruiters.com/ServiceNow/744000144653619": [
@@ -6441,13 +6845,14 @@
         "company-careers"
       ],
       "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea": [
-        "speedyapply",
         "company-careers",
-        "simplifyjobs"
+        "simplifyjobs",
+        "speedyapply"
       ],
       "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e": [
-        "speedyapply",
-        "company-careers"
+        "company-careers",
+        "simplifyjobs",
+        "speedyapply"
       ],
       "https://www.metacareers.com/jobs/2145505832666693": [
         "speedyapply",
@@ -6467,6 +6872,7 @@
         "swelist-email"
       ],
       "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06": [
+        "simplifyjobs",
         "swelist-email"
       ],
       "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101": [
@@ -6489,6 +6895,69 @@
       ],
       "https://www.tesla.com/careers/search/job/machine-learning-engineer-maps-navigation-robotaxi-261137": [
         "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646937002": [
+        "company-careers"
+      ],
+      "https://jobs.bytedance.com/en/position/7668799020705679669/detail": [
+        "simplifyjobs"
+      ],
+      "https://jobs.bytedance.com/en/position/7665849950984194309/detail": [
+        "simplifyjobs"
+      ],
+      "https://jobs.bytedance.com/en/position/7667303429264115973/detail": [
+        "simplifyjobs"
+      ],
+      "https://jobs.bytedance.com/en/position/7667894766036322565/detail": [
+        "simplifyjobs"
+      ],
+      "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer": [
+        "simplifyjobs"
+      ],
+      "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7663028952600807733": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7665994926887291189": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7663036952090347829": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7664533229944178949": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7668592494649690421": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7668680253677504821": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7668717356843977013": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7668724383120804149": [
+        "simplifyjobs"
+      ],
+      "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006": [
+        "simplifyjobs"
+      ],
+      "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7663389745178757429": [
+        "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7665991852209932597": [
+        "simplifyjobs"
+      ],
+      "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false": [
+        "simplifyjobs"
+      ],
+      "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008": [
+        "simplifyjobs"
       ]
     },
     "suspectedDuplicates": [
@@ -6637,7 +7106,7 @@
       },
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/captivation/jobs/5384983008",
-        "reason": "Official page requires U.S. citizenship and a government security clearance."
+        "reason": "Official verification: citizenship-or-clearance-restriction."
       },
       {
         "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
@@ -6765,11 +7234,11 @@
       },
       {
         "canonicalUrl": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473",
-        "reason": "60-day backfill: previously dispositioned."
+        "reason": "Official verification: citizenship-or-clearance-restriction."
       },
       {
         "canonicalUrl": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935",
-        "reason": "60-day backfill: previously dispositioned."
+        "reason": "Official verification: citizenship-or-clearance-restriction."
       },
       {
         "canonicalUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb",
@@ -6889,15 +7358,15 @@
       },
       {
         "canonicalUrl": "https://careers.jhuapl.edu/jobs/57801?icims=1",
-        "reason": "Official page requires U.S. citizenship and security-clearance eligibility."
+        "reason": "Official verification: phd-required."
       },
       {
         "canonicalUrl": "https://careers.jhuapl.edu/jobs/58164?icims=1",
-        "reason": "Official page requires U.S. citizenship and security-clearance eligibility."
+        "reason": "Official verification: phd-required."
       },
       {
         "canonicalUrl": "https://careers.jhuapl.edu/jobs/59010?icims=1",
-        "reason": "Official page requires U.S. citizenship and security-clearance eligibility."
+        "reason": "Official verification: phd-required."
       },
       {
         "canonicalUrl": "https://careers.jhuapl.edu/jobs/57653?icims=1",
@@ -6961,15 +7430,15 @@
       },
       {
         "canonicalUrl": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e",
-        "reason": "Official page states that current or future visa sponsorship is unavailable."
+        "reason": "Official verification: no-future-sponsorship."
       },
       {
         "canonicalUrl": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6",
-        "reason": "Official page states that current or future visa sponsorship is unavailable."
+        "reason": "Official verification: no-future-sponsorship."
       },
       {
         "canonicalUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000143599414",
-        "reason": "60-day backfill: previously dispositioned."
+        "reason": "Official verification: no-future-sponsorship."
       },
       {
         "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
@@ -7022,10 +7491,6 @@
       {
         "canonicalUrl": "https://gf.wd1.myworkdayjobs.com/en-US/external/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832",
         "reason": "Official title limits the role to the 2026 New College Graduate cycle."
-      },
-      {
-        "canonicalUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
-        "reason": "Official page states that sponsorship is not offered."
       },
       {
         "canonicalUrl": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Software-Engineer--Test-Automation_JR-207707-1",
@@ -7225,7 +7690,7 @@
       },
       {
         "canonicalUrl": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-",
-        "reason": "60-day backfill: previously dispositioned."
+        "reason": "Official verification: no-future-sponsorship."
       },
       {
         "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534",
@@ -7288,7 +7753,7 @@
         "reason": "60-day backfill: previously dispositioned."
       },
       {
-        "canonicalUrl": "https://jobs.nucor.com/job/Cincinnati-Trader-Development-Program-OH-45202/1420039900/?ats=successfactors",
+        "canonicalUrl": "https://jobs.nucor.com/job/Cincinnati-Trader-Development-Program-OH-45202/1420039900",
         "reason": "60-day backfill: previously dispositioned."
       },
       {
@@ -7548,7 +8013,7 @@
         "reason": "Official verification: company internship prerequisite."
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500/?ats=successfactors",
+        "canonicalUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500",
         "reason": "Official verification: ts sci clearance required."
       },
       {
@@ -7570,6 +8035,262 @@
       {
         "canonicalUrl": "https://www.amazon.jobs/jobs/10510073/apply",
         "reason": "Official posting requires two or more years of non-internship professional front-end experience."
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application",
+        "reason": "Official verification: timing-incompatible-explicit-cycle."
+      },
+      {
+        "canonicalUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101",
+        "reason": "Official verification: timing-incompatible-explicit-cycle."
+      },
+      {
+        "canonicalUrl": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
+        "reason": "Official verification: experienced-role."
+      },
+      {
+        "canonicalUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8696097002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://careers.jhuapl.edu/jobs/59818?icims=1",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://careers.jhuapl.edu/jobs/59654?icims=1",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://careers.jhuapl.edu/jobs/59791?icims=1",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7665973724622342453",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7663388039600883973",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7665989163791403269",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7663389363824773381",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7665977123255896325",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7667767820142643461",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.bytedance.com/en/position/7665104241446652213/detail",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.bytedance.com/en/position/7665836153219959093/detail",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.bytedance.com/en/position/7667291055662811445/detail",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.bytedance.com/en/position/7665108869591140613/detail",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.bytedance.com/en/position/7668365143156721973/detail",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7665793152026740997",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7667349591747758341",
+        "reason": "Official verification: no-future-sponsorship."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7667346535273007413",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7668389759463393589",
+        "reason": "Official verification: phd-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7668376903708281141",
+        "reason": "Official verification: no-future-sponsorship."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7668390999147776309",
+        "reason": "Official verification: no-future-sponsorship."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8703552002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8696080002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8696058002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8706884002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://boards.greenhouse.io/spacex/jobs/8706885002",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700",
+        "reason": "Official verification: official-page-closed."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300",
+        "reason": "Official verification: official-page-closed."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800",
+        "reason": "Official verification: official-page-closed."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0",
+        "reason": "Official verification: no-future-sponsorship."
+      },
+      {
+        "canonicalUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233",
+        "reason": "Official verification: no-future-sponsorship."
+      },
+      {
+        "canonicalUrl": "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7813360003",
+        "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://careers.cisco.com/global/en/job/1449197",
+        "reason": "Official verification: http-410."
+      },
+      {
+        "canonicalUrl": "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
+        "reason": "Official verification: http-404."
+      },
+      {
+        "canonicalUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+        "reason": "Official verification: no-future-h1b-support."
+      },
+      {
+        "canonicalUrl": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer",
+        "reason": "Official verification: us-citizenship-and-ts-sci-polygraph-required."
+      },
+      {
+        "canonicalUrl": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
+        "reason": "Official verification: us-citizenship-and-ts-sci-polygraph-required."
+      },
+      {
+        "canonicalUrl": "https://careers.noblis.org/jobs/27467?icims=1",
+        "reason": "Official verification: us-citizenship-and-ts-sci-polygraph-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply",
+        "reason": "Official verification: secret-clearance-required."
       }
     ],
     "officialVerificationNeedsReview": [
@@ -7623,11 +8344,11 @@
       },
       {
         "canonicalUrl": "https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
+        "reason": "official-page-content-unavailable",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-11T01:31:41.415721",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://careers.roblox.com/jobs/8113334",
@@ -7878,14 +8599,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.lever.co/thrivecausemetics/2f465742-7f8b-460f-9936-ab62160385be/apply?lever-source=Simplify",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-19T02:01:29.255011",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657168",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -7895,11 +8608,11 @@
       },
       {
         "canonicalUrl": "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
+        "reason": "work-authorization-policy-ambiguous",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-18T01:12:43.437101",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
@@ -7914,14 +8627,6 @@
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-13T06:13:40.432862",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1420405300/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-18T01:23:33.789632",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
@@ -7950,14 +8655,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply?lever-source=Simplify",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-04T22:14:00.725327",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://apollomce.bamboohr.com/careers/121",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -7966,26 +8663,10 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.lever.co/plus-2/4572f534-2f3c-4d4c-9fb0-55838bf7795f/apply?lever-source=Simplify",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-11T06:12:30.220197",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-13T06:04:01.420400",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.lever.co/weloglobal/2e144d33-40eb-4748-a53f-425a5e2b6ddb/apply?lever-source=Simplify",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-07T09:12:07.845374",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
@@ -8054,14 +8735,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-17T13:17:46.608959",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://unitedsmarttech.bamboohr.com/careers/185",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -8090,38 +8763,6 @@
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-12T01:06:50.199541",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-19T18:34:23.152026",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-20T14:58:13.827938",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.lever.co/plus-2/d1b8ecc2-dfc2-4613-81ca-02d90776c618/apply?lever-source=Simplify",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-08T01:12:11.023163",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://careers.huntingtoningalls.com/job/Pascagoula-SOFTWARE-DEVELOPMENT-ANALYST-1-Miss/1420487000/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-18T22:03:39.011354",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
@@ -8190,22 +8831,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-18T01:40:41.574376",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-17T22:45:58.167144",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://job-boards.greenhouse.io/xpengmotors/jobs/8702836002",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -8238,14 +8863,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-17T22:46:13.479808",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://apollomce.bamboohr.com/careers/96",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -8271,11 +8888,11 @@
       },
       {
         "canonicalUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
+        "reason": "official-page-content-unavailable",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-14T00:00:00",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://bespoketechinc.applytojob.com/apply/540EXNvUfv/Data-Engineer-Analyst-WDP",
@@ -8294,14 +8911,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-18T01:16:41.184505",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://joinbytedance.com/search/7673268418623293749",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -8311,19 +8920,11 @@
       },
       {
         "canonicalUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
+        "reason": "official-page-content-unavailable",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-06T00:00:00",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Software-Engineering-TX-75402/1420346000/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-17T22:46:18.850273",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88312248",
@@ -8354,14 +8955,6 @@
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-18T01:10:13.019076",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-19T18:34:53.754070",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
@@ -8415,11 +9008,11 @@
       },
       {
         "canonicalUrl": "https://apply.workable.com/interimage/j/35ED59E021/apply",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
+        "reason": "official-page-content-unavailable",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-07T06:16:56.405963",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://job-boards.greenhouse.io/relativity/jobs/8726261002",
@@ -8454,14 +9047,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1420290900/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-17T22:46:02.679520",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://jobs.ashbyhq.com/serverobotics/28bbd767-93f5-4df1-8917-ca3cc339041b/application",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -8470,20 +9055,12 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-20T14:58:14.399767",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
+        "reason": "official-page-content-unavailable",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-06T00:00:00",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://apply.workable.com/go-media/j/26C851D677/apply",
@@ -8506,14 +9083,6 @@
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-18T01:11:42.015572",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.lever.co/rws/191a1010-b228-4141-92e0-9349cbca3a79/apply?lever-source=Simplify",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-04T22:14:00.081446",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
@@ -8542,14 +9111,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1420103700/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-17T22:46:04.193921",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://job-boards.greenhouse.io/usconec/jobs/4308970009",
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
@@ -8570,14 +9131,6 @@
         "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-13T06:25:04.236270",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-18T14:32:43.322928",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
@@ -8614,14 +9167,6 @@
         "retryAfter": "2026-08-27T08:00:00-07:00"
       },
       {
-        "canonicalUrl": "https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors",
-        "reason": "The 60-day backfill could not establish enough official timing, qualification, or sponsorship evidence for admission; retry is required.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-20T14:58:14.261526",
-        "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-        "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
         "canonicalUrl": "https://www.uber.com/global/en/careers/list/160024",
         "reason": "The historical source row needs another official-page verification attempt before admission or exclusion.",
         "status": "needs-review",
@@ -8648,14 +9193,6 @@
       {
         "canonicalUrl": "https://www.squarepoint-capital.com/early-careers",
         "reason": "The official early-careers page names Graduate Software Developer, but no stable current U.S. job-detail page with timing and application evidence was exposed; hold for a later complete catalog audit.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-22T20:07:37-07:00",
-        "lastAttemptAt": "2026-08-22T20:07:37-07:00",
-        "retryAfter": "2026-08-29T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://careers.twosigma.com/careers/SearchJobs/",
-        "reason": "The official catalog exposed the Quantitative Research campus role, but no stable current full-time Software Engineering Campus Hire detail page was verified; do not infer it from an internship posting.",
         "status": "needs-review",
         "firstSeenAt": "2026-08-22T20:07:37-07:00",
         "lastAttemptAt": "2026-08-22T20:07:37-07:00",
@@ -8703,11 +9240,11 @@
       },
       {
         "canonicalUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770",
-        "reason": "The official page did not expose enough stable public evidence to complete timing, scope, and eligibility verification.",
+        "reason": "official-page-content-unavailable",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-27T15:19:25-07:00",
-        "lastAttemptAt": "2026-08-27T15:19:25-07:00",
-        "retryAfter": "2026-08-29T08:00:00-07:00"
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       },
       {
         "canonicalUrl": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application",
@@ -8740,6 +9277,1022 @@
         "firstSeenAt": "2026-08-27T15:19:25-07:00",
         "lastAttemptAt": "2026-08-27T15:19:25-07:00",
         "retryAfter": "2026-08-29T08:00:00-07:00"
+      },
+      {
+        "canonicalUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844286101",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/sciemo/bc3d11c5-681e-4d92-82e2-b61e9a5d020d",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/sciemo/5986d215-5492-43df-848f-f1aed7a4afdd",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/solace/9256b9e8-36cd-45de-bae9-caa846f50934",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-28T21:03:35.121Z",
+        "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+        "retryAfter": "2026-08-29T21:03:35.121Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-05T23:29:26Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+        "reason": "us-location-unconfirmed",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Med-Sch-Richards-Building---5th-Floor/Neuroimaging-Data-Analyst-Junior_JR00121050-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/615D982644/apply",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/wallstreetquants/j/C611D9282B/apply",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.apple.com/en-us/details/200657382",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-31T20:23:33Z",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/19732?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/19142?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/19680?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-I_R117314",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://mantech.avature.net/en_US/careers/JobDetail/61501",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/18475?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/18510?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/19098?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.varsitybrands.com/global/en/job/JR113976",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.varsitybrands.com/global/en/job/JR114562",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Engineer--ai--I-II-or-III---Jain-Lab_REQ-3845",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/19695?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://careers.garmin.com/jobs/18193?icims=1",
+        "reason": "insufficient-start-timing-evidence",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106656",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
+      },
+      {
+        "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079",
+        "reason": "official-page-content-unavailable",
+        "status": "needs-review",
+        "firstSeenAt": "2026-07-29T00:00:00-07:00",
+        "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+        "retryAfter": "2026-08-29T22:29:25.848Z"
       }
     ],
     "directionTaxonomy": {
@@ -8771,8 +10324,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2605,
-      "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+      "entryCount": 2684,
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

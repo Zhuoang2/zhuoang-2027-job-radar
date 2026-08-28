@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-27T22:25:29-07:00",
+  "checkedAt": "2026-08-28T22:29:25.844Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -78,9 +78,9 @@
       "retryAfter": "2026-08-27T08:00:00-07:00"
     },
     "https://lifeattiktok.com/search/7672976491146004741": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604": {
       "status": "needs-review",
@@ -123,9 +123,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://careers.roblox.com/jobs/8072244?gh_jid=8072244": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "no-future-h1b-support",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://salesforce.wd12.myworkdayjobs.com/en-US/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250": {
       "status": "duplicate",
@@ -200,9 +200,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7668680253677504821": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668843238309824773": {
       "status": "hard-excluded",
@@ -245,14 +245,14 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7668724383120804149": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668701834807101749": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668701361741007109": {
       "status": "hard-excluded",
@@ -260,14 +260,14 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7668879883938203957": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668717356843977013": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.roblox.com/jobs/8080438?gh_jid=8080438": {
       "status": "needs-review",
@@ -287,9 +287,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7668592494649690421": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668582542044072245": {
       "status": "duplicate",
@@ -298,8 +298,8 @@
     },
     "https://lifeattiktok.com/search/7668569995571726597": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668566347702569269": {
       "status": "hard-excluded",
@@ -369,9 +369,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7665994926887291189": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.amazon.jobs/jobs/10481932/apply": {
       "status": "preference-excluded",
@@ -405,9 +405,9 @@
       "retryAfter": "2026-08-27T08:00:00-07:00"
     },
     "https://lifeattiktok.com/search/7664533229944178949": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7663032057264244997": {
       "status": "hard-excluded",
@@ -415,9 +415,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7663036952090347829": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7663036950303050037": {
       "status": "hard-excluded",
@@ -430,9 +430,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lifeattiktok.com/search/7663028952600807733": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/twitch/jobs/8623578002": {
       "status": "needs-review",
@@ -591,46 +591,48 @@
     },
     "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005": {
       "status": "preference-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "pure-trading-role",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "insufficient-start-timing-evidence",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "insufficient-start-timing-evidence",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-31T20:23:33Z",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors": {
       "status": "needs-review",
@@ -655,15 +657,15 @@
     },
     "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://www.esri.com/careers/5198108007?gh_jid=5198108007": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "http-404",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors": {
       "status": "out-of-scope",
@@ -671,42 +673,40 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://careers.cisco.com/global/en/job/1449197": {
-      "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
-      "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "http-410",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0": {
-      "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
-      "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.apple.com/en-us/details/200657382": {
       "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
+      "reasonCode": "insufficient-start-timing-evidence",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-31T20:23:33Z",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/appian/jobs/8035750": {
       "status": "out-of-scope",
@@ -1749,11 +1749,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003": {
-      "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
-      "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://www.nuro.ai/careersitem?gh_jid=7066706": {
       "status": "needs-review",
@@ -2078,14 +2076,18 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/kikoff/jobs/4376677009": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "us-location-unconfirmed",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application": {
-      "status": "preference-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305": {
       "status": "out-of-scope",
@@ -2094,15 +2096,13 @@
     },
     "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8730567002": {
-      "status": "needs-review",
-      "reasonCode": "previously-dispositioned",
-      "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076": {
       "status": "out-of-scope",
@@ -2110,9 +2110,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027": {
       "status": "duplicate",
@@ -2120,9 +2122,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-I_R117314": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832": {
       "status": "out-of-scope",
@@ -2131,23 +2135,25 @@
     },
     "https://careers.astrion.us/jobs/24705?icims=1": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "experienced-role",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.apple.com/en-us/details/200678510": {
       "status": "out-of-scope",
@@ -2160,21 +2166,19 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://nexthopai.bamboohr.com/careers/24": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601": {
-      "status": "needs-review",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "firstSeenAt": "2026-08-18T01:16:41.184505",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.smartrecruiters.com/MarlabsInc1/83216249": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905": {
       "status": "out-of-scope",
@@ -2187,14 +2191,16 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860": {
       "status": "out-of-scope",
@@ -2208,23 +2214,27 @@
     },
     "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq": {
       "status": "hard-excluded",
@@ -2237,19 +2247,19 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "timing-incompatible-explicit-cycle",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8696097002": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply": {
       "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664": {
       "status": "out-of-scope",
@@ -2257,9 +2267,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551": {
       "status": "out-of-scope",
@@ -2267,9 +2279,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385": {
       "status": "out-of-scope",
@@ -2287,9 +2301,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01866246": {
       "status": "duplicate",
@@ -2297,29 +2313,35 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1": {
       "status": "duplicate",
@@ -2327,9 +2349,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Software-Engineer-I---AI_JR30290": {
       "status": "duplicate",
@@ -2348,28 +2372,34 @@
     },
     "https://job-boards.greenhouse.io/captivation/jobs/5384983008": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783": {
       "status": "out-of-scope",
@@ -2377,70 +2407,74 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://apply.workable.com/arondite/j/5C5C551ADA/apply": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://apply.workable.com/homey/j/50DF9B3D53/apply": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://apply.workable.com/interimage/j/35ED59E021/apply": {
       "status": "needs-review",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-07T06:16:56.405963",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://www.ixl.com/company/jobs?gh_jid=8662881002": {
       "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.ixl.com/company/jobs?gh_jid=8663419002": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.ixl.com/company/jobs?gh_jid=8663379002": {
       "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7669789046777940229/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1": {
       "status": "needs-review",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-06T00:00:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250": {
       "status": "needs-review",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-06T00:00:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345": {
       "status": "out-of-scope",
@@ -2448,14 +2482,14 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/simplisafe/jobs/8095181": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343": {
       "status": "out-of-scope",
@@ -2463,79 +2497,87 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.smartrecruiters.com/Socotec/744000141326319": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.bytedance.com/en/position/7668799020705679669/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7665849950984194309/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7668614787018393909/detail": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7667303429264115973/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7667894766036322565/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED": {
       "status": "out-of-scope",
@@ -2543,114 +2585,142 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "us-citizenship-and-ts-sci-polygraph-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "us-citizenship-and-ts-sci-polygraph-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://mantech.avature.net/en_US/careers/JobDetail/61501": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers.garmin.com/jobs/18475?icims=1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers.garmin.com/jobs/18510?icims=1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers.garmin.com/jobs/19098?icims=1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers.noblis.org/jobs/27467?icims=1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "us-citizenship-and-ts-sci-polygraph-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply": {
       "status": "out-of-scope",
@@ -2683,9 +2753,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application": {
       "status": "out-of-scope",
@@ -2723,9 +2795,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application": {
       "status": "out-of-scope",
@@ -2833,9 +2907,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://careers.varsitybrands.com/global/en/job/JR113976": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application": {
       "status": "duplicate",
@@ -2913,14 +2989,18 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://lexical.bamboohr.com/careers/73": {
       "status": "out-of-scope",
@@ -3013,9 +3093,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003": {
       "status": "out-of-scope",
@@ -3048,9 +3128,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674": {
       "status": "out-of-scope",
@@ -3149,18 +3231,18 @@
     },
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1": {
       "status": "out-of-scope",
-      "reasonCode": "role-outside-target-directions",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.ixl.com/company/jobs?gh_jid=8663710002": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7667573235673073925": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/embed/job_app?token=7586263002": {
       "status": "out-of-scope",
@@ -3179,9 +3261,8 @@
     },
     "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269": {
       "status": "admitted",
-      "reasonCode": "officially-verified-match",
-      "lastCheckedAt": "2026-08-22T08:00:45-07:00",
-      "firstSeenAt": "2026-08-22T08:00:45-07:00"
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.viasat.com/jobs/6698?icims=1": {
       "status": "out-of-scope",
@@ -3189,9 +3270,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Insights-Delivery-Finance--Hybrid---Seattle--WA-_R-867723": {
       "status": "out-of-scope",
@@ -3209,56 +3290,58 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509": {
       "status": "needs-review",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
+      "reasonCode": "work-authorization-policy-ambiguous",
       "firstSeenAt": "2026-08-18T01:12:43.437101",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422-1": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.aon.com/jobs/105952?icims=1": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.smartrecruiters.com/Wavestone1/744000143599414": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.jhuapl.edu/jobs/57801?icims=1": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.jhuapl.edu/jobs/58164?icims=1": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.jhuapl.edu/jobs/59010?icims=1": {
       "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.jhuapl.edu/jobs/57653?icims=1": {
       "status": "hard-excluded",
@@ -3267,64 +3350,72 @@
     },
     "https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594": {
       "status": "needs-review",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-14T00:00:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply": {
       "status": "needs-review",
-      "reasonCode": "previously-dispositioned",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-11T01:31:41.415721",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115": {
       "status": "needs-review",
-      "reasonCode": "suspected-duplicate-requires-resolution",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/allcareers/jobs/8692383002": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7667726338627356933/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/livescore9/jobs/8683687002": {
       "status": "out-of-scope",
@@ -3332,74 +3423,80 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://careers.varsitybrands.com/global/en/job/JR114562": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://lifeattiktok.com/search/7669691374918011141": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7669698543896054069": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://lifeattiktok.com/search/7663389745178757429": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7665973724622342453": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7663388039600883973": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7665989163791403269": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7663389363824773381": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7665991852209932597": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7665977123255896325": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7667767820142643461": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.publicisgroupe.com/jobs/167988?icims=1": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.publicisgroupe.com/jobs/155621?icims=1": {
       "status": "out-of-scope",
@@ -3407,59 +3504,59 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.bytedance.com/en/position/7665104241446652213/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7665836153219959093/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7667291055662811445/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7665108869591140613/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.bytedance.com/en/position/7668365143156721973/detail": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7665793152026740997": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7667349591747758341": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7667346535273007413": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668389759463393589": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668376903708281141": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://lifeattiktok.com/search/7668390999147776309": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433/?ats=successfactors": {
       "status": "out-of-scope",
@@ -3472,14 +3569,18 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Engineer--ai--I-II-or-III---Jain-Lab_REQ-3845": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008": {
       "status": "out-of-scope",
@@ -3498,13 +3599,13 @@
     },
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "marketing-role-not-data-engineering",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.medpace.com/jobs/12873?icims=1": {
       "status": "out-of-scope",
@@ -3537,9 +3638,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Med-Sch-Richards-Building---5th-Floor/Neuroimaging-Data-Analyst-Junior_JR00121050-1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers-bluehawk.icims.com/jobs/2822/job?mobile=true&needsRedirect=false": {
       "status": "out-of-scope",
@@ -3573,18 +3676,20 @@
     },
     "https://careers-apogeeusa.icims.com/jobs/1432/job?mobile=true&needsRedirect=false": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers-apogeeusa.icims.com/jobs/1442/job?mobile=true&needsRedirect=false": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213/apply": {
       "status": "out-of-scope",
@@ -3647,9 +3752,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?ats=successfactors": {
       "status": "duplicate",
@@ -3657,39 +3762,45 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://apply.workable.com/wallstreetquants/j/62537809CA/apply": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://apply.workable.com/wallstreetquants/j/615D982644/apply": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://apply.workable.com/wallstreetquants/j/C611D9282B/apply": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830": {
       "status": "admitted",
-      "reasonCode": "manual-correction-quant-research-in-scope",
-      "lastCheckedAt": "2026-08-20T23:36:15-07:00"
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-europe": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe": {
       "status": "out-of-scope",
@@ -3722,9 +3833,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003": {
-      "status": "preference-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061": {
       "status": "duplicate",
@@ -3732,19 +3843,23 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189": {
       "status": "duplicate",
@@ -3763,8 +3878,8 @@
     },
     "https://careers.gov2x.com/jobs/62490?icims=1": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Embedded-Software--Firmware-R-D-Engineer-I_R73869": {
       "status": "out-of-scope",
@@ -3772,34 +3887,36 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application": {
-      "status": "preference-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8703552002": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8696080002": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8696058002": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8706884002": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://boards.greenhouse.io/spacex/jobs/8706885002": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467": {
       "status": "out-of-scope",
@@ -3823,8 +3940,8 @@
     },
     "https://careers.na.panasonic.com/jobs/50269?icims=1": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866786": {
       "status": "duplicate",
@@ -3832,19 +3949,23 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application": {
-      "status": "hard-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I---Onsite-_01866072": {
       "status": "out-of-scope",
@@ -3857,49 +3978,59 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003": {
-      "status": "preference-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://careers.garmin.com/jobs/19134?icims=1": {
-      "status": "preference-excluded",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://qualcomm.eightfold.ai/careers/job/446718599884": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540": {
       "status": "out-of-scope",
@@ -3918,23 +4049,29 @@
     },
     "https://careers.garmin.com/jobs/18513?icims=1": {
       "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers.garmin.com/jobs/18193?icims=1": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8/application": {
       "status": "out-of-scope",
@@ -3947,9 +4084,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/rocketlab/jobs/7813360003": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525": {
       "status": "duplicate",
@@ -4027,14 +4164,18 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009": {
       "status": "out-of-scope",
@@ -4052,9 +4193,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application": {
       "status": "out-of-scope",
@@ -12927,10 +13070,9 @@
       "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-eligible-candidate",
-      "firstSeenAt": "2026-08-27T03:00:42-07:00",
-      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T21:03:35.121Z"
     },
     "https://www.metacareers.com/jobs/2145505832666693": {
       "status": "admitted",
@@ -13093,9 +13235,9 @@
       "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700": {
-      "status": "hard-excluded",
-      "reasonCode": "citizenship-or-security-clearance-required",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "preference-excluded",
+      "reasonCode": "preference-exclusion-core-embedded-systems",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/3c7e6389-ba90-4b7f-90b4-f90421053e95": {
       "status": "hard-excluded",
@@ -13381,9 +13523,11 @@
       "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242": {
-      "status": "hard-excluded",
-      "reasonCode": "citizenship-or-security-clearance-required",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://simplify.jobs/p/5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272": {
       "status": "hard-excluded",
@@ -13500,11 +13644,10 @@
     },
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770": {
       "status": "needs-review",
-      "reasonCode": "official-page-evidence-incomplete",
+      "reasonCode": "official-page-content-unavailable",
       "firstSeenAt": "2026-08-27T15:19:25-07:00",
-      "lastAttemptAt": "2026-08-27T15:19:25-07:00",
-      "retryAfter": "2026-08-29T08:00:00-07:00",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://simplify.jobs/p/47850bfd-3afa-4073-a5b7-3a8734f3c0eb": {
       "status": "hard-excluded",
@@ -13533,8 +13676,8 @@
     },
     "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply": {
       "status": "hard-excluded",
-      "reasonCode": "us-citizenship-required",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/3cfd1fd5-6a07-4a50-9a60-1377c81e8a9f": {
       "status": "out-of-scope",
@@ -13644,9 +13787,9 @@
       "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002": {
-      "status": "admitted",
-      "reasonCode": "verified-open-in-scope-role",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T21:03:35.121Z"
     },
     "https://simplify.jobs/p/36550989-6b9a-4283-9d04-64ff68ecf823": {
       "status": "out-of-scope",
@@ -13720,8 +13863,8 @@
     },
     "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06": {
       "status": "admitted",
-      "reasonCode": "verified-open-in-scope-role",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/16bba879-2f7c-4b44-9d6b-f57a78ac8ee9": {
       "status": "out-of-scope",
@@ -13770,8 +13913,8 @@
     },
     "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007": {
       "status": "hard-excluded",
-      "reasonCode": "itar-or-export-control-restriction",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/3f8094e9-85cc-45af-9147-882df0bfcd9f": {
       "status": "out-of-scope",
@@ -14007,8 +14150,8 @@
     },
     "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007": {
       "status": "hard-excluded",
-      "reasonCode": "itar-or-export-control-restriction",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/2b100e48-0d13-4ce4-84ba-7549d0d15f9b": {
       "status": "hard-excluded",
@@ -14017,8 +14160,8 @@
     },
     "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007": {
       "status": "hard-excluded",
-      "reasonCode": "itar-or-export-control-restriction",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/5516fbba-d287-4ee8-b391-dd0e5a0c4797": {
       "status": "hard-excluded",
@@ -14027,8 +14170,8 @@
     },
     "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007": {
       "status": "hard-excluded",
-      "reasonCode": "itar-or-export-control-restriction",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://simplify.jobs/p/a3fa760c-c8ec-4d27-8090-1ff8948cd4d0": {
       "status": "hard-excluded",
@@ -14041,9 +14184,9 @@
       "lastCheckedAt": "2026-08-27T15:19:25-07:00"
     },
     "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101": {
-      "status": "admitted",
-      "reasonCode": "verified-open-in-scope-role",
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T21:03:35.121Z"
     },
     "https://job-boards.greenhouse.io/neuralink/jobs/6596365003": {
       "status": "admitted",
@@ -14094,6 +14237,483 @@
       "status": "hard-excluded",
       "reasonCode": "hard-experience-requirement-not-met",
       "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844286101": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646937002": {
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/sciemo/bc3d11c5-681e-4d92-82e2-b61e9a5d020d": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/sciemo/5986d215-5492-43df-848f-f1aed7a4afdd": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/solace/9256b9e8-36cd-45de-bae9-caa846f50934": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-28T21:03:35.121Z",
+      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
+      "retryAfter": "2026-08-29T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f": {
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T21:03:35.121Z"
+    },
+    "https://jobs.ashbyhq.com/solace/b021350f-40dc-4b28-ade4-2ab030bec05d": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-security-engineering",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application": {
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application": {
+      "status": "admitted",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://apply.workable.com/dcthomson/j/31E88278E1/apply": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Software-Engineer-I--Infrastructure_R32300": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Trading-Operations-Junior-Analyst_JR100563-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://www.asm.com/open-vacancies/?gh_jid=4876722101": {
+      "status": "hard-excluded",
+      "reasonCode": "timing-incompatible-explicit-cycle",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.smartrecruiters.com/GDMSI/744000145530335": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://boards.greenhouse.io/spacex/jobs/8724316002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/84680705375642310": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59818?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59654?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59791?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200": {
+      "status": "preference-excluded",
+      "reasonCode": "preference-exclusion-core-embedded-systems",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700": {
+      "status": "hard-excluded",
+      "reasonCode": "official-page-closed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300": {
+      "status": "hard-excluded",
+      "reasonCode": "official-page-closed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800": {
+      "status": "hard-excluded",
+      "reasonCode": "official-page-closed",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-31T20:23:33Z",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://careers.garmin.com/jobs/19732?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://careers.garmin.com/jobs/19142?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://careers.garmin.com/jobs/19680?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://careers.garmin.com/jobs/19695?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106656": {
+      "status": "needs-review",
+      "reasonCode": "official-page-content-unavailable",
+      "firstSeenAt": "2026-07-29T00:00:00-07:00",
+      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
+      "retryAfter": "2026-08-29T22:29:25.848Z"
+    },
+    "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply": {
+      "status": "hard-excluded",
+      "reasonCode": "secret-clearance-required",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false": {
+      "status": "admitted",
+      "reasonCode": "explicit-2027-evidence",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600": {
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     }
   }
 }

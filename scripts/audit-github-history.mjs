@@ -1,15 +1,15 @@
 import { execFileSync } from "node:child_process";
 import { writeFile } from "node:fs/promises";
 
-const [source, repositoryPath, filePath, outputPath] = process.argv.slice(2);
-if (!outputPath || !["speedyapply", "vanshb03"].includes(source)) {
+const [source, repositoryPath, filePath, outputPath, startArg, endArg] = process.argv.slice(2);
+if (!outputPath || !["speedyapply", "vanshb03", "simplifyjobs"].includes(source)) {
   throw new Error(
-    "Usage: node scripts/audit-github-history.mjs <speedyapply|vanshb03> <repository> <file> <output-json>",
+    "Usage: node scripts/audit-github-history.mjs <speedyapply|vanshb03|simplifyjobs> <repository> <file> <output-json> [window-start] [window-end-exclusive]",
   );
 }
 
-const windowStart = "2026-06-21T00:00:00-07:00";
-const windowEndExclusive = "2026-08-21T00:00:00-07:00";
+const windowStart = startArg ?? "2026-07-29T00:00:00-07:00";
+const windowEndExclusive = endArg ?? "2026-08-29T00:00:00-07:00";
 
 function plainText(value) {
   return value
@@ -70,6 +70,31 @@ function parseVanshb(text) {
   });
 }
 
+function parseSimplify(text) {
+  let previousCompany = "";
+  return [...text.matchAll(/<tr>([\s\S]*?)<\/tr>/g)].flatMap((rowMatch) => {
+    const cells = [...rowMatch[1].matchAll(/<td>([\s\S]*?)<\/td>/g)].map((match) => match[1]);
+    if (cells.length !== 5) return [];
+    const urls = [...cells[3].matchAll(/href="([^"]+)"/g)].map((match) => match[1]);
+    const officialUrl = urls.find((url) => !url.includes("simplify.jobs/p/"));
+    if (!officialUrl) return [];
+    const companyCell = plainText(cells[0]).replace(/^🔥\s*/, "");
+    if (companyCell && companyCell !== "↳") previousCompany = companyCell;
+    return [{
+      company: companyCell === "↳" ? previousCompany : companyCell,
+      role: plainText(cells[1]),
+      location: plainText(cells[2]),
+      url: normalizeUrl(officialUrl),
+    }];
+  });
+}
+
+function parseRows(text) {
+  if (source === "speedyapply") return parseSpeedy(text);
+  if (source === "vanshb03") return parseVanshb(text);
+  return parseSimplify(text);
+}
+
 const log = execFileSync(
   "git",
   [
@@ -89,6 +114,60 @@ const revisions = log.trim().split("\n").filter(Boolean).map((line) => {
   const [commit, committedAt] = line.split("\t");
   return { commit, committedAt };
 });
+
+// Simplify can update hundreds of times per month. For the one-time timing
+// correction we only need roles that are still open now and were absent at
+// the start of the window, so a boundary snapshot is both faster and safer
+// than replaying every intermediate add/remove cycle.
+if (source === "simplifyjobs" && revisions.length > 200) {
+  const boundaryCommit = execFileSync(
+    "git",
+    ["-C", repositoryPath, "rev-list", "-1", `--before=${windowStart}`, "HEAD", "--", filePath],
+    { encoding: "utf8" },
+  ).trim();
+  const currentCommit = execFileSync(
+    "git",
+    ["-C", repositoryPath, "rev-list", "-1", `--before=${windowEndExclusive}`, "HEAD", "--", filePath],
+    { encoding: "utf8" },
+  ).trim();
+  const boundaryText = boundaryCommit
+    ? execFileSync("git", ["-C", repositoryPath, "show", `${boundaryCommit}:${filePath}`], { encoding: "utf8", maxBuffer: 50 * 1024 * 1024 })
+    : "";
+  const currentText = currentCommit
+    ? execFileSync("git", ["-C", repositoryPath, "show", `${currentCommit}:${filePath}`], { encoding: "utf8", maxBuffer: 50 * 1024 * 1024 })
+    : "";
+  const boundaryUrls = new Set(parseRows(boundaryText).map((row) => row.url));
+  const currentSnapshotAt = currentCommit
+    ? execFileSync("git", ["-C", repositoryPath, "show", "-s", "--format=%cI", currentCommit], { encoding: "utf8" }).trim()
+    : new Date(new Date(windowEndExclusive).getTime() - 1).toISOString();
+  const currentCandidates = parseRows(currentText)
+    .filter((row) => !boundaryUrls.has(row.url))
+    .map((row) => ({
+      ...row,
+      source,
+      firstAddedAt: windowStart,
+      lastAddedAt: currentSnapshotAt,
+    }));
+  const output = {
+    source,
+    filePath,
+    windowStart,
+    windowEndExclusive,
+    scanMode: "current-open-boundary-diff",
+    revisionCount: revisions.length,
+    candidateCount: currentCandidates.length,
+    candidates: currentCandidates,
+  };
+  await writeFile(outputPath, `${JSON.stringify(output, null, 2)}\n`);
+  console.log(JSON.stringify({
+    source,
+    revisionCount: output.revisionCount,
+    candidateCount: output.candidateCount,
+    outputPath,
+  }, null, 2));
+  process.exit(0);
+}
+
 const candidates = new Map();
 for (const revision of revisions) {
   let text;
@@ -116,8 +195,8 @@ for (const revision of revisions) {
   } catch {
     continue;
   }
-  const rows = source === "speedyapply" ? parseSpeedy(text) : parseVanshb(text);
-  const priorRows = source === "speedyapply" ? parseSpeedy(priorText) : parseVanshb(priorText);
+  const rows = parseRows(text);
+  const priorRows = parseRows(priorText);
   const priorUrls = new Set(priorRows.map((row) => row.url));
   for (const row of rows.filter((candidate) => !priorUrls.has(candidate.url))) {
     const existing = candidates.get(row.url);
