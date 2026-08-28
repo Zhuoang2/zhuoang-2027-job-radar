@@ -159,6 +159,26 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   assert.match(automationText, /Official company expansion/i);
   assert.match(automationText, /deferred-large-catalog/i);
   assert.match(automationText, /sibling roles that aggregators omitted/i);
+  assert.match(
+    automationText,
+    /from:\(noreply@swelist\.com\).*from:\(noreply=swelist\.com@mg\.swelist\.com\)/s,
+    "SWELIST sender queries must preserve the connector-safe parenthesized syntax",
+  );
+  assert.match(
+    automationText,
+    /selection-only: it chooses due companies but does not browse, enumerate, or audit any catalog/i,
+    "company queue selection must not be mistaken for a completed catalog audit",
+  );
+  assert.match(
+    automationText,
+    /may be retained as `timing-check`/i,
+    "mixed-cycle rows without explicit cohort timing must remain reviewable as timing-check",
+  );
+  assert.match(
+    automationText,
+    /新增.*移除.*同一 URL\/ID 的实质变化/s,
+    "daily source reports must distinguish additions, removals, and same-identity changes",
+  );
   assert.match(automationText, /Stanford Handshake and LinkedIn are no longer daily sources/i);
   assert.match(automationText, /Do not log in, query, health-check, or advance either source's baseline/i);
   assert.ok(Array.isArray(state.sourceMonitoring.officialVerificationNeedsReview));
@@ -234,11 +254,11 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   const simplifySource = state.sourceMonitoring.sources.simplifyjobs;
   assert.equal(
     simplifySource.cycleStatus,
-    "mixed-cycle-explicit-2027-rows-active",
+    "mixed-cycle-row-level-timing-evaluation",
   );
   assert.equal(
     simplifySource.baseline.mode,
-    "mixed-cycle-row-level-explicit-2027-admission-gate",
+    "mixed-cycle-row-level-timing-evaluation",
   );
   assert.ok(
     simplifySource.baseline.observedExplicit2027EntryCount >= 7,

@@ -2100,10 +2100,10 @@
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
-        "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
+        "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
         "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
-          "mode": "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
+          "mode": "full-60d-observed-url-baseline-with-timing-check-admission",
           "entryCount": 242,
           "seenCandidateCanonicalUrls": [
             "https://.workable.com/qodeworld/j/5718A36818",
@@ -2356,17 +2356,17 @@
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 26
         },
-        "note": "The incremental comparison found no new canonical URL or substantive title, location, or official-link change; the existing successful baseline remains current."
+        "note": "The incremental comparison found no new canonical URL or same-identity substantive title, location, or official-link change. Future new or changed rows without explicit cohort timing remain eligible for official review as timing-check when no July 2027 availability conflict is stated."
       },
       "simplifyjobs": {
         "role": "monitor",
         "organizationUrl": "https://github.com/SimplifyJobs",
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-        "cycleStatus": "mixed-cycle-explicit-2027-rows-active",
+        "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
         "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
-          "mode": "mixed-cycle-row-level-explicit-2027-admission-gate",
+          "mode": "mixed-cycle-row-level-timing-evaluation",
           "entryCount": 427,
           "seenCandidateCanonicalUrls": [
             "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
@@ -2811,7 +2811,7 @@
           "outOfScopeCount": 2,
           "preferenceExcludedCount": 1
         },
-        "note": "The repository remains mixed-cycle. The current comparison observed 75 added IDs and 64 changed records; one newly explicit 2027 Wells Fargo ACI role was officially verified but hard-excluded because it states that current or future sponsorship is unavailable. The successful baseline was retained because the full mixed-cycle diff was not reconciled in this needs-review run."
+        "note": "The repository remains mixed-cycle. The 2026-08-28 comparison observed 75 added IDs and 64 changed records; that run reviewed only one explicit-2027 candidate under the superseded admission gate. The successful baseline remains unadvanced until the full mixed-cycle delta is reconciled using row-level confirmed-2027 or timing-check evaluation."
       },
       "swelist-email": {
         "role": "email-lead",
