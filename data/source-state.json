@@ -418,8 +418,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-needs-review-and-deferred-catalog",
-        "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+        "cycleStatus": "needs-review",
+        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1857,6 +1857,35 @@
               "lastObservedAt": "2026-08-27T22:25:29-07:00"
             }
           ],
+          "lastAttemptSummary": {
+            "checkedAt": "2026-08-28T03:01:52-07:00",
+            "selectedCompanies": [
+              "Squarepoint Capital",
+              "Man Group",
+              "Marshall Wace",
+              "The Voleon Group",
+              "D-Wave",
+              "GitHub",
+              "Maximor AI",
+              "Meta",
+              "MSA Safety",
+              "PathAI",
+              "Precisely",
+              "Rocket Companies / Redfin",
+              "Salesforce",
+              "Sciemo",
+              "Snap Finance",
+              "SOCOTEC",
+              "SoFi",
+              "Solace Health",
+              "Starbucks",
+              "State Street"
+            ],
+            "status": "needs-review",
+            "completeAuditCount": 0,
+            "needsReviewCount": 20,
+            "baselineAdvanced": false
+          },
           "lastBatch": {
             "checkedAt": "2026-08-27T03:00:42-07:00",
             "selectedCompanyCount": 20,
@@ -1927,14 +1956,14 @@
             ]
           }
         },
-        "note": "The 20-company bounded batch was reconciled: ten catalogs were completely enumerated, nine have concrete retryable blockers, and Oracle exceeded the ordinary-run size limit. No partial catalog was admitted; four stale cards were removed only after their official catalogs confirmed the roles were no longer open."
+        "note": "Today's 20-company queue could not be completely enumerated within the bounded run. Partial catalog observations were not admitted as complete audits; all twenty companies remain needs-review and no company-careers baseline was advanced."
       },
       "speedyapply": {
         "role": "primary",
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027",
-        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 1643,
@@ -2065,14 +2094,14 @@
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 277
         },
-        "note": "The forward incremental comparison found fourteen new candidate identities and six materially changed rows. Four officially verified roles were admitted; explicit 2026, work-authorization, citizenship/clearance, operations, and out-of-scope candidates were excluded without reopening unchanged history."
+        "note": "The current upstream comparison observed 38 added URLs, 30 removed URLs, and no same-URL substantive changes. No admissible card was confirmed after duplicate, scope, and eligibility checks; the successful baseline was retained because the full candidate set was not reconciled in this needs-review run."
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "2026-2027-list-with-explicit-2027-only-admission",
-        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-explicit-2027-admission-gate",
           "entryCount": 242,
@@ -2327,7 +2356,7 @@
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 26
         },
-        "note": "The successful incremental comparison found no new canonical URL or substantive title, location, or official-link change."
+        "note": "The incremental comparison found no new canonical URL or substantive title, location, or official-link change; the existing successful baseline remains current."
       },
       "simplifyjobs": {
         "role": "monitor",
@@ -2335,7 +2364,7 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "mixed-cycle-explicit-2027-rows-active",
-        "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
           "mode": "mixed-cycle-row-level-explicit-2027-admission-gate",
           "entryCount": 427,
@@ -2782,13 +2811,13 @@
           "outOfScopeCount": 2,
           "preferenceExcludedCount": 1
         },
-        "note": "The repository title still says 2026, but the current README contains seven explicit 2027 rows. Row-level mixed-cycle scanning is now active: explicit 2027 new or changed rows are verified individually, while 2026-only rows remain ineligible. This correction admitted no new card because the seven rows were duplicate or already excluded by scope, eligibility, or preference rules."
+        "note": "The repository remains mixed-cycle. The current comparison observed 75 added IDs and 64 changed records; one newly explicit 2027 Wells Fargo ACI role was officially verified but hard-excluded because it states that current or future sponsorship is unavailable. The successful baseline was retained because the full mixed-cycle diff was not reconciled in this needs-review run."
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
-        "cycleStatus": "corrected-daily-window-complete",
-        "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+        "cycleStatus": "needs-review-empty-result-awaiting-manual-confirmation",
+        "lastCheckedAt": "2026-08-28T03:01:52-07:00",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
           "entryCount": 1456,
@@ -4267,7 +4296,7 @@
           "outOfScopeCount": 68,
           "preferenceExcludedCount": 1
         },
-        "note": "Corrected read-only audit of the August 25-26 public-job window: two matching messages yielded 162 unique public job URLs. Every lead received a terminal or retryable disposition; five verified official roles were admitted. No mailbox identity or message metadata is retained."
+        "note": "Both required read-only sender queries for the August 27 America/Los_Angeles window returned an automatic empty result. Per the empty-result safety rule, this is needs-review pending the user's manual mailbox check; the successful email baseline was not advanced."
       }
     },
     "sourceMentions": {
@@ -8747,10 +8776,10 @@
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
-  "scanStatus": "complete",
-  "lastScanStartedAt": "2026-08-27T03:00:42-07:00",
+  "scanStatus": "needs-review",
+  "lastScanStartedAt": "2026-08-28T03:01:52-07:00",
   "lastSuccessfulScanAt": "2026-08-27T15:19:25-07:00",
-  "lastSourceUpdatedAt": "2026-08-27T15:19:25-07:00",
+  "lastSourceUpdatedAt": "2026-08-28T03:01:52-07:00",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
