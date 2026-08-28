@@ -303,6 +303,10 @@
       {
         "canonicalUrl": "https://jobs.ashbyhq.com/composio/f83a814a-1f76-4c58-8f6d-6cf81bf849fa",
         "reason": "On-premise lifecycle, Kubernetes, storage, authentication, CVE response and production operations are central to the role."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6569010003",
+        "reason": "Implant SDK, manufacturing acceptance, device integration, and low-level C/Rust/Linux work are central to the role."
       }
     ],
     "sources": {
@@ -415,7 +419,7 @@
       "company-careers": {
         "role": "official-company-expansion",
         "cycleStatus": "completed-with-needs-review-and-deferred-catalog",
-        "lastCheckedAt": "2026-08-27T03:00:42-07:00",
+        "lastCheckedAt": "2026-08-27T22:25:29-07:00",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1842,6 +1846,15 @@
               "reason": "The official catalog exceeds the ordinary-run limit; no partial screening was performed.",
               "firstDeferredAt": "2026-08-27T03:00:42-07:00",
               "lastObservedAt": "2026-08-27T03:00:42-07:00"
+            },
+            {
+              "company": "Tesla",
+              "publicCareersUrl": "https://www.tesla.com/careers/search/",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 282,
+              "reason": "The official full-time catalog exceeds the ordinary-run limit of 200 open roles; only the user-specified candidates were verified, and no partial catalog audit was treated as complete.",
+              "firstDeferredAt": "2026-08-27T22:25:29-07:00",
+              "lastObservedAt": "2026-08-27T22:25:29-07:00"
             }
           ],
           "lastBatch": {
@@ -1859,7 +1872,7 @@
           },
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
-            "entryCount": 10,
+            "entryCount": 12,
             "lastTargetedAuditAt": "2026-08-22T20:07:37-07:00"
           },
           "lastTargetedAuditSummary": {
@@ -6429,6 +6442,24 @@
       ],
       "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101": [
         "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/neuralink/jobs/6596365003": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/neuralink/jobs/6658884003": [
+        "company-careers"
+      ],
+      "https://www.tesla.com/careers/search/job/fullstack-software-engineer-machine-learning-platform-ai-infrastructure-255370": [
+        "company-careers"
+      ],
+      "https://www.tesla.com/careers/search/job/software-engineer-reinforcement-learning-ai-infrastructure-269675": [
+        "company-careers"
+      ],
+      "https://www.tesla.com/careers/search/job/software-engineer-distributed-training-ai-infrastructure-235860": [
+        "company-careers"
+      ],
+      "https://www.tesla.com/careers/search/job/machine-learning-engineer-maps-navigation-robotaxi-261137": [
+        "company-careers"
       ]
     },
     "suspectedDuplicates": [
@@ -8711,8 +8742,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 2595,
-      "lastCheckedAt": "2026-08-27T15:19:25-07:00",
+      "entryCount": 2605,
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

@@ -48,5 +48,15 @@
     "company": "Jump Trading",
     "publicCareersUrl": "https://www.jumptrading.com/hr/students-new-grads",
     "directions": ["Quant"]
+  },
+  {
+    "company": "Neuralink",
+    "publicCareersUrl": "https://job-boards.greenhouse.io/neuralink",
+    "directions": ["SWE", "AI/ML", "ML Systems"]
+  },
+  {
+    "company": "Tesla",
+    "publicCareersUrl": "https://www.tesla.com/careers/search/",
+    "directions": ["SWE", "AI/ML", "ML Systems"]
   }
 ]

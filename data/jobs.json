@@ -8358,5 +8358,195 @@
     ],
     "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
     "status": "open"
+  },
+  {
+    "id": "neuralink-software-engineer-bci-applications-6596365003",
+    "canonicalUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6596365003",
+    "company": "Neuralink",
+    "role": "Software Engineer, BCI Applications",
+    "location": "Austin, TX / South San Francisco, CA",
+    "ageDays": 0,
+    "source": "Neuralink official careers",
+    "firstSeenAt": "2026-08-27T22:25:29-07:00",
+    "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "stretch",
+    "fitScore": 86,
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "resumeTrack": "General SWE / MLE-AI",
+    "reasons": [
+      "官方明确招聘 junior 与 senior 各层级工程师，工作覆盖 BCI 应用、用户界面和神经信号解码",
+      "Python、Java、React/AWS、机器学习和用户产品开发经历与岗位的全栈及 ML 交叉方向匹配"
+    ],
+    "caveats": [
+      "官方未明确 2027 cohort 或开始日期，保留 timing-check",
+      "岗位还强调移动端语言与操作系统知识，属于需要针对性准备的 stretch",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6596365003",
+    "status": "open"
+  },
+  {
+    "id": "neuralink-software-engineer-next-gen-6658884003",
+    "canonicalUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6658884003",
+    "company": "Neuralink",
+    "role": "Software Engineer, Next Gen",
+    "location": "Austin, TX / South San Francisco, CA",
+    "ageDays": 0,
+    "source": "Neuralink official careers",
+    "firstSeenAt": "2026-08-27T22:25:29-07:00",
+    "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "stretch",
+    "fitScore": 87,
+    "directions": [
+      "SWE/Data Infra",
+      "ML Systems"
+    ],
+    "resumeTrack": "General SWE / ML Systems",
+    "reasons": [
+      "官方本科门槛岗位负责神经接口、数据采集和软硬件交互，接受 Python、Go、C++ 或 Rust",
+      "C++、Python、CUDA/MPI 和系统调试经历与岗位的高性能软件方向具有较强交集"
+    ],
+    "caveats": [
+      "官方未明确 2027 cohort 或开始日期，保留 timing-check",
+      "实时系统、机器人或控制经验属于加分项，岗位仍是 stretch",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6658884003",
+    "status": "open"
+  },
+  {
+    "id": "tesla-fullstack-software-engineer-ml-platform-255370",
+    "canonicalUrl": "https://www.tesla.com/careers/search/job/fullstack-software-engineer-machine-learning-platform-ai-infrastructure-255370",
+    "company": "Tesla",
+    "role": "Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure",
+    "location": "Palo Alto, CA",
+    "ageDays": 0,
+    "source": "Tesla official careers",
+    "firstSeenAt": "2026-08-27T22:25:29-07:00",
+    "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "directions": [
+      "AI/ML",
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "MLE/AI / General SWE",
+    "reasons": [
+      "官方全职岗位建设训练、评估、实验跟踪和数据管道工具，技术栈覆盖 Python、JavaScript、React、Kubernetes 与 CI/CD",
+      "React/AWS 产品经历、Databricks 数据管道和 CUDA/MPI 训练系统与端到端 ML 平台职责高度匹配"
+    ],
+    "caveats": [
+      "官方未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.tesla.com/careers/search/job/fullstack-software-engineer-machine-learning-platform-ai-infrastructure-255370",
+    "status": "open"
+  },
+  {
+    "id": "tesla-software-engineer-reinforcement-learning-ai-infrastructure-269675",
+    "canonicalUrl": "https://www.tesla.com/careers/search/job/software-engineer-reinforcement-learning-ai-infrastructure-269675",
+    "company": "Tesla",
+    "role": "Software Engineer, Reinforcement Learning, AI Infrastructure",
+    "location": "Palo Alto, CA",
+    "ageDays": 0,
+    "source": "Tesla official careers",
+    "firstSeenAt": "2026-08-27T22:25:29-07:00",
+    "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 92,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方当前列出的全职 Tesla AI 岗位聚焦强化学习基础设施",
+      "强化学习、LLM 后训练、Python 和分布式训练项目与岗位方向直接相关"
+    ],
+    "caveats": [
+      "官方动态详情未公开 2027 cohort 或开始日期，保留 timing-check",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.tesla.com/careers/search/job/software-engineer-reinforcement-learning-ai-infrastructure-269675",
+    "status": "open"
+  },
+  {
+    "id": "tesla-software-engineer-distributed-training-ai-infrastructure-235860",
+    "canonicalUrl": "https://www.tesla.com/careers/search/job/software-engineer-distributed-training-ai-infrastructure-235860",
+    "company": "Tesla",
+    "role": "Software Engineer, Distributed Training, AI Infrastructure",
+    "location": "Palo Alto, CA",
+    "ageDays": 0,
+    "source": "Tesla official careers",
+    "firstSeenAt": "2026-08-27T22:25:29-07:00",
+    "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 92,
+    "directions": [
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "MLE/AI / General SWE",
+    "reasons": [
+      "官方当前列出的全职 Tesla AI 岗位聚焦大规模分布式训练基础设施",
+      "CUDA/MPI GPT-2 训练引擎、性能分析和大规模 ML 数据管道经历与岗位高度相关"
+    ],
+    "caveats": [
+      "官方动态详情未公开 2027 cohort 或开始日期，保留 timing-check",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.tesla.com/careers/search/job/software-engineer-distributed-training-ai-infrastructure-235860",
+    "status": "open"
+  },
+  {
+    "id": "tesla-machine-learning-engineer-maps-navigation-robotaxi-261137",
+    "canonicalUrl": "https://www.tesla.com/careers/search/job/machine-learning-engineer-maps-navigation-robotaxi-261137",
+    "company": "Tesla",
+    "role": "Machine Learning Engineer, Maps & Navigation, Robotaxi",
+    "location": "Palo Alto, CA",
+    "ageDays": 0,
+    "source": "Tesla official careers",
+    "firstSeenAt": "2026-08-27T22:25:29-07:00",
+    "lastCheckedAt": "2026-08-27T22:25:29-07:00",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "stretch",
+    "fitScore": 88,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方当前列出的全职 Vehicle Software 岗位聚焦 Robotaxi 地图与导航机器学习",
+      "机器学习、数据处理、模型评估和工程实现经历与岗位方向相关"
+    ],
+    "caveats": [
+      "官方未明确 2027 cohort 或开始日期，保留 timing-check",
+      "地图、定位与自动驾驶领域经验并非现有经历重点，属于 stretch",
+      "官方职位页未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.tesla.com/careers/search/job/machine-learning-engineer-maps-navigation-robotaxi-261137",
+    "status": "open"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-27T15:19:25-07:00",
+  "checkedAt": "2026-08-27T22:25:29-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -14044,6 +14044,56 @@
       "status": "admitted",
       "reasonCode": "verified-open-in-scope-role",
       "lastCheckedAt": "2026-08-27T15:19:25-07:00"
+    },
+    "https://job-boards.greenhouse.io/neuralink/jobs/6596365003": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://job-boards.greenhouse.io/neuralink/jobs/6658884003": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://www.tesla.com/careers/search/job/fullstack-software-engineer-machine-learning-platform-ai-infrastructure-255370": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://www.tesla.com/careers/search/job/software-engineer-reinforcement-learning-ai-infrastructure-269675": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://www.tesla.com/careers/search/job/software-engineer-distributed-training-ai-infrastructure-235860": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://www.tesla.com/careers/search/job/machine-learning-engineer-maps-navigation-robotaxi-261137": {
+      "status": "admitted",
+      "reasonCode": "verified-open-in-scope-role",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://job-boards.greenhouse.io/neuralink/jobs/5663271003": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement-not-met",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://job-boards.greenhouse.io/neuralink/jobs/6569010003": {
+      "status": "preference-excluded",
+      "reasonCode": "low-level-device-systems-core",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://www.tesla.com/careers/search/job/software-engineer-metrics-ai-evaluation-226926": {
+      "status": "hard-excluded",
+      "reasonCode": "source-indicates-closed-or-inactive",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
+    },
+    "https://www.tesla.com/careers/search/job/machine-learning-engineer-destination-special-behaviors-self-driving--240784": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement-not-met",
+      "lastCheckedAt": "2026-08-27T22:25:29-07:00"
     }
   }
 }
