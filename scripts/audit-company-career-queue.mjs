@@ -4,7 +4,9 @@ import { pathToFileURL } from "node:url";
 import { buildCompanyCareerQueue } from "./list-company-career-queue.mjs";
 import { classifyTimingEvidence } from "./job-timing-policy.mjs";
 
-const relevantTitle = /\b(?:software|machine learning|ml|artificial intelligence|ai|data|backend|infrastructure|quant(?:itative)?|research|developer|engineer)\b/i;
+// Keep the title gate directional. A bare "engineer" admits unrelated chemical,
+// electrical, mechanical, manufacturing, test, and building roles.
+const relevantTitle = /\b(?:software|machine learning|ml|artificial intelligence|ai|data\s+(?:engineer|scientist|analyst)|backend|infrastructure|quant(?:itative)?|research\s+(?:engineer|scientist)|developer|systems?\s+engineer)\b/i;
 const excludedTitle = /\b(?:intern(?:ship)?|co[- ]?op|frontend|front-end|mobile|ios|android|product manager|designer|sales|marketing|security engineer|cybersecurity|penetration tester|firmware|embedded)\b/i;
 const experiencedTitle = /\b(?:senior|sr\.?|staff|principal|lead|manager|director|head|architect)\b/i;
 const pureTraderTitle = /\b(?:trader|trading analyst|market maker)\b/i;

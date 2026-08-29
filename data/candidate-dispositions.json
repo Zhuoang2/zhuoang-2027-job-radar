@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-28T22:29:25.844Z",
+  "checkedAt": "2026-08-29T10:00:33.538-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -2191,11 +2191,10 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false": {
       "status": "out-of-scope",
@@ -2642,9 +2641,9 @@
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006": {
-      "status": "admitted",
-      "reasonCode": "compatible-early-career-timing-unconfirmed",
-      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
     },
     "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply": {
       "status": "out-of-scope",
@@ -3949,9 +3948,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008": {
-      "status": "admitted",
-      "reasonCode": "compatible-early-career-timing-unconfirmed",
-      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
     },
     "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application": {
       "status": "needs-review",
@@ -3986,10 +3985,10 @@
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485": {
       "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "reasonCode": "insufficient-start-and-eligibility-evidence",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
+      "retryAfter": "2026-08-30T10:00:33.538-07:00"
     },
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490": {
       "status": "out-of-scope",
@@ -10691,9 +10690,11 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9": {
-      "status": "out-of-scope",
-      "reasonCode": "historical-row-lacked-verifiable-early-career-or-target-role-evidence",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
+      "retryAfter": "2026-08-30T10:00:33.538-07:00"
     },
     "https://jobs.ashbyhq.com/rivianvw.tech/f9c41182-435b-45ae-88e8-691bb724989e": {
       "status": "out-of-scope",
@@ -14293,11 +14294,10 @@
       "retryAfter": "2026-08-29T21:03:35.121Z"
     },
     "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba": {
-      "status": "needs-review",
-      "reasonCode": "insufficient-start-timing-evidence",
-      "firstSeenAt": "2026-08-28T21:03:35.121Z",
-      "lastAttemptAt": "2026-08-28T21:03:35.121Z",
-      "retryAfter": "2026-08-29T21:03:35.121Z"
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://jobs.ashbyhq.com/solace/9256b9e8-36cd-45de-bae9-caa846f50934": {
       "status": "needs-review",
@@ -14372,9 +14372,11 @@
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false": {
-      "status": "hard-excluded",
-      "reasonCode": "citizenship-or-clearance-restriction",
-      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+      "status": "needs-review",
+      "reasonCode": "official-detail-unavailable",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
+      "retryAfter": "2026-08-30T10:00:33.538-07:00"
     },
     "https://jobs.smartrecruiters.com/GDMSI/744000145530335": {
       "status": "out-of-scope",
@@ -14467,25 +14469,22 @@
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
-      "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804": {
       "status": "needs-review",
@@ -14516,18 +14515,16 @@
       "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "out-of-scope",
+      "reasonCode": "hardware-asic-fpga-role",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "out-of-scope",
+      "reasonCode": "hardware-asic-fpga-role",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1": {
       "status": "needs-review",
@@ -14565,18 +14562,16 @@
       "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922": {
       "status": "needs-review",
@@ -14586,11 +14581,10 @@
       "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874": {
       "status": "needs-review",
@@ -14635,11 +14629,10 @@
       "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "duplicate",
+      "reasonCode": "existing-official-job-id",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303": {
       "status": "needs-review",
@@ -14649,18 +14642,16 @@
       "retryAfter": "2026-08-29T22:29:25.848Z"
     },
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-cycle",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328": {
-      "status": "needs-review",
-      "reasonCode": "official-page-content-unavailable",
+      "status": "out-of-scope",
+      "reasonCode": "core-embedded-systems-role",
       "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastAttemptAt": "2026-08-28T22:29:25.844Z",
-      "retryAfter": "2026-08-29T22:29:25.848Z"
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     },
     "https://careers.garmin.com/jobs/19695?icims=1": {
       "status": "needs-review",
@@ -14714,6 +14705,1671 @@
       "status": "duplicate",
       "reasonCode": "existing-job-card",
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+    },
+    "https://jobs.lever.co/datalabusa/22b2cba2-f110-48aa-83c3-fd016bdea7f1": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/b5726a27-e348-4936-89f2-ab0bab5a9841": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/59518148-e903-4313-8259-9d16cefb3d90": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-work-authorization-restriction",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/1550eada-3bd9-4699-b3da-a165295d27a1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/4163de7b-bcdf-40e5-8df2-13d79461cda7": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/59604f69-c0c9-4d98-b0d6-273b1a2b2898": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/8bbf11ff-3e78-435d-b1f5-ec2f47cdbc8c": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/421f9073-fdf1-4b73-9f01-9ed971a96a39": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.lever.co/datalabusa/b806fb7f-addc-4722-a745-a81d9224b536": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5266218008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5381584008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5214695008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5370948008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5209814008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5082164008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5231625008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5384912008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5163987008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5380296008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5225501008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4612412008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5082179008": {
+      "status": "preference-excluded",
+      "reasonCode": "preference-low-level-systems",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4933153008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5026285008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4487707008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5404370008": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5378720008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5309809008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376003008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5255607008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4473745008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4484221008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5311690008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5388632008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5207247008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5309830008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5015154008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376624008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5378718008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5378002008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5404367008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5366084008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5146296008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4811453008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5367263008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5377988008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5387660008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5167655008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5209767008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5209781008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5370634008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5015189008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5378752008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5370949008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5200196008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5378015008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5366071008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5228700008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5208241008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5397132008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5268862008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5366086008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5266244008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5274048008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5377097008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5223997008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5082193008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5026280008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5135167008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5157067008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5157062008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5378040008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5102361008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4944087008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5372284008": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5289376008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5377117008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376051008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376052008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376639008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376057008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376633008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5377107008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5377094008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5023809008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5015164008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5376823008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5215479008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5233273008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4940835008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5082161008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5141541008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5190258008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5123798008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4489074008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4487701008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5051145008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5123779008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4483441008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5381310008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4487697008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5381354008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4487695008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4489047008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5381356008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4489075008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5400302008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5389914008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4819852008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4914091008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375916008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5363876008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375921008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375934008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375939008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375941008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375956008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375999008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4900247008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/4819848008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/generalmatter/jobs/5375985008": {
+      "status": "out-of-scope",
+      "reasonCode": "non-software-engineering-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4706810006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4699515006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4699585006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4699597006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4691989006": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4690262006": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4705290006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4700344006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4702106006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4705206006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4702103006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4701732006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4690574006": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4690570006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4690579006": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4688409006": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4690590006": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4700333006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4684555006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4706054006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4692231006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4700292006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4703433006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4702130006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4703486006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4702109006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4702105006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4704649006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4700550006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4700557006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4695587006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4409616006": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4703489006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4699215006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4707932006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4683873006": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4699217006": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4699218006": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:08:05.127Z",
+      "lastAttemptAt": "2026-08-29T10:08:05.127Z",
+      "retryAfter": "2026-08-30T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/SAP-Senior-Implementation-Specialist--CM-_2026-16109": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Head-of-FCC-Product-Management_2026-16170": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Chapter-Lead_2026-16262": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Tysons-United-States/Business-Area-Lead_2026-15834": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Head-of-Traffic---Revenue_2026-15668": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Data-Acquisition---Support-Squad-Lead_2026-15350": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Brussels-area-Belgium/Head-of-FP-A-and-Pricing_2026-15666": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Database---Platform-Architect--Hybrid-_2026-16104-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Senior-Market-Analyst--Industry-Insights---Intelligence_2026-16146": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Platform-Architect--Compute--Network--Database---Hybrid_2026-16236-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Global-HR-Business-Partner_2026-16444": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Milano-Italy/Business-Development---Commercial-Manager_2026-16352": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Business-Consultant_2026-16366": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Lead-AI-Engineer---Vulnerability-Management-Specialist--Hybrid-_2026-16334": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-IT-Sourcing-Specialist_2026-16428": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Senior-Technical-Lead---AI--Analytics---Automation-Environments-Strategy_2026-16171": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Lead-Risk---Control-Management-Specialist_2026-15825-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Senior-Site-Reliability-Engineer--SRE----OpenShift---Observability_2026-16177": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Associate-IT-Operations-Specialist_2026-16269-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Software-Systems-Engineer---Intern_2026-16387": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Applied-AI-Security-Engineer_2026-16355": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Oracle-Devops-Engineer_2026-16362": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Java-Developer_2026-15790": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Lead-DevOps-Engineer---DevOps-Enablement_2026-16307": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Lead-Functional-SAP-BW-BPC-Analyst_2026-15986": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/SAP-Senior-Implementation-Specialist--SOM-_2026-16108-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/SAP-Senior-Implementation-Specialist--CC-_2026-16110": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Senior-Software-Developer----C---and-or-Java-_2026-16017": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Tysons-United-States/Senior-Test-Automation-Engineer_2026-16379": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Culpeper-United-States/Senior-Management-Assistant-Office-Manager_2026-16386-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Technical-Support-Engineer---US-shift_2026-16404": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Senior-Windows-Infrastructure-Engineer_2026-16301": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Senior-Network-Engineer---Firewall-Automation-Hybrid-_2026-16326": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Product-Manager-ISO-20022-adoption_2026-16427": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Frankfurt-Germany/Junior-Commercial-Manager---Frankfurt_2026-15538": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Software-Engineer_2026-15645-1": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-work-authorization-restriction",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Incident---Crisis-Manager--Global-Financial-Infrastructure-_2026-16311": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Senior-Storage-Engineer--Hybrid-_2026-16154": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Culpeper-United-States/Lead-SOC-Analyst_2026-16217": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Test-Engineer_2026-15683": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Network-Architect_2026-16391": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Application-Security-Specialist_2026-15693": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Customer-Support-Engineer_2026-16247": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Product-Management-Intern_2026-16342": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Hong-Kong-Hong-Kong/Security-Management-Specialist--Cyber-Security-_2025-14856-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Test-Engineer_2026-16096": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Senior-Technology-Auditor_2026-16106": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Event-Operations-Specialist_2026-16241": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Brussels-area-Belgium/Alliance-Interfaces-Chapter-Lead_2026-15371-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Finance-Risk---Control-Analyst_2026-16210": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Seoul-South-Korea/Technical-Consultant_2026-16330": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Lead-DevOps-Platform-Engineer--Hybrid-_2026-16238": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Configuration-Hardening-Specialist_2026-15537": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Senior-Systems-Engineer_2026-15959": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/B2B-Customer-Support-Internship_2026-16289": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Brussels-area-Belgium/PKI-Security-Architect---Governance-Specialist_2026-15952-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Major-Incident-and-crisis-Management-Process-Manager_2026-15893": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Observability-Software-Engineer_2026-16344": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Lead-Site-Reliability-Engineer_2026-16328": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Lead-business-Analyst_2026-15680": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Brussels-area-Belgium/Health---Safety-Adviser_2026-16185": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Integration-developer--Mulesoft-_2026-16224": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Risk-Partner---Control-Testing_2026-16265": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Risk-Reporting-Lead_2026-16288": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Risk-Reporting-Lead_2026-16078": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Partner-Management-Specialist_2026-16229": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Control-Testing-Specialist_2026-16256": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Financial-Planning-Analyst_2026-16119-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Lead-Site-Reliability-Engineer---Managed-Patching_2026-15796": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Tysons-United-States/Senior-Dev-Systems-Engineer_2026-16156": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-SAP-BW-Developer_2026-16132": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Senior-Sys---App-Mgt---Sup-Specialist_2026-15845": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Data-Engineer_2026-16148": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Sydney-Australia/Commercial-Manager_2026-16159": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16083": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Test-Automation-Engineer--Hybrid-_2026-16062": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Sr-Software-Engineer_2025-14984-1": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Brussels-area-Belgium/Lead-Data-Engineer_2026-15681": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Senior-Cloud-Network-Engineer_2026-15821": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Communications-Specialist_2026-16072": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/London-United-Kingdom/Senior-C---Developer_2026-16095": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Sydney-Australia/Senior-Technical-Consultant-and-Care-Manager_2026-15948-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Head-of-Compliance-Governance---Reporting_2026-16088": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Brussels-area-Belgium/Regulatory-Reporting-Manager---Finance_2026-15664": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Technical-Consultant-and-Care-Manager_2026-15951": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/New-York-United-States/Key-Account-Manager_2026-16057": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Blockchain-Developer_2026-16041": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-HRBP_2026-16046": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Tysons-United-States/Senior-Automation-Engineer_2026-15749": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Beijing-China/Senior-Financial-Services-Industry-Consultant_2026-15810": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Data-Engineer_2026-15610": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Senior-Dev-Ops-Engineer_2026-16007": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Associate-Test-Engineer_2026-16008": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-SAP-Basis-Specialist_2026-15984": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-SAP-GRC-Specialist_2026-15983": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Blockchain-Developer_2026-15699": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Technical-Advisory-Consultant_2026-15808-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Technical-Advisory-Consultant_2026-15806": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Tysons-United-States/DevOps-Engineer_2026-15659": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Leiden-area-Netherlands/Lead-Dev-Systems-Engineer_2026-15516": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Senior-Pega-Software-Engineer--SSA-_2026-15409": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Lead-Pega-Software-Engineer--LSA-_2026-15544": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Kuala-Lumpur-Malaysia/Intern---Compliance-Specialist_2026-15344": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Sr-Software-Developer_2025-14841": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Blockchain-Developer_2026-15466": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1": {
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4631714005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4712282005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4681866005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4722131005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4721934005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4705514005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4708633005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4720327005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4713311005": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4641537005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4724258005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4719577005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4700274005": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4722381005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4703699005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4707163005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4670199005": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4672607005": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4678340005": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4679086005": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4666555005": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4666557005": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4700296005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4715321005": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4710332005": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4714981005": {
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.ashbyhq.com/trovy/fa7bbbcd-bd44-434a-ba43-f530e841182a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.ashbyhq.com/trovy/12da506c-0669-4133-9be2-09205c656a55": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.ashbyhq.com/trovy/9b3676e6-59a0-4614-a7a0-1da32bacaf4a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.ashbyhq.com/trovy/1fe0a57d-3bd8-42cd-b1a5-d5aa388ef7cf": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.ashbyhq.com/trovy/d1246fde-c273-4a20-9247-e5e3e1586255": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://jobs.ashbyhq.com/trovy/2da40f7a-6d47-4a0a-ba3b-83dd19e5c8a2": {
+      "status": "out-of-scope",
+      "reasonCode": "design-and-marketing-role-requires-design-portfolio",
+      "lastCheckedAt": "2026-08-29T10:08:05.127Z"
+    },
+    "https://job-boards.greenhouse.io/twitch/jobs/8748320002": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://job-boards.greenhouse.io/twitch/jobs/8751076002": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290": {
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-cycle",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://careers.roblox.com/jobs/8115917": {
+      "status": "hard-excluded",
+      "reasonCode": "explicitly-no-future-sponsorship",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://www.amazon.jobs/jobs/10515912": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-unavailable",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
+      "retryAfter": "2026-08-30T10:00:33.538-07:00"
+    },
+    "https://www.amazon.jobs/jobs/10501178": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-unavailable",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
+      "retryAfter": "2026-08-30T10:00:33.538-07:00"
+    },
+    "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb": {
+      "status": "hard-excluded",
+      "reasonCode": "explicitly-no-future-sponsorship",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors": {
+      "status": "hard-excluded",
+      "reasonCode": "explicitly-no-future-sponsorship",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
+      "retryAfter": "2026-08-30T10:00:33.538-07:00"
+    },
+    "https://careers.jhuapl.edu/jobs/59858?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-and-citizenship-clearance-restriction",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97": {
+      "status": "hard-excluded",
+      "reasonCode": "security-clearance-required",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+    },
+    "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors": {
+      "status": "preference-excluded",
+      "reasonCode": "core-embedded-tactical-radio-role",
+      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
     }
   }
 }

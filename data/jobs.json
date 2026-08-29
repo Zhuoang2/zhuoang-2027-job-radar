@@ -3853,7 +3853,7 @@
     "ageDays": 5,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-08-15T08:26:54-07:00",
-    "lastCheckedAt": "2026-08-15T08:26:54-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
@@ -4964,7 +4964,7 @@
     "ageDays": 22,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-29T08:03:05-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
@@ -7038,7 +7038,7 @@
     "ageDays": 13,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-08-10T08:17:30-07:00",
-    "lastCheckedAt": "2026-08-10T08:17:30-07:00",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
@@ -8745,7 +8745,7 @@
     "ageDays": 30,
     "source": "SimplifyJobs/New-Grad-Positions timing backfill",
     "firstSeenAt": "2026-07-29T00:00:00-07:00",
-    "lastCheckedAt": "2026-08-28T22:29:25.844Z",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
@@ -9245,7 +9245,7 @@
     "ageDays": 30,
     "source": "SimplifyJobs/New-Grad-Positions timing backfill",
     "firstSeenAt": "2026-07-29T00:00:00-07:00",
-    "lastCheckedAt": "2026-08-28T22:29:25.844Z",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
     "eligibility": "likely",
     "startTiming": "timing-check",
     "sponsorship": "unknown",
@@ -9264,6 +9264,312 @@
       "官网未说明 sponsorship/OPT 政策，保持 unknown"
     ],
     "applyUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
+    "status": "open"
+  },
+  {
+    "id": "solace-associate-data-engineer-college-grad-2027-7deb5d7e",
+    "canonicalUrl": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba",
+    "company": "Solace Health",
+    "role": "Associate Data Engineer (College Grad 2027)",
+    "location": "Redwood City, CA",
+    "ageDays": 0,
+    "source": "SimplifyJobs / Solace Health official careers",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "resumeTrack": "SWE / MLE-AI",
+    "reasons": [
+      "官方明确面向 2026 年 12 月至 2027 年 6 月毕业生",
+      "数据工程、ETL、SQL/Python 与机器学习数据管道经历高度匹配"
+    ],
+    "caveats": [
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba",
+    "status": "open"
+  },
+  {
+    "id": "micron-new-college-grad-software-engineer-jr109692",
+    "canonicalUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+    "company": "Micron Technology",
+    "role": "New College Grad - Software Engineer",
+    "location": "Boise, ID",
+    "ageDays": 2,
+    "source": "SimplifyJobs / Micron official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "resumeTrack": "SWE / MLE-AI",
+    "reasons": [
+      "官方 New College Grad 岗位，涵盖企业应用、数据平台及生成式与 Agentic AI",
+      "Python/SQL、云端 ETL、机器学习和生产数据系统经历高度匹配"
+    ],
+    "caveats": [
+      "官网未写明具体毕业年份或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+    "status": "open"
+  },
+  {
+    "id": "newsbreak-applied-ai-engineer-advertising-agents-new-grad-4700278006",
+    "canonicalUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+    "company": "NewsBreak",
+    "role": "Applied AI Engineer, Advertising Agents (New Grad)",
+    "location": "Mountain View, California, United States",
+    "ageDays": 32,
+    "source": "Official company careers",
+    "firstSeenAt": "2026-08-29T10:08:05.127Z",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官方全职 New Grad / Early Career 职位；具体 2027 年 7 月入职时间待核实",
+      "职责与 AI/ML、SWE/Data Infra 方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+    "status": "open"
+  },
+  {
+    "id": "newsbreak-newsbreak-venture-ai-growth-intelligence-engineer-new-grad-4694899006",
+    "canonicalUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
+    "company": "NewsBreak",
+    "role": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad）",
+    "location": "Mountain View, California, United States",
+    "ageDays": 32,
+    "source": "Official company careers",
+    "firstSeenAt": "2026-08-29T10:08:05.127Z",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官方全职 New Grad / Early Career 职位；具体 2027 年 7 月入职时间待核实",
+      "职责与 AI/ML、ML Systems、SWE/Data Infra 方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
+    "status": "open"
+  },
+  {
+    "id": "tebra-data-engineer-4710332005",
+    "canonicalUrl": "https://job-boards.greenhouse.io/tebra/jobs/4710332005",
+    "company": "Tebra",
+    "role": "Data Engineer",
+    "location": "United States - Remote",
+    "ageDays": 32,
+    "source": "Official company careers",
+    "firstSeenAt": "2026-08-29T10:08:05.127Z",
+    "lastCheckedAt": "2026-08-29T10:08:05.127Z",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官方全职 New Grad / Early Career 职位；具体 2027 年 7 月入职时间待核实",
+      "职责与 AI/ML、SWE/Data Infra 方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/tebra/jobs/4710332005",
+    "status": "open"
+  },
+  {
+    "id": "twitch-software-engineer-i-memberships-8748320002",
+    "canonicalUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+    "company": "Twitch",
+    "role": "Software Engineer I, Memberships",
+    "location": "San Francisco, CA",
+    "ageDays": 2,
+    "source": "SpeedyApply / Twitch official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 Software Engineer I 岗位，负责高并发会员与商业系统",
+      "后端、分布式系统和产品工程经历与岗位方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+    "status": "open"
+  },
+  {
+    "id": "twitch-software-engineer-i-memberships-8751076002",
+    "canonicalUrl": "https://job-boards.greenhouse.io/twitch/jobs/8751076002",
+    "company": "Twitch",
+    "role": "Software Engineer I, Memberships",
+    "location": "Seattle, WA",
+    "ageDays": 2,
+    "source": "SpeedyApply / Twitch official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 Software Engineer I 岗位，负责高并发会员与商业系统",
+      "后端、分布式系统和产品工程经历与岗位方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8751076002",
+    "status": "open"
+  },
+  {
+    "id": "defensestorm-junior-product-engineer-vi1cwubkq3",
+    "canonicalUrl": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+    "company": "DefenseStorm",
+    "role": "Junior Product Engineer | Software Engineer I",
+    "location": "Alpharetta / Atlanta, GA",
+    "ageDays": 0,
+    "source": "SimplifyJobs / DefenseStorm official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 Entry Level / SDE I 岗位，职责包含规格驱动开发、AI agent 协作与产品交付",
+      "软件工程、测试调试和 AI 系统项目经历与岗位匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+    "status": "open"
+  },
+  {
+    "id": "barry-wehmiller-entry-level-software-engineer-r022649",
+    "canonicalUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+    "company": "Barry-Wehmiller",
+    "role": "Entry Level Software Engineer",
+    "location": "Dallas, TX + 4 locations",
+    "ageDays": 1,
+    "source": "SimplifyJobs / Barry-Wehmiller official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 89,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 Entry Level 全职软件工程岗位，覆盖应用开发、集成和数据系统",
+      "Java/Python、云端数据管道和全栈项目经历与岗位匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+    "status": "open"
+  },
+  {
+    "id": "nightwing-software-engineer-i-jr101958",
+    "canonicalUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
+    "company": "Nightwing Intelligence Solutions",
+    "role": "Software Engineer I",
+    "location": "Sterling, VA",
+    "ageDays": 5,
+    "source": "SimplifyJobs / Nightwing official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 88,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 Software Engineer I 岗位接受低于两年经验，职责覆盖软件现代化和数据系统",
+      "Python/Java、分布式系统和云端工程经历与岗位方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
+    "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+    "applyUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
     "status": "open"
   }
 ]
