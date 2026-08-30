@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T00:29:26.357Z",
+  "checkedAt": "2026-08-30T10:08:23.420Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -16297,10 +16297,9 @@
       "lastCheckedAt": "2026-08-30T00:29:26.357Z"
     },
     "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
-      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
     },
     "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958": {
       "status": "admitted",
@@ -17399,10 +17398,9 @@
       "lastCheckedAt": "2026-08-30T00:29:26.357Z"
     },
     "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008": {
-      "status": "admitted",
-      "reasonCode": "verified-open-compatible-early-career",
-      "firstSeenAt": "2026-08-30T00:27:03.628Z",
-      "lastCheckedAt": "2026-08-30T00:29:26.357Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
     },
     "https://simplify.jobs/p/bf10a48d-c59f-4775-844e-c402c2ee86a7": {
       "status": "hard-excluded",
@@ -17469,6 +17467,256 @@
       "reasonCode": "source-indicates-closed-or-inactive",
       "firstSeenAt": "2026-08-30T00:27:03.628Z",
       "lastCheckedAt": "2026-08-30T00:29:26.357Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Instrumentation---Controls-Engineer_R022650": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/St-Louis-MO/Entry-Level-Project-Engineer--Food---Beverage_R022648": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Project-Management_R022647": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Le-Mans-France/Erodeur_R022111": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Construction_R022645": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Fire-Protection-Engineer_R022644": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Atlanta-GA/Entry-Level-Mechanical-Engineer--HVAC---Plumbing_R022643": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Portland-OR/Entry-Level-Electrical-Engineer--Power---Lighting_R022641": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Structural-Engineer_R022639": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/aak-Serbia/Operator-Saw_R022443-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/aak-Serbia/Assembler--Electrical-II_R022573": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/aak-Serbia/Painter--Production-II_R022566": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Concord-NH/Entry-Level-Process-Engineer_R022631": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX/Entry-Level-Architectural-Designer_R022627": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Remote---USA/Entry-level-Controls-Engineer---Data-Center_R022626": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Portland-OR/Entry-Level-Controls-Engineer--West---OR--NV--CA--AZ--OR--NV--WA-_R022624": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Spokane-WA/Electromechanical-Assembler-II_R022620": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Controls-Engineer--South---MD--GA--TX--SC--MO--NC-_R022617": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Philadelphia-PA/Entry-Level-Controls-Engineer--IL--IN--WI--OH--MN--NJ--PA-_R022616": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Le-Mans-France/Apprenti-Monteur_R022533": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Sacramento-CA/Project-Engineer_R022560": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Remote---USA/Field-Service-Techician_R022460-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Greenville-SC/Project-Accountant_R022523": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Bladel-Netherlands/Technical-Support-Representative_R022484": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Houston-TX/Project-Manager-II_R021576": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Hori-Switzerland/Technician--Electro-mechanical-I_R021739": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/San-Antonio-TX/Entry-Level-Controls-Engineer_R022421": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Abilene-TX-USA/Entry-Level-Controls-Engineer_R022390": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Architect-III_R022418": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Houston-TX/Instrumentation-and-Controls-Designer-II_R022417": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/St-Louis-MO/Director-of-Business-Development_R022240": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Puiseux-Pontoise-France/Apprenti-e--Monteur-euse--Assembleur-euse-_R022339": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Remote---USA/Regional-P-L-Leader--West_R022016": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Philadelphia-PA/Sr-Recruiter---Life-Science_R022283-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Nrtingen-Germany-Schlosserstrae/Customer-Service-Lead-Spares--m-w-d-_R022122": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Remote---USA/Regional-P-L-Leader--East_R022017": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Spokane-WA/Electrical-Assembler-I_R022013": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Philadelphia-PA/Senior-Project-Manager---Project-Development_R020000-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Remote---Germany/Bewerberpool-Initiativbewerbung_R021110": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Sterling-VA/Controls-Engineer---Data-Centers_R020303": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/St-Louis-MO/Associate_R020116": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dreieich-Sprendlingen-Germany/Accounting-Associate--m-f-d-_R019589": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Waukesha-WI/Mechanical-Engineering-Intern_R019366": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Phillips-WI/Mechanical-Engineering-Co-Op_R019365": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Spokane-WA/Welder-Fabricator-II-III--Swing-Shift-_R017645-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5384054008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5382737008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5183982008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
     }
   }
 }

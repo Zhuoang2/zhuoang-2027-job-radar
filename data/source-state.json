@@ -446,8 +446,8 @@
       },
       "company-careers": {
         "role": "official-company-expansion",
-        "cycleStatus": "completed-with-needs-review-and-deferred-catalog",
-        "lastCheckedAt": "2026-08-29T10:08:05.127Z",
+        "cycleStatus": "partially-complete-needs-review",
+        "lastCheckedAt": "2026-08-30T10:08:23.420Z",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1170,8 +1170,8 @@
             "GitHub": {
               "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Mackenzie Investments": {
@@ -1191,8 +1191,8 @@
             "Squarepoint Capital": {
               "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Aven": {
@@ -1475,8 +1475,8 @@
             "MSA Safety": {
               "publicCareersUrl": "https://msa.wd1.myworkdayjobs.com/MSA",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "HTTP 422 for https://msa.wd1.myworkdayjobs.com/wday/cxs/msa/MSA/jobs"
             },
             "Nexthop.ai": {
@@ -1608,15 +1608,15 @@
             "PathAI": {
               "publicCareersUrl": "https://www.pathai.com/join-our-team",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Precisely": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/precisely",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "HTTP 404 for https://boards-api.greenhouse.io/v1/boards/precisely/jobs?content=true"
             },
             "Rocket Companies / Redfin": {
@@ -1667,8 +1667,8 @@
             "D-Wave": {
               "publicCareersUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Maximor AI": {
@@ -1685,8 +1685,8 @@
             "Meta": {
               "publicCareersUrl": "https://www.metacareers.com/jobs/2145505832666693",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Snap Finance": {
@@ -1731,8 +1731,8 @@
             "Starbucks": {
               "publicCareersUrl": "https://starbucks.eightfold.ai/careers/job/481078166376",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "State Street": {
@@ -1766,15 +1766,15 @@
             "Knowledge Services": {
               "publicCareersUrl": "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Meyer Distributing": {
               "publicCareersUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "NewsBreak": {
@@ -1808,15 +1808,15 @@
             "SZNS Solutions": {
               "publicCareersUrl": "https://apply.workable.com/szns/j/D24DE0E111",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Talroo": {
               "publicCareersUrl": "https://www.talroo.com/careers?gh_jid=1003689",
               "status": "needs-review",
-              "lastAttemptAt": "2026-08-29T10:08:05.127Z",
-              "retryAfter": "2026-08-30T10:08:05.127Z",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Tebra": {
@@ -1847,6 +1847,67 @@
               "needsReviewCount": 0,
               "lastSuccessfulCheckAt": "2026-08-29T10:08:05.127Z",
               "nextDueAt": "2026-09-12T10:08:05.127Z"
+            },
+            "Barry-Wehmiller": {
+              "publicCareersUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+              "provider": "workday",
+              "status": "complete",
+              "inventoryCount": 47,
+              "inventoryHash": "f2ee3cae8fecb26184d19ab2889e1dbed4ce3ba293e5cff25bc3c6be457c9416",
+              "candidateCount": 1,
+              "needsReviewCount": 0,
+              "lastSuccessfulCheckAt": "2026-08-30T10:08:23.420Z",
+              "nextDueAt": "2026-09-13T10:08:23.420Z"
+            },
+            "DataVisor": {
+              "publicCareersUrl": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
+              "reason": "no-stable-public-full-catalog-api"
+            },
+            "DefenseStorm": {
+              "publicCareersUrl": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
+              "reason": "no-stable-public-full-catalog-api"
+            },
+            "Hoffman Construction": {
+              "publicCareersUrl": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1500",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "retryAfter": "2026-08-31T10:08:23.420Z",
+              "reason": "no-stable-public-full-catalog-api"
+            },
+            "Jabil": {
+              "publicCareersUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394",
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "reason": "catalog-over-200-openings"
+            },
+            "Micron Technology": {
+              "publicCareersUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "reason": "catalog-over-200-openings"
+            },
+            "Nightwing Intelligence Solutions": {
+              "publicCareersUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
+              "status": "deferred-large-catalog",
+              "lastAttemptAt": "2026-08-30T10:08:23.420Z",
+              "reason": "catalog-over-200-openings"
+            },
+            "Notability": {
+              "publicCareersUrl": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008",
+              "provider": "greenhouse",
+              "status": "complete",
+              "inventoryCount": 5,
+              "inventoryHash": "ebb88c8289dc4fa22588918ed478740929221b4e0df06e608a0d00ca765ffcf3",
+              "candidateCount": 0,
+              "needsReviewCount": 1,
+              "lastSuccessfulCheckAt": "2026-08-30T10:08:23.420Z",
+              "nextDueAt": "2026-09-13T10:08:23.420Z"
             }
           },
           "deferredLargeCompanies": [
@@ -2140,46 +2201,73 @@
               "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
               "firstDeferredAt": "2026-08-29T10:08:05.127Z",
               "lastObservedAt": "2026-08-29T10:08:05.127Z"
+            },
+            {
+              "company": "Jabil",
+              "publicCareersUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 1928,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-30T10:08:23.420Z",
+              "lastObservedAt": "2026-08-30T10:08:23.420Z"
+            },
+            {
+              "company": "Micron Technology",
+              "publicCareersUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 2782,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-30T10:08:23.420Z",
+              "lastObservedAt": "2026-08-30T10:08:23.420Z"
+            },
+            {
+              "company": "Nightwing Intelligence Solutions",
+              "publicCareersUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
+              "status": "deferred-large-catalog",
+              "catalogSizeObservation": 338,
+              "reason": "The official catalog exceeds the ordinary-run limit; no partial catalog was treated as complete.",
+              "firstDeferredAt": "2026-08-30T10:08:23.420Z",
+              "lastObservedAt": "2026-08-30T10:08:23.420Z"
             }
           ],
           "lastAttemptSummary": {
-            "checkedAt": "2026-08-29T10:08:05.127Z",
+            "checkedAt": "2026-08-30T10:08:23.420Z",
             "selectedCompanies": [
               "Squarepoint Capital",
+              "Barry-Wehmiller",
               "D-Wave",
-              "Datalab USA",
-              "General Matter",
+              "DataVisor",
+              "DefenseStorm",
               "GitHub",
+              "Hoffman Construction",
+              "Jabil",
               "Knowledge Services",
               "Meta",
               "Meyer Distributing",
+              "Micron Technology",
               "MSA Safety",
-              "NewsBreak",
+              "Nightwing Intelligence Solutions",
+              "Notability",
               "PathAI",
               "Precisely",
               "Starbucks",
-              "Stryker",
-              "Swift",
               "SZNS Solutions",
-              "Talroo",
-              "Tebra",
-              "Teserac",
-              "Trovy"
+              "Talroo"
             ],
             "status": "partially-complete-needs-review",
-            "completeAuditCount": 6,
-            "needsReviewCount": 13,
-            "deferredLargeCatalogCount": 1,
-            "admittedJobCount": 3,
+            "completeAuditCount": 2,
+            "needsReviewCount": 15,
+            "deferredLargeCatalogCount": 3,
+            "admittedJobCount": 0,
             "baselineAdvanced": true
           },
           "lastBatch": {
-            "checkedAt": "2026-08-29T10:08:05.127Z",
+            "checkedAt": "2026-08-30T10:08:23.420Z",
             "selectedCompanyCount": 20,
-            "completeAuditCount": 6,
-            "needsReviewCount": 13,
-            "deferredLargeCount": 1,
-            "admittedJobCount": 3,
+            "completeAuditCount": 2,
+            "needsReviewCount": 15,
+            "deferredLargeCount": 3,
+            "admittedJobCount": 0,
             "companies": [
               {
                 "company": "Squarepoint Capital",
@@ -2190,6 +2278,14 @@
                 "candidateCount": 0
               },
               {
+                "company": "Barry-Wehmiller",
+                "status": "complete",
+                "publicCareersUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+                "blocker": null,
+                "inventoryCount": 47,
+                "candidateCount": 1
+              },
+              {
                 "company": "D-Wave",
                 "status": "needs-review",
                 "publicCareersUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
@@ -2198,26 +2294,42 @@
                 "candidateCount": 0
               },
               {
-                "company": "Datalab USA",
-                "status": "complete",
-                "publicCareersUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply",
-                "blocker": null,
-                "inventoryCount": 11,
+                "company": "DataVisor",
+                "status": "needs-review",
+                "publicCareersUrl": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
                 "candidateCount": 0
               },
               {
-                "company": "General Matter",
-                "status": "complete",
-                "publicCareersUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
-                "blocker": null,
-                "inventoryCount": 115,
-                "candidateCount": 1
+                "company": "DefenseStorm",
+                "status": "needs-review",
+                "publicCareersUrl": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
               },
               {
                 "company": "GitHub",
                 "status": "needs-review",
                 "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
                 "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Hoffman Construction",
+                "status": "needs-review",
+                "publicCareersUrl": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1500",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Jabil",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394",
+                "blocker": "catalog-over-200-openings",
                 "inventoryCount": null,
                 "candidateCount": 0
               },
@@ -2246,6 +2358,14 @@
                 "candidateCount": 0
               },
               {
+                "company": "Micron Technology",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+                "blocker": "catalog-over-200-openings",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
                 "company": "MSA Safety",
                 "status": "needs-review",
                 "publicCareersUrl": "https://msa.wd1.myworkdayjobs.com/MSA",
@@ -2254,12 +2374,20 @@
                 "candidateCount": 0
               },
               {
-                "company": "NewsBreak",
+                "company": "Nightwing Intelligence Solutions",
+                "status": "deferred-large-catalog",
+                "publicCareersUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
+                "blocker": "catalog-over-200-openings",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Notability",
                 "status": "complete",
-                "publicCareersUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+                "publicCareersUrl": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008",
                 "blocker": null,
-                "inventoryCount": 42,
-                "candidateCount": 3
+                "inventoryCount": 5,
+                "candidateCount": 0
               },
               {
                 "company": "PathAI",
@@ -2286,22 +2414,6 @@
                 "candidateCount": 0
               },
               {
-                "company": "Stryker",
-                "status": "deferred-large-catalog",
-                "publicCareersUrl": "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340",
-                "blocker": "catalog-over-200-openings",
-                "inventoryCount": null,
-                "candidateCount": 0
-              },
-              {
-                "company": "Swift",
-                "status": "complete",
-                "publicCareersUrl": "https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1",
-                "blocker": null,
-                "inventoryCount": 108,
-                "candidateCount": 0
-              },
-              {
                 "company": "SZNS Solutions",
                 "status": "needs-review",
                 "publicCareersUrl": "https://apply.workable.com/szns/j/D24DE0E111",
@@ -2316,33 +2428,8 @@
                 "blocker": "no-stable-public-full-catalog-api",
                 "inventoryCount": null,
                 "candidateCount": 0
-              },
-              {
-                "company": "Tebra",
-                "status": "complete",
-                "publicCareersUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005",
-                "blocker": null,
-                "inventoryCount": 26,
-                "candidateCount": 2
-              },
-              {
-                "company": "Teserac",
-                "status": "needs-review",
-                "publicCareersUrl": "https://apply.workable.com/teserac-inc/j/6DB18627C3",
-                "blocker": "no-stable-public-full-catalog-api",
-                "inventoryCount": null,
-                "candidateCount": 0
-              },
-              {
-                "company": "Trovy",
-                "status": "complete",
-                "publicCareersUrl": "https://jobs.ashbyhq.com/trovy/952381a5-607c-4470-8a97-1c7a8c48c2f0",
-                "blocker": null,
-                "inventoryCount": 6,
-                "candidateCount": 0
               }
-            ],
-            "candidateCount": 6
+            ]
           },
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
@@ -2402,27 +2489,27 @@
           }
         },
         "note": "Today's bounded 20-company queue was actually audited: 6 catalogs were completely enumerated, 13 companies have specific public-access or indexing blockers, and Stryker was deferred because its catalog exceeds 200 openings. Directional filtering retained 6 plausible candidates and admitted 3 new cards; no partial catalog was treated as complete.",
-        "lastSuccessfulCheckAt": "2026-08-29T10:08:05.127Z"
+        "lastSuccessfulCheckAt": "2026-08-30T10:08:23.420Z"
       },
       "speedyapply": {
         "role": "primary",
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027-with-row-level-timing-check",
-        "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+        "lastCheckedAt": "2026-08-30T10:00:56.631Z",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 123,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 7,
+          "addedIdentityCount": 0,
           "changedUrlCount": 0,
           "changedContentCount": 0,
-          "removedSourceEntryCount": 5,
-          "upstreamCommit": "d675e2e84ae61a1190f475d39f7c9006a179bad2",
+          "removedSourceEntryCount": 0,
+          "upstreamCommit": "027ad2061f258f704322c293a36c0f892d0daf3e",
           "neverSeenIdentityCount": 14,
           "historicalReappearanceCount": 0,
-          "rawAddedUrlCount": 7,
-          "rawRemovedUrlCount": 5,
+          "rawAddedUrlCount": 0,
+          "rawRemovedUrlCount": 0,
           "current60DayEntryCount": 123,
           "current60DayCandidateCanonicalUrls": [
             "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
@@ -2547,16 +2634,16 @@
           "backfillStatus": "complete",
           "historyWindowAdditionCount": 277
         },
-        "note": "The incremental comparison found 7 additions, 5 removals, and 0 same-URL material changes. Official verification admitted compatible 2027/timing-check roles and recorded each duplicate, exclusion, or retryable gap separately.",
+        "note": "The incremental comparison found 0 additions, 0 removals, and 0 same-URL/ID material changes.",
         "status": "complete",
-        "lastSuccessfulCheckAt": "2026-08-29T10:00:33.538-07:00"
+        "lastSuccessfulCheckAt": "2026-08-30T10:00:56.631Z"
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
-        "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+        "lastCheckedAt": "2026-08-30T10:00:56.631Z",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-timing-check-admission",
           "entryCount": 238,
@@ -2817,9 +2904,9 @@
           "removedSourceEntryCount": 0,
           "changedContentCount": 0
         },
-        "note": "The incremental comparison found 0 additions, 0 removals, and 0 same-URL material changes.",
+        "note": "The incremental comparison found 0 additions, 0 removals, and 0 same-URL/ID material changes; the upstream commit is unchanged.",
         "status": "complete",
-        "lastSuccessfulCheckAt": "2026-08-29T10:00:33.538-07:00"
+        "lastSuccessfulCheckAt": "2026-08-30T10:00:56.631Z"
       },
       "simplifyjobs": {
         "role": "monitor",
@@ -2827,10 +2914,10 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
-        "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+        "lastCheckedAt": "2026-08-30T10:00:56.631Z",
         "baseline": {
           "mode": "mixed-cycle-row-level-timing-evaluation",
-          "entryCount": 411,
+          "entryCount": 410,
           "seenCandidateCanonicalUrls": [
             "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
             "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
@@ -3337,19 +3424,19 @@
             "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97",
             "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors"
           ],
-          "addedEntryCount": 24,
+          "addedEntryCount": 0,
           "observedUnconfirmedEntryCount": 6,
           "observedNewEntryCount": 7,
-          "removedSourceEntryCount": 17,
-          "upstreamCommit": "be8f82aeaa91c8776b013d6f0ceb4efb56cdfe4e",
+          "removedSourceEntryCount": 1,
+          "upstreamCommit": "29f3d5e61c75cc42ac4b206d9b80dbea37775201",
           "changedContentCount": 0,
           "current60DayEntryCount": 505,
           "backfillStatus": "complete",
           "observedExplicit2027EntryCount": 7,
-          "duplicateCount": 1,
-          "hardExcludedCount": 13,
-          "outOfScopeCount": 3,
-          "preferenceExcludedCount": 1,
+          "duplicateCount": 0,
+          "hardExcludedCount": 0,
+          "outOfScopeCount": 0,
+          "preferenceExcludedCount": 0,
           "historyWindowAdditionCount": 279,
           "timingPolicyCorrection": {
             "status": "complete",
@@ -3361,15 +3448,15 @@
           },
           "retryableCandidateCount": 5
         },
-        "note": "The mixed-cycle incremental comparison found 24 additions, 17 removals, and 0 same-URL material changes after excluding age and placeholder-only edits. Each new row received official, row-level timing and eligibility review.",
+        "note": "The mixed-cycle incremental comparison found 0 additions, 1 removal, and 0 same-URL/ID material changes. The removed RTX source row had no retained Job Radar card, so no official-closure removal was required.",
         "status": "complete",
-        "lastSuccessfulCheckAt": "2026-08-29T10:00:33.538-07:00"
+        "lastSuccessfulCheckAt": "2026-08-30T10:00:56.631Z"
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
-        "cycleStatus": "incremental-email-scan-complete-with-official-needs-review",
-        "lastCheckedAt": "2026-08-30T00:29:26.357Z",
+        "cycleStatus": "incremental-email-regression-verified-with-official-needs-review",
+        "lastCheckedAt": "2026-08-30T10:00:56.631Z",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
           "entryCount": 1615,
@@ -5007,8 +5094,18 @@
           "outOfScopeCount": 73,
           "preferenceExcludedCount": 3
         },
-        "note": "The Gmail connector response parser now reads the direct structuredContent.emails and structuredContent.message_ids arrays. The August 27-29 America/Los_Angeles windows were rescanned successfully: three messages and 159 public job links were processed; no mailbox metadata was persisted.",
-        "status": "complete-with-needs-review"
+        "note": "The August 29 regression window matched one SWELIST message and the direct connector arrays parsed correctly. Full-body extraction produced exactly 40 normalized public job links; all 40 were already present in the public baseline, so no duplicate cards or dispositions were created. Two previously identified official-page candidates remain retryable needs-review items.",
+        "status": "complete-with-needs-review",
+        "lastSuccessfulCheckAt": "2026-08-30T10:00:56.631Z",
+        "lastRunSummary": {
+          "windowStart": "2026-08-29",
+          "windowEndExclusive": "2026-08-30",
+          "matchedMessageCount": 1,
+          "extractedPublicLinkCount": 40,
+          "priorRepeatCount": 40,
+          "newCandidateUrlCount": 0,
+          "admittedJobCount": 0
+        }
       }
     },
     "sourceMentions": {
@@ -7304,6 +7401,7 @@
         "swelist-email"
       ],
       "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649": [
+        "company-careers",
         "simplifyjobs"
       ],
       "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692": [
@@ -7334,6 +7432,7 @@
         "swelist-email"
       ],
       "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008": [
+        "company-careers",
         "swelist-email"
       ],
       "https://simplify.jobs/p/053c7987-6469-4ab8-b5d7-cdf305153c29": [
@@ -11625,15 +11724,15 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 3187,
-      "lastCheckedAt": "2026-08-30T00:29:26.357Z",
+      "entryCount": 3237,
+      "lastCheckedAt": "2026-08-30T10:08:23.420Z",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
-  "scanStatus": "needs-review",
-  "lastScanStartedAt": "2026-08-29T10:00:33.538-07:00",
-  "lastSuccessfulScanAt": "2026-08-30T00:29:26.357Z",
-  "lastSourceUpdatedAt": "2026-08-29T10:00:33.538-07:00",
+  "scanStatus": "complete-with-needs-review",
+  "lastScanStartedAt": "2026-08-30T10:00:56.631Z",
+  "lastSuccessfulScanAt": "2026-08-30T10:08:23.420Z",
+  "lastSourceUpdatedAt": "2026-08-30T10:08:23.420Z",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
@@ -13364,7 +13463,7 @@
     "https://www.amazon.jobs/jobs/10501178"
   ],
   "baselineEntryCount": 1727,
-  "lastCheckedAt": "2026-08-30T00:29:26.357Z",
-  "lastSuccessfulRunAt": "2026-08-30T00:29:26.357Z",
+  "lastCheckedAt": "2026-08-30T10:08:23.420Z",
+  "lastSuccessfulRunAt": "2026-08-30T10:08:23.420Z",
   "lastRunStatus": "complete-with-needs-review"
 }
