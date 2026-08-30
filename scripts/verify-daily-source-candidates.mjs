@@ -11,7 +11,7 @@ const deltas = await Promise.all(inputPaths.map((path) => readFile(path, "utf8")
 function canonicalUrl(value) {
   const url = new URL(value);
   for (const key of [...url.searchParams.keys()]) {
-    if (/^(?:utm_|gh_src|source|ref|iis|iisn|lever-source|__jv|trk|tracking|ats|mobile|needsRedirect)$/i.test(key)) {
+    if (/^(?:utm_.*|gh_src|source|ref|iis|iisn|lever-source|__jv.*|trk|tracking|ats|mobile|needsRedirect)$/i.test(key)) {
       url.searchParams.delete(key);
     }
   }

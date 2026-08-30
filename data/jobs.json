@@ -9571,5 +9571,216 @@
     "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
     "applyUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
     "status": "open"
+  },
+  {
+    "id": "tiktok-mle-ecommerce-recommendation-video-2027-7678145401619237173",
+    "canonicalUrl": "https://lifeattiktok.com/search/7678145401619237173",
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start",
+    "location": "Seattle, WA",
+    "ageDays": 2,
+    "source": "SWELIST / TikTok official careers",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方明确 2027 Start，职责覆盖电商视频推荐、排序建模和大规模机器学习系统",
+      "推荐系统、强化学习、模型评估和大规模数据管道经历高度匹配"
+    ],
+    "caveats": [
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7678145401619237173",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
+  },
+  {
+    "id": "jabil-bi-analyst-developer-i-j2462394",
+    "canonicalUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394",
+    "company": "Jabil",
+    "role": "Business Intelligence Analyst and Developer I",
+    "location": "Tampa / St. Petersburg, FL",
+    "ageDays": 2,
+    "source": "SWELIST / Jabil official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "resumeTrack": "MLE/AI / Data Infra",
+    "reasons": [
+      "官方 0–2 年岗位结合 Python、SQL、Power BI、AWS Bedrock 与生成式 AI 分析应用",
+      "云端数据管道、机器学习和生产数据分析经历与岗位需求匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
+  },
+  {
+    "id": "datavisor-data-scientist-fraud-detection-84fbc84e52",
+    "canonicalUrl": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
+    "company": "DataVisor",
+    "role": "Data Scientist - Fraud Detection",
+    "location": "Mountain View, CA",
+    "ageDays": 2,
+    "source": "SWELIST / DataVisor official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "AI/ML"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方 Entry-Level 数据科学岗位聚焦欺诈检测、异常识别、预测模型和大规模交易数据",
+      "Stanford 计算与数学工程硕士、模型评估、Python/SQL 和风险建模经历高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "申请表询问未来 sponsorship，但未说明公司政策，保持 unknown"
+    ],
+    "applyUrl": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
+  },
+  {
+    "id": "hoffman-construction-data-scientist-1-1500",
+    "canonicalUrl": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1500",
+    "company": "Hoffman Construction",
+    "role": "Data Scientist 1",
+    "location": "Portland, OR",
+    "ageDays": 2,
+    "source": "SWELIST / Hoffman Construction official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 94,
+    "directions": [
+      "AI/ML"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方明确 Entry-Level，职责覆盖 EDA、特征工程、机器学习建模、Python/R 和 Power BI",
+      "大规模数据分析、模型评估与可复现数据管道经历可以直接迁移"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1500",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
+  },
+  {
+    "id": "apple-software-engineer-early-career-frontend-200680752-0157",
+    "canonicalUrl": "https://jobs.apple.com/en-us/details/200680752-0157/software-engineer-early-career-front-end",
+    "company": "Apple",
+    "role": "Software Engineer - Early Career (Front-end)",
+    "location": "Austin, TX / Cupertino, CA",
+    "ageDays": 1,
+    "source": "SWELIST / Apple official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 Early Career 岗位要求 React、TypeScript、Node.js、REST/GraphQL 和自动化测试",
+      "ATLAS 全栈经历、React/Node.js 项目与软件工程技能高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://jobs.apple.com/en-us/details/200680752-0157/software-engineer-early-career-front-end",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
+  },
+  {
+    "id": "tiktok-mle-ecommerce-knowledge-graph-2027-7679156878833682693",
+    "canonicalUrl": "https://lifeattiktok.com/search/7679156878833682693",
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start",
+    "location": "San Jose, CA",
+    "ageDays": 0,
+    "source": "SWELIST / TikTok official careers",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 98,
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方明确 2027 Start，职责聚焦电商知识图谱、语义建模和机器学习工程",
+      "LLM、推荐系统、图结构数据和大规模训练数据经历高度匹配"
+    ],
+    "caveats": [
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://lifeattiktok.com/search/7679156878833682693",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
+  },
+  {
+    "id": "notability-backend-engineer-5410136008",
+    "canonicalUrl": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008",
+    "company": "Notability",
+    "role": "Engineer, Backend",
+    "location": "San Francisco, CA",
+    "ageDays": 0,
+    "source": "SWELIST / Notability official careers",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方明确 Early Career，负责 API、数据库、可扩展后端系统和稳定可测试代码",
+      "Node.js、云平台、Docker、分布式系统和 AI agent 项目经历与加分项高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网只询问 sponsorship，未公开具体政策，保持 unknown"
+    ],
+    "applyUrl": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008",
+    "status": "open",
+    "firstSeenAt": "2026-08-30T00:27:03.628Z",
+    "lastCheckedAt": "2026-08-30T00:27:03.628Z"
   }
 ]

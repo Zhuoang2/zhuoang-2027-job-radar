@@ -323,6 +323,18 @@
       {
         "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors",
         "reason": "Official verification: core-embedded-tactical-radio-role."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1423952700",
+        "reason": "Official verification: core-embedded-software-role."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610-1839/1424037300",
+        "reason": "Official verification: core-embedded-tactical-radio-role."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1424473800",
+        "reason": "Official verification: core-embedded-tactical-radio-role."
       }
     ],
     "sources": {
@@ -3356,11 +3368,11 @@
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
-        "cycleStatus": "needs-review-empty-result-awaiting-manual-confirmation",
-        "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+        "cycleStatus": "incremental-email-scan-complete-with-official-needs-review",
+        "lastCheckedAt": "2026-08-30T00:29:26.357Z",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
-          "entryCount": 1456,
+          "entryCount": 1615,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/00592559-74bf-4659-b573-2b630465cfc8",
             "https://simplify.jobs/p/00b35da0-c4cc-49e0-8c0c-81457f3767d9",
@@ -3372,6 +3384,7 @@
             "https://simplify.jobs/p/01e96f8b-3039-4c34-807c-eb95ca76fd52",
             "https://simplify.jobs/p/01f94fe8-2e33-469f-bcf0-042318fee140",
             "https://simplify.jobs/p/01fb5702-b0a0-461a-8f55-9947b864709a",
+            "https://simplify.jobs/p/02401fd0-e513-4463-af92-6aeec9a13974",
             "https://simplify.jobs/p/0246d3d7-d3de-4cf6-bc3f-8ac9c5868c4c",
             "https://simplify.jobs/p/0247b49e-38be-4728-a3dc-e13bc968939d",
             "https://simplify.jobs/p/025d3284-8d03-4fa6-aab3-067596ccb178",
@@ -3386,6 +3399,7 @@
             "https://simplify.jobs/p/04471955-54a1-4da0-8036-fc2b9f5c143a",
             "https://simplify.jobs/p/0483a44f-f140-427e-a301-9d87c2344515",
             "https://simplify.jobs/p/048a4ff3-3e1e-4263-befe-a0355b1afce4",
+            "https://simplify.jobs/p/053c7987-6469-4ab8-b5d7-cdf305153c29",
             "https://simplify.jobs/p/05682247-6baa-44b1-bcaf-d5d5becfd2e5",
             "https://simplify.jobs/p/05907ddc-a984-4b76-88f3-e3a1de4c4425",
             "https://simplify.jobs/p/05af1047-7680-4628-b07a-4f46fee4e9d7",
@@ -3395,6 +3409,7 @@
             "https://simplify.jobs/p/06753993-8ac8-46f8-95a2-773c488a8d07",
             "https://simplify.jobs/p/067a35d4-40e1-4bbd-9e22-956a8a7ec3ad",
             "https://simplify.jobs/p/071ed622-765f-4844-a5d5-2482916aec1e",
+            "https://simplify.jobs/p/073ed6df-77d7-4302-a76b-a711464e699e",
             "https://simplify.jobs/p/077176ea-84be-43ad-9204-26626feaa4df",
             "https://simplify.jobs/p/07afa69b-b29f-4ad6-9c89-3dcd26e8bec5",
             "https://simplify.jobs/p/07c10a29-94ab-4223-bb97-af5572d30bc6",
@@ -3409,6 +3424,7 @@
             "https://simplify.jobs/p/0894b57c-6a8a-4e77-89b6-98e9c0efdf39",
             "https://simplify.jobs/p/0897164b-3e59-470f-acf6-7c040c6363bc",
             "https://simplify.jobs/p/08a02c02-3528-4423-9e11-3726b0c1a09e",
+            "https://simplify.jobs/p/08b99270-74f2-4861-83ed-68f7ac35d850",
             "https://simplify.jobs/p/08cca5ea-66d4-4c06-bc78-8aa1c6a832e4",
             "https://simplify.jobs/p/08ef2cb1-d690-428a-8b19-ffef263fa20e",
             "https://simplify.jobs/p/0911d4b2-2fef-48c0-a533-4ce070821e3c",
@@ -3437,6 +3453,7 @@
             "https://simplify.jobs/p/0c0e98e9-17b7-4035-b381-670534175dff",
             "https://simplify.jobs/p/0c0f9b3d-3595-41d8-ab66-e5a09f90b22d",
             "https://simplify.jobs/p/0c44aff1-fe50-499e-ae25-491625161220",
+            "https://simplify.jobs/p/0c52ac87-ed9d-4a07-9003-ce0fbcfba817",
             "https://simplify.jobs/p/0c670f1e-4360-480d-9023-b1bfad85c99f",
             "https://simplify.jobs/p/0c6f879e-b3f8-47f4-85ed-ababb0e44d80",
             "https://simplify.jobs/p/0cd03db8-9364-4a6d-803e-c1c724f5f289",
@@ -3445,6 +3462,7 @@
             "https://simplify.jobs/p/0d297414-2fd2-4f5b-92f2-1dbeef103836",
             "https://simplify.jobs/p/0d471c98-a58e-40e3-a4d9-a332bfbec196",
             "https://simplify.jobs/p/0db410bd-2e98-4085-8c98-e2d9c6e4dfee",
+            "https://simplify.jobs/p/0dcc5662-3e2f-46d3-ba5f-bd817118855d",
             "https://simplify.jobs/p/0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
             "https://simplify.jobs/p/0e79e8bc-db11-456f-97e4-54fea42c6715",
             "https://simplify.jobs/p/0e90651f-2008-4290-b336-a660bb4398af",
@@ -3452,8 +3470,10 @@
             "https://simplify.jobs/p/0e9e78f5-653e-4e42-bda0-7183bbd7045a",
             "https://simplify.jobs/p/0eb68fc3-5ce8-4412-ad8c-668694d9782d",
             "https://simplify.jobs/p/0f5bb908-9ac8-4a97-b45d-0ad47f7cd13b",
+            "https://simplify.jobs/p/0f94673d-ad63-443b-b316-2c5a32b269a9",
             "https://simplify.jobs/p/0f9c77ed-f654-499d-9764-6f6986f8ab2c",
             "https://simplify.jobs/p/0fa9b5b7-2e6d-4c52-8478-b08cf2443053",
+            "https://simplify.jobs/p/107cf100-bd38-4d8f-8f2d-c55e7a97bcbe",
             "https://simplify.jobs/p/108a96d8-0abd-4fba-a1ec-8a0c1c5f47cc",
             "https://simplify.jobs/p/10b86339-8ef4-40c4-b77c-670f4bddbc69",
             "https://simplify.jobs/p/10b86339-8ef4-40cf-bb64-b4adad89513d",
@@ -3465,8 +3485,10 @@
             "https://simplify.jobs/p/1169bc21-fa23-40ca-a33d-bc5c23912da9",
             "https://simplify.jobs/p/11abb821-cce3-459b-ac41-9012253c7090",
             "https://simplify.jobs/p/12123a97-3eff-4366-ba05-a133f3ff3553",
+            "https://simplify.jobs/p/124ba47c-7dd9-4556-9940-a7ff02138433",
             "https://simplify.jobs/p/1293956c-e2b6-4ab2-865b-a627ed10e56d",
             "https://simplify.jobs/p/1298b443-28f2-4d31-9110-7a09d55bb4a9",
+            "https://simplify.jobs/p/12a3b7d1-090a-40ac-aa68-6b353cf34dc1",
             "https://simplify.jobs/p/130ccca5-1ae3-4f78-812d-9e441747f78c",
             "https://simplify.jobs/p/1356bccf-812b-4aec-bc0e-77f74393868f",
             "https://simplify.jobs/p/135dd828-d886-4d9d-b74f-87c7e0c988cb",
@@ -3481,9 +3503,11 @@
             "https://simplify.jobs/p/14a90f50-6be6-4afd-8fb8-e8de804afe10",
             "https://simplify.jobs/p/14aa1053-c2d3-428a-948e-629ae8f879ac",
             "https://simplify.jobs/p/14ae7761-228c-4e0f-be7d-d778f9a86d4d",
+            "https://simplify.jobs/p/1514b60c-c4ff-48cc-a845-e1678e359779",
             "https://simplify.jobs/p/15352be8-eac0-4dd3-8257-571a0fab079f",
             "https://simplify.jobs/p/15d7c999-27e0-4216-a992-2ab4567f9cd7",
             "https://simplify.jobs/p/161eebf9-e3e8-494d-b2d2-2cf568885d77",
+            "https://simplify.jobs/p/1632dafb-504e-4866-820f-8dda5d003199",
             "https://simplify.jobs/p/1654b231-0156-41b1-80d3-e2a0152dc6e9",
             "https://simplify.jobs/p/167762d6-af17-4e7f-bea6-cf7ca8facdde",
             "https://simplify.jobs/p/1684b5f7-9d7b-4b05-a2f1-4335f8426ec4",
@@ -3503,24 +3527,30 @@
             "https://simplify.jobs/p/1857df4e-de24-4423-8bd0-99dd5371717e",
             "https://simplify.jobs/p/1887b494-3e3f-431a-8c6f-2a8129764087",
             "https://simplify.jobs/p/18b8daf1-9e8d-49a4-a43d-8c158de41c53",
+            "https://simplify.jobs/p/18c2c157-bced-43b1-9b2e-b9718a794559",
             "https://simplify.jobs/p/18e35cce-5d04-41b7-b712-308ca67d4c91",
             "https://simplify.jobs/p/19296dcc-e791-4435-a8bb-51dd5490cbfe",
+            "https://simplify.jobs/p/19423ddb-b968-40b7-a070-c0803cc4ba52",
             "https://simplify.jobs/p/1970a20b-652d-4272-8755-26ad35432a5b",
             "https://simplify.jobs/p/19b37e51-2041-4d10-a23e-d342a6b7f791",
             "https://simplify.jobs/p/19c23080-5f10-41a8-810d-f634d37307d6",
             "https://simplify.jobs/p/1a6e1243-653e-4c44-9a87-789030cb51a3",
             "https://simplify.jobs/p/1a7c6a9c-0eb2-4e5b-b0a1-345fc1d5569d",
             "https://simplify.jobs/p/1a85985f-01cb-4170-8fde-a4651581ff65",
+            "https://simplify.jobs/p/1add3426-ab0d-407a-9e68-5227d97d754d",
             "https://simplify.jobs/p/1b072285-49c1-4f27-a37f-d7fa58045e21",
             "https://simplify.jobs/p/1b19f544-bada-4297-8147-46d2ae6afe4d",
             "https://simplify.jobs/p/1b2d5e3a-9ab3-42a9-ab25-8ade9c457825",
             "https://simplify.jobs/p/1b82daa4-364d-422a-8477-8565651b1158",
+            "https://simplify.jobs/p/1b983bc8-7373-4f39-b3b4-7e83afe75b16",
+            "https://simplify.jobs/p/1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4",
             "https://simplify.jobs/p/1bd6de3a-14ad-41a7-8735-bc978a982b66",
             "https://simplify.jobs/p/1bdb364e-aace-4471-b0b1-9ba4a47de7af",
             "https://simplify.jobs/p/1bf4a67e-16ac-4465-bb86-b325834f6ac1",
             "https://simplify.jobs/p/1c48a615-424d-40fa-89b5-62e31990980c",
             "https://simplify.jobs/p/1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
             "https://simplify.jobs/p/1c88f911-2f0f-4b1b-9b29-04f75ea42543",
+            "https://simplify.jobs/p/1cc427ac-1651-4d75-8f48-d834741f4e00",
             "https://simplify.jobs/p/1cc58798-4a64-45ce-a9b1-f7225d6d1a68",
             "https://simplify.jobs/p/1d1eaea3-018d-4904-b3fe-43da7bb43faa",
             "https://simplify.jobs/p/1d3e2472-9db6-4a89-bd75-41e4897d497d",
@@ -3528,11 +3558,16 @@
             "https://simplify.jobs/p/1d6917cc-c2ac-4a2b-8ffc-9e08ecc68f64",
             "https://simplify.jobs/p/1d7f8877-9386-42ef-b847-cab4b072a46e",
             "https://simplify.jobs/p/1d98facd-3146-4dfa-9668-a3bee8dd05f8",
+            "https://simplify.jobs/p/1dc45232-46ac-41cb-b13c-4cb7493ff849",
             "https://simplify.jobs/p/1e098824-6a50-4571-a1b8-3d3c30c1ae57",
             "https://simplify.jobs/p/1e1ccc4f-abdd-407e-9184-e7722acd51eb",
             "https://simplify.jobs/p/1e4e937c-cef0-4670-861d-a542daf1e8c0",
             "https://simplify.jobs/p/1e5443b7-9106-40cd-ace8-a45d3bfe8afe",
             "https://simplify.jobs/p/1e5ab0ea-1864-4dac-b3a0-480ec705e25b",
+            "https://simplify.jobs/p/1eabfd94-8044-45d0-b6af-00df94bccac9",
+            "https://simplify.jobs/p/1ed0d67f-c05f-4cc9-bf79-9c13b1a17811",
+            "https://simplify.jobs/p/1ede9089-dee4-4fd0-9c72-50b3825fe866",
+            "https://simplify.jobs/p/1eee8b28-4b50-4d6f-9db1-48e016b66ed2",
             "https://simplify.jobs/p/1f1dde48-a701-40c2-b7e9-f7306c5fb5ef",
             "https://simplify.jobs/p/1f2bf4b5-3f79-48a6-a9df-947ef666ee29",
             "https://simplify.jobs/p/1f3302b8-c4f2-4812-a925-b3495df2d104",
@@ -3552,6 +3587,7 @@
             "https://simplify.jobs/p/2141f545-fe59-4209-aed0-1daffb5bd686",
             "https://simplify.jobs/p/216c4819-143c-4b42-9f63-fd3bbfe79a89",
             "https://simplify.jobs/p/21a87bd3-3069-4bbe-9641-a5c2f04cdadb",
+            "https://simplify.jobs/p/21dc7236-2495-4c4d-93a4-22cc6acac928",
             "https://simplify.jobs/p/21fa8378-009a-49b3-9c0b-4802b22d4801",
             "https://simplify.jobs/p/22158ccb-39d8-4d56-8b2f-46828624cdea",
             "https://simplify.jobs/p/22286d2e-ab8f-421b-9e32-02038a5bffa4",
@@ -3559,6 +3595,7 @@
             "https://simplify.jobs/p/223fbdf3-1b1a-4d1e-b9c7-de2234eec1d6",
             "https://simplify.jobs/p/2248f171-9493-45ea-a49d-ad059b8be5c5",
             "https://simplify.jobs/p/225c073c-c7cc-420b-a859-6c087a72388a",
+            "https://simplify.jobs/p/22c1325e-0afd-47f3-910f-bf0e15ff82ce",
             "https://simplify.jobs/p/22db1e76-3f50-4552-ba37-147da57c3ac2",
             "https://simplify.jobs/p/22f7250b-258e-431c-af1b-a4fec83d9665",
             "https://simplify.jobs/p/23215ce7-ac6e-4a84-aedd-b6a33c7cd2f7",
@@ -3583,6 +3620,7 @@
             "https://simplify.jobs/p/27789793-6af1-43b7-9cd5-e384f26e6e66",
             "https://simplify.jobs/p/278a72fd-deee-499f-95a7-ca3784540a5b",
             "https://simplify.jobs/p/279e377c-2072-4fa1-a807-724ccf72f78f",
+            "https://simplify.jobs/p/27adfd63-7ab1-4e67-8950-da5df8534093",
             "https://simplify.jobs/p/27f47499-66c7-4824-95ed-b65a16d3438a",
             "https://simplify.jobs/p/2809c412-027a-46b1-83e3-20ca7d2532eb",
             "https://simplify.jobs/p/2841155f-a6b5-417e-850c-c1fc194c2d3c",
@@ -3605,6 +3643,7 @@
             "https://simplify.jobs/p/2b6d19b2-5e4c-4018-b2df-82d476049a13",
             "https://simplify.jobs/p/2b8eaba7-6f38-4420-a729-c5e420e4ae70",
             "https://simplify.jobs/p/2bba0fd8-a19f-4bc4-be98-e3237e625a1a",
+            "https://simplify.jobs/p/2c1a920f-ed76-4384-9a74-6cf0d01a9123",
             "https://simplify.jobs/p/2c2eb6e8-d129-4384-bdce-cdd5ba022bfc",
             "https://simplify.jobs/p/2c4cd783-a87f-4ae3-a4b9-d3197edaf47e",
             "https://simplify.jobs/p/2c69b87b-a3b9-4a6c-b179-1e31b348731a",
@@ -3631,6 +3670,7 @@
             "https://simplify.jobs/p/2fcdc059-c4b2-417a-a22c-e3d03670e0b1",
             "https://simplify.jobs/p/2fd8f741-3b7d-4a3e-a247-af84535dec8f",
             "https://simplify.jobs/p/2ff916d3-3671-4e8e-a5df-485dc5048bba",
+            "https://simplify.jobs/p/30079eba-ff8a-4333-9c3c-42e52e72087e",
             "https://simplify.jobs/p/305c88f1-71fe-42aa-a836-a22087066e85",
             "https://simplify.jobs/p/30600f27-6e64-4519-9d2a-ea875352b5eb",
             "https://simplify.jobs/p/3061f63a-c31f-410b-ac47-d6eb5e6299b1",
@@ -3672,6 +3712,7 @@
             "https://simplify.jobs/p/38224599-12f2-43b5-aa53-a54aa26060ef",
             "https://simplify.jobs/p/38bea890-dde6-419d-ac75-293198f586c5",
             "https://simplify.jobs/p/38c27a23-7876-45aa-b3c9-dc90974d6625",
+            "https://simplify.jobs/p/394a7b1a-ddab-4982-85f7-67d8850d4424",
             "https://simplify.jobs/p/39639fa7-e69d-4585-b0bc-0bfe69452b6d",
             "https://simplify.jobs/p/397206bf-1d9c-42ad-ab36-b7e8d541ad2b",
             "https://simplify.jobs/p/397cafb0-369c-47fd-8c4e-e641e4ecd653",
@@ -3682,6 +3723,7 @@
             "https://simplify.jobs/p/39d9b269-0240-45be-82e9-74737c54d8fb",
             "https://simplify.jobs/p/39f8a5fb-c056-4d0f-8325-830b6ca2205d",
             "https://simplify.jobs/p/3a2b046a-f039-4025-8c40-df8120fd431d",
+            "https://simplify.jobs/p/3a8f3f9e-f790-4099-a085-68785a37feef",
             "https://simplify.jobs/p/3ad6da02-7c30-41b3-8959-9c636059dfcc",
             "https://simplify.jobs/p/3b1f3732-86ae-4360-817d-59e34acf6685",
             "https://simplify.jobs/p/3b5617c1-0415-4431-bba4-9637d77d8089",
@@ -3707,6 +3749,7 @@
             "https://simplify.jobs/p/3dbcee54-b89f-4ded-a74d-6acab2f32410",
             "https://simplify.jobs/p/3dbe79d8-e6c3-4d6e-970a-ce51cceb8155",
             "https://simplify.jobs/p/3de8274a-c574-4b59-b828-cdade0c70e7e",
+            "https://simplify.jobs/p/3e1957cd-768a-47fc-9140-cae0d35bb273",
             "https://simplify.jobs/p/3e312320-0a40-44a6-84bd-83cd736fdf2c",
             "https://simplify.jobs/p/3ea7a95a-ef27-43ae-b461-3d70499a4f58",
             "https://simplify.jobs/p/3ebb7a65-50b4-4aa5-938e-eae66b15a6aa",
@@ -3717,6 +3760,7 @@
             "https://simplify.jobs/p/3f8afa13-81ca-48dd-9563-4cd15da1c144",
             "https://simplify.jobs/p/3f94586c-7465-4690-b2fc-6e57482fdcc0",
             "https://simplify.jobs/p/3fbf5ae8-8157-4653-8f90-0b8fbee733e2",
+            "https://simplify.jobs/p/3fd37507-e2bd-4c44-9b79-e7860e15061b",
             "https://simplify.jobs/p/3fd7c27a-a027-4f40-9a9f-b819aee35931",
             "https://simplify.jobs/p/407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
             "https://simplify.jobs/p/408e1b6b-fbb4-4a54-8506-e4ea50788770",
@@ -3730,21 +3774,26 @@
             "https://simplify.jobs/p/416c013d-c97d-436f-a454-ff8f42afdadc",
             "https://simplify.jobs/p/419fcb5a-db61-41dd-baac-569ccf0c3635",
             "https://simplify.jobs/p/41be3fea-fca7-473e-8963-c15048e19cb2",
+            "https://simplify.jobs/p/41d74667-6411-41d5-a208-d0d96a443a61",
             "https://simplify.jobs/p/41eb13a2-e04a-495a-8e9a-3d83273bbb01",
             "https://simplify.jobs/p/422cb5fc-a7e9-47c9-a6c3-82c503d12822",
             "https://simplify.jobs/p/4252bc22-2ea1-451c-aaa7-bb7ec84abf57",
             "https://simplify.jobs/p/427bfbbf-185d-48ab-9e67-639926394fe2",
             "https://simplify.jobs/p/42854aa8-a81f-46b7-a2aa-051cf7e8d64b",
+            "https://simplify.jobs/p/42886bb0-a824-4a57-b7bb-76e2e1855ec5",
             "https://simplify.jobs/p/428df784-325e-4a3f-91fc-db383c993b7b",
             "https://simplify.jobs/p/42eb9963-840a-46d6-96fd-975e596c839f",
+            "https://simplify.jobs/p/42eef265-0f1e-458a-9c31-10bd91ae1021",
             "https://simplify.jobs/p/42fd1db9-f60e-4e19-9ba2-5ee6a6c2c4b4",
             "https://simplify.jobs/p/4326baaa-75b2-4470-b205-61aed39b27b9",
             "https://simplify.jobs/p/432f2a98-6083-457b-915b-52b50828742d",
             "https://simplify.jobs/p/435c2fcd-ac89-454c-8594-e00acf0c463c",
+            "https://simplify.jobs/p/4376d807-2cde-46d3-be30-f77757fc9eed",
             "https://simplify.jobs/p/4388d2b7-1db2-48f0-9a19-d0a507325ca8",
             "https://simplify.jobs/p/439db226-5008-4056-b059-4050d7dd34ee",
             "https://simplify.jobs/p/43a5374e-0e70-4dc9-82b0-687b54e8c5da",
             "https://simplify.jobs/p/43cac478-76b4-4968-9ede-e3293fd02c28",
+            "https://simplify.jobs/p/43fc9d48-8060-4be6-a811-17fa6c4fa615",
             "https://simplify.jobs/p/44338cb8-5c1c-42f3-a069-f9cf9ff68436",
             "https://simplify.jobs/p/44352150-beb1-4841-b767-18cd1d30802a",
             "https://simplify.jobs/p/44600b6e-3825-411c-81ce-fe0455fa2ffb",
@@ -3759,6 +3808,7 @@
             "https://simplify.jobs/p/46504bbd-e596-43d0-82db-833dcc5b6e16",
             "https://simplify.jobs/p/46575741-75da-4faf-bcef-a1e47eb90fd2",
             "https://simplify.jobs/p/467851ae-af4e-4819-ae09-1cdbd0290f82",
+            "https://simplify.jobs/p/46aa7ac4-9135-48e5-97ec-5b8588350099",
             "https://simplify.jobs/p/46b948d3-0df9-4c54-ae68-fbe1837dc912",
             "https://simplify.jobs/p/46ef73eb-48ac-4b4f-b57e-f88f4c490e1d",
             "https://simplify.jobs/p/4712e535-e6e5-4aaf-9098-6819a3f396e2",
@@ -3766,6 +3816,7 @@
             "https://simplify.jobs/p/47850bfd-3afa-4073-a5b7-3a8734f3c0eb",
             "https://simplify.jobs/p/47a11f8e-c096-4cad-ba59-7807a675d2c7",
             "https://simplify.jobs/p/47d621be-b576-487a-b9f7-cf67475de10c",
+            "https://simplify.jobs/p/47d6ab1d-f010-4d65-9d39-d7e1d1ba81e8",
             "https://simplify.jobs/p/48051e5a-f365-417e-8fa7-367c8d11d93f",
             "https://simplify.jobs/p/486661c3-e797-48f7-baad-dcdb88e75608",
             "https://simplify.jobs/p/48a0ce33-6322-4a3a-b92a-e1218c2218a6",
@@ -3775,6 +3826,7 @@
             "https://simplify.jobs/p/495ef837-6877-48bd-9606-a506661f9f5c",
             "https://simplify.jobs/p/49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af",
             "https://simplify.jobs/p/4a0ac2bd-9aed-42eb-88de-3663340e79b5",
+            "https://simplify.jobs/p/4a3688c7-cd11-4d32-bb8f-659b3937069f",
             "https://simplify.jobs/p/4a606d45-9ac9-4c81-977f-bf4328aaf543",
             "https://simplify.jobs/p/4a623f52-ac3e-4809-bbff-79d93ef3ec63",
             "https://simplify.jobs/p/4ac72dac-062c-4ad9-94fb-8bd0961f1d95",
@@ -3788,6 +3840,7 @@
             "https://simplify.jobs/p/4c0c6fbe-ba82-4d6c-a12f-cc982bfc6da5",
             "https://simplify.jobs/p/4c57862c-cfb9-4903-a7af-a7e813ff154a",
             "https://simplify.jobs/p/4c7bdc4b-632f-444b-a685-4c7753e48cdb",
+            "https://simplify.jobs/p/4cd774d6-6dba-4947-9f2c-bb55647cccca",
             "https://simplify.jobs/p/4d16eaba-a1fb-42c2-93dd-fd62894f764b",
             "https://simplify.jobs/p/4d2630bd-6b4e-4153-af40-697f29c0f16d",
             "https://simplify.jobs/p/4d3ab974-20ec-4bd2-b8a8-97cbce8f7cae",
@@ -3804,6 +3857,7 @@
             "https://simplify.jobs/p/4e5efc2d-9a6e-47ca-a99c-2528b7d343ec",
             "https://simplify.jobs/p/4e9fe751-4379-45cd-97bd-7083fd5e58d1",
             "https://simplify.jobs/p/4ec8e592-f297-479a-ab56-d80abf24fa27",
+            "https://simplify.jobs/p/4eca034e-e697-4d90-bb46-323cab4f0668",
             "https://simplify.jobs/p/4eefe483-e13a-4b05-9d66-ce2b858677b1",
             "https://simplify.jobs/p/4f13671d-ac3d-44b0-90ac-bffd5406ffdd",
             "https://simplify.jobs/p/4f308070-caa1-4da7-8630-fcba5b621f04",
@@ -3816,6 +3870,7 @@
             "https://simplify.jobs/p/501d19ec-b828-4eaf-8c4c-fe4412b621b9",
             "https://simplify.jobs/p/5050a4ec-870d-44d2-894d-d2369c296564",
             "https://simplify.jobs/p/50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
+            "https://simplify.jobs/p/50e60fbf-697c-49e1-88be-1f24e17fa22d",
             "https://simplify.jobs/p/50e97511-4f52-43a6-985d-3fc9ce92d6bb",
             "https://simplify.jobs/p/50f47dfa-2767-4349-b388-347aa02f6f46",
             "https://simplify.jobs/p/511e7c10-e092-4a5a-8187-fe5563536b99",
@@ -3826,6 +3881,7 @@
             "https://simplify.jobs/p/51f21a70-c93d-450b-8650-0e6409df2aee",
             "https://simplify.jobs/p/51fe32fd-f8f8-4aa8-aa29-d1a0b213bed5",
             "https://simplify.jobs/p/52313b30-cb01-42d0-9c7e-e101d5417aa5",
+            "https://simplify.jobs/p/52359f6e-ece2-48b9-a135-9c1af9490443",
             "https://simplify.jobs/p/526a9d18-c0cf-4029-872b-3efa99c0b4c2",
             "https://simplify.jobs/p/527124c6-94ed-4350-b517-dcb8a25d41e8",
             "https://simplify.jobs/p/5293ee36-2e2c-422c-91d0-ba07cb9666f6",
@@ -3856,15 +3912,19 @@
             "https://simplify.jobs/p/56082bd5-7ff2-4b3c-a7df-c69e8373d451",
             "https://simplify.jobs/p/560db1fb-22f5-4680-b792-9bf27494b76e",
             "https://simplify.jobs/p/5647d931-da20-4d72-bcf4-871ce560d3b7",
+            "https://simplify.jobs/p/566656b0-ce19-4d4c-86e2-a04cc1458f57",
             "https://simplify.jobs/p/5669b0ee-2c91-48c1-a10f-9014661b589c",
             "https://simplify.jobs/p/568c6036-aeb5-4f73-9c75-fa674f965716",
             "https://simplify.jobs/p/5717ebc4-2dd1-4c3c-b6c9-4c0f1852e31a",
+            "https://simplify.jobs/p/574e0ff5-d748-4c63-bd72-624e3b87f93e",
             "https://simplify.jobs/p/5758b587-5d39-4b73-8bb5-2d965c5e2d83",
             "https://simplify.jobs/p/5763867a-2e36-4d9b-af5f-3a2829075f98",
             "https://simplify.jobs/p/57715dab-c267-4352-aa7c-5aca9054a182",
             "https://simplify.jobs/p/577e58df-8b1b-4057-b704-be5fe94ed18c",
             "https://simplify.jobs/p/57c83113-9554-4879-ad62-85a577ee5616",
+            "https://simplify.jobs/p/57e5f0a2-fec1-4e80-9d79-803c7984db1d",
             "https://simplify.jobs/p/57ebe73c-5293-496b-9bf5-1b38081d2cdf",
+            "https://simplify.jobs/p/57f23d48-5234-4e18-8766-c96214c087be",
             "https://simplify.jobs/p/57f4a033-f0ed-4ca1-a46f-e084010c71f3",
             "https://simplify.jobs/p/57fe8e77-4219-408c-9f50-6d3392d2bdf6",
             "https://simplify.jobs/p/580b0f4c-0ea5-4af9-be1a-a9894f85c5aa",
@@ -3873,17 +3933,21 @@
             "https://simplify.jobs/p/58d76026-06e1-4eda-b528-b3b0a38ec9d0",
             "https://simplify.jobs/p/58d874ef-419b-49af-855a-a5369d3ac271",
             "https://simplify.jobs/p/58d9d263-e25e-491b-9e3e-42e08454509c",
+            "https://simplify.jobs/p/58f53430-fc41-4de4-a49a-3a80ff2c415b",
             "https://simplify.jobs/p/590631c5-050f-4f41-94ce-eabce6cb30cd",
             "https://simplify.jobs/p/59376e30-4b2e-4ba7-8acb-1cf947065c18",
             "https://simplify.jobs/p/596bedfe-2992-4851-ab7c-0320f7808b0c",
+            "https://simplify.jobs/p/59802eef-48ff-449e-a321-6cea8bfc5261",
             "https://simplify.jobs/p/59a9da96-9441-4bf5-adea-b1f68156600d",
             "https://simplify.jobs/p/59cc82e3-db3c-47e2-aabd-88480b1db02a",
             "https://simplify.jobs/p/59d07036-60ed-4be1-8045-1e7dd3482bb7",
             "https://simplify.jobs/p/5a152a2e-e24c-436f-956f-af3bbe77d37f",
+            "https://simplify.jobs/p/5a334443-9d0a-4ac3-a774-3989f12d55f3",
             "https://simplify.jobs/p/5a459f2c-547d-4a43-a05e-1e87ef0fee39",
             "https://simplify.jobs/p/5a476d63-cb12-4e98-8fd7-35895108a039",
             "https://simplify.jobs/p/5a84d639-5972-4516-8cf1-b8acaa725ed9",
             "https://simplify.jobs/p/5a8a7ba1-2464-4dc8-995e-4cd08627650e",
+            "https://simplify.jobs/p/5a8c2ad6-24ca-439a-bee5-659a55c1f9a7",
             "https://simplify.jobs/p/5b1d56c3-edb8-4669-a88c-35690b805b82",
             "https://simplify.jobs/p/5b58ae21-c56b-47a7-92cd-cfae937732a1",
             "https://simplify.jobs/p/5b5f1d64-64ce-4ba5-8385-34e05c21ece5",
@@ -3901,12 +3965,14 @@
             "https://simplify.jobs/p/5cf9266d-f211-4021-9882-d655a2fcd104",
             "https://simplify.jobs/p/5d14a472-611a-4d2c-a490-be453b841ad9",
             "https://simplify.jobs/p/5d3e2344-02c8-4588-8164-b89352954c6c",
+            "https://simplify.jobs/p/5d4b848d-9edd-4e6a-96b3-7ee2ad767b7c",
             "https://simplify.jobs/p/5d8b1daf-e1e3-43f1-86c3-4eaeba634d0a",
             "https://simplify.jobs/p/5dadacce-9d03-47c0-bdfd-2b67dfc21892",
             "https://simplify.jobs/p/5ddd9ecb-ced2-4c9d-8d98-a39b73f03884",
             "https://simplify.jobs/p/5e2b041d-3b5b-414f-8491-242be06bf425",
             "https://simplify.jobs/p/5e775d03-2974-4788-a51e-41896502a1c2",
             "https://simplify.jobs/p/5e8c02db-c168-44ab-97d3-b9d8199fdbee",
+            "https://simplify.jobs/p/5e94c3ec-4ae8-40cf-8b13-0103b26d4a40",
             "https://simplify.jobs/p/5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272",
             "https://simplify.jobs/p/5ed85665-2338-4d1c-86ec-1efd79214d15",
             "https://simplify.jobs/p/5eda8352-de1b-4b91-8545-ba8e7fa26458",
@@ -3932,6 +3998,7 @@
             "https://simplify.jobs/p/62362f22-a1ca-41d5-8fb5-e75145b45a40",
             "https://simplify.jobs/p/626ecf45-a7a7-4ebc-aeb8-fe97ed05b66b",
             "https://simplify.jobs/p/62751ae8-bd05-4fa8-8629-d50f034fcc04",
+            "https://simplify.jobs/p/62d7db4e-a76f-4291-ab92-f35684a51f2a",
             "https://simplify.jobs/p/632238a5-1d61-4694-a8d0-c8d596b89c37",
             "https://simplify.jobs/p/63403c85-fbe7-476d-be6a-aa1a080ff05c",
             "https://simplify.jobs/p/63807ddc-301f-4d78-ac5c-193a82587f30",
@@ -3944,6 +4011,8 @@
             "https://simplify.jobs/p/6456cb00-c80b-4d75-9b58-cd6eb84efa2d",
             "https://simplify.jobs/p/646cf1c0-bcf5-41a2-a815-50713458b691",
             "https://simplify.jobs/p/648c9765-3c64-46ee-8d68-1c311cb81a3b",
+            "https://simplify.jobs/p/64997f89-8d5e-4379-8743-ed57dbe15db5",
+            "https://simplify.jobs/p/649c43b4-ecea-4ee8-b78e-601bfe8a7376",
             "https://simplify.jobs/p/649dd754-7be6-47ff-9eb9-6e43146c9ab6",
             "https://simplify.jobs/p/64b41a7b-4a92-4d69-bc33-95786288e3cd",
             "https://simplify.jobs/p/65374907-a79c-4477-928a-78fd06e99828",
@@ -3961,10 +4030,13 @@
             "https://simplify.jobs/p/6753f099-9106-4840-b725-97e422c72cb4",
             "https://simplify.jobs/p/676ca139-8f28-4033-8204-022b807b6f75",
             "https://simplify.jobs/p/67870fc5-eb90-45b8-bdf1-1e2e1a0ab78c",
+            "https://simplify.jobs/p/67918f68-ac64-470f-a00b-81c89c23d4d3",
             "https://simplify.jobs/p/67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c",
             "https://simplify.jobs/p/6816846d-7ef1-442a-917c-eb58c6465ccc",
+            "https://simplify.jobs/p/6832fd60-4dd3-44e2-a1a5-1e80106a41a1",
             "https://simplify.jobs/p/6860bd81-1517-46fc-b7d3-d7d848b16dba",
             "https://simplify.jobs/p/690a282c-1c0e-40c4-b77c-670f4bddbc69",
+            "https://simplify.jobs/p/694d9d57-354a-4c17-b6c4-6004a20ad686",
             "https://simplify.jobs/p/696a07de-2f62-4c57-a4f1-3ca7aafc074f",
             "https://simplify.jobs/p/6972f1a2-3d65-433d-8be7-1aaa1a3b611f",
             "https://simplify.jobs/p/6989a133-f5f6-4d41-81d7-b5403e6a5f9e",
@@ -3978,6 +4050,8 @@
             "https://simplify.jobs/p/6ade9cd5-ab20-498c-8c37-b961d5cb92c1",
             "https://simplify.jobs/p/6ae10384-f163-4945-850b-2047b484ea0f",
             "https://simplify.jobs/p/6afc654a-5326-48ff-a97e-39f9353340da",
+            "https://simplify.jobs/p/6b149eb1-5558-42e3-9a54-998d7c4e8a3c",
+            "https://simplify.jobs/p/6b814c15-48e7-423b-9698-fdda9c885c2c",
             "https://simplify.jobs/p/6d0324ca-16c8-4f98-8583-71195aad9942",
             "https://simplify.jobs/p/6d081b1c-739e-4f18-b112-ddf3c2381662",
             "https://simplify.jobs/p/6d6c159b-3efe-4228-ac8e-22aa958fb8f2",
@@ -4005,9 +4079,11 @@
             "https://simplify.jobs/p/707f077b-d4f3-4d3b-a12c-a7dd9eb195ce",
             "https://simplify.jobs/p/708de150-b11f-4875-88c4-d73fd53f2cac",
             "https://simplify.jobs/p/709af144-8cf3-4137-b92c-0eac7a9f4e81",
+            "https://simplify.jobs/p/70a8392b-553f-4f50-83a5-a1e6f62e049d",
             "https://simplify.jobs/p/70ae6f62-eb90-4f48-a34b-f89178f5eff7",
             "https://simplify.jobs/p/70fff953-84ce-4b7b-98f3-9c82acc8031c",
             "https://simplify.jobs/p/711f25ba-3340-4e16-9ab1-15b070d99954",
+            "https://simplify.jobs/p/71331fa4-11e9-424a-83be-7840fab5df5c",
             "https://simplify.jobs/p/71404970-dab6-40df-a5ea-ecf213a2d44e",
             "https://simplify.jobs/p/7162223f-d901-4fff-b611-efabc6e5abce",
             "https://simplify.jobs/p/717279b5-3392-4184-8ec5-92924c627291",
@@ -4021,6 +4097,7 @@
             "https://simplify.jobs/p/72be61ef-dcd0-488c-8602-c8e035e5e45e",
             "https://simplify.jobs/p/72c7ed62-452e-450a-bdd8-b07d15e87d15",
             "https://simplify.jobs/p/72d71f3c-7e47-4d52-aaf3-407c1f8bea58",
+            "https://simplify.jobs/p/72fb0e6d-fd70-4796-afba-f683634ca008",
             "https://simplify.jobs/p/73694032-23cd-4ce0-8193-0aa5188a23c9",
             "https://simplify.jobs/p/7374f199-7fc6-45ac-8316-dc868e97ee81",
             "https://simplify.jobs/p/7378026f-0707-48bb-8570-ac926d5ca53f",
@@ -4029,12 +4106,14 @@
             "https://simplify.jobs/p/73cef19e-ced7-497b-bf62-388cb64b1801",
             "https://simplify.jobs/p/73f2a1e2-5560-45b6-9aef-e74758e86472",
             "https://simplify.jobs/p/73f835b3-33ef-4230-98eb-e947be649f9d",
+            "https://simplify.jobs/p/7411f01e-5960-4f80-a290-d48a3277a839",
             "https://simplify.jobs/p/742b921c-2766-4ac6-a3d4-eccdf6ca68cc",
             "https://simplify.jobs/p/74391b84-c863-477a-a54b-f52e947e9724",
             "https://simplify.jobs/p/746bd20a-a89e-48fb-a0d0-7ab6c3a03990",
             "https://simplify.jobs/p/74801ff9-78bb-408c-aeb8-991527f809e8",
             "https://simplify.jobs/p/748876fb-0603-4b73-b26c-469bc138674c",
             "https://simplify.jobs/p/75173633-1cf1-424b-b068-516958721462",
+            "https://simplify.jobs/p/75402146-9ba8-4366-a048-72d66cd5bfeb",
             "https://simplify.jobs/p/754d18f3-d73c-451f-8214-a9c84a06d7c9",
             "https://simplify.jobs/p/755afd21-51a6-4a39-994c-35c6a3c2b71d",
             "https://simplify.jobs/p/7585e74f-2916-4691-b493-97166fd23c38",
@@ -4043,10 +4122,13 @@
             "https://simplify.jobs/p/75ed4c32-1473-436a-92cb-2ef53683d3e1",
             "https://simplify.jobs/p/76595645-0a06-49dd-b2ce-4dfb5f721626",
             "https://simplify.jobs/p/765a3599-3681-424b-acb8-7c0f9e80a287",
+            "https://simplify.jobs/p/7667f37b-8304-4087-a89e-a79c1367b8c7",
             "https://simplify.jobs/p/76749e6c-ae46-458c-958e-1980f2fc2dc6",
             "https://simplify.jobs/p/767d1491-f472-4664-be9c-276d9f8aa535",
+            "https://simplify.jobs/p/76b36874-f561-4551-b201-d4ca3ac11673",
             "https://simplify.jobs/p/76ec90f6-efae-4e12-87af-c55a1d7a0ec5",
             "https://simplify.jobs/p/77212bc1-ea2f-4bb7-b214-81995c2cb299",
+            "https://simplify.jobs/p/773b7df0-1922-4c5d-aff1-24d116f5203c",
             "https://simplify.jobs/p/775ea63a-d9c1-4fc9-a001-25d679330b41",
             "https://simplify.jobs/p/776b2184-8dc2-4958-b964-94a1ee9c9454",
             "https://simplify.jobs/p/77a50134-4a9e-4791-8994-85059d45fee5",
@@ -4057,6 +4139,7 @@
             "https://simplify.jobs/p/77fe5b68-ffda-4a79-b56d-caddb2246641",
             "https://simplify.jobs/p/781e8e77-26da-4d7b-8867-d164b82a48ef",
             "https://simplify.jobs/p/782af97b-38ba-4613-b9e4-3008074bf022",
+            "https://simplify.jobs/p/784e6d0a-3a5d-4ed8-94e4-79b18e58317d",
             "https://simplify.jobs/p/785858df-6883-4882-aea0-794f70ae528d",
             "https://simplify.jobs/p/78aeccde-cc65-477c-9f1f-b791b9597940",
             "https://simplify.jobs/p/78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
@@ -4078,6 +4161,7 @@
             "https://simplify.jobs/p/7ba48cdf-df0e-4f02-98a6-14e3e2b1569f",
             "https://simplify.jobs/p/7c378aeb-7ed5-4825-a428-ffb19f70e2fe",
             "https://simplify.jobs/p/7c428946-1d38-4dd8-bfec-13b465441e8d",
+            "https://simplify.jobs/p/7caa3303-1fbb-4fec-8a77-d55ab7e37d6f",
             "https://simplify.jobs/p/7cc701f0-5ded-4485-9951-832941911f1d",
             "https://simplify.jobs/p/7ccbcea2-9321-45fd-ae7b-1880c2950dff",
             "https://simplify.jobs/p/7cf90be5-721e-4501-ae56-97684360dd1c",
@@ -4097,6 +4181,7 @@
             "https://simplify.jobs/p/7ff9f7b2-95bd-4072-9820-71d4fadbe34e",
             "https://simplify.jobs/p/804e9756-cd00-4514-a056-bb06c49a19c4",
             "https://simplify.jobs/p/80735135-15c9-468b-81c1-48e4af8b28c3",
+            "https://simplify.jobs/p/80c570a9-6dd8-492d-96d7-bec0cd87c8b5",
             "https://simplify.jobs/p/80ebf08c-0c7a-4d4e-972a-91adbc6e5509",
             "https://simplify.jobs/p/811b5e57-74cf-4d86-a344-f1af5fbf2b31",
             "https://simplify.jobs/p/81283453-036b-4d9b-bd42-859e788f6308",
@@ -4122,6 +4207,7 @@
             "https://simplify.jobs/p/83a044a2-a7ca-4d5e-8ab0-acef0b22ed47",
             "https://simplify.jobs/p/83ab4fcc-d246-4d39-999f-5bb6fbee8953",
             "https://simplify.jobs/p/83c45c64-d3e1-4b9a-88bf-39f4e4071568",
+            "https://simplify.jobs/p/83d7cd20-0cbe-455e-9bb1-6bc168e32b3b",
             "https://simplify.jobs/p/83e5f99f-6e49-4381-89a9-4fc236a7e536",
             "https://simplify.jobs/p/83eeb221-32d0-4db7-a899-12788fd601ce",
             "https://simplify.jobs/p/83f74b03-7867-438c-a96c-7e8670b1ddae",
@@ -4137,6 +4223,7 @@
             "https://simplify.jobs/p/84fc32d6-d50b-46b2-9fe0-77906705c6bf",
             "https://simplify.jobs/p/85be705c-00c7-4d6a-a49a-719d8a738905",
             "https://simplify.jobs/p/861c3eea-4602-4f17-8d82-542a456c841a",
+            "https://simplify.jobs/p/862ba6d9-02fd-4ac4-831f-d7413f068a09",
             "https://simplify.jobs/p/8676c704-b2ee-4643-8fbc-9ad19fa89fa4",
             "https://simplify.jobs/p/872d9c82-5186-439d-be5c-907d58d05b0c",
             "https://simplify.jobs/p/876763a8-d126-487c-a934-12d38e4ef19a",
@@ -4157,8 +4244,10 @@
             "https://simplify.jobs/p/894c7f1f-c007-422d-bba7-f415967f29c3",
             "https://simplify.jobs/p/89554157-ce6a-4bfe-b783-fb6582dacd3d",
             "https://simplify.jobs/p/896a2ce6-0e75-40f5-9b7e-811079dfe6bb",
+            "https://simplify.jobs/p/89963cd1-87da-4c18-a40e-6a48ab758807",
             "https://simplify.jobs/p/89c30bf6-fa8a-4d37-a508-5221855d1f69",
             "https://simplify.jobs/p/89d6d565-8e62-4d80-8a57-4febe3548501",
+            "https://simplify.jobs/p/8a12df4d-a37f-4ad1-a459-206009424b66",
             "https://simplify.jobs/p/8a308b93-06a7-472d-a655-a49f2bf19ab1",
             "https://simplify.jobs/p/8a4649b2-64d5-4bd5-863d-3476b0bb1592",
             "https://simplify.jobs/p/8a6343a9-f416-4241-9451-0fabca5ffd7d",
@@ -4176,6 +4265,7 @@
             "https://simplify.jobs/p/8c4b3913-d07d-4778-9227-405aec81c720",
             "https://simplify.jobs/p/8c7fce06-656d-49d9-bf64-703e487b5cac",
             "https://simplify.jobs/p/8c8a2157-f131-4709-8ee8-033ddb037124",
+            "https://simplify.jobs/p/8c97b8d5-94b5-4ecf-ac2a-134ff0e3a3da",
             "https://simplify.jobs/p/8cac9d6d-19e9-4c38-90cc-0b440a2424e9",
             "https://simplify.jobs/p/8caf8a32-6383-404c-8f0e-49c55ec304a7",
             "https://simplify.jobs/p/8ce351e6-944c-4e61-8422-e151a5a7baf2",
@@ -4192,6 +4282,7 @@
             "https://simplify.jobs/p/8f0f4a4f-19f8-4ae3-8cb4-d69de28aefba",
             "https://simplify.jobs/p/8f38f561-0d24-49c7-bd14-bfc5f4584ec8",
             "https://simplify.jobs/p/8f638b06-36c6-4e9a-bf22-b4ab3f14aaca",
+            "https://simplify.jobs/p/8f68b469-ab56-446d-a570-b3be46959bc8",
             "https://simplify.jobs/p/90326487-43c7-4181-ac71-44e331484bf4",
             "https://simplify.jobs/p/904652ee-a4e0-44ac-940d-a747aebaa4ba",
             "https://simplify.jobs/p/90ee3fd9-c710-4f75-a107-85c7b8f20d31",
@@ -4206,6 +4297,7 @@
             "https://simplify.jobs/p/92122bed-5dd8-4873-9655-05dfab34db5c",
             "https://simplify.jobs/p/9214f3c7-4f3c-4ef4-928e-dc33ef5431a3",
             "https://simplify.jobs/p/9225fd35-93df-4625-a758-56df06538350",
+            "https://simplify.jobs/p/924a8e94-4f3a-475e-93ea-e8208d857766",
             "https://simplify.jobs/p/924b8ac7-f08b-4620-9762-01deab61c794",
             "https://simplify.jobs/p/928375ff-0f40-4367-9048-64370c630dbf",
             "https://simplify.jobs/p/928e76da-a595-40dc-a8b9-409cd3c6b94c",
@@ -4217,6 +4309,7 @@
             "https://simplify.jobs/p/93a991e2-fb09-4f11-98cb-81279037b68e",
             "https://simplify.jobs/p/93f774ec-026f-401e-90e9-1d2bbe9631d8",
             "https://simplify.jobs/p/9433e524-35be-4f97-972f-f2413cfc67d6",
+            "https://simplify.jobs/p/944e10c3-5017-49cd-8c78-2a403174ed42",
             "https://simplify.jobs/p/946bf1c8-b423-4c84-8be5-1ef8d82475ab",
             "https://simplify.jobs/p/94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
             "https://simplify.jobs/p/94b406e2-f31b-4303-b276-e99f3781da36",
@@ -4252,6 +4345,7 @@
             "https://simplify.jobs/p/9b508279-1d3c-40a8-bf35-1658d570f4db",
             "https://simplify.jobs/p/9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
             "https://simplify.jobs/p/9bcddcb5-7dfc-4804-9f8f-af292c00da3f",
+            "https://simplify.jobs/p/9bd1f0ee-ed84-41a2-b228-773d27d10ff2",
             "https://simplify.jobs/p/9c0bb720-6ba8-436f-a3ff-cea11d8d3612",
             "https://simplify.jobs/p/9c569a74-622f-4862-8f43-84f0e63f9893",
             "https://simplify.jobs/p/9c83300a-9501-4cca-badb-b4fc91213274",
@@ -4269,6 +4363,7 @@
             "https://simplify.jobs/p/9e675a71-dd54-4b7e-9dad-72b84c93433e",
             "https://simplify.jobs/p/9e9c1a90-b002-4352-8852-856c07d71a53",
             "https://simplify.jobs/p/9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
+            "https://simplify.jobs/p/9ecc67a7-1b2f-4a55-924c-2cbe78c667f6",
             "https://simplify.jobs/p/9ed7b461-c9c3-4d18-9e17-4bbc1ad3e3c9",
             "https://simplify.jobs/p/9eeb571e-079e-492d-84f7-49d9ddf5a00d",
             "https://simplify.jobs/p/9eefaa01-e379-4df1-a37b-b56dd60cca6c",
@@ -4280,7 +4375,9 @@
             "https://simplify.jobs/p/a0232ac3-fb39-45ea-8cae-40341afe8099",
             "https://simplify.jobs/p/a0548532-3712-4c26-9172-4f2c8f2a6a8d",
             "https://simplify.jobs/p/a06fff13-7f57-418b-8a60-089543530e70",
+            "https://simplify.jobs/p/a07f8010-25a5-464a-9c1f-934209e53aed",
             "https://simplify.jobs/p/a09f224d-f684-4fb4-915b-6dbc5f486570",
+            "https://simplify.jobs/p/a0df7554-1080-4cd7-b8ed-0e985846909f",
             "https://simplify.jobs/p/a10690dd-586c-41d0-9609-4b55fa5eba3a",
             "https://simplify.jobs/p/a10ca49c-25c2-42e5-971a-9e76f1b60fdb",
             "https://simplify.jobs/p/a130e5be-c526-4b85-ae10-f74e89883404",
@@ -4289,6 +4386,7 @@
             "https://simplify.jobs/p/a1f5f63a-0971-4a61-969b-c3d1f0a264e3",
             "https://simplify.jobs/p/a20a7312-6f49-4e8d-8853-80f920510fd0",
             "https://simplify.jobs/p/a258c265-3b03-44fc-90b9-7e0faa77dbbe",
+            "https://simplify.jobs/p/a270922d-2173-4482-b7ad-d9fcc70f0b39",
             "https://simplify.jobs/p/a2b482d1-0a95-4518-ae61-f372a6170842",
             "https://simplify.jobs/p/a2b9bd58-76d2-4518-8aa2-3328919a2073",
             "https://simplify.jobs/p/a2cd6925-e8fa-4880-8ab2-121c9710ccac",
@@ -4299,10 +4397,12 @@
             "https://simplify.jobs/p/a3fa760c-c8ec-4d27-8090-1ff8948cd4d0",
             "https://simplify.jobs/p/a40a2958-e1de-4925-98c9-c69e24cb567e",
             "https://simplify.jobs/p/a424b4b3-571e-4a67-a90c-6c2f388a61a1",
+            "https://simplify.jobs/p/a429107c-fdee-4a52-8ebb-adf2047ace94",
             "https://simplify.jobs/p/a449ff56-af7b-46d9-9c1b-73ccb36515e8",
             "https://simplify.jobs/p/a4647510-ce85-43c7-af8c-50d890fbd299",
             "https://simplify.jobs/p/a482d898-f8c8-43f9-9e7a-4cf89737f09a",
             "https://simplify.jobs/p/a4aabf38-92c7-4e05-b84e-51c4d41178a4",
+            "https://simplify.jobs/p/a4c57446-fbe1-402b-8c70-6243d0c30a01",
             "https://simplify.jobs/p/a4d60c96-41c7-4910-868f-209db98b953c",
             "https://simplify.jobs/p/a5204bed-653f-4783-a311-dffd3f9c8339",
             "https://simplify.jobs/p/a52aff07-0926-4ea8-9430-fa80a6a723b4",
@@ -4324,6 +4424,7 @@
             "https://simplify.jobs/p/a793a502-be13-4c61-a978-d990f3122ad0",
             "https://simplify.jobs/p/a7ad89c3-bfca-4132-bafe-f790f3d25000",
             "https://simplify.jobs/p/a7af55a1-d408-4bb0-9eb1-fead3468a5b5",
+            "https://simplify.jobs/p/a7dd04c6-c880-41f3-9f62-e1a48155eb37",
             "https://simplify.jobs/p/a812bd9c-30db-4395-9348-62781c4a750d",
             "https://simplify.jobs/p/a816fc22-5a40-4e12-bbe3-256e268684c6",
             "https://simplify.jobs/p/a83af7c2-9a81-4585-acbf-ed85d2dc627d",
@@ -4347,16 +4448,20 @@
             "https://simplify.jobs/p/aa53d20c-29e5-4d18-9182-0e00bfa1cdd6",
             "https://simplify.jobs/p/aa9feb49-b586-4dba-80ab-d35720db8230",
             "https://simplify.jobs/p/aaa99c72-7271-4979-8852-5f63983e3a59",
+            "https://simplify.jobs/p/aaaf6712-7668-4213-8ab7-1a1775b04c53",
             "https://simplify.jobs/p/aac4e683-8759-4295-9c11-862d924abaf4",
             "https://simplify.jobs/p/ab5e0d14-05f1-48f3-bc4d-adbedd6b2066",
             "https://simplify.jobs/p/ab6271d3-69f2-4193-a73d-f54d3c10b611",
+            "https://simplify.jobs/p/ab6e4096-29c9-4a56-b9e0-457d6222c268",
             "https://simplify.jobs/p/abb10756-7c15-4694-8cfc-00d3fb05f0ad",
             "https://simplify.jobs/p/abd48cd7-7236-4856-8308-48d8cda4895a",
             "https://simplify.jobs/p/abecf82f-cb0a-4491-be70-8126304decb0",
             "https://simplify.jobs/p/abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500",
             "https://simplify.jobs/p/ac3c84f7-ffa2-4c6a-b6da-42c58ae40a7c",
             "https://simplify.jobs/p/ac518a9b-a4b2-4258-bae8-096b9d9fe442",
+            "https://simplify.jobs/p/ac65c1d8-3900-4fdc-9a5a-bc79479f848d",
             "https://simplify.jobs/p/ac849011-1197-4917-aa7b-e4870ced33fa",
+            "https://simplify.jobs/p/acaa0314-9957-4507-b7df-9707c6274cca",
             "https://simplify.jobs/p/acf611ac-2d78-4818-8fa6-d72f92d4cb99",
             "https://simplify.jobs/p/acf63671-cd3d-494b-bf84-c31eb6ae78e5",
             "https://simplify.jobs/p/acf99652-adf2-4fff-8ef1-4e83760711e4",
@@ -4364,6 +4469,7 @@
             "https://simplify.jobs/p/ad10670d-56f5-4600-ab6f-5c48cbd8fb5c",
             "https://simplify.jobs/p/ad41f039-3c18-4399-bce0-ac21b2f617ec",
             "https://simplify.jobs/p/ad581fca-372e-476f-b86a-cfaea80bb8e6",
+            "https://simplify.jobs/p/ad686b42-16fb-4a17-b251-d02681612001",
             "https://simplify.jobs/p/ad6a37ea-1c98-4039-b3ce-05d4a98d6f55",
             "https://simplify.jobs/p/ad89813c-5160-4d6c-86e1-6c0180f9d408",
             "https://simplify.jobs/p/ad93c397-dbd2-49a1-9506-3b3f67b410a7",
@@ -4377,8 +4483,10 @@
             "https://simplify.jobs/p/ae100847-0b5b-46dc-8d75-58159b3d28da",
             "https://simplify.jobs/p/ae18eaa6-88f9-486d-9112-d4feaa799338",
             "https://simplify.jobs/p/ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
+            "https://simplify.jobs/p/ae9faecb-af88-439c-aba4-4edff43ede3c",
             "https://simplify.jobs/p/aec682d0-cef7-4fab-b024-14111b89bd50",
             "https://simplify.jobs/p/aedfd44b-f542-4591-a1c0-11bf66c8562c",
+            "https://simplify.jobs/p/aeece349-0ea8-402f-8b31-1b085e06ce66",
             "https://simplify.jobs/p/af52521c-5483-4db1-958c-7dd4c6f19cd8",
             "https://simplify.jobs/p/af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
             "https://simplify.jobs/p/afb0eadc-fa15-4ff5-85c8-1aa9777ed90c",
@@ -4394,11 +4502,14 @@
             "https://simplify.jobs/p/b149ffe7-5cf9-4e18-8175-052fb98c6c6b",
             "https://simplify.jobs/p/b1987375-88b8-4b60-991b-fd7c5a4c1481",
             "https://simplify.jobs/p/b1ee273d-a77a-4b83-b8cd-f1ad4cdd4d30",
+            "https://simplify.jobs/p/b1f4a272-66f6-4ed0-a3ad-69e251a0e74c",
             "https://simplify.jobs/p/b1f647fd-f815-455a-942d-5341122bcffd",
             "https://simplify.jobs/p/b22a26e1-15a6-4e32-89fb-f2378da11dd1",
             "https://simplify.jobs/p/b24b9bfc-11b6-464c-821f-0c89eeb4d3d2",
+            "https://simplify.jobs/p/b2786f2a-0929-410c-97f7-4098beb6f7ef",
             "https://simplify.jobs/p/b29cd866-dfcc-413e-ab93-0139e86d076f",
             "https://simplify.jobs/p/b2c6199d-57c1-4fbb-9de4-1dbb413f3c65",
+            "https://simplify.jobs/p/b2d99288-c86e-4027-95fd-d19f07bca4f5",
             "https://simplify.jobs/p/b2f3978d-c756-4403-b415-41f4b1a5826b",
             "https://simplify.jobs/p/b30acf92-00fa-4d87-ac6e-44032cdc640b",
             "https://simplify.jobs/p/b319f80b-90f2-4a74-b8c7-bb2b5d8bbcd4",
@@ -4418,6 +4529,7 @@
             "https://simplify.jobs/p/b4ec14b4-17c7-49dc-a000-7e6d0217898f",
             "https://simplify.jobs/p/b4fbf723-b634-4b03-a717-5a7477ac972b",
             "https://simplify.jobs/p/b5307fcf-5387-4b5d-9bd5-e3647b57682d",
+            "https://simplify.jobs/p/b53ff4e5-1364-4cac-bdf2-c7cb8845717f",
             "https://simplify.jobs/p/b556adb1-8adc-4b0f-9230-3a2067a6428d",
             "https://simplify.jobs/p/b561ddb9-7d0a-4783-9f93-b72990af9922",
             "https://simplify.jobs/p/b595d8a5-ff62-4bd0-bfd3-df111e487fd3",
@@ -4430,6 +4542,7 @@
             "https://simplify.jobs/p/b6d3d4b8-3f64-48cc-8eaf-ba6c2cdc2c20",
             "https://simplify.jobs/p/b6e47638-d0bd-47e9-9dcf-5025be1dea1e",
             "https://simplify.jobs/p/b755c170-360e-4686-82d7-179f09485302",
+            "https://simplify.jobs/p/b768d2ef-8934-4832-9949-f25ca77045c0",
             "https://simplify.jobs/p/b7b9f7ca-b945-481f-bfc3-04355ed79955",
             "https://simplify.jobs/p/b7d2b969-6593-4660-bd91-dc2baae3f910",
             "https://simplify.jobs/p/b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
@@ -4441,18 +4554,23 @@
             "https://simplify.jobs/p/b90d0e96-8ea2-42f6-8276-dbf324c80154",
             "https://simplify.jobs/p/b93029bb-0502-4da5-9050-4b8933270db8",
             "https://simplify.jobs/p/b9818860-8ae5-4d0d-85c4-fa881f59838a",
+            "https://simplify.jobs/p/b983f282-b7a5-46fc-9244-4d5f1a048849",
             "https://simplify.jobs/p/b9bd95eb-643e-4a5e-a87e-d146140da756",
             "https://simplify.jobs/p/b9c5ff13-4910-4322-af0b-3a5fb4823c54",
             "https://simplify.jobs/p/b9ed49c3-5548-4ba6-8bb2-6990a3fc4f9f",
             "https://simplify.jobs/p/b9fbb141-6520-475e-a35c-8400d1ec55da",
+            "https://simplify.jobs/p/ba0d145c-d0c2-4071-a503-5b26fa31fc8d",
             "https://simplify.jobs/p/ba71f8df-382e-4efc-acff-0a78b742aac8",
             "https://simplify.jobs/p/ba85301e-4fd1-4208-89c0-186f4436a904",
             "https://simplify.jobs/p/ba941674-b45f-40cd-a5b5-1271c336c202",
             "https://simplify.jobs/p/bb30d995-17f5-4fd7-adb3-c099ee477b37",
+            "https://simplify.jobs/p/bb4096a0-ae85-4552-b9db-d9df3019c3ff",
             "https://simplify.jobs/p/bb4fc784-122f-40c9-b307-d226b91c5659",
             "https://simplify.jobs/p/bb5b9ae6-1aba-4fe3-87a2-2a7855b9a86e",
             "https://simplify.jobs/p/bb5ce3d4-ab62-4d6c-b976-64c022ba418c",
             "https://simplify.jobs/p/bb606683-d0a7-4560-b7cd-e9d06048c78a",
+            "https://simplify.jobs/p/bb76f9d7-7691-4604-a0ba-f56ed21f3110",
+            "https://simplify.jobs/p/bbfd547f-84e0-4194-8f94-d9fd13af41da",
             "https://simplify.jobs/p/bc004c19-45d1-4e50-9d7c-27fbdd2db93a",
             "https://simplify.jobs/p/bc603108-972a-4e9c-ae80-4db10074d449",
             "https://simplify.jobs/p/bc6695dd-e6b9-4081-b997-5b569c10338c",
@@ -4461,22 +4579,28 @@
             "https://simplify.jobs/p/bcd85798-b47b-4670-b762-bf7506e5bbba",
             "https://simplify.jobs/p/bce15e51-43fd-48b2-b19d-13cf407e97f0",
             "https://simplify.jobs/p/bce73b16-47b6-4170-86c3-8da8216579de",
+            "https://simplify.jobs/p/bd2aa5fb-92ea-4e0c-bab6-77b6247dfc9d",
+            "https://simplify.jobs/p/bd50ff7c-e21f-427c-87ad-4a45b42e134c",
             "https://simplify.jobs/p/bdb1ace7-404b-42cb-93b4-39b7dca37ea8",
             "https://simplify.jobs/p/bdc01603-d301-4eaa-9792-9a044f50c4a5",
             "https://simplify.jobs/p/bde662ce-92c7-454f-baa5-c0f859f3f0aa",
             "https://simplify.jobs/p/be001f88-4df5-4cc7-be0e-2ef836029012",
             "https://simplify.jobs/p/be06f131-99fe-4408-a086-e9b782d98bcd",
+            "https://simplify.jobs/p/be23128a-5c7b-4120-8bd1-f4887d7042ce",
             "https://simplify.jobs/p/be3d979b-63eb-4f25-9562-ddb20049b611",
             "https://simplify.jobs/p/be3e6820-439b-4242-84a6-7638cd7ad5a9",
             "https://simplify.jobs/p/be5cf299-ca63-4bd1-bd3c-76e57f016b32",
             "https://simplify.jobs/p/be69266d-de7c-4e87-a808-b1fe8fbb5cf7",
+            "https://simplify.jobs/p/bea01365-4ada-471d-abb2-9e8cd6325b9e",
             "https://simplify.jobs/p/bed7436e-6c48-4818-a11a-c314cfbf6574",
             "https://simplify.jobs/p/bee2567d-0e15-453a-b27d-35f0cb478489",
+            "https://simplify.jobs/p/bf10a48d-c59f-4775-844e-c402c2ee86a7",
             "https://simplify.jobs/p/bf43a447-72a6-4c3d-a02f-6c1f20c138ea",
             "https://simplify.jobs/p/bf6b0f3e-26ba-4217-917a-74df5f06b050",
             "https://simplify.jobs/p/bf6edc85-9e93-4c7d-9432-acf222e05f2e",
             "https://simplify.jobs/p/bf9c69e7-fff4-453c-ba04-3b0a7f1bc733",
             "https://simplify.jobs/p/bfd1c427-89d3-4f8c-bbf9-9989c11db135",
+            "https://simplify.jobs/p/c08bb30b-70f9-4e9f-8e9b-1149ed41b216",
             "https://simplify.jobs/p/c09269bd-7f4d-44aa-9eff-3f8798eb3342",
             "https://simplify.jobs/p/c0c90a66-4251-4629-8f07-54c74f1528a1",
             "https://simplify.jobs/p/c0ff0ed8-d99a-4394-b967-956c4d6fa4ae",
@@ -4486,6 +4610,7 @@
             "https://simplify.jobs/p/c1cc9100-e64d-468d-827b-1e6e138fa2b4",
             "https://simplify.jobs/p/c28ceb25-26bc-4b87-a21a-1eee0450081b",
             "https://simplify.jobs/p/c2e2f7ef-3469-446d-a35a-b0a767e0683e",
+            "https://simplify.jobs/p/c30cb093-fd08-4b69-8630-8625bb0c89a3",
             "https://simplify.jobs/p/c382b781-c095-4a4e-ad0f-c6b109e2af26",
             "https://simplify.jobs/p/c3a87290-4f6d-4d31-8576-4c7f518fd46b",
             "https://simplify.jobs/p/c3d0d3f7-cc27-4cc2-9950-e1a94f3abf4d",
@@ -4498,24 +4623,32 @@
             "https://simplify.jobs/p/c4e96033-c49b-49e3-88cd-fa2f2f99ade1",
             "https://simplify.jobs/p/c528e735-94f5-43d1-9b58-85865240e916",
             "https://simplify.jobs/p/c52bdd71-9fd3-4559-a3c5-d9a447bfb231",
+            "https://simplify.jobs/p/c5c1c03e-4c47-4e44-978c-ad980ad6e0e9",
             "https://simplify.jobs/p/c5c96698-e25e-4209-8af4-5886495e5a80",
+            "https://simplify.jobs/p/c62595a0-6c88-4584-bef2-98ab0a9321af",
             "https://simplify.jobs/p/c64805ee-9f23-4a5f-8ee4-84449bbe7334",
             "https://simplify.jobs/p/c6a9bcb5-ae1c-44b3-a705-d9c82b388fe6",
             "https://simplify.jobs/p/c78d4a32-8ee7-49e9-8f39-e63ea6cd4b9e",
             "https://simplify.jobs/p/c7dd151c-52b9-4a60-a807-71bf9d2ceb96",
+            "https://simplify.jobs/p/c827a700-5a23-411c-932d-4168d653e02e",
             "https://simplify.jobs/p/c835422c-1657-4f5b-9e39-0f4491db2789",
             "https://simplify.jobs/p/c86d490b-4b50-4436-9a7b-0d6287bbb4ca",
             "https://simplify.jobs/p/c8c30733-c4c8-42b2-8665-fbbf5743b33d",
             "https://simplify.jobs/p/c8dd07e6-d484-4c5d-9e31-6d456cfbbbdd",
+            "https://simplify.jobs/p/c8ddc7d6-9ac0-4740-87f8-4c26b4079b1e",
             "https://simplify.jobs/p/c8ff710e-866d-4fb4-8491-3c18e7f45a6d",
+            "https://simplify.jobs/p/c92d6bc4-a299-44a6-b793-d8e2ff46ce73",
             "https://simplify.jobs/p/c92fc7de-e326-4327-8f9c-5195b90591e9",
             "https://simplify.jobs/p/c9372099-ac31-46fe-82ad-547ac87f1e6f",
             "https://simplify.jobs/p/c9509f6d-616f-4865-a883-0bb3b2fcba90",
             "https://simplify.jobs/p/c96eee58-f235-4392-a390-c537e96daebf",
             "https://simplify.jobs/p/c97845b7-902d-4b6d-8530-ebea1aab2949",
+            "https://simplify.jobs/p/c987a249-3ad3-4d0f-9a08-f0acc968a347",
             "https://simplify.jobs/p/c9dff2be-8f4e-4123-866d-9dac43703bd2",
             "https://simplify.jobs/p/c9ea12aa-aa0f-4daa-9e2b-4497ad88942f",
+            "https://simplify.jobs/p/ca004f32-b456-4cae-ba94-82034c00e338",
             "https://simplify.jobs/p/ca0cd3ef-a95c-4dd7-9c4c-88869ed44814",
+            "https://simplify.jobs/p/ca292aff-38d0-49ec-8886-78d270bb7d95",
             "https://simplify.jobs/p/ca4209a1-54bd-41cb-8ff4-e7fcfb7ed1fe",
             "https://simplify.jobs/p/caffb303-d8dd-47dd-9f60-54d863c58335",
             "https://simplify.jobs/p/cb0eb449-7328-4ae8-989d-79780566d31a",
@@ -4525,6 +4658,7 @@
             "https://simplify.jobs/p/cb485390-acac-4351-bbb4-60be1ca27578",
             "https://simplify.jobs/p/cb929b45-7b3b-46fa-9933-c362213d4e65",
             "https://simplify.jobs/p/cbb3691a-46f3-47a4-84d5-05ddda7c9a5f",
+            "https://simplify.jobs/p/cbc2fbfc-77f5-4524-af15-835db1de9472",
             "https://simplify.jobs/p/cbc9cae5-131c-4da5-9664-90601d74f6de",
             "https://simplify.jobs/p/cbda4ba8-04b8-4e0a-8487-d1660cfdc9f9",
             "https://simplify.jobs/p/cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e",
@@ -4560,6 +4694,7 @@
             "https://simplify.jobs/p/d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
             "https://simplify.jobs/p/d23aec50-c086-4fda-9f46-1e6e598f195c",
             "https://simplify.jobs/p/d24e23aa-e04f-4545-9ca3-746741eee46b",
+            "https://simplify.jobs/p/d26b671a-bd46-4c7b-9156-0a29cfe9579b",
             "https://simplify.jobs/p/d28f4500-1e2c-40f2-ae21-e512c6ee0bb0",
             "https://simplify.jobs/p/d2d19916-92f8-4ebb-914e-9f19ac003896",
             "https://simplify.jobs/p/d3193c86-c14a-4245-9de2-1aebb546e2b9",
@@ -4567,6 +4702,7 @@
             "https://simplify.jobs/p/d33d3cf9-2947-4b3e-bd85-8eadb2adefac",
             "https://simplify.jobs/p/d3cc9f4e-f348-4058-8346-84218a410692",
             "https://simplify.jobs/p/d3fb5a6d-95ca-4c74-a448-f3db8b8d1a0a",
+            "https://simplify.jobs/p/d44c4b34-245b-4951-b4ec-573f93fbe2ac",
             "https://simplify.jobs/p/d44d7dc7-8912-4b2f-969c-4ea8f0ba6eab",
             "https://simplify.jobs/p/d4999f6f-b6dc-41ef-b7ee-8ec0c83e90bd",
             "https://simplify.jobs/p/d4a01c7d-0ef4-4577-b4a1-aef0a553ecb2",
@@ -4592,6 +4728,7 @@
             "https://simplify.jobs/p/d70d2957-012d-4805-b794-0d5527276f27",
             "https://simplify.jobs/p/d744664b-48c0-4d62-bc42-1881b5fcaec3",
             "https://simplify.jobs/p/d77ab18e-96cd-4110-89ca-b38044f2e7d6",
+            "https://simplify.jobs/p/d7811497-da78-4d61-9475-f817fbfeded8",
             "https://simplify.jobs/p/d78d7fa5-5be2-4430-82b9-0881e459e9ff",
             "https://simplify.jobs/p/d7cdec21-1d63-46c8-8dee-3c6968019ca3",
             "https://simplify.jobs/p/d7cea207-2957-4628-96f0-d1470db7594c",
@@ -4603,6 +4740,7 @@
             "https://simplify.jobs/p/d8aa0e3f-a998-48c7-b248-b6ea6a47e63c",
             "https://simplify.jobs/p/d8b77af1-29eb-4b1e-ab63-2e0bfd59605e",
             "https://simplify.jobs/p/d9046f59-0e24-4a57-bf1a-3956f662b2bb",
+            "https://simplify.jobs/p/d90d96a5-7e3f-429a-a361-5bd441bfee20",
             "https://simplify.jobs/p/d97157b9-8f0c-4cfb-be47-a801be8548ae",
             "https://simplify.jobs/p/d97d15b1-1e5d-4fcf-8640-1261f9169aea",
             "https://simplify.jobs/p/d99737b4-325b-4453-aa8c-35b6468d5695",
@@ -4612,6 +4750,7 @@
             "https://simplify.jobs/p/da8b6065-f27e-4890-b7ed-4574faae3b80",
             "https://simplify.jobs/p/da97cafd-77ea-4483-9906-531f63569fb1",
             "https://simplify.jobs/p/db040850-9b1f-4c19-93d8-de0c16003f79",
+            "https://simplify.jobs/p/db0fda0e-62fc-4d76-a312-0c1488051b73",
             "https://simplify.jobs/p/db7d10f9-c488-4888-8fb1-6cb4bddc0abf",
             "https://simplify.jobs/p/dba5405f-12de-4a7e-a7b7-323dd31fc670",
             "https://simplify.jobs/p/dbb7bfc6-dec7-4bee-a3d7-35a59742fb45",
@@ -4633,9 +4772,12 @@
             "https://simplify.jobs/p/deac077f-d2a6-4943-8da6-ef8d52d8c5b5",
             "https://simplify.jobs/p/ded4c8dd-a85f-4856-a22e-0d16e9b77a68",
             "https://simplify.jobs/p/dee54f4b-9624-4a3e-bda6-8f39d6b81920",
+            "https://simplify.jobs/p/deebe837-33bf-4674-9b5a-57ef02b237bc",
+            "https://simplify.jobs/p/df144a1f-ccc1-4936-b47d-78ddd8d7c8df",
             "https://simplify.jobs/p/df7ccad4-e94d-42b5-914a-8875029af2a8",
             "https://simplify.jobs/p/df978fa1-bc72-4d6a-9ee5-4faf1bda1df1",
             "https://simplify.jobs/p/e03e565f-c1fa-47cb-a862-4a75177dea43",
+            "https://simplify.jobs/p/e075f554-437f-4809-aa06-19e2c1a0fcf2",
             "https://simplify.jobs/p/e09149c6-13df-4156-b091-ebf0159330f8",
             "https://simplify.jobs/p/e0a94eec-3148-4c4a-a240-6dbffb7885f3",
             "https://simplify.jobs/p/e0c8a83a-ab36-4f9d-8587-275d4d7007db",
@@ -4647,11 +4789,14 @@
             "https://simplify.jobs/p/e19fe3b7-632c-42e1-8b02-da2de0de9cf4",
             "https://simplify.jobs/p/e1e46d1c-0205-405e-8063-32075566d4d4",
             "https://simplify.jobs/p/e21c652e-7821-4119-9360-58a96a03aa59",
+            "https://simplify.jobs/p/e2639433-964d-4eec-8a37-c16d048c74ed",
             "https://simplify.jobs/p/e2780e38-7d31-45ad-9998-c8b228376036",
             "https://simplify.jobs/p/e2a3239b-97ee-4566-ac2b-764e100bcfc7",
+            "https://simplify.jobs/p/e2c3e681-e9ef-4ae8-91e6-359a422fe6f4",
             "https://simplify.jobs/p/e388f3ae-1f83-414c-aa91-7073a448bb2e",
             "https://simplify.jobs/p/e38bc325-348a-4c2d-83db-ea52520367fc",
             "https://simplify.jobs/p/e38d607d-510b-4316-beec-46d1cb3cea8e",
+            "https://simplify.jobs/p/e3ba70f5-8979-458a-a70b-0940bbcc18a3",
             "https://simplify.jobs/p/e3c3148d-dbd6-4119-8953-00548ba0f6a0",
             "https://simplify.jobs/p/e3d65eb1-2153-452b-8581-21a4d459ae0f",
             "https://simplify.jobs/p/e4075fd0-7ff8-4aa9-9fc3-2fce4b096938",
@@ -4673,35 +4818,44 @@
             "https://simplify.jobs/p/e605eb24-fccd-40f1-ba50-1d8692ca8ee7",
             "https://simplify.jobs/p/e6405d5c-7d2f-4e65-9602-4685ada5b31b",
             "https://simplify.jobs/p/e64e6761-68e9-4cde-a920-a1e6b0d3ea81",
+            "https://simplify.jobs/p/e672528f-0349-4ff4-b017-95c9f64a2400",
             "https://simplify.jobs/p/e6b322bf-6ccd-43f3-a987-0d4f72440458",
             "https://simplify.jobs/p/e6c29cfd-c40f-4c92-9623-7f3a936fbb5e",
             "https://simplify.jobs/p/e6c623f1-7c59-4af3-ae61-5c9cc5795e33",
             "https://simplify.jobs/p/e7109ad2-2567-43b1-a1b4-e149cfeafab1",
             "https://simplify.jobs/p/e714ee6c-33d1-40a5-b4ec-c8eafe227eac",
+            "https://simplify.jobs/p/e7428679-0ff4-45b7-8a59-135cb9b646cc",
             "https://simplify.jobs/p/e745f9f7-84b2-4962-af95-6e3faf61a307",
             "https://simplify.jobs/p/e74adfd5-9138-466d-af45-4a26c1c886f9",
             "https://simplify.jobs/p/e750b9b5-dda4-440f-a574-33bb25d575af",
+            "https://simplify.jobs/p/e7798c65-abfa-46f3-ada4-bcd7733434a3",
+            "https://simplify.jobs/p/e7990df2-5f98-4b9e-9a6e-9b33d348b6a6",
             "https://simplify.jobs/p/e803a253-ad43-430d-8733-10417d031d02",
             "https://simplify.jobs/p/e84dfbb5-aeba-4d6f-a175-1c26a3495451",
             "https://simplify.jobs/p/e869560d-4d92-4b53-8d2a-b31417d59012",
             "https://simplify.jobs/p/e8744816-b7ae-49c7-8afc-eb47cc270d28",
             "https://simplify.jobs/p/e8bdcf1c-73bd-41c0-9e81-ac1ca1dc598c",
             "https://simplify.jobs/p/e92b0e3e-7e34-419c-b4be-9f1ec384451b",
+            "https://simplify.jobs/p/e956ef2d-bb6c-4265-9310-de2b65de47a4",
             "https://simplify.jobs/p/e9a9b95f-5a7b-4a80-bbe4-40abe5cd9f43",
             "https://simplify.jobs/p/e9b0ed4c-d026-479a-9d2d-089a2b9d0bcd",
+            "https://simplify.jobs/p/ea0423f4-dd18-4be8-bae1-f29a30138094",
             "https://simplify.jobs/p/ea160ce8-8221-40f5-a5bb-ca66c1ca3e01",
             "https://simplify.jobs/p/ea47b81d-38b4-4c79-b7a8-d4b98cd222bc",
             "https://simplify.jobs/p/ea544e9d-654b-4fd3-80f7-6c7cebe89cc1",
             "https://simplify.jobs/p/ea670782-222f-4f9d-8ca8-8d6120478821",
+            "https://simplify.jobs/p/ea6a21fa-6422-4ef0-90df-074f92d9395e",
             "https://simplify.jobs/p/ea9a3407-4535-40e5-900c-45b263afa69c",
             "https://simplify.jobs/p/eaa09253-ead5-4d61-9b1c-6aaeeb8e0187",
             "https://simplify.jobs/p/eac46790-0057-4518-8e60-be17fee9950f",
             "https://simplify.jobs/p/eae0ef21-1871-450c-8a88-45c56de6f0a2",
             "https://simplify.jobs/p/eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
             "https://simplify.jobs/p/eb8977de-3324-43fe-b93a-6022de964d3f",
+            "https://simplify.jobs/p/eba0dcb3-15c0-454b-8598-e3ad330b7bb8",
             "https://simplify.jobs/p/ebce0ffb-1748-4999-b952-a7dbc9f36aae",
             "https://simplify.jobs/p/ebe4a852-92bc-4d9b-8f32-f4aeea67b6f7",
             "https://simplify.jobs/p/ebecfe1f-3890-4cf8-8663-d7b118197e24",
+            "https://simplify.jobs/p/ebee222c-1071-46b0-848a-7f57af5a18e1",
             "https://simplify.jobs/p/ec674790-bb38-423e-bf36-84796ef90847",
             "https://simplify.jobs/p/ec8692ab-002c-42d7-8c9f-aa84c654c3f0",
             "https://simplify.jobs/p/ec8d7f8d-2154-4e58-bc3d-7413c3536d43",
@@ -4709,7 +4863,10 @@
             "https://simplify.jobs/p/ecd3e9e0-32d3-41ff-b808-99cb49ee80c2",
             "https://simplify.jobs/p/ecd7306e-e1ab-4153-bd2f-50c077e829c7",
             "https://simplify.jobs/p/ed2cf37e-8a1e-4d2f-8cf3-ea92bbfbcde2",
+            "https://simplify.jobs/p/ed5e3cca-feff-4c4a-a94c-32bd76f4c641",
             "https://simplify.jobs/p/ed99f894-33b4-40c9-8fc2-54c194c9e047",
+            "https://simplify.jobs/p/ede4083f-5b7d-43a2-a8dc-11a9d374dfb7",
+            "https://simplify.jobs/p/eded4bc5-bc12-47b0-8029-6e97c596ae81",
             "https://simplify.jobs/p/ee07e080-9a86-42c4-ba6c-ccfde60a22ac",
             "https://simplify.jobs/p/ee1a3b7b-ed9d-4664-8291-c30e79a97e63",
             "https://simplify.jobs/p/ee1cdd8a-13f7-405e-81a2-69a736cdb6b6",
@@ -4732,12 +4889,16 @@
             "https://simplify.jobs/p/f01b2e6b-f429-4832-8872-6e76ac02052a",
             "https://simplify.jobs/p/f01fe13b-073e-4b83-8828-42db2c1d956d",
             "https://simplify.jobs/p/f04b07be-d96c-43ed-841a-0de54ace7a06",
+            "https://simplify.jobs/p/f0737972-1ca9-4180-ba53-d1dd5f38f723",
             "https://simplify.jobs/p/f07fa99f-f6a9-4a02-bc87-c7b0aca8d367",
+            "https://simplify.jobs/p/f08a0109-41f3-47c9-990e-a522782e4d2e",
             "https://simplify.jobs/p/f0c55b8e-0fe4-4504-a747-d948c8a06bfd",
+            "https://simplify.jobs/p/f0e82e5e-fe79-444c-81cf-40fe003f57f3",
             "https://simplify.jobs/p/f11cd922-73c8-483a-a055-7001170ab039",
             "https://simplify.jobs/p/f1740d52-659d-40ce-941b-46d7d4db30d5",
             "https://simplify.jobs/p/f174b1be-a056-4615-8dff-9e0ddd31ec21",
             "https://simplify.jobs/p/f1be554a-8058-43b0-9e9f-a72f39eebf4b",
+            "https://simplify.jobs/p/f1fe163d-fded-4c86-97cf-746b87948551",
             "https://simplify.jobs/p/f2855012-e2cd-499e-acf4-000f068e1489",
             "https://simplify.jobs/p/f29e1ac8-0631-4c59-b495-659418e4abf5",
             "https://simplify.jobs/p/f2a032d3-8549-4c56-895d-10d70eec9514",
@@ -4767,6 +4928,7 @@
             "https://simplify.jobs/p/f68322f9-2ad9-48c4-9fcb-785a29ddd474",
             "https://simplify.jobs/p/f69ff1dc-2bc4-4548-871c-639fcfc55ca2",
             "https://simplify.jobs/p/f6b8d12a-cf43-489d-bc8a-0f256ee904e4",
+            "https://simplify.jobs/p/f6d46bc5-5c75-4809-947a-99ae7a18bd06",
             "https://simplify.jobs/p/f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
             "https://simplify.jobs/p/f6f17706-f32e-4624-8175-889945a160e5",
             "https://simplify.jobs/p/f6f665ec-37eb-4922-9180-758bb53c6bbc",
@@ -4781,6 +4943,7 @@
             "https://simplify.jobs/p/f8f5f407-91e8-40cc-8d8c-d2985c26df70",
             "https://simplify.jobs/p/f91bd59e-d676-4e4a-989d-4faa02dba3d3",
             "https://simplify.jobs/p/f9d70b63-d269-4572-a32b-de922d8f9a3d",
+            "https://simplify.jobs/p/fa279f49-798c-42a2-a38d-20ecffdb43e0",
             "https://simplify.jobs/p/fa32f7e9-199a-4ce4-999a-6b08b2e3b8fb",
             "https://simplify.jobs/p/fa3c88a2-0853-449c-b826-5d5f3be7d108",
             "https://simplify.jobs/p/fa5285eb-f846-4ade-8c5e-09dc59f59cd9",
@@ -4789,21 +4952,28 @@
             "https://simplify.jobs/p/fad00272-a1d3-4885-bcfb-53f41c9c8f7b",
             "https://simplify.jobs/p/fad9be14-9d62-46ad-bf50-c787ed3b48d5",
             "https://simplify.jobs/p/fadb67af-8a6d-4549-aef5-9d8fe6193127",
+            "https://simplify.jobs/p/fafc6109-491f-449e-8ac6-a07acef83860",
             "https://simplify.jobs/p/fb034b9c-17a9-4f34-9164-c53cc0bd44ec",
             "https://simplify.jobs/p/fb0623ca-1ed7-4273-adcc-dda455705721",
             "https://simplify.jobs/p/fb49ee65-7eac-4ac7-ab79-c3262d6f04d7",
             "https://simplify.jobs/p/fb4d0f54-790f-4ee2-aab7-a7f92534b510",
+            "https://simplify.jobs/p/fb6b11e8-01aa-4084-9705-e012f95a479b",
             "https://simplify.jobs/p/fba06d69-bf35-4948-9299-c9e2d7ea5916",
             "https://simplify.jobs/p/fbb57292-a7b0-4d96-9fe8-7e4f56edcad0",
             "https://simplify.jobs/p/fc0ba9c7-8038-43b5-ae74-d319237d1147",
             "https://simplify.jobs/p/fc140235-c8bc-4774-9eca-34769fd3e2b7",
             "https://simplify.jobs/p/fc4236d0-5f2d-46dd-9afa-035a5032002c",
+            "https://simplify.jobs/p/fc4f4841-d5c6-4987-bf32-d4cb867a8b34",
             "https://simplify.jobs/p/fc58f590-9e9b-4b9d-9262-f7a7cae2d464",
+            "https://simplify.jobs/p/fc5e50d8-d6ab-499b-8265-dca8c4c14ad7",
+            "https://simplify.jobs/p/fc68604c-b8e1-48af-8aff-6be5588f3037",
             "https://simplify.jobs/p/fc801a2a-cfb8-446f-9e69-b13feadd90e1",
             "https://simplify.jobs/p/fc8f90bf-1265-416f-a1d2-b93977214909",
             "https://simplify.jobs/p/fce282fe-b266-4190-a61f-c6c52f61facb",
+            "https://simplify.jobs/p/fd00f442-ef03-4fcc-876d-37412980a3ac",
             "https://simplify.jobs/p/fd15571c-45e4-401e-a770-63dbf731403c",
             "https://simplify.jobs/p/fd2da7af-12c7-411b-8654-f9d2404b96af",
+            "https://simplify.jobs/p/fd3f0fb9-681d-4c31-9e48-221580bf7c03",
             "https://simplify.jobs/p/fd61bf7a-2536-4242-9d48-42c4c11f5c44",
             "https://simplify.jobs/p/fd6d6115-31db-499a-a902-6bb1250b91e1",
             "https://simplify.jobs/p/fdb7c5e9-3d58-4332-bb5d-4b3446253fd0",
@@ -4815,29 +4985,30 @@
             "https://simplify.jobs/p/fee724d7-453f-4f2a-b5c1-0eed711f4b58",
             "https://simplify.jobs/p/fee8fc8f-9472-4328-aa55-23f410a90d17",
             "https://simplify.jobs/p/ff3a075b-b45b-4c88-8471-f4a4f79e4257",
+            "https://simplify.jobs/p/ff603b4b-88a6-4427-a3c4-679ae5ac16b9",
             "https://simplify.jobs/p/ff6a64ad-4278-4b87-bd22-42fb9df0c074",
             "https://simplify.jobs/p/ff6e43c3-bc97-4b08-84ad-0e0b9943e092",
             "https://simplify.jobs/p/ff8e5ead-dfcf-475e-969e-b6c251dce6ae"
           ],
-          "extractedPublicLinkCount": 162,
-          "officialCandidateCount": 108,
-          "matchedMessageCount": 2,
-          "newCandidateUrlCount": 160,
-          "priorRepeatCount": 2,
-          "officialCandidateReviewCount": 40,
-          "backfillWindowStart": "2026-08-25",
-          "backfillWindowEndExclusive": "2026-08-27",
-          "admittedJobCount": 5,
-          "duplicateCount": 4,
-          "hardExcludedCount": 75,
-          "retryableCandidateCount": 9,
-          "windowStart": "2026-08-25",
-          "windowEndExclusive": "2026-08-27",
-          "outOfScopeCount": 68,
-          "preferenceExcludedCount": 1
+          "extractedPublicLinkCount": 159,
+          "officialCandidateCount": 107,
+          "matchedMessageCount": 3,
+          "newCandidateUrlCount": 159,
+          "priorRepeatCount": 0,
+          "officialCandidateReviewCount": 25,
+          "backfillWindowStart": "2026-08-27",
+          "backfillWindowEndExclusive": "2026-08-30",
+          "admittedJobCount": 7,
+          "duplicateCount": 13,
+          "hardExcludedCount": 61,
+          "retryableCandidateCount": 2,
+          "windowStart": "2026-08-27",
+          "windowEndExclusive": "2026-08-30",
+          "outOfScopeCount": 73,
+          "preferenceExcludedCount": 3
         },
-        "note": "Both required parenthesized sender queries returned an automatic empty result for the August 27 repair window and the August 28 daily window. The August 27 result conflicts with the user's mailbox evidence; neither window was treated as zero and the successful email baseline was not advanced.",
-        "status": "needs-review"
+        "note": "The Gmail connector response parser now reads the direct structuredContent.emails and structuredContent.message_ids arrays. The August 27-29 America/Los_Angeles windows were rescanned successfully: three messages and 159 public job links were processed; no mailbox metadata was persisted.",
+        "status": "complete-with-needs-review"
       }
     },
     "sourceMentions": {
@@ -7129,7 +7300,8 @@
         "speedyapply"
       ],
       "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I": [
-        "simplifyjobs"
+        "simplifyjobs",
+        "swelist-email"
       ],
       "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649": [
         "simplifyjobs"
@@ -7142,6 +7314,555 @@
       ],
       "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba": [
         "simplifyjobs"
+      ],
+      "https://lifeattiktok.com/search/7678145401619237173": [
+        "swelist-email"
+      ],
+      "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394": [
+        "swelist-email"
+      ],
+      "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply": [
+        "swelist-email"
+      ],
+      "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1500": [
+        "swelist-email"
+      ],
+      "https://jobs.apple.com/en-us/details/200680752-0157/software-engineer-early-career-front-end": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7679156878833682693": [
+        "swelist-email"
+      ],
+      "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/053c7987-6469-4ab8-b5d7-cdf305153c29": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/073ed6df-77d7-4302-a76b-a711464e699e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/0dcc5662-3e2f-46d3-ba5f-bd817118855d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/124ba47c-7dd9-4556-9940-a7ff02138433": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/12a3b7d1-090a-40ac-aa68-6b353cf34dc1": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1514b60c-c4ff-48cc-a845-e1678e359779": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1632dafb-504e-4866-820f-8dda5d003199": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/18c2c157-bced-43b1-9b2e-b9718a794559": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1add3426-ab0d-407a-9e68-5227d97d754d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1b983bc8-7373-4f39-b3b4-7e83afe75b16": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/22c1325e-0afd-47f3-910f-bf0e15ff82ce": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/27adfd63-7ab1-4e67-8950-da5df8534093": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/2c1a920f-ed76-4384-9a74-6cf0d01a9123": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/394a7b1a-ddab-4982-85f7-67d8850d4424": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/43fc9d48-8060-4be6-a811-17fa6c4fa615": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/46aa7ac4-9135-48e5-97ec-5b8588350099": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/47d6ab1d-f010-4d65-9d39-d7e1d1ba81e8": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4a3688c7-cd11-4d32-bb8f-659b3937069f": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4cd774d6-6dba-4947-9f2c-bb55647cccca": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/574e0ff5-d748-4c63-bd72-624e3b87f93e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/57f23d48-5234-4e18-8766-c96214c087be": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/58f53430-fc41-4de4-a49a-3a80ff2c415b": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5a334443-9d0a-4ac3-a774-3989f12d55f3": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5a8c2ad6-24ca-439a-bee5-659a55c1f9a7": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5d4b848d-9edd-4e6a-96b3-7ee2ad767b7c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/5e94c3ec-4ae8-40cf-8b13-0103b26d4a40": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/67918f68-ac64-470f-a00b-81c89c23d4d3": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/6832fd60-4dd3-44e2-a1a5-1e80106a41a1": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/6b149eb1-5558-42e3-9a54-998d7c4e8a3c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/70a8392b-553f-4f50-83a5-a1e6f62e049d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/71331fa4-11e9-424a-83be-7840fab5df5c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/773b7df0-1922-4c5d-aff1-24d116f5203c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/784e6d0a-3a5d-4ed8-94e4-79b18e58317d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/80c570a9-6dd8-492d-96d7-bec0cd87c8b5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/862ba6d9-02fd-4ac4-831f-d7413f068a09": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/8c97b8d5-94b5-4ecf-ac2a-134ff0e3a3da": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a429107c-fdee-4a52-8ebb-adf2047ace94": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a7dd04c6-c880-41f3-9f62-e1a48155eb37": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ab6e4096-29c9-4a56-b9e0-457d6222c268": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/acaa0314-9957-4507-b7df-9707c6274cca": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ad686b42-16fb-4a17-b251-d02681612001": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b2786f2a-0929-410c-97f7-4098beb6f7ef": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b53ff4e5-1364-4cac-bdf2-c7cb8845717f": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ba0d145c-d0c2-4071-a503-5b26fa31fc8d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bb4096a0-ae85-4552-b9db-d9df3019c3ff": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bb76f9d7-7691-4604-a0ba-f56ed21f3110": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bbfd547f-84e0-4194-8f94-d9fd13af41da": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bd2aa5fb-92ea-4e0c-bab6-77b6247dfc9d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c5c1c03e-4c47-4e44-978c-ad980ad6e0e9": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c92d6bc4-a299-44a6-b793-d8e2ff46ce73": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c987a249-3ad3-4d0f-9a08-f0acc968a347": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ca292aff-38d0-49ec-8886-78d270bb7d95": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/d44c4b34-245b-4951-b4ec-573f93fbe2ac": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/d7811497-da78-4d61-9475-f817fbfeded8": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e075f554-437f-4809-aa06-19e2c1a0fcf2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e956ef2d-bb6c-4265-9310-de2b65de47a4": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ea0423f4-dd18-4be8-bae1-f29a30138094": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ea6a21fa-6422-4ef0-90df-074f92d9395e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/eba0dcb3-15c0-454b-8598-e3ad330b7bb8": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ed5e3cca-feff-4c4a-a94c-32bd76f4c641": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ede4083f-5b7d-43a2-a8dc-11a9d374dfb7": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f0737972-1ca9-4180-ba53-d1dd5f38f723": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f1fe163d-fded-4c86-97cf-746b87948551": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f6d46bc5-5c75-4809-947a-99ae7a18bd06": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fa279f49-798c-42a2-a38d-20ecffdb43e0": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fafc6109-491f-449e-8ac6-a07acef83860": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fb6b11e8-01aa-4084-9705-e012f95a479b": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fc5e50d8-d6ab-499b-8265-dca8c4c14ad7": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fd3f0fb9-681d-4c31-9e48-221580bf7c03": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ff603b4b-88a6-4427-a3c4-679ae5ac16b9": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/08b99270-74f2-4861-83ed-68f7ac35d850": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/0f94673d-ad63-443b-b316-2c5a32b269a9": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/107cf100-bd38-4d8f-8f2d-c55e7a97bcbe": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/19423ddb-b968-40b7-a070-c0803cc4ba52": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1ed0d67f-c05f-4cc9-bf79-9c13b1a17811": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/21dc7236-2495-4c4d-93a4-22cc6acac928": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/30079eba-ff8a-4333-9c3c-42e52e72087e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/3a8f3f9e-f790-4099-a085-68785a37feef": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/42eef265-0f1e-458a-9c31-10bd91ae1021": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/52359f6e-ece2-48b9-a135-9c1af9490443": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/566656b0-ce19-4d4c-86e2-a04cc1458f57": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/57e5f0a2-fec1-4e80-9d79-803c7984db1d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/59802eef-48ff-449e-a321-6cea8bfc5261": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/62d7db4e-a76f-4291-ab92-f35684a51f2a": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/64997f89-8d5e-4379-8743-ed57dbe15db5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/75402146-9ba8-4366-a048-72d66cd5bfeb": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/7667f37b-8304-4087-a89e-a79c1367b8c7": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/7caa3303-1fbb-4fec-8a77-d55ab7e37d6f": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/8a12df4d-a37f-4ad1-a459-206009424b66": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/9bd1f0ee-ed84-41a2-b228-773d27d10ff2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a07f8010-25a5-464a-9c1f-934209e53aed": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a0df7554-1080-4cd7-b8ed-0e985846909f": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a270922d-2173-4482-b7ad-d9fcc70f0b39": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/aaaf6712-7668-4213-8ab7-1a1775b04c53": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ae9faecb-af88-439c-aba4-4edff43ede3c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/aeece349-0ea8-402f-8b31-1b085e06ce66": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b2d99288-c86e-4027-95fd-d19f07bca4f5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b983f282-b7a5-46fc-9244-4d5f1a048849": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bd50ff7c-e21f-427c-87ad-4a45b42e134c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/be23128a-5c7b-4120-8bd1-f4887d7042ce": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bea01365-4ada-471d-abb2-9e8cd6325b9e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c30cb093-fd08-4b69-8630-8625bb0c89a3": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c62595a0-6c88-4584-bef2-98ab0a9321af": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ca004f32-b456-4cae-ba94-82034c00e338": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/cbc2fbfc-77f5-4524-af15-835db1de9472": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/d26b671a-bd46-4c7b-9156-0a29cfe9579b": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/d90d96a5-7e3f-429a-a361-5bd441bfee20": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/db0fda0e-62fc-4d76-a312-0c1488051b73": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/deebe837-33bf-4674-9b5a-57ef02b237bc": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/df144a1f-ccc1-4936-b47d-78ddd8d7c8df": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e7428679-0ff4-45b7-8a59-135cb9b646cc": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e7798c65-abfa-46f3-ada4-bcd7733434a3": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e7990df2-5f98-4b9e-9a6e-9b33d348b6a6": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ebee222c-1071-46b0-848a-7f57af5a18e1": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/eded4bc5-bc12-47b0-8029-6e97c596ae81": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f0e82e5e-fe79-444c-81cf-40fe003f57f3": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fc4f4841-d5c6-4987-bf32-d4cb867a8b34": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fc68604c-b8e1-48af-8aff-6be5588f3037": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/02401fd0-e513-4463-af92-6aeec9a13974": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/0c52ac87-ed9d-4a07-9003-ce0fbcfba817": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1cc427ac-1651-4d75-8f48-d834741f4e00": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1dc45232-46ac-41cb-b13c-4cb7493ff849": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1eabfd94-8044-45d0-b6af-00df94bccac9": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1ede9089-dee4-4fd0-9c72-50b3825fe866": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/1eee8b28-4b50-4d6f-9db1-48e016b66ed2": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/3e1957cd-768a-47fc-9140-cae0d35bb273": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/3fd37507-e2bd-4c44-9b79-e7860e15061b": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/41d74667-6411-41d5-a208-d0d96a443a61": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/42886bb0-a824-4a57-b7bb-76e2e1855ec5": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4376d807-2cde-46d3-be30-f77757fc9eed": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/4eca034e-e697-4d90-bb46-323cab4f0668": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/50e60fbf-697c-49e1-88be-1f24e17fa22d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/649c43b4-ecea-4ee8-b78e-601bfe8a7376": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/694d9d57-354a-4c17-b6c4-6004a20ad686": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/6b814c15-48e7-423b-9698-fdda9c885c2c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/72fb0e6d-fd70-4796-afba-f683634ca008": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/7411f01e-5960-4f80-a290-d48a3277a839": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/76b36874-f561-4551-b201-d4ca3ac11673": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/83d7cd20-0cbe-455e-9bb1-6bc168e32b3b": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/89963cd1-87da-4c18-a40e-6a48ab758807": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/8f68b469-ab56-446d-a570-b3be46959bc8": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/924a8e94-4f3a-475e-93ea-e8208d857766": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/944e10c3-5017-49cd-8c78-2a403174ed42": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/9ecc67a7-1b2f-4a55-924c-2cbe78c667f6": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/a4c57446-fbe1-402b-8c70-6243d0c30a01": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/ac65c1d8-3900-4fdc-9a5a-bc79479f848d": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b1f4a272-66f6-4ed0-a3ad-69e251a0e74c": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/b768d2ef-8934-4832-9949-f25ca77045c0": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/bf10a48d-c59f-4775-844e-c402c2ee86a7": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c08bb30b-70f9-4e9f-8e9b-1149ed41b216": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c827a700-5a23-411c-932d-4168d653e02e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/c8ddc7d6-9ac0-4740-87f8-4c26b4079b1e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e2639433-964d-4eec-8a37-c16d048c74ed": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e2c3e681-e9ef-4ae8-91e6-359a422fe6f4": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e3ba70f5-8979-458a-a70b-0940bbcc18a3": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/e672528f-0349-4ff4-b017-95c9f64a2400": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/f08a0109-41f3-47c9-990e-a522782e4d2e": [
+        "swelist-email"
+      ],
+      "https://simplify.jobs/p/fd00f442-ef03-4fcc-876d-37412980a3ac": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000": [
+        "swelist-email"
+      ],
+      "https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/Ontic/d50b6bea-876f-43fc-afb9-716efe9eca02/application?embed=true": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1423952700": [
+        "swelist-email"
+      ],
+      "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719": [
+        "swelist-email"
+      ],
+      "https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c/apply": [
+        "swelist-email"
+      ],
+      "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238/apply": [
+        "swelist-email"
+      ],
+      "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Graduate-Assistant_JR104806-1": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610-1839/1424037300": [
+        "swelist-email"
+      ],
+      "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324339": [
+        "swelist-email"
+      ],
+      "https://www.instacart.careers/job?gh_jid=8157736": [
+        "swelist-email"
+      ],
+      "https://careers.ey.com/ey/job/Atlanta-Agent-Development-Architect-Senior-GA-30309/1431249733": [
+        "swelist-email"
+      ],
+      "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f/application?embed=true": [
+        "swelist-email"
+      ],
+      "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1424473800": [
+        "swelist-email"
+      ],
+      "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/19099": [
+        "swelist-email"
+      ],
+      "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581": [
+        "swelist-email"
+      ],
+      "https://lifeattiktok.com/search/7670681152383813893": [
+        "swelist-email"
       ]
     },
     "suspectedDuplicates": [
@@ -8779,6 +9500,50 @@
       {
         "canonicalUrl": "https://careers.jhuapl.edu/jobs/59858?icims=1",
         "reason": "Official verification: phd-and-citizenship-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000",
+        "reason": "Official verification: bachelors-student-or-recent-bachelors-only."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply",
+        "reason": "Official verification: graduation-window-ends-may-2027."
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/Ontic/d50b6bea-876f-43fc-afb9-716efe9eca02/application?embed=true",
+        "reason": "Official verification: us-citizenship-required."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c/apply",
+        "reason": "Official verification: graduation-window-ends-may-2027."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238/apply",
+        "reason": "Official verification: graduation-window-ends-may-2027."
+      },
+      {
+        "canonicalUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324339",
+        "reason": "Official verification: us-citizenship-and-clearance-required."
+      },
+      {
+        "canonicalUrl": "https://www.instacart.careers/job?gh_jid=8157736",
+        "reason": "Official verification: senior-experience-level."
+      },
+      {
+        "canonicalUrl": "https://careers.ey.com/ey/job/Atlanta-Agent-Development-Architect-Senior-GA-30309/1431249733",
+        "reason": "Official verification: future-sponsorship-not-supported."
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f/application?embed=true",
+        "reason": "Official verification: phd-or-equivalent-research-depth-required."
+      },
+      {
+        "canonicalUrl": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581",
+        "reason": "Official verification: chemical-engineering-degree-required."
+      },
+      {
+        "canonicalUrl": "https://lifeattiktok.com/search/7670681152383813893",
+        "reason": "Official verification: phd-required."
       }
     ],
     "officialVerificationNeedsReview": [
@@ -10815,12 +11580,20 @@
         "retryAfter": "2026-08-30T10:00:33.538-07:00"
       },
       {
-        "canonicalUrl": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581",
-        "reason": "insufficient-start-timing-evidence",
+        "canonicalUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719",
+        "reason": "official-detail-incomplete",
         "status": "needs-review",
-        "firstSeenAt": "2026-08-29T10:00:33.538-07:00",
-        "lastAttemptAt": "2026-08-29T10:00:33.538-07:00",
-        "retryAfter": "2026-08-30T10:00:33.538-07:00"
+        "firstSeenAt": "2026-08-30T00:27:03.628Z",
+        "lastAttemptAt": "2026-08-30T00:29:26.357Z",
+        "retryAfter": "2026-08-31T00:29:26.360Z"
+      },
+      {
+        "canonicalUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/19099",
+        "reason": "official-detail-incomplete",
+        "status": "needs-review",
+        "firstSeenAt": "2026-08-30T00:27:03.628Z",
+        "lastAttemptAt": "2026-08-30T00:29:26.357Z",
+        "retryAfter": "2026-08-31T00:29:26.360Z"
       }
     ],
     "directionTaxonomy": {
@@ -10852,14 +11625,14 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 3005,
-      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
+      "entryCount": 3187,
+      "lastCheckedAt": "2026-08-30T00:29:26.357Z",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
   "scanStatus": "needs-review",
   "lastScanStartedAt": "2026-08-29T10:00:33.538-07:00",
-  "lastSuccessfulScanAt": "2026-08-29T10:00:33.538-07:00",
+  "lastSuccessfulScanAt": "2026-08-30T00:29:26.357Z",
   "lastSourceUpdatedAt": "2026-08-29T10:00:33.538-07:00",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
@@ -12591,7 +13364,7 @@
     "https://www.amazon.jobs/jobs/10501178"
   ],
   "baselineEntryCount": 1727,
-  "lastCheckedAt": "2026-08-29T10:00:33.538-07:00",
-  "lastSuccessfulRunAt": "2026-08-29T10:00:33.538-07:00",
+  "lastCheckedAt": "2026-08-30T00:29:26.357Z",
+  "lastSuccessfulRunAt": "2026-08-30T00:29:26.357Z",
   "lastRunStatus": "complete-with-needs-review"
 }

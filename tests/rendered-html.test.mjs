@@ -183,6 +183,16 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.match(
     automationText,
+    /gmail_search_emails.*structuredContent\.emails.*gmail_search_email_ids.*structuredContent\.message_ids/s,
+    "SWELIST parsing must use the Gmail connector's direct structuredContent arrays",
+  );
+  assert.match(
+    automationText,
+    /Do not read either array through a nonexistent `structuredContent\.result` wrapper/i,
+    "SWELIST parsing must not use the obsolete nested result wrapper",
+  );
+  assert.match(
+    automationText,
     /immediate select-and-audit command/i,
     "company queue must immediately execute bounded official-catalog audits",
   );
@@ -260,13 +270,13 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.equal(
     state.sourceMonitoring.sources["swelist-email"].baseline.matchedMessageCount,
-    2,
-    "the corrected August 25-26 SWELIST window must retain both validated messages",
+    3,
+    "the corrected August 27-29 SWELIST window must retain all three validated messages",
   );
   assert.equal(
     state.sourceMonitoring.sources["swelist-email"].baseline.extractedPublicLinkCount,
-    162,
-    "the corrected SWELIST window must retain all deduplicated public job links",
+    159,
+    "the corrected SWELIST window must retain all 159 public job links",
   );
   const simplifySource = state.sourceMonitoring.sources.simplifyjobs;
   assert.equal(
