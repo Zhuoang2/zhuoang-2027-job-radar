@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T10:08:23.420Z",
+  "checkedAt": "2026-08-31T10:13:33.726Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -13082,10 +13082,9 @@
       "lastCheckedAt": "2026-08-27T03:00:42-07:00"
     },
     "https://job-boards.greenhouse.io/vercel/jobs/6161129004": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-eligible-candidate",
-      "firstSeenAt": "2026-08-27T03:00:42-07:00",
-      "lastCheckedAt": "2026-08-27T03:00:42-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
     },
     "https://jobs.ashbyhq.com/sentry/5c3196c7-b1f3-49b3-a1d7-50ad6c49ea84": {
       "status": "hard-excluded",
@@ -17717,6 +17716,590 @@
       "status": "out-of-scope",
       "reasonCode": "out-of-scope-title",
       "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+    },
+    "https://jobs.ashbyhq.com/valon/e055fdcd-205c-4da5-8421-252eaf0a6131": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/0f1fbd7d-e30d-4b8c-9e3d-04ff6bfd7638": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/6052f210-29f1-4ef4-93cc-48029969eaf7": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/47698813-bf51-48f2-b5a7-b64ea1902ef8": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/abfd5aa5-57e2-4116-97da-7ae4d98f10bd": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/b132e642-2148-429f-92b5-951a2713afc4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/457cbb87-6c9b-4a21-96f8-f99701411754": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/de0903c4-f947-47d5-8888-175f5a4fa541": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/d0f50f35-8200-4417-8f09-354c9e1825a0": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/346151a0-db68-46f1-bf0c-31ccf89181a9": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/d2623557-eb5f-47b5-9a24-cb299931e789": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/32fc3fab-87e3-4fed-9b92-db050da6fa40": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/416a2e7f-5489-419f-b1d6-3eff719cd272": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/7e06aa3c-8cdc-4b3d-ab0b-d82c8c2e4911": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/7803a34d-471f-4935-bcea-f54b34a3ce95": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/09322cc1-b9ac-44a9-a530-fcf9c0b72e76": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/44a25836-c079-4814-9b3e-262c9f6804bf": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/0299cd00-807c-40ea-a994-bbf18862a7d7": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/b7ea1044-07af-4b46-ae3d-c3fe7f9f76f5": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://jobs.ashbyhq.com/valon/2de94485-130f-4f93-abe7-c21d70401b0b": {
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6136160004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5999792004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5841911004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6100103004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5752956004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5039945004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5822513004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5042166004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6123443004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6122437004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5974107004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6099752004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6120051004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6119846004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5701765004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5042174004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6112143004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6119765004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5778418004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5752684004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6123758004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6102654004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6016765004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6119988004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6119471004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5979111004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5974111004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6140055004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5806456004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6144467004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6134374004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5844601004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6132416004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6137983004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6011904004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6128387004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6121474004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6160974004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6147956004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6102343004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6011651004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5686511004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5557835004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6142097004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6102335004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6111332004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6093255004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6117204004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6121471004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5579560004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5818258004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5914474004": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5914473004": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6142959004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6134464004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6090854004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6122619004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5691965004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5995789004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5825469004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6006148004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6131210004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6117209004": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6112845004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5732855004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5704320004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5798406004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5474915004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5179639004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6113157004": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5633880004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6098390004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5428982004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5649459004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5798416004": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5806749004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6163585004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6006500004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6121468004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5973206004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5895013004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5971203004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5855000004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6163582004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6121381004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5815357004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6115991004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6020852004": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-31T10:13:33.726Z",
+      "lastAttemptAt": "2026-08-31T10:13:33.726Z",
+      "retryAfter": "2026-09-01T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/5430088004": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-08-31T10:13:33.726Z",
+      "lastAttemptAt": "2026-08-31T10:13:33.726Z",
+      "retryAfter": "2026-09-01T10:13:33.726Z"
+    },
+    "https://job-boards.greenhouse.io/vercel/jobs/6105394004": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-08-31T10:13:33.726Z"
+    },
+    "https://koch.avature.net/en_US/careers/JobDetail/193172": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-hardware-title",
+      "lastCheckedAt": "2026-08-31T10:00:31.683Z"
+    },
+    "https://koch.avature.net/en_US/careers/JobDetail/193284": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-31T10:00:31.683Z"
+    },
+    "https://koch.avature.net/en_US/careers/JobDetail/193502": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-08-31T10:00:31.683Z"
+    },
+    "https://www.amazon.jobs/jobs/10519658/apply": {
+      "status": "hard-excluded",
+      "reasonCode": "incompatible-experience-requirement",
+      "lastCheckedAt": "2026-08-31T10:00:31.683Z"
+    },
+    "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-hardware-title",
+      "lastCheckedAt": "2026-08-31T10:00:31.683Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026": {
+      "status": "duplicate",
+      "reasonCode": "previously-dispositioned-official-job-id",
+      "lastCheckedAt": "2026-08-31T10:00:31.683Z"
     }
   }
 }

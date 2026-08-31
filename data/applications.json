@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:36:15-07:00",
+  "updatedAt": "2026-08-31T03:13:33-07:00",
   "applications": [
     {
       "id": "dv-trading-2027-graduate-swe-4719126005",
@@ -11,6 +11,18 @@
       "id": "maven-graduate-quant-researcher-chicago-2027",
       "company": "Maven Securities",
       "role": "Graduate Quant Researcher 2027 - Chicago",
+      "status": "submitted"
+    },
+    {
+      "id": "sentry-5c3196c7",
+      "company": "Sentry",
+      "role": "Software Engineer, New Grad (2027)",
+      "status": "submitted"
+    },
+    {
+      "id": "nooks-311d6e70",
+      "company": "Nooks",
+      "role": "Software Engineer, New Grad",
       "status": "submitted"
     }
   ]
