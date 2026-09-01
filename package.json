@@ -15,6 +15,7 @@
     "timing-backfill-review": "node scripts/filter-timing-backfill.mjs",
     "timing-backfill-verify": "node scripts/verify-timing-backfill.mjs",
     "timing-backfill-apply": "node scripts/apply-timing-backfill.mjs",
+    "verify:github-publish": "node scripts/verify-github-publish.mjs",
     "linkedin-job-queries": "node scripts/list-linkedin-job-queries.mjs",
     "db:generate": "drizzle-kit generate"
   },
