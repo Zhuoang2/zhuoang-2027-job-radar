@@ -38,8 +38,9 @@ const citizenshipRestriction = /\b(?:must be (?:a )?U\.?S\.? citizen|U\.?S\.? ci
 const noSponsorship = /\b(?:will not (?:provide|offer|sponsor)|does not (?:provide|offer|sponsor)|do not (?:provide|offer|sponsor)|unable to (?:provide|offer|sponsor)|no (?:visa )?sponsorship|without (?:current or future )?sponsorship|do not require visa sponsorship now or in the future|must not require (?:current or future )?sponsorship|not eligible for (?:visa )?sponsorship|may not be able to employ[^.]{0,180}support future H-?1B sponsorship)\b/i;
 const ambiguousAuthorization = /\b(?:U\.?S\.? citizen,? green card,? or long[- ]term visa|citizen(?:ship)? or permanent resident or long[- ]term visa)\b/i;
 const outOfScopeTitle = /\b(?:intern(?:ship)?|co[- ]?op|firmware|embedded|ASIC|FPGA|hardware verification|security engineer|test engineer|quality assurance)\b/i;
+const coreEmbeddedWork = /\b(?:develop(?:s|ing)?|design(?:s|ing)?|implement(?:s|ing)?|test(?:s|ing)?)\s+(?:and\s+test\s+)?embedded software\b|\bembedded focus (?:is )?preferred\b/i;
 const coreSystemsPreference = /\b(?:kernel|operating system internals|OS internals|Linux fleet|network stack|storage systems?|Nix|RPM package|systems package management)\b/i;
-const usLocation = /\b(?:United States|USA|Remote(?:\s*in\s*USA)?|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b/i;
+const usLocation = /\b(?:United States|USA|Remote(?:\s*in\s*USA)?|SFNYC|SFLANYC|WASFNYC|NYC|SF|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b/i;
 
 async function fetchText(url) {
   const headers = { accept: "text/html,application/xhtml+xml", "user-agent": "Mozilla/5.0 JobRadar/1.0" };
@@ -54,6 +55,15 @@ async function fetchText(url) {
       const posting = (data.jobs ?? []).find((job) => job.id === id || job.jobUrl?.includes(id) || job.applyUrl?.includes(id));
       const text = stripHtml(`${posting?.title ?? ""} ${posting?.location ?? ""} ${posting?.descriptionPlain ?? posting?.descriptionHtml ?? ""}`);
       if (response.ok && text.length >= 250) return { ok: true, statusCode: response.status, finalUrl: posting?.jobUrl ?? url, text, method: "ashby-api" };
+    }
+    if (parsed.hostname === "www.ixl.com" && parsed.searchParams.get("gh_jid")) {
+      const id = parsed.searchParams.get("gh_jid");
+      const response = await fetch(`https://boards-api.greenhouse.io/v1/boards/ixllearning/jobs/${id}`, {
+        headers: { accept: "application/json", "user-agent": "JobRadar/1.0" }, signal: AbortSignal.timeout(25000),
+      });
+      const data = await response.json();
+      const text = stripHtml(`${data.title ?? ""} ${data.location?.name ?? ""} ${data.content ?? ""}`);
+      if (response.ok && text.length >= 250) return { ok: true, statusCode: response.status, finalUrl: data.absolute_url ?? url, text, method: "greenhouse-api" };
     }
     if (/\.myworkdayjobs\.com$/.test(parsed.hostname)) {
       const parts = parsed.pathname.split("/").filter(Boolean);
@@ -95,6 +105,7 @@ function classify(candidate, page) {
   if (closedSignal.test(text)) return { status: "hard-excluded", reason: "official-page-closed" };
   if (!usLocation.test(candidate.location ?? "")) return { status: "needs-review", reason: "us-location-unconfirmed" };
   if (outOfScopeTitle.test(candidate.role)) return { status: "out-of-scope", reason: "out-of-scope-title" };
+  if (coreEmbeddedWork.test(text)) return { status: "out-of-scope", reason: "out-of-scope-core-embedded-work" };
   if (incompatibleExperience.test(text)) return { status: "hard-excluded", reason: "experienced-role" };
   if (citizenshipRestriction.test(text)) return { status: "hard-excluded", reason: "citizenship-or-clearance-restriction" };
   if (noSponsorship.test(text)) return { status: "hard-excluded", reason: "no-future-sponsorship" };
