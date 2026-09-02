@@ -122,7 +122,9 @@ async function enumerateProvider(provider) {
   }
   if (provider.type === "ashby") {
     const data = await getJson(`https://api.ashbyhq.com/posting-api/job-board/${provider.slug}`);
-    return (data.jobs ?? []).map((job) => ({
+    const jobs = data.jobs ?? [];
+    if (jobs.length > 200) return { deferred: true, observedCount: jobs.length };
+    return jobs.map((job) => ({
       id: job.id ?? job.jobUrl, title: job.title, location: job.location ?? "",
       description: job.descriptionPlain ?? job.descriptionHtml ?? "",
       url: canonicalUrl(job.jobUrl ?? job.applyUrl), updatedAt: job.publishedAt ?? null,

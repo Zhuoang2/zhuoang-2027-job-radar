@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T10:21:21.452Z",
+  "checkedAt": "2026-09-02T10:24:28.632Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -2817,8 +2817,9 @@
     },
     "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320": {
       "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "reasonCode": "outside-united-states",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application": {
       "status": "duplicate",
@@ -3334,8 +3335,9 @@
     },
     "https://careers.jhuapl.edu/jobs/58164?icims=1": {
       "status": "hard-excluded",
-      "reasonCode": "phd-required",
-      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+      "reasonCode": "explicit-2026-phd-cycle",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://careers.jhuapl.edu/jobs/59010?icims=1": {
       "status": "hard-excluded",
@@ -4088,9 +4090,11 @@
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525": {
-      "status": "duplicate",
-      "reasonCode": "previously-dispositioned",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "needs-review",
+      "reasonCode": "http-200",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
     },
     "https://jobs.ashbyhq.com/revel/444b5704-3840-4b0a-ba34-f82eab8c430f/application": {
       "status": "out-of-scope",
@@ -18473,9 +18477,9 @@
       "lastCheckedAt": "2026-09-01T10:21:21.452Z"
     },
     "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00": {
-      "status": "admitted",
-      "reasonCode": "admitted-to-job-radar",
-      "lastCheckedAt": "2026-09-01T10:21:21.452Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
     },
     "https://www.ixl.com/company/jobs?gh_jid=8765715002": {
       "status": "duplicate",
@@ -18591,7 +18595,8 @@
     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineering-I---Onsite_01870657": {
       "status": "hard-excluded",
       "reasonCode": "citizenship-or-clearance-restriction",
-      "lastCheckedAt": "2026-09-01T10:21:21.452Z"
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical--FPGA--Engineer-1--Onsite-_01862925": {
       "status": "out-of-scope",
@@ -18762,6 +18767,590 @@
       "status": "hard-excluded",
       "reasonCode": "no-future-sponsorship",
       "lastCheckedAt": "2026-09-01T10:21:21.452Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8596533002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8600782002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8646178002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8618825002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8556815002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8645763002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8644769002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8606645002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8649369002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8633193002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8567705002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8705116002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8687885002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8649136002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8756346002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8543832002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8644586002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8624907002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8518797002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8695204002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8304659002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8640183002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8554970002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8572505002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8686846002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8688973002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8624508002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8703219002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8640185002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8634727002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8567703002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8729746002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8445200002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8596542002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8677422002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8634991002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8596550002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8586625002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8706363002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8461446002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8651134002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8613575002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8445189002": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8670853002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8620701002": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8719797002": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:12:31.734Z",
+      "lastAttemptAt": "2026-09-02T10:12:31.734Z",
+      "retryAfter": "2026-09-03T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:12:31.734Z",
+      "lastAttemptAt": "2026-09-02T10:12:31.734Z",
+      "retryAfter": "2026-09-03T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8651408002": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:12:31.734Z",
+      "lastAttemptAt": "2026-09-02T10:12:31.734Z",
+      "retryAfter": "2026-09-03T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8656295002": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:12:31.734Z",
+      "lastAttemptAt": "2026-09-02T10:12:31.734Z",
+      "retryAfter": "2026-09-03T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:12:31.734Z",
+      "lastAttemptAt": "2026-09-02T10:12:31.734Z",
+      "retryAfter": "2026-09-03T10:12:31.734Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7827894003": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-2027-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://jobs.l3harris.com/job/Nashville-Senior-Associate,-Software-Engineering-TN-37203/1425448900": {
+      "status": "preference-excluded",
+      "reasonCode": "core-embedded-tactical-radio-role",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342905": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
+    },
+    "https://qualcomm.eightfold.ai/careers/job/446720889828": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
+    },
+    "https://apply.workable.com/avalore/j/EDADB6562A": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://apply.workable.com/avalore/j/60903E3667": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://truckingpeople.applytojob.com/apply/0AjzZz1mg2/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION": {
+      "status": "out-of-scope",
+      "reasonCode": "part-time-field-data-capture-role",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://truckingpeople.applytojob.com/apply/eK6VOXuIWl/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION": {
+      "status": "out-of-scope",
+      "reasonCode": "part-time-field-data-capture-role",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://ihlgroup.bamboohr.com/careers/228": {
+      "status": "out-of-scope",
+      "reasonCode": "fashion-product-development-role",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8131851": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://spacedynamicslaboratory.applytojob.com/apply/bpQKRcIwMJ/Software-Engineer": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://apply.workable.com/avalore/j/D80A182DA1": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst_R-52314-1": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-core-embedded-work",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Consultant---AI---Data--Defense---Security---Campus-2027_44130-1": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-2027-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4389100009": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://stripe.com/careers/listing/software-engineer-new-grad/8128744": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-2027-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/106684387621249734": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557": {
+      "status": "hard-excluded",
+      "reasonCode": "timing-incompatible-explicit-cycle",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796": {
+      "status": "needs-review",
+      "reasonCode": "http-200",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://job-boards.greenhouse.io/tebra/jobs/4726985005": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59510?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2": {
+      "status": "duplicate",
+      "reasonCode": "existing-official-job-id",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://careers-peraton.icims.com/jobs/169377/job": {
+      "status": "needs-review",
+      "reasonCode": "http-200",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
+    },
+    "https://corporate.trustpilot.com/careers/job/7984603": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://corporate.trustpilot.com/careers/job/8015788": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://jobs.lever.co/hottopic/b006fecc-6662-4e8d-8f93-eff444c2b6e3": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-compatible-candidate",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59507?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59888?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-and-citizenship-clearance-restriction",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
+      "retryAfter": "2026-09-03T10:24:28.633Z"
+    },
+    "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-I--Onsite-_01870687": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "firstSeenAt": "2026-09-02T10:24:28.632Z",
+      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     }
   }
 }
