@@ -10059,7 +10059,7 @@
     ],
     "source": "SWELIST email lead / PlanetScale official careers",
     "firstSeenAt": "2026-09-02T10:24:28.632Z",
-    "lastCheckedAt": "2026-09-02T10:24:28.632Z",
+    "lastCheckedAt": "2026-09-02T20:39:25.152Z",
     "ageDays": 0,
     "applyUrl": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
     "status": "open"
@@ -10179,7 +10179,7 @@
     ],
     "source": "SimplifyJobs / Tebra official careers",
     "firstSeenAt": "2026-09-02T10:24:28.632Z",
-    "lastCheckedAt": "2026-09-02T10:24:28.632Z",
+    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
     "ageDays": 0,
     "applyUrl": "https://job-boards.greenhouse.io/tebra/jobs/4726985005",
     "status": "open"
@@ -10210,7 +10210,7 @@
     ],
     "source": "SimplifyJobs / Valon official careers",
     "firstSeenAt": "2026-09-02T10:24:28.632Z",
-    "lastCheckedAt": "2026-09-02T10:24:28.632Z",
+    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
     "ageDays": 0,
     "applyUrl": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324",
     "status": "open"
@@ -10240,7 +10240,7 @@
     ],
     "source": "SimplifyJobs / Expedia Group official careers",
     "firstSeenAt": "2026-09-02T10:24:28.632Z",
-    "lastCheckedAt": "2026-09-02T10:24:28.632Z",
+    "lastCheckedAt": "2026-09-02T20:39:25.152Z",
     "ageDays": 0,
     "applyUrl": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2",
     "status": "open"
@@ -10273,6 +10273,126 @@
     "lastCheckedAt": "2026-09-02T10:24:28.632Z",
     "ageDays": 0,
     "applyUrl": "https://jobs.lever.co/hottopic/b006fecc-6662-4e8d-8f93-eff444c2b6e3",
+    "status": "open"
+  },
+  {
+    "id": "trace-labs-researcher-7c8ad43b",
+    "canonicalUrl": "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822",
+    "company": "Trace Labs",
+    "role": "Researcher",
+    "location": "New York, NY",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML"
+    ],
+    "reasons": [
+      "官方接受正在完成或刚完成硕士/博士、且无需行业经验的候选人",
+      "基础模型、强化学习与机器学习研究经历匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 年 7 月开始日期",
+      "岗位偏机器人学习；官网未说明 sponsorship 政策"
+    ],
+    "source": "SWELIST email lead / official company careers",
+    "firstSeenAt": "2026-09-02T20:48:12.538Z",
+    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
+    "ageDays": 0,
+    "applyUrl": "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822",
+    "status": "open"
+  },
+  {
+    "id": "versant-software-engineer-ii-744000147018709",
+    "canonicalUrl": "https://jobs.smartrecruiters.com/Versant3/744000147018709",
+    "company": "Versant",
+    "role": "Software Engineer II",
+    "location": "Orlando, FL / Remote",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 90,
+    "resumeTrack": "SWE",
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官方接受实习、课程、开源经历或最多两年专业经验",
+      "React、API、数据模型与平台工具职责匹配 SWE 简历"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策"
+    ],
+    "source": "SWELIST email lead / official company careers",
+    "firstSeenAt": "2026-09-02T20:48:12.538Z",
+    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
+    "ageDays": 0,
+    "applyUrl": "https://jobs.smartrecruiters.com/Versant3/744000147018709",
+    "status": "open"
+  },
+  {
+    "id": "nationwide-software-engineer-full-stack-100006",
+    "canonicalUrl": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006",
+    "company": "Nationwide",
+    "role": "Software Engineer (Full Stack)",
+    "location": "Columbus, OH",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "resumeTrack": "SWE",
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官方明确为 early-career 全栈开发岗位",
+      "Java、Python、JavaScript、CI/CD 与云平台经历匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策；每周需到办公室三天"
+    ],
+    "source": "SWELIST email lead / official company careers",
+    "firstSeenAt": "2026-09-02T20:48:12.538Z",
+    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
+    "ageDays": 0,
+    "applyUrl": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006",
+    "status": "open"
+  },
+  {
+    "id": "paramount-data-scientist-46470",
+    "canonicalUrl": "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500",
+    "company": "Paramount",
+    "role": "Data Scientist",
+    "location": "Burbank, CA / New York, NY",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML"
+    ],
+    "reasons": [
+      "官方明确为 entry-level 且接受 0–2 年经验",
+      "机器学习建模、实验评估与生产数据管道经历高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策"
+    ],
+    "source": "SWELIST email lead / official company careers",
+    "firstSeenAt": "2026-09-02T20:48:12.538Z",
+    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
+    "ageDays": 0,
+    "applyUrl": "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500",
     "status": "open"
   }
 ]

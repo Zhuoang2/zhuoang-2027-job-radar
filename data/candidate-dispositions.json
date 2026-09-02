@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-02T10:24:28.632Z",
+  "checkedAt": "2026-09-02T20:48:12.538Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -3033,9 +3033,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659": {
-      "status": "out-of-scope",
-      "reasonCode": "title-or-function-outside-scope",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "timing-incompatible-explicit-cycle",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
     },
     "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007": {
       "status": "hard-excluded",
@@ -19059,10 +19059,9 @@
       "retryAfter": "2026-09-03T10:12:31.734Z"
     },
     "https://job-boards.greenhouse.io/intersystems/jobs/7827894003": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-2027-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
     },
     "https://jobs.l3harris.com/job/Nashville-Senior-Associate,-Software-Engineering-TN-37203/1425448900": {
       "status": "preference-excluded",
@@ -19121,10 +19120,9 @@
       "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://job-boards.greenhouse.io/didi/jobs/8131851": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
     },
     "https://spacedynamicslaboratory.applytojob.com/apply/bpQKRcIwMJ/Software-Engineer": {
       "status": "hard-excluded",
@@ -19187,10 +19185,9 @@
       "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://job-boards.greenhouse.io/planetscale/jobs/4389100009": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
     },
     "https://stripe.com/careers/listing/software-engineer-new-grad/8128744": {
       "status": "admitted",
@@ -19219,28 +19216,27 @@
     },
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796": {
       "status": "needs-review",
-      "reasonCode": "http-200",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
-      "retryAfter": "2026-09-03T10:24:28.633Z"
+      "reasonCode": "official-detail-or-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
     },
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869": {
-      "status": "hard-excluded",
-      "reasonCode": "no-future-sponsorship",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
     },
     "https://job-boards.greenhouse.io/tebra/jobs/4726985005": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "duplicate",
+      "reasonCode": "already-represented-by-job-card",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
     },
     "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "duplicate",
+      "reasonCode": "already-represented-by-job-card",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
     },
     "https://careers.jhuapl.edu/jobs/59510?icims=1": {
       "status": "hard-excluded",
@@ -19261,10 +19257,9 @@
       "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
     },
     "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2": {
       "status": "duplicate",
@@ -19298,10 +19293,9 @@
       "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://jobs.lever.co/hottopic/b006fecc-6662-4e8d-8f93-eff444c2b6e3": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
     },
     "https://careers.jhuapl.edu/jobs/59507?icims=1": {
       "status": "hard-excluded",
@@ -19323,10 +19317,10 @@
     },
     "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818": {
       "status": "needs-review",
-      "reasonCode": "insufficient-start-timing-evidence",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastAttemptAt": "2026-09-02T10:24:28.632Z",
-      "retryAfter": "2026-09-03T10:24:28.633Z"
+      "reasonCode": "official-detail-or-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
     },
     "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180": {
       "status": "out-of-scope",
@@ -19351,6 +19345,1896 @@
       "reasonCode": "no-future-sponsorship",
       "firstSeenAt": "2026-09-02T10:24:28.632Z",
       "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8131863": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8126392": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8131864": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8131891": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8168500": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8168486": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8168356": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/didi/jobs/8168501": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Ontario---Toronto/Expedia-Group-Advertising-Planning---Insights--EGA-PI--Manager--FTC-_R-108972": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Associate-Account-Manager_R-108759-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/IND0011---Gurgaon---Downtown---Expedia/Advanced-Traveler-Escalations-Associate_R-109224-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Director-CyberSecurity_R-107538": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Senior-Manager--Software-Development-Engineering_R-107224-1": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Software-Developer-III_R-107897-1": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Associate-Account-Manager---Vrbo_R-107984": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Mississippi---Virtual/Business-Development-Manager---Enterprise---Display-Ads_R-108851-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Product-Manager_R-109046-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Legal-Director--Strategic-Transactions_R-109416": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Mobile-Developmer-III--Android-_R-109411-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Network-Engineer-II_R-105182-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/User-Experience-Engineer-III---Full-stack--Web-heavy---ReactJs---Java-Kotlin-NodeJs-_R-104728-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Technical-Program-Manager_R-109258-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Director--Global-Immigration---Mobility_R-109234": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Product-Manager-III--Partner-Payments_R-105735": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Director--Corporate-Development_R-104614-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Software-Development-Engineer-II_R-108912": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Software-Development-Engineer-II---Full-stack---Frontend-heavy--ReactJS-Java-GraphQL--_R-104139-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Integration-Engagement-Manager_R-109249": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Software-Development-Engineer-II----Full-stack-JAVA-ReactJS-_R-108453": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Director--Technology_R-108910": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--principal-e--de-logiciels--contenu---Principal-Software-Development-Engineer_R-107278": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Switzerland---Geneva/Machine-Learning-Scientist-II_R-108939-1": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---New-York---New-York/Director--User-Experience-Research---Experience-Design--XD-_R-108554": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Mobile-Engineer-II--Android_R-109089": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Mobile-Engineer-II--Android-_R-108950": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Switzerland---Geneva/Machine-Learning-Scientist-III_R-106534-2": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Bangalore/Data-Science--Analytics-Intern---May-June-2027---Bangalore-Gurgaon_R-108108": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Mobile-Engineer--Flutter--iOS---Android----Layla-AI_R-109189": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Frontend-Engineer---Layla-AI_R-109191": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-AI---ML-Data-Engineer---Layla-AI_R-109192": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Data-Analyst---Layla-AI_R-109193": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---New-York---New-York/Senior-Product-Designer---Membership---Identity_R-109042": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer---AI-Foundations_R-105310": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Switzerland---Geneva/Senior-Software-Development-Engineer---Full-Stack_R-108638": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Content-Designer-III---Experience-Design--XD-_R-108820": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Thailand---Bangkok/Area-Manager--Bangkok-_R-106649-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Senior-Software-Development-Engineer--AdTech_R-108640": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/iOS-Engineer-II_R-101652-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Senior-Machine-Learning-Scientist---Personalization_R-106003": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Product-Manager--AI-Builder-Experiences_R-107794-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Senior-Manager--Software-Development-Engineering---Lodging-Connectivity_R-108680": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Experience-Design-Operations-Manager_R-108849": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Technical-Program-Manager_R-108390": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Senior-Program-Manager_R-108700": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Sr-Software-Development-Engineer--Loyalty---Full-Stack_R-103344": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Product-Manager--Agentic-Evals_R-107795-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/XD-Talent-Days---Experience-Design_R-103209": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Strategic-Initiatives-Manager--Expedia-Lodging_R-106591-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Senior-Mobile-Engineer_R-108720": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Manager--Strategic-Payment-Partnership_R-104964": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Program-Manager_R-106941-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer_R-107569-1": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Director--Software-Development-Engineering_R-101762-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Security-Engineering-III_R-108485": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Machine-Learning-Scientist---Agentic-Experiences_R-108452": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Mobile-Engineering-Intern----May-June-2027---Gurgaon-Bangalore_R-108103": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Cloud-Engineering-Intern---May-June-2027---Gurgaon-Bangalore_R-108101": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Security-Engineering-Intern---May-June-2027---Gurgaon_R-108100": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Bangalore/Software-Development-Engineering-Intern---May-June-2027---Bangalore_R-108099": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Senior-Manager--Technical-Operations_R-108280-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Machine-Learning-Scientist---Search-and-Recommendations_R-108448": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Bangalore/Senior-Machine-Learning-Engineer_R-104618-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Senior-Software-Development-Engineer_R-105047-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Content-Designer-III---Loyalty_R-108278": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Director--Investor-Relations_R-107899-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Senior-Product-Security-Architect_R-108173": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Mobile-Engineer-III--iOS---InsurTech_R-107567": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Software-Development-Engineering-Intern---May-June-2027---Gurgaon_R-108098": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Director--Machine-Learning-Science---Marketing_R-107109-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Mobile-Engineer-III_R-107935": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Economist_R-106943-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Senior-Software-Development-Engineer_R-101702-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/iOS-Mobile-Engineer-III_R-107860": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Senior-Machine-Learning-Scientist---Agentic-Experience_R-107578-1": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Senior-Mobile-Engineer_R-105873-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Colorado---Denver/Program-Manager-III_R-106819": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Director--Technical-Program-Management---Multi-Product-Shopping_R-107456": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Scientist-III---VRBO-Pricing_R-105582-2": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Italy---Rome/Senior-Manager--Software-Development-Engineering---Landing-Pages-Platform_R-105097": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Engineering-Manager--Loyalty_R-106611-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--principal-d-application-mobile---Android---Senior-Mobile-Developer---Android_R-103195": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-snior-e---contenu----Senior-Software-Development-Engineer_R-106558-1": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Principal--Experience-Designer---AI-Incubation-Lab_R-106361": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-102690": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---New-York---New-York/Product-Design-Lead--Core-Experiences_R-102644": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Machine-Learning-Scientist---CRM-Marketing_R-105322": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Manager--Software-Development-Engineering---Marketplace_R-106777": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Scientist-III---Personalization_R-107143": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Quantitative-User-Experience-Researcher--AI_R-106384": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Senior-Cloud-Infrastructure-Development-Engineer---Kubernetes_R-106658": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Product-Security-Architect-III_R-104904": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineer-II--Android_R-106059": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-III--GraphQL-Platform_R-106935": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Senior-Software-Development-Engineer---Agentic-AI-Experience_R-106654-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Data-Scientist-II---Marketing-Automation-Performance-Analytics_R-105733": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Android-Engineer---Air-Shopping-Experience_R-102651": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer---ML-Platform_R-105596": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Discovery-Program-2026---Software-Development---Seattle_R-106372": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Principal-Android-Engineer---Search-and-Recommendations-Experience_R-101945": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Product-Manager---Agentic-Search_R-106242": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Brazil---Sao-Paulo/Intern-Business-Development_R-104643-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-Product-Manager---Answer-Engine-Optimization--AEO-_R-106199": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Corporate-Strategy-Director_R-105315": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Network-Engineer-I_R-105185": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Mobile-Engineer-III--iOS_R-105347": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Malaysia---Petaling-Jaya/Commercial-Intern---May-2026---Malaysia_R-101084-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Distinguished-Engineer--Marketing-Technology_R-103924": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Senior-Software-Development-Engineer_R-101964": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Principal-Software-Development-Engineer_R-102791": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Senior-Software-Development-Engineer---GenAI-Platform_R-104200": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III_R-103955": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---West-Hollywood/Senior-Creative-Strategist--Performance-Marketing-_R-99005-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Principal-Software-Development-Engineer_R-101767-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Principal-ML-Scientist_R-101843": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Sr-Data-Scientist---Advertising-Technology_R-101584": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Science-Graduate---PhD---2026---San-Jose--Seattle_R-98587-1": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Full-Stack-Software-Engineer-II_R-100331-2": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Exploration-Program---2026---Seattle_R-99747": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Bangalore/Machine-Learning-Engineering-Graduate---August-2026---Bangalore_R-98771": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Legal-Intern_R-94350": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/XMLNAME-2023-PhD-Intern---Machine-Learning-Science_R-76833": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Senior-Software-Development-Engineer_R-64761-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III---Package-Pricing_R-108429": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-III---AI-Engineer_R-102785": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Software-Development-Engineer-III_R-109243": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-II---JVM-Platform_R-102851": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Engineer-III_R-109254": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Software-Development-Engineer-II_R-109177": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Data-Engineer-III---Partner-Data_R-109118": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Enterprise-AI-Engineer-II_R-109164": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III_R-108850-2": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Engineer-II_R-108871": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Cloud-Infrastructure-Development-Engineer-III---Kubernetes_R-107548-1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-II---Identity-Authentication-Services_R-108809": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Layla-AI---Talent-Community--Expedia-Group-_R-108990": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-107932": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III---Agentic-Experience_R-106525": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Scientist-II_R-107895": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-02T20:39:25.152Z",
+      "lastAttemptAt": "2026-09-02T20:39:25.152Z",
+      "retryAfter": "2026-09-03T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Software-Developer-III--Auctions-Insights---Advertising-Technology_R-109475": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Enterprise-AI-Engineer-III_R-108423": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Illinois---Chicago/Software-Development-Engineer-III--Advertising-Technology_R-104546-2": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Data-Engineer-II---Service-Data_R-108326": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Technical-Specialist-API-Support_R-107760-2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/f26e1c8e-1849-4a00-a9a1-5ffd25e51b67": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/ff733ad1-c3f4-4ed0-86db-f239535353eb": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/a5702df5-a112-4cee-b8af-e8f759f20662": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/89160cd0-9d37-42aa-a8ad-87e168623f40": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/851e88d1-260e-46c4-b2f0-071fd4e6fed6": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/093a8f46-58f0-450b-b9fd-7bb00e4a9f91": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/721db73a-fb81-4787-b239-97cf151ba2db": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/08f0011a-076b-4d61-8d21-2c76ba0154a8": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/7606ba0e-5fb7-4b61-a64e-84d4f85511ed": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/5ac7efa4-f055-4223-a806-82922d2b96a6": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/d5369e18-212a-4d0c-ac1c-d32d3bce7be4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/89c86b33-8ee2-4bb2-934d-c0ac075b28cd": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/40430edd-3fd7-47c3-bc72-31044af951a4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/973f4d94-6003-4c94-bd77-6ee63c348321": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.lever.co/hottopic/382936e0-f2da-4a5e-8ab0-e68dc22c0e59": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7723402003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6969077003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7453140003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7649740003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7983319003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7636339003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6716600003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7676948003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7636335003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7636332003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6326275003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7748372003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7773370003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7636322003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6326656003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7715460003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7648937003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7761297003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6066312003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7774955003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7799513003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7671819003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7701690003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7606888003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7504143003": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7602937003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593465003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7715014003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7770386003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7727077003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7753015003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7753017003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6310133003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7773538003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7733793003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593643003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7761742003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7578127003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6326291003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7746768003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7812887003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7795845003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7728459003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7855915003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7854161003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7743106003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7728274003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7720941003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7763566003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7809644003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7761299003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7790109003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7733246003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593687003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7759127003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7919438003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7695005003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6666089003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7726341003": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7848818003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593249003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7776570003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7777344003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7677385003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6782989003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7804516003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7894805003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7827897003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6611843003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593583003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7720699003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7768603003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7763575003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6326713003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7735610003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7578121003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7735588003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7813050003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7761046003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593713003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7814546003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7655503003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6322440003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593555003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7719742003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7715485003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7813706003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7978522003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7733734003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6612217003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7210668003": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7885781003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7587383003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7773550003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7570533003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7679103003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7672022003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7782195003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7700489003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7735306003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7578124003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6326709003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7885747003": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7799685003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7739950003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6748692003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593587003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6687339003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7623600003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7795836003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7806967003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7610598003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7806979003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/6326635003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593561003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7789843003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7780388003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7654788003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7730428003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593247003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7644673003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7733258003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7732009003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7723876003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7679289003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7601824003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7551921003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7726002003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7886270003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7593636003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/intersystems/jobs/7789842003": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4391516009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4009926009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4339796009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4107018009": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4280570009": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4251150009": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4009746009": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4009936009": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4052805009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://job-boards.greenhouse.io/planetscale/jobs/4021848009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:39:25.152Z"
+    },
+    "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://jobs.smartrecruiters.com/Versant3/744000147018709": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59902?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "doctoral-degree-required",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59887?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "doctoral-degree-required",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://job-boards.greenhouse.io/accenturefederalservices/jobs/4710190006": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://jobs.apple.com/en-us/details/200681316/cellular-layer-1-control-software-development-engineer-wireless-technologies-ecosystems": {
+      "status": "preference-excluded",
+      "reasonCode": "core-low-level-cellular-systems",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940": {
+      "status": "needs-review",
+      "reasonCode": "official-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://careers-sri.icims.com/jobs/6468/job": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-sponsorship-evidence-incomplete",
+      "firstSeenAt": "2026-09-02T20:48:12.538Z",
+      "lastAttemptAt": "2026-09-02T20:48:12.538Z",
+      "retryAfter": "2026-09-03T20:48:12.539Z"
+    },
+    "https://simplify.jobs/p/09cdaf0b-5c62-4337-9ac3-ce87dd9b4dde": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/bf0cd35f-4482-4fd9-b9fa-615b8fa40352": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/c0259ac2-91ad-4101-bdc9-86ea7d2f20c6": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/f7c2b206-3434-4427-ada0-1851de938a0e": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/790c4084-86df-448a-a68a-27197345d3b2": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/7fc2d811-329f-4ae7-b501-89dc44b0e537": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/3b2dc0d1-97dd-4f1f-8a0b-2343f43fb5c8": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/bf8672d0-4cec-4ff8-bdf7-f2d1b7c62d18": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/498550be-e79a-4ef3-ba03-88c0c0657a50": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/c83a7ca2-1705-4283-a5bf-5137e95f19b6": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/7aaac49e-1f3e-4bf1-bc5d-ab96593a7294": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/53bf4470-67b8-4a9e-90cf-9be107254420": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/1236f78f-c0ce-4c46-ae4a-4d96f1f7b39a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/17f07991-3767-45b5-b4c0-6b1d4822464a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/415c5759-7e1a-4afb-bc2a-cdee5cd5f514": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/f05d9c15-aad6-4f1e-b3bb-d2bba7f8ab4e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/ca0f0f67-5fd4-4b63-8b73-b7415915a10e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/2b93073c-9ffd-4edb-9086-8b92c60f03dc": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/091d9015-503c-4fbd-8891-afd1def65679": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/fb2d6e8e-096b-4a82-ba4b-de20d7deb231": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/144e5a99-3727-49aa-be27-39b13c2cec06": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/2595dd8b-05e9-45e8-bc02-8d6e4ab72521": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/bda74332-82e5-439b-b4b6-2816798a9366": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/aa9e19ab-56c4-4224-8844-f2f9a351fc58": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/de7d664c-8adb-4908-9354-4f05ef3db3ef": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/3b1350b0-c797-4b04-aec8-96cf5449a24f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/c1d4dc63-07f0-4311-aa1c-e9e89586839f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/39735657-b100-4614-b0d2-96e5a8a79cde": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/9492fbb5-6ba8-4a99-98aa-2aa3b23f3c52": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/9b1229d5-df7a-42f9-babb-591f0b99dbc3": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/cd82f878-c6dc-4bdf-9046-b597ab7b38ef": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/b2b7562f-596e-4fe0-95ab-b3c1a405c4c4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/aae5a7e9-4e71-4925-b88b-85b934e1f1ab": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/61d87d1b-c28f-405e-bfff-556211ccd2ac": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/1385f127-4838-41e4-b731-f8098b49202d": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/0b257255-e40c-4a65-b490-99ecf5240361": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://simplify.jobs/p/ee9ac743-1016-4ea0-985e-0041ed3aabf5": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://www.amazon.jobs/en/jobs/10524274/front-end-engineer-iam-console-team": {
+      "status": "preference-excluded",
+      "reasonCode": "frontend-only-role",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
     }
   }
 }

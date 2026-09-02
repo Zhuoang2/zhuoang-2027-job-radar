@@ -7,11 +7,12 @@ import { classifyTimingEvidence } from "./job-timing-policy.mjs";
 // Keep the title gate directional. A bare "engineer" admits unrelated chemical,
 // electrical, mechanical, manufacturing, test, and building roles.
 const relevantTitle = /\b(?:software|machine learning|ml|artificial intelligence|ai|data\s+(?:engineer|scientist|analyst)|backend|infrastructure|quant(?:itative)?|research\s+(?:engineer|scientist)|developer|systems?\s+engineer)\b/i;
-const excludedTitle = /\b(?:intern(?:ship)?|co[- ]?op|frontend|front-end|mobile|ios|android|product manager|designer|sales|marketing|security engineer|cybersecurity|penetration tester|firmware|embedded)\b/i;
-const experiencedTitle = /\b(?:senior|sr\.?|staff|principal|lead|manager|director|head|architect)\b/i;
+const excludedTitle = /\b(?:intern(?:ship)?|co[- ]?op|frontend|front-end|mobile|ios|android|product manager|designer|sales|marketing|security engineer|cybersecurity|penetration tester|firmware|embedded|developer educator|technical specialist|api support)\b/i;
+const experiencedTitle = /\b(?:senior|sr\.?|staff|principal|lead|manager|director|head|architect)\b|\b(?:software\s+)?(?:developer|engineer)\s+(?:iii|iv|v|3|4|5)\b/i;
+const earlyCareerTitle = /\b(?:new\s*grad(?:uate)?|recent\s+grad(?:uate)?|early\s+career|entry[- ]level|campus\s+hire|university\s+graduate|graduate\s+(?:program|programme|role|position)|junior|engineer\s+i\b|engineer\s+1\b)\b/i;
 const pureTraderTitle = /\b(?:trader|trading analyst|market maker)\b/i;
 const hardRestriction = /\b(?:U\.S\.? citizens? only|must be (?:a )?U\.S\.? citizens?|U\.S\.? citizenship (?:is )?required|security clearance required|(?:secret|top secret|TS\/SCI)(?: level)? clearance(?: with polygraph)? is required|active (?:secret|top secret|TS\/SCI) clearance|must have at least an interim secret|must be (?:a )?['\"“”]?U\.S\.? person|ITAR[^.]{0,180}U\.S\.? person|will not (?:provide|offer) (?:current or future )?(?:employment |visa )?sponsorship|will not sponsor|no (?:current or future )?(?:employment |visa )?sponsorship|unable to sponsor|do not require visa sponsorship now or in the future|may not be able to employ[^.]{0,180}support future H-?1B sponsorship)\b/i;
-const excessiveExperience = /\b(?:[4-9]|[1-9]\d)\+?\s+years?\b/i;
+const excessiveExperience = /\b(?:[4-9]|[1-9]\d)\+?\s+years?\b|\b(?:minimum(?: of)?|at least|requires?|must have)\s+(?:3|[4-9]|[1-9]\d)\+?\s+years?\b|\b(?:3|[4-9]|[1-9]\d)\+\s+years?\s+(?:of\s+)?(?:professional|industry|relevant|software|engineering|experience)\b/i;
 const lowLevelPreference = /\b(?:kernel|operating system internals|linux fleet|networking systems|storage systems|nix|rpm package|site reliability|production operations)\b/i;
 const usLocation = /\b(?:United States|US|USA|Remote(?:\s*[-–]\s*US)?|New York|Chicago|California|San Francisco|San Jose|Seattle|Boston|Austin|Texas|Palo Alto|Menlo Park|Washington|Massachusetts|Illinois|Connecticut|Florida|Virginia|Pennsylvania|Colorado|Arizona|Georgia|North Carolina|New Jersey|Ohio|Maryland|Utah|Oregon|Michigan|Missouri|Minnesota|Wisconsin|Tennessee|Indiana|Iowa|Kansas|Nevada|Delaware|Rhode Island|New Hampshire|Vermont|Maine|Idaho|Montana|Wyoming|Nebraska|Oklahoma|Arkansas|Louisiana|Mississippi|Alabama|South Carolina|West Virginia|Kentucky|New Mexico|North Dakota|South Dakota|Alaska|Hawaii|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b/i;
 
@@ -201,7 +202,10 @@ function candidateDisposition(job, now = new Date()) {
     }
   }
   if (hardRestriction.test(text)) return { status: "excluded", reason: "hard-work-authorization-restriction" };
-  if (excessiveExperience.test(text) && !/\b(?:0\s*[-–]\s*[4-9]|new grad|early career|graduate)\b/i.test(text)) return { status: "excluded", reason: "hard-experience-requirement" };
+  // Do not let an unrelated "graduate" mention elsewhere in a long catalog
+  // description override a hard experience requirement. Only an explicit
+  // early-career title may keep the role under review.
+  if (excessiveExperience.test(text) && !earlyCareerTitle.test(job.title)) return { status: "excluded", reason: "hard-experience-requirement" };
   if (lowLevelPreference.test(text) && !/\b(?:machine learning|cuda|gpu|distributed training|backend|data infrastructure)\b/i.test(text)) return { status: "excluded", reason: "preference-low-level-systems" };
   if (!stripHtml(job.description)) return { status: "needs-review", reason: "official-detail-evidence-unavailable" };
   const timing = classifyTimingEvidence({ title: job.title, description: job.description, employmentType: "full-time" });

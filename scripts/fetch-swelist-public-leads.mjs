@@ -8,9 +8,11 @@ if (!outputPath) {
 }
 
 const source = JSON.parse(await readFile(leadPath, "utf8"));
-const rawLeads = source.publicLeads ?? (source.days ?? []).flatMap((day) =>
-  (day.publicJobUrls ?? []).map((leadUrl) => ({ leadUrl })),
-);
+const rawLeads = source.publicLeads
+  ?? source.publicJobUrls?.map((leadUrl) => ({ leadUrl }))
+  ?? (source.days ?? []).flatMap((day) =>
+    (day.publicJobUrls ?? []).map((leadUrl) => ({ leadUrl })),
+  );
 const leads = [...new Map(
   rawLeads
     .map((lead) => (typeof lead === "string" ? { leadUrl: lead } : lead))

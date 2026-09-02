@@ -270,13 +270,13 @@ test("keeps the public job and application datasets privacy-safe", async () => {
   );
   assert.equal(
     state.sourceMonitoring.sources["swelist-email"].baseline.matchedMessageCount,
-    4,
-    "the SWELIST baseline must retain the three corrected August messages and the validated September 1 message",
+    5,
+    "the SWELIST baseline must retain the three corrected August messages and the validated September 1 and September 2 messages",
   );
   assert.equal(
     state.sourceMonitoring.sources["swelist-email"].baseline.extractedPublicLinkCount,
-    300,
-    "the SWELIST baseline must retain all 159 corrected-window links plus the 141 links from September 1",
+    359,
+    "the SWELIST baseline must retain all 159 corrected-window links plus 141 links from September 1 and 59 links from September 2",
   );
   const simplifySource = state.sourceMonitoring.sources.simplifyjobs;
   assert.equal(
