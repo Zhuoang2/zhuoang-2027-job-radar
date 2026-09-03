@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T02:43:59-07:00",
+  "updatedAt": "2026-09-03T20:44:51.459Z",
   "applications": [
     {
       "id": "dv-trading-2027-graduate-swe-4719126005",
@@ -65,6 +65,12 @@
       "id": "palantir-software-engineer-new-grad-94984771",
       "company": "Palantir",
       "role": "Software Engineer, New Grad",
+      "status": "needs-review"
+    },
+    {
+      "id": "276691",
+      "company": "Tesla",
+      "role": "Software Engineer, AI Model Delivery",
       "status": "needs-review"
     }
   ]

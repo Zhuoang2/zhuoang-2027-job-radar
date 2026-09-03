@@ -1436,7 +1436,7 @@
     "ageDays": 50,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-14T08:00:00-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "opt-accepted",
@@ -1468,7 +1468,7 @@
     "ageDays": 33,
     "source": "SpeedyApply/2027-SWE-College-Jobs",
     "firstSeenAt": "2026-07-31T10:44:45-07:00",
-    "lastCheckedAt": "2026-08-01T08:01:26-07:00",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "opt-accepted",
@@ -7233,7 +7233,7 @@
     "ageDays": 12,
     "source": "Official company careers audit",
     "firstSeenAt": "2026-08-21T08:01:11-07:00",
-    "lastCheckedAt": "2026-08-21T08:01:11-07:00",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
     "eligibility": "eligible",
     "startTiming": "confirmed-2027",
     "sponsorship": "opt-accepted",
@@ -9904,7 +9904,7 @@
     ],
     "source": "SWELIST email lead / Prelim official careers",
     "firstSeenAt": "2026-09-02T10:24:28.632Z",
-    "lastCheckedAt": "2026-09-02T10:24:28.632Z",
+    "lastCheckedAt": "2026-09-03T20:39:18.238Z",
     "ageDays": 0,
     "applyUrl": "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409",
     "status": "open"
@@ -10297,7 +10297,7 @@
     ],
     "source": "SWELIST email lead / official company careers",
     "firstSeenAt": "2026-09-02T20:48:12.538Z",
-    "lastCheckedAt": "2026-09-02T20:48:12.538Z",
+    "lastCheckedAt": "2026-09-03T20:39:18.238Z",
     "ageDays": 0,
     "applyUrl": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006",
     "status": "open"
@@ -10420,7 +10420,7 @@
     ],
     "source": "Seven Research official careers",
     "firstSeenAt": "2026-09-03T02:43:59-07:00",
-    "lastCheckedAt": "2026-09-03T02:43:59-07:00",
+    "lastCheckedAt": "2026-09-03T20:39:18.238Z",
     "ageDays": 0,
     "applyUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008",
     "status": "open"
@@ -10451,7 +10451,7 @@
     ],
     "source": "Seven Research official careers",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
-    "lastCheckedAt": "2026-09-03T02:43:59-07:00",
+    "lastCheckedAt": "2026-09-03T20:39:18.238Z",
     "ageDays": 12,
     "applyUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008",
     "status": "open"
@@ -10515,6 +10515,246 @@
       "官网未说明 sponsorship/OPT 政策，保持 unknown"
     ],
     "applyUrl": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
+    "status": "open"
+  },
+  {
+    "id": "arch-software-engineer-early-careers-2027-9fde8d03",
+    "canonicalUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
+    "company": "Arch",
+    "role": "Software Engineer | Early Careers, 2027 Start",
+    "location": "New York, NY",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 98,
+    "resumeTrack": "SWE",
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官网明确接受 2026 年 12 月至 2027 年 8 月毕业生，并提供 2027 年夏季入职",
+      "全栈、API、数据密集型金融平台和可扩展系统职责高度匹配"
+    ],
+    "caveats": [
+      "官网未说明 sponsorship/OPT 政策",
+      "岗位要求纽约办公室现场办公"
+    ],
+    "sources": [
+      "swelist-email",
+      "simplifyjobs"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
+    "status": "open"
+  },
+  {
+    "id": "trulioo-junior-software-engineer-51347dfe",
+    "canonicalUrl": "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e",
+    "company": "Trulioo",
+    "role": "Junior Software Engineer",
+    "location": "San Diego, CA",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官网明确面向近期或即将毕业的硕士生，且不要求多年专业 AI 经历",
+      "Agentic verification、Python/云基础设施和生产系统职责与经历高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 年 7 月开始日期",
+      "官网未说明 sponsorship 政策；每周需到圣迭戈办公室三天"
+    ],
+    "sources": [
+      "swelist-email",
+      "simplifyjobs"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e",
+    "status": "open"
+  },
+  {
+    "id": "general-motors-ml-validation-engineer-early-career-jr-202605769",
+    "canonicalUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
+    "company": "General Motors",
+    "role": "ML Validation Research Engineer – Early Career",
+    "location": "Sunnyvale, CA",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "ML Systems"
+    ],
+    "reasons": [
+      "官方 Early Career 岗位要求本科或硕士，未设多年行业经验门槛",
+      "ML 评测、仿真、分布外检测、CI/CD 与大规模验证管线高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策"
+    ],
+    "sources": [
+      "simplifyjobs"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
+    "status": "open"
+  },
+  {
+    "id": "mechanize-junior-software-engineer-b50c89dc",
+    "canonicalUrl": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+    "company": "Mechanize",
+    "role": "Junior Software Engineer",
+    "location": "San Francisco, CA",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 93,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官网明确接受刚毕业或即将毕业者，并说明无需专业软件或 ML 经历",
+      "Python、独立实验和 AI 研究工程职责与候选人经历匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 年 7 月开始日期",
+      "官网未说明 sponsorship 政策"
+    ],
+    "sources": [
+      "simplifyjobs"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+    "status": "open"
+  },
+  {
+    "id": "kikoff-software-engineer-recent-grad-4393822009",
+    "canonicalUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+    "company": "Kikoff",
+    "role": "Software Engineer – Recent Grad",
+    "location": "San Francisco, CA",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 92,
+    "resumeTrack": "SWE",
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官方明确招募 new grad 和 junior 工程师，并认可实习与开源经历",
+      "金融科技全栈、云基础设施和早期产品开发职责匹配"
+    ],
+    "caveats": [
+      "官网列出 2+ 年行业经验或等效经历，需由实习和项目证明等效性",
+      "官网未明确开始日期或 sponsorship 政策；每周需到办公室三天"
+    ],
+    "sources": [
+      "swelist-email",
+      "simplifyjobs"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+    "status": "open"
+  },
+  {
+    "id": "ul-solutions-associate-data-scientist-10730",
+    "canonicalUrl": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
+    "company": "UL Solutions",
+    "role": "Associate Data Scientist",
+    "location": "United States – Multiple Locations",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 91,
+    "resumeTrack": "MLE / AI",
+    "directions": [
+      "AI/ML",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官网要求 0–2 年数据分析或数据科学经验，并接受实习和学术项目",
+      "SQL、Python、统计分析、云数据平台与生成式 AI 经历匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策"
+    ],
+    "sources": [
+      "swelist-email"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
+    "status": "open"
+  },
+  {
+    "id": "aramark-junior-data-engineer-1426145000",
+    "canonicalUrl": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
+    "company": "Aramark",
+    "role": "Junior Data Engineer",
+    "location": "Rockville, MD",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 92,
+    "resumeTrack": "SWE",
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "reasons": [
+      "官网接受 0–2 年经验，并明确认可实习、研究、课程和个人项目",
+      "SQL、Python、云数据平台和 AI 辅助工程经历直接匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策"
+    ],
+    "sources": [
+      "swelist-email",
+      "simplifyjobs"
+    ],
+    "source": "SWELIST / GitHub lead / official company careers",
+    "firstSeenAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "ageDays": 0,
+    "applyUrl": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
     "status": "open"
   }
 ]

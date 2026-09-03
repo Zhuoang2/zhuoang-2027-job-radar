@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-03T18:12:48.724Z",
+  "checkedAt": "2026-09-03T20:44:51.459Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -14470,8 +14470,7 @@
     "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608": {
       "status": "hard-excluded",
       "reasonCode": "citizenship-or-clearance-restriction",
-      "firstSeenAt": "2026-07-29T00:00:00-07:00",
-      "lastCheckedAt": "2026-08-29T10:00:33.538-07:00"
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
     },
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692": {
       "status": "admitted",
@@ -19092,10 +19091,9 @@
       "lastCheckedAt": "2026-09-02T10:24:28.632Z"
     },
     "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-compatible-candidate",
-      "firstSeenAt": "2026-09-02T10:24:28.632Z",
-      "lastCheckedAt": "2026-09-02T10:24:28.632Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
     },
     "https://truckingpeople.applytojob.com/apply/0AjzZz1mg2/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION": {
       "status": "out-of-scope",
@@ -20937,9 +20935,9 @@
       "lastCheckedAt": "2026-09-02T20:48:12.538Z"
     },
     "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006": {
-      "status": "admitted",
-      "reasonCode": "compatible-early-career-timing-unconfirmed",
-      "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
     },
     "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500": {
       "status": "admitted",
@@ -21243,14 +21241,14 @@
       "lastCheckedAt": "2026-09-03T02:43:59-07:00"
     },
     "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008": {
-      "status": "admitted",
-      "reasonCode": "verified-open-compatible-low-experience-role",
-      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
     },
     "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008": {
-      "status": "admitted",
-      "reasonCode": "verified-open-compatible-quant-research-role",
-      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
     },
     "https://www.squarepoint-capital.com/open-opportunities?id=7454476&gh_jid=7454476": {
       "status": "out-of-scope",
@@ -21716,6 +21714,1453 @@
       "status": "admitted",
       "reasonCode": "compatible-early-career-timing-unconfirmed",
       "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4452674008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4452682008": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:39:18.238Z",
+      "lastAttemptAt": "2026-09-03T20:39:18.238Z",
+      "retryAfter": "2026-09-04T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Director---Underwriting--Personal-Lines_099656": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Washington---Seattle-200-W-Mercer-Street/Sr-Trial-Attorney_100182": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Senior-Actuarial-Consultant---Group-Health-and-Employer-Stop-Loss-Valuation---REMOTE_099822": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Consolidations-and-Close-Management_098752": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Summer-2027-E-S-Wholesale-Underwriting-Intern_100045": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Maryland/Sr--Retirement-Specialist_098504-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Counsel---Excess---Surplus-Specialty_099716": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Technical-Director--Advanced-Consulting-Group--Life-_098345": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus/Consultant--Data-Product-Owner--ESS-Programs---E-Risk-_099520-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Full-stack--Java-Angular--2---5-years--experience_099996-1": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Connecticut---Avon-30-Tower-Lane/Summer-2027-Surety-Underwriting-Intern_100043": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Field-Consultant--CLESS--Construction-Defect-_097970-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Indiana/Claims-Specialist-III--Property-Large-Loss--Northern-IN---WFH-_100141": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Consultant--Marketing-Management--E-S-Wholesale-Contract-_099472": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Specialist--Marketing-Mangement--Print---Merchandise-_099884": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Utah/Territory-Manager--Business-Development---Surety--Large-Contract-_099836": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Utah/Sr-Territory-Manager--Business-Development---Surety--Large-Contract-_099394": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Corporate-Security-Officer--3PM---11PM-_100170": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Java-Angular--2---5-years--experience-_099086": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Virginia/Property-Claims-Adjuster-II--Northern-VA---WFH-_100119-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Massachusetts---Marlborough-290-Donald-Lynch-Blvd/Sales-Executive---Group-Benefits---Large-Market_099930": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Georgia---Alpharetta-3480-Preston-Ridge-Road/Sales-Executive---Group-Benefits---Mid-Market_099931": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale-18700-North-Hayden-Road/Consultant--Systems-Analyst_099862": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Agent--Inside-Sales-Support---Pet--Remote-_100088-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Wisconsin---Milwaukee-111-W-Pleasant-Street-Suite-200/Sales-Assistant---Group-Benefits_100062-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Engineer--AWS-_099929": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-York/Sr-Territory-Manager--Specialty-Care-Business-Development--P-C-Insurance-Senior-Production-Underwriter---Human-Services---Nonprofit-_100113": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-York/Territory-Manager--Specialty-Care-Business-Development--P-C-Insurance-Production-Underwriter---Human-Services--Nonprofit-_100024": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Washington---Seattle-200-W-Mercer-Street/Trial-Attorney_099111": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Texas/Property-Claims-Adjuster-II--Austin--TX---WFH-_098696": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Property-Claims-Adjuster-II---NEX--San-Joaquin-or-Stanislaus-County--CA---WFH-_099542-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Tennessee/Sr-Field-Underwriter--Commercial-Lines--P-C-Small-Commercial-Insurance-_099629": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Consultant--Field-Underwriter---Commercial-Lines--P-C-Small-Commercial-Insurance----San-Diego_099662": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Georgia/Property-Claims-Adjuster-II--Metro-Atlanta--GA---WFH-_100135": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Illinois---Downers-Grove-1400-Opus-Place/Sales-Exectutive---Group-Benefits_099179-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Accountant_099998": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Connecticut---Rocky-Hill-500-Enterprise-Drive/Senior-Trial-Attorney_100127": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Specialist--Internal-Audit---Corporate-Services_097801": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Specialist--Internal-Audit--Third-Party-Operations-_098626": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Territory-Management-Representative---Arizona_100032-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Mississippi/Territory-Manager---Personal-Lines--Mississippi---Jackson-_098653": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Director-Internal-Audit-Policy-and-Practices---Quality-Assurance_100010": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Territory-Management-Representative-4_100036-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Virginia/Territory-Manager---Personal-Lines--Virginia---Western-Roanoke-_098648": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Territory-Manager--Inland-Marine--P-C-Insurance---Inland-Marine---Senior-Production-Underwriter-_099491": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Technician--Facilities---SS_097157-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Sr-Analyst--Business-Information_100111": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Specialist--Marketing-Analytics_099461": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Regional-Wholesaler--RVP----Retirement-Solutions--Corporate-Private-Sector-_099248": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Specialist--Underwriting-Middle-Market---Commercial-Lines--Large-Farm-_099921-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Missouri---St-Louis-3668-S-Geyer-Rd/Sr-Paralegal_098398": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Texas/Territory-Manager---Personal-Lines--Texas---Austin-_099747": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Pennsylvania/Property-Claims-Adjuster-II--South-Central-PA---WFH-_099541": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Professional--Mezz-Equity-Asset-Management--_099938": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Specialist--Corporate-Citizenship_099795": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Account-Executive--Firm-Partner-Acquisition--NF-Strategic-Accounts-_099887": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_099936": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Director--Media-Planning---Buying_098729": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Analyst--Distressed-Debt_099315": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Specialist--Program-Underwriting---Alternative-Ventures_100080": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Georgia/Senior-Trial-Attorney_100079": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Analyst--Real-Estate-Information-Management_098972": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Sr-Consultant--Brokerage-Excess-Underwriting---E-S-Specialty_099199": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Enterprise-Risk-Management-Internship_100097": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Internal-Audit-Internship_100098": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Sr-Consultant--Portfolio-Insights-Technical-Enablement_100081": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Business-Delivery-Consultant_099167": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Business-Delivery-Requirements-Lead--PET-Insurance_097818": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa/Sr-Consultant--Risk-Management---P-C--Fleet-_099984": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Specialist--Business-Insights---REMOTE_099923": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Claims-Intern_100001": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-Surety-Claims-Intern_100052": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/XMLNAME-2027-Agribusiness-Commercial-Casualty-Claims-Intern_099540": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/XMLNAME-2027-Agribusiness-Commercial-Property-Claims-Intern_099539": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Utah/Property-Claims-Adjuster-II--Bountiful--UT---WFH-_099939": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Illinois/Field-Claims-Specialist-II--Property-Contents--Chicago--IL---WFH-_099934": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/VP--Corporate-Real-Estate_099883": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Pennsylvania/Field-Claims-Specialist-II--Property-Content--Pittsburgh--PA---WFH-_099266": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Financial-Services-Internship_100076": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Representative--Life-Solutions-Center_099799": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Manager--Business-Delivery---REMOTE_098004": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer---Engineering-Strategy---Modernization-Lead_098984": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Commercial-Lines-Underwriting-Intern--Small-Commercial-_099990": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Commercial-Lines-Portfolio-Management-Intern_099989": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Professional---Operations--Specialty-Finance_097224": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Credit-Quantitative-Analyst--Investment-Professional_099379": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Product-Consultant--Retirement-Solutions-_099628-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Data-Analyst--Investment-Professional_099377": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Sr-Relationship-Manager---Retirement-Solutions--Corporate-Private-Sector-_099827": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Kansas/Sr-Relationship-Manager---Retirement-Solutions--Corporate-Private-Sector-_099812-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Protective-Services-Officer--3pm---11pm-_100013": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Protective-Services-Officer--11pm---7am-_099943": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Tech-Lead_099497": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Apartment-Maintenance-Technician--Facilities-Realty-Investors-SS_099551": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Multi-Family-Leasing-Consultant--Sales---NRI---SS_099414": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Facilities-Maintenance-Technician---NRI---SS_099310": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Territory-Consultant---Advisory-Annuity-Distribution--HYBRID-_100011": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Cybersecurity--Agentic-Solutions-Engineer-_099563": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Cybersecurity--Data-Engineer-_099565": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Cybersecurity--Full-Stack-_099566-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Indiana/Sr-Retirement-Specialist--Government-Public-Sector-Retirement-Plans-_097865": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Technology-Project-Management--Annuity-Modernization-Program-_099805": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---App-Suite-Technical-Lead_099262": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Texas---San-Antonio-9901-W-IH-10/Senior-Trial-Attorney_099593": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-York---Garden-City-990-Stewart-Avenue/Senior-Paralegal_099601": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Internal-Audit-Policy---Practice_098564": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Utah/Territory-Manager---Personal-Lines--Utah---Las-Vegas--NV-_099803": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona/Sr-Consultant--Brokerage-Property-Underwriting---E-S-Brokerage-Property-Unit_099330-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/OIPA-Configuration-Specialist_097071": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/XMLNAME-2027-Corporate-Tax-Winter-Spring-Internship_099981": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Controllership-Internship_099980": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/XMLNAME-2027-Controllership-Winter-Spring-Co-op_099978": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Professional--Private-Placements_099518": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Kentucky/Internal-Retirement-Specialist--Kentucky-Deferred-Comp_099788-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Connecticut/Territory-Manager---Personal-Lines--Connecticut-_098657": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Maine/Territory-Manager---Personal-Lines--Maine-_098659": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Massachusetts/Territory-Manager---Personal-Lines--Massachusetts---Boston-Suburbs---East-_098656": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Director--General-Liability-Pricing-Analytics---REMOTE_099850": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Strategic-Expense-Lead---Nationwide-Financial-Sr-Consultant_099753": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/AVP--Strategic-Planning_099905": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Technology-Program-Manager--Protective-Services_099717-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Software-Engineering-Product-Manager---IoT---Telematics_099170": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Nationwide-Virtual-Hiring-Event-Property-Claims-Adjusters_099937": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona-Work-from-Home-2/Senior-Territory-Manager--Middle-Market-Business-Development---Commercial-Lines_099730-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona/Consultant--Brokerage-Casualty-Underwriting---E-S-Specialty_099922": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona/Specialist--Brokerage-Casualty-Underwriting--E-S-S_099940": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Massachusetts/Territory-Manager--Specialty-Care-Business-Development--P-C-Insurance-Production-Underwriter---Senior-Living-_099755": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/VP--Product-Management-Underwriting-Performance---Excess---Surplus-Specialty-and-Commercial-Lines_099399": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Paralegal-Specialist---Real-Estate_098429": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Indiana/Job-Posting-Title-Claims-Adjuster-II--Field-Property---National-Catastrophe_097371": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Nevada/Field-Claims-Specialist-III--Property--Flex-Claims-Professional-_099264": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Pennsylvania/Territory-Manager---Personal-Lines--Western-Pennsylvania-_098654": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/HVAC-Project-Coordinator-Facilities-NRI---SS_097215": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona/Specialist--Contract-Underwriting---E-S-Specialty---Portfolio-Underwriting---Optimization_098956": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Actuarial-Associate--Excess-Casualty-Pricing-and-Modeling---REMOTE_099466": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Technical-Director--Advanced-Consulting-Group--Retirement-_098587": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/AVP--Associate-Relations_099351-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Senior-Territory-Production-Underwriter---Middle-Market-Construction-Insurance_099830-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Territory-Production-Underwriter---Middle-Market-Construction-Insurance_099785": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Colorado/Senior-Retirement-Specialist---Colorado_099767-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Asset-Liability-Management-Professional_098771": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California---Los-Angeles/Sr-Trial-Attorney_099694": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California---Sacramento-333-University-Ave/Sr-Trial-Attorney_099802": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Pennsylvania---Wexford-2559A-Brandt-School-Road-Suite-200/Senior-Trial-Attorney---PL---CL_097711-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-York/Actuarial-Senior-Associate--Excess-Casualty-Pricing---REMOTE_095956": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Internal-Retirement-Specialist_099770-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Project-Coordinator--Facilities---SS_098359-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Florida---Plantation-8151-Peters-Road/Sr-Trial-Attorney_099669": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Consultant-II--Underwriting-Life--Life-New-Business--REMOTE_099807": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio-Work-from-Home-2/Specialist--Life-Underwriting--Life-New-Business-_098230-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Actuarial---Retirement-Solutions-Financial-Reporting---REMOTE_099636": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Sr-Analyst--Underwriting---Life_098937": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Certified-Financial-Planner---Retirement-Solutions_097884": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Internal-Audit---Evergreen_099792": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Professional--Real-Estate-Investments--CML-Asset-Management_099552": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Controllership-Accounting-positions---Evergreen_099791": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Associate-State-Product-Manager---Personal-Lines_099687": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Kentucky/Sr-Retirement-Specialist--Public-Government-Sector-Retirement-Plans-_098275": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Colorado/Sr-Trial-Attorney_099610": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale/Trial-Attorney_099609": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Technical-Director--Middle-Market-Industry-Segment---Commercial_098762": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-P-C-Actuarial-Internship_099736": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Nationwide-Financial-Actuarial-Internship_099735": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Idaho/Territory-Sales-Manager--Agribusiness_099615": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Professional---Corporate-Research-Analyst_099570": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Professional---Capital-Markets_099444": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/North-Dakota/Specialist--Risk-Management-Agribusiness_099680": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/State-Product-Manager---Personal-Lines_097045": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Counsel---Structured-Investments_096588": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Indiana/Financial-Planner_099434-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-York---New-York-1-Battery-Park-Plaza/Claim-Specialist-III---Management-Specialty-Lines_099492": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Senior-Consultant--Claims-Casualty---E-S-Specialty--Traditional-Environmental-Property-Damage-and-Bodily-Injury-_099594": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Predictive-Modeler---Pricing-Modeler---Commercial-Actuarial---Remote_098758": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Java--Angular--IIB----Ace--AppConnect-Enterprise-_099384": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:39:18.238Z",
+      "lastAttemptAt": "2026-09-03T20:39:18.238Z",
+      "retryAfter": "2026-09-04T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---ETL-Informatica-and-ACE--App-Connect-Enterprise-_099385": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:39:18.238Z",
+      "lastAttemptAt": "2026-09-03T20:39:18.238Z",
+      "retryAfter": "2026-09-04T20:39:18.238Z"
+    },
+    "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Data-Engineer---Databricks_099719": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:39:18.238Z",
+      "lastAttemptAt": "2026-09-03T20:39:18.238Z",
+      "retryAfter": "2026-09-04T20:39:18.238Z"
+    },
+    "https://jobs.ashbyhq.com/prelim/8f2fa43f-2165-4369-869c-866b3505f48f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://jobs.ashbyhq.com/prelim/6df5b191-1b12-4f6e-a978-30e3954ac2c9": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://jobs.ashbyhq.com/prelim/01c8e7de-4340-4965-88cb-966a95309b32": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://jobs.ashbyhq.com/prelim/85a218f7-8fd6-47a5-a7f7-7b2b24708616": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:39:18.238Z"
+    },
+    "https://jobs.keysight.com/external/jobs/54139?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Chevy-Chase-Maryland---USA/MBS-Trader_R53041": {
+      "status": "preference-excluded",
+      "reasonCode": "pure-trading-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056": {
+      "status": "hard-excluded",
+      "reasonCode": "timing-incompatible-january-2027-start",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/PQ/744000147064769": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4393822009": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://job-boards.greenhouse.io/andurilindustries/jobs/5228868007": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://careers.rivian.com/careers-home/jobs/30795?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-eligibility-evidence-incomplete",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59691?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://job-boards.greenhouse.io/accenturefederalservices/jobs/4710646006": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425935000": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-core-embedded-work",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d": {
+      "status": "admitted",
+      "reasonCode": "officially-verified-2027-candidate",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6179900004": {
+      "status": "preference-excluded",
+      "reasonCode": "core-low-level-embedded-national-security-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://bostonscientific.eightfold.ai/careers/job/563602813508995": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0": {
+      "status": "preference-excluded",
+      "reasonCode": "pure-trading-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://ats.rippling.com/opiniion/jobs/2a03df8c-16d2-4e92-be4c-7fabc4773e4a": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://careers.viasat.com/jobs/6330?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-eligibility-evidence-incomplete",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://www.amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
+      "status": "needs-review",
+      "reasonCode": "insufficient-start-timing-evidence",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00191299": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-eligibility-evidence-incomplete",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://careers.gov2x.com/why-gov2x/jobs/62655?icims=1": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-eligibility-evidence-incomplete",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://akunacapital.com/careers/job/8013085/?gh_jid=8013085": {
+      "status": "duplicate",
+      "reasonCode": "already-represented-by-job-card",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/AGTechnologies1/100730616": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-eligibility-evidence-incomplete",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://jobs.smartrecruiters.com/AGTechnologies1/108734797": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-or-eligibility-evidence-incomplete",
+      "firstSeenAt": "2026-09-03T20:44:51.459Z",
+      "lastAttemptAt": "2026-09-03T20:44:51.459Z",
+      "retryAfter": "2026-09-04T20:44:51.460Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/Jobsbridge1/88661424": {
+      "status": "out-of-scope",
+      "reasonCode": "mobile-development-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/Jobsbridge1/88661485": {
+      "status": "out-of-scope",
+      "reasonCode": "mobile-development-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://careers.roblox.com/jobs/8143976?gh_jid=8143976": {
+      "status": "out-of-scope",
+      "reasonCode": "product-management-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Digital-Product-Global-Early-Career-Professional_JR74277": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210": {
+      "status": "hard-excluded",
+      "reasonCode": "no-future-sponsorship",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004": {
+      "status": "out-of-scope",
+      "reasonCode": "business-or-knowledge-analyst-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://careers-nakupuna.icims.com/jobs/6788/job": {
+      "status": "out-of-scope",
+      "reasonCode": "business-or-knowledge-analyst-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/DataCloudMerge/744000039093905": {
+      "status": "out-of-scope",
+      "reasonCode": "business-or-knowledge-analyst-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/DataCloudMerge/744000039092000": {
+      "status": "out-of-scope",
+      "reasonCode": "business-or-knowledge-analyst-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/graduate-equity-analyst-2027-start-chicago/?gh_jid=8616003002": {
+      "status": "out-of-scope",
+      "reasonCode": "equity-analyst-role-not-quant-research-or-development",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541": {
+      "status": "duplicate",
+      "reasonCode": "already-represented-by-job-card",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://akunacapital.com/careers/job/8016687/?gh_jid=8016687": {
+      "status": "duplicate",
+      "reasonCode": "already-represented-by-job-card",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami": {
+      "status": "preference-excluded",
+      "reasonCode": "pure-trading-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york": {
+      "status": "preference-excluded",
+      "reasonCode": "pure-trading-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348": {
+      "status": "hard-excluded",
+      "reasonCode": "official-page-closed",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.smartrecruiters.com/GDMSI/744000147039249": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Electrical-Engineer-I---Onsite_01871787": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://eaton.eightfold.ai/careers/job/687238044194": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525": {
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519": {
+      "status": "out-of-scope",
+      "reasonCode": "hardware-design-role",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Product-Test-Engineer--Entry-Level_R-10063911-1": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010": {
+      "status": "hard-excluded",
+      "reasonCode": "timing-incompatible-explicit-cycle",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/0c2c63b6-2c00-408f-acd2-927456d13ea4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/1b24996d-5216-4340-b3e9-09cd19a5b0f0": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/21c50614-8b95-4108-ad90-41a3652735bf": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/2dff76dd-866e-4d97-aa95-afcf1a0b28d8": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/39a9fd28-930e-4139-8304-e0aa7851c3fa": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/3a48d1b1-444b-4d93-b1bc-4adcd269418e": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/3f82e674-ad33-47ce-96b7-4ae7dd5be8e7": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/3faa6380-ecd0-44e4-a660-4e988b67461f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/47d45e6e-d2b7-40ad-a60d-8da2b1effc44": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/584dffec-c651-4e7d-9a9c-bc514a482274": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/61a25905-f3b8-4625-85ba-cbbf7a13ed39": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/647ffde5-0f3f-4a08-ae80-08cd94a55d86": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/7c3b162a-3682-4369-9423-c14ef41201ff": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/7f9bed81-910c-451c-afca-90b42ff6ac4e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/873ece7f-a456-4651-b869-50c1b92d9505": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/8c9206af-791c-43de-a648-2e50a3be300b": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/91b64c72-1312-4c2f-96f2-67f6b6e0be9e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/988e5175-a56f-4c3a-b1d9-3a643a63a503": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/9ad41e5d-9117-4b76-aa21-e645dc41497c": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/a929f668-d453-4ef2-9df1-9e972f0cfaa0": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/b2aa606d-3087-4105-8143-cded255b3e75": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/bb66ecf4-3f31-425b-b0db-e3ac238e78ae": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/bf15bc13-29b7-40a4-83f5-9a809a1d744e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/c48dfc27-a60d-4aab-9f9e-1775aa1a6167": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/cb336983-b9eb-4b85-910e-e4acdfdd61c4": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/d21a3c57-f745-430d-9748-5e56972a09cd": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/d5396cb6-2b30-4d4b-bf3d-85da570e817e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/da339501-63ca-46c2-8379-5667b7c9b921": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/dd719782-2aa3-4a4b-831e-f3da699bf6a4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/dfaea8af-8059-4613-b7b7-31d73ce783d3": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/e5eed875-01da-462c-a299-e2ee5d2c1529": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/e6a5baf9-3a8c-4a4c-9570-ceee2e9c589c": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/f4f63dfa-3cc3-4d63-bbe5-da2f63af5c94": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://simplify.jobs/p/face01f2-48c1-40a1-a54e-8cff911ad58d": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
     }
   }
 }
