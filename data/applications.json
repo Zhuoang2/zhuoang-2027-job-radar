@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:13:33-07:00",
+  "updatedAt": "2026-09-03T12:00:00-07:00",
   "applications": [
     {
       "id": "dv-trading-2027-graduate-swe-4719126005",
@@ -24,6 +24,48 @@
       "company": "Nooks",
       "role": "Software Engineer, New Grad",
       "status": "submitted"
+    },
+    {
+      "id": "old-mission-swe-2027",
+      "company": "Old Mission",
+      "role": "Junior Software Engineer - 2027 Start",
+      "status": "applying"
+    },
+    {
+      "id": "seven-research-quantitative-researcher-4452672008",
+      "company": "Seven Research",
+      "role": "Quantitative Researcher",
+      "status": "applying"
+    },
+    {
+      "id": "marshall-wace-quant-associate-programme-2027-8636830002",
+      "company": "Marshall Wace",
+      "role": "Quant Research - Quant Associate Programme 2027",
+      "status": "applying"
+    },
+    {
+      "id": "drw-quantitative-researcher-8030406",
+      "company": "DRW",
+      "role": "Quantitative Researcher",
+      "status": "applying"
+    },
+    {
+      "id": "drw-software-developer-7980165",
+      "company": "DRW",
+      "role": "Software Developer",
+      "status": "applying"
+    },
+    {
+      "id": "palantir-fdse-new-grad",
+      "company": "Palantir",
+      "role": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "status": "needs-review"
+    },
+    {
+      "id": "palantir-software-engineer-new-grad-94984771",
+      "company": "Palantir",
+      "role": "Software Engineer, New Grad",
+      "status": "needs-review"
     }
   ]
 }

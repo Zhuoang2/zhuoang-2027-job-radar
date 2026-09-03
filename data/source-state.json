@@ -9348,6 +9348,19 @@
       "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006": [
         "swelist-email"
       ],
+      "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92": [
+        "company-careers",
+        "vanshb03"
+      ],
+      "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008": [
+        "company-careers"
+      ],
+      "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008": [
+        "company-careers"
+      ],
       "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500": [
         "swelist-email"
       ]
@@ -13736,8 +13749,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 3915,
-      "lastCheckedAt": "2026-09-02T20:48:12.538Z",
+      "entryCount": 3919,
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

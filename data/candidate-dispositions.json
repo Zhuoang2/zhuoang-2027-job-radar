@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-02T20:48:12.538Z",
+  "checkedAt": "2026-09-03T12:00:00-07:00",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -1855,11 +1855,9 @@
       "retryAfter": "2026-08-27T08:00:00-07:00"
     },
     "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92": {
-      "status": "needs-review",
-      "reasonCode": "vanshb03-needs-explicit-official-2027-evidence",
-      "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "admitted",
+      "reasonCode": "verified-open-compatible-new-grad",
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
     },
     "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29": {
       "status": "needs-review",
@@ -2156,9 +2154,9 @@
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.apple.com/en-us/details/200678510": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "official-page-closed",
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
     },
     "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application": {
       "status": "duplicate",
@@ -21235,6 +21233,26 @@
       "status": "hard-excluded",
       "reasonCode": "citizenship-or-clearance-restriction",
       "lastCheckedAt": "2026-09-02T20:48:12.538Z"
+    },
+    "https://jobs.apple.com/en-us/details/200660851/software-engineer-early-career-front-end": {
+      "status": "hard-excluded",
+      "reasonCode": "official-page-closed",
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+    },
+    "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities": {
+      "status": "admitted",
+      "reasonCode": "verified-open-compatible-early-career",
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008": {
+      "status": "admitted",
+      "reasonCode": "verified-open-compatible-low-experience-role",
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+    },
+    "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008": {
+      "status": "admitted",
+      "reasonCode": "verified-open-compatible-quant-research-role",
+      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
     }
   }
 }

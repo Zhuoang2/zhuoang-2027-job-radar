@@ -4618,37 +4618,6 @@
     "status": "open"
   },
   {
-    "id": "apple-is-t-early-career-200678510",
-    "canonicalUrl": "https://jobs.apple.com/en-us/details/200678510-0836/software-engineer-is-t-early-career-opportunities",
-    "company": "Apple",
-    "role": "Software Engineer - IS&T Early Career Opportunities",
-    "location": "Cupertino, CA / Sunnyvale, CA",
-    "ageDays": 13,
-    "source": "SWELIST email lead / SimplifyJobs",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 88,
-    "directions": [
-      "SWE/Data Infra"
-    ],
-    "resumeTrack": "General SWE / Backend-Data Infra",
-    "reasons": [
-      "官方 early-career 职位接受本科和实习经历",
-      "覆盖后端、Web、移动端和脚本开发方向",
-      "与现有 Apple 前端岗位为不同官方 requisition"
-    ],
-    "caveats": [
-      "官方未明确 2027 入职周期或 sponsorship 政策",
-      "团队分配范围较广，申请前确认具体方向"
-    ],
-    "applyUrl": "https://jobs.apple.com/en-us/details/200678510-0836/software-engineer-is-t-early-career-opportunities",
-    "firstSeenAt": "2026-08-19T22:30:00-07:00",
-    "lastCheckedAt": "2026-08-19T22:30:00-07:00",
-    "status": "open"
-  },
-  {
     "id": "applied-materials-data-scientist-r2625997",
     "canonicalUrl": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2625997",
     "company": "Applied Materials",
@@ -6449,38 +6418,6 @@
     "status": "open"
   },
   {
-    "id": "apple-early-career-frontend-200660851",
-    "canonicalUrl": "https://jobs.apple.com/en-us/details/200660851/software-engineer-early-career-front-end",
-    "company": "Apple",
-    "role": "Software Engineer - Early Career (Front-end)",
-    "location": "Austin, TX",
-    "ageDays": 28,
-    "source": "SWELIST email lead",
-    "eligibility": "likely",
-    "startTiming": "timing-check",
-    "sponsorship": "unknown",
-    "fitTier": "recommended",
-    "fitScore": 82,
-    "directions": [
-      "SWE/Data Infra",
-      "AI/ML"
-    ],
-    "resumeTrack": "General SWE",
-    "reasons": [
-      "官方职位仍开放且明确为 Early Career",
-      "React、TypeScript、UX/UI 与 AI developer tools 属于软件工程方向",
-      "要求计算机相关本科学历"
-    ],
-    "caveats": [
-      "官方没有明确 2027 入职周期，保留 timing-check",
-      "职位页没有公开 employment sponsorship/OPT 政策；文中的 sponsorship 指广告业务，不是签证政策"
-    ],
-    "applyUrl": "https://jobs.apple.com/en-us/details/200660851/software-engineer-early-career-front-end",
-    "status": "open",
-    "firstSeenAt": "2026-08-05T08:07:45-07:00",
-    "lastCheckedAt": "2026-08-05T08:42:00-07:00"
-  },
-  {
     "id": "asure-associate-software-engineer-addison-1052",
     "canonicalUrl": "https://asuresoftware.bamboohr.com/careers/1052",
     "company": "Asure",
@@ -7742,8 +7679,8 @@
     "lastCheckedAt": "2026-08-22T20:07:37-07:00"
   },
   {
-    "id": "drw-quantitative-researcher-3481214",
-    "canonicalUrl": "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214",
+    "id": "drw-quantitative-researcher-8030406",
+    "canonicalUrl": "https://job-boards.greenhouse.io/drweng/jobs/8030406",
     "company": "DRW",
     "role": "Quantitative Researcher",
     "location": "Chicago, IL / New York, NY",
@@ -7765,14 +7702,14 @@
     "caveats": [
       "官方职位页未说明 sponsorship/OPT 政策"
     ],
-    "applyUrl": "https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214",
+    "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/8030406",
     "status": "open",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
-    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    "lastCheckedAt": "2026-09-03T12:00:00-07:00"
   },
   {
-    "id": "drw-software-developer-3463408",
-    "canonicalUrl": "https://www.drw.com/work-at-drw/listings/software-developer-3463408",
+    "id": "drw-software-developer-7980165",
+    "canonicalUrl": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
     "company": "DRW",
     "role": "Software Developer",
     "location": "Chicago, IL",
@@ -7796,10 +7733,10 @@
       "相较 DRW Quantitative Researcher 更依赖系统工程与 C++",
       "官方职位页未说明 sponsorship/OPT 政策"
     ],
-    "applyUrl": "https://www.drw.com/work-at-drw/listings/software-developer-3463408",
+    "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
     "status": "open",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
-    "lastCheckedAt": "2026-08-22T20:07:37-07:00"
+    "lastCheckedAt": "2026-09-03T12:00:00-07:00"
   },
   {
     "id": "headlands-quantitative-researcher-new-grad",
@@ -10393,6 +10330,130 @@
     "lastCheckedAt": "2026-09-02T20:48:12.538Z",
     "ageDays": 0,
     "applyUrl": "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500",
+    "status": "open"
+  },
+  {
+    "id": "palantir-software-engineer-new-grad-94984771",
+    "canonicalUrl": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "company": "Palantir",
+    "role": "Software Engineer, New Grad",
+    "location": "New York, NY",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "SWE",
+    "reasons": [
+      "官方 New Grad 岗位覆盖 Palantir Foundry、Gotham 与 Apollo 的完整产品生命周期",
+      "Java、C++、Python、JavaScript、React、数据系统和云基础设施经历高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网将取得美国安全许可的资格列为偏好项，并未说明 sponsorship 政策"
+    ],
+    "source": "Palantir official careers",
+    "firstSeenAt": "2026-08-20T18:07:56-07:00",
+    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "ageDays": 14,
+    "applyUrl": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "status": "open"
+  },
+  {
+    "id": "apple-aidp-reliability-early-career-200677645-0157",
+    "canonicalUrl": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
+    "company": "Apple",
+    "role": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
+    "location": "Austin, TX",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 96,
+    "directions": [
+      "AI/ML",
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "resumeTrack": "MLE/AI",
+    "reasons": [
+      "官方 Early Career 岗位聚焦 GenAI、ML inference、大数据平台与分布式系统",
+      "Upstart 模型研究、Databricks/AWS 数据管道和 CUDA/MPI 训练系统经历高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "岗位包含平台可靠性与生产运维职责；官网未说明 sponsorship 政策"
+    ],
+    "source": "Apple official careers",
+    "firstSeenAt": "2026-09-03T12:00:00-07:00",
+    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "ageDays": 22,
+    "applyUrl": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
+    "status": "open"
+  },
+  {
+    "id": "seven-research-algorithmic-developer-4452676008",
+    "canonicalUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008",
+    "company": "Seven Research",
+    "role": "Algorithmic Developer",
+    "location": "New York, NY",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 95,
+    "directions": [
+      "Quant",
+      "ML Systems"
+    ],
+    "resumeTrack": "Quant",
+    "reasons": [
+      "官方接受本科、硕士或博士，职责结合量化研究与高性能交易系统开发",
+      "C++、数据结构与算法、统计分析、CUDA/MPI 和性能优化经历高度匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "职位强调 C++ mastery，且官网未说明 sponsorship 政策"
+    ],
+    "source": "Seven Research official careers",
+    "firstSeenAt": "2026-09-03T12:00:00-07:00",
+    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "ageDays": 0,
+    "applyUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008",
+    "status": "open"
+  },
+  {
+    "id": "seven-research-quantitative-researcher-4452672008",
+    "canonicalUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008",
+    "company": "Seven Research",
+    "role": "Quantitative Researcher",
+    "location": "New York, NY",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 97,
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "resumeTrack": "Quant Research",
+    "reasons": [
+      "预测建模、机器学习、统计研究和大规模数据分析职责与 Upstart 研究经历高度匹配",
+      "Python、实验设计、模型评估和金融数据背景直接适用于系统化量化研究"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策"
+    ],
+    "source": "Seven Research official careers",
+    "firstSeenAt": "2026-08-22T20:07:37-07:00",
+    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "ageDays": 12,
+    "applyUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008",
     "status": "open"
   }
 ]
