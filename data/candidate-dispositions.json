@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-03T12:00:00-07:00",
+  "checkedAt": "2026-09-03T18:12:48.724Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -1857,7 +1857,7 @@
     "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92": {
       "status": "admitted",
       "reasonCode": "verified-open-compatible-new-grad",
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
     },
     "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29": {
       "status": "needs-review",
@@ -2156,7 +2156,7 @@
     "https://jobs.apple.com/en-us/details/200678510": {
       "status": "hard-excluded",
       "reasonCode": "official-page-closed",
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
     },
     "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application": {
       "status": "duplicate",
@@ -12845,11 +12845,9 @@
       "lastCheckedAt": "2026-08-22T20:07:37-07:00"
     },
     "https://www.squarepoint-capital.com/early-careers": {
-      "status": "needs-review",
-      "reasonCode": "official-detail-pages-not-stably-readable",
-      "firstSeenAt": "2026-08-22T20:07:37-07:00",
-      "lastAttemptAt": "2026-08-23T08:00:47-07:00",
-      "retryAfter": "2026-08-30T08:00:47-07:00"
+      "status": "duplicate",
+      "reasonCode": "official-greenhouse-catalog-resolved",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
     },
     "https://careers.twosigma.com/careers/SearchJobs/": {
       "status": "needs-review",
@@ -21237,22 +21235,487 @@
     "https://jobs.apple.com/en-us/details/200660851/software-engineer-early-career-front-end": {
       "status": "hard-excluded",
       "reasonCode": "official-page-closed",
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
     },
     "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities": {
       "status": "admitted",
       "reasonCode": "verified-open-compatible-early-career",
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
     },
     "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008": {
       "status": "admitted",
       "reasonCode": "verified-open-compatible-low-experience-role",
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
     },
     "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008": {
       "status": "admitted",
       "reasonCode": "verified-open-compatible-quant-research-role",
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+      "lastCheckedAt": "2026-09-03T02:43:59-07:00"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7454476&gh_jid=7454476": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7731544&gh_jid=7731544": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8119232&gh_jid=8119232": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8119061&gh_jid=8119061": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8127909&gh_jid=8127909": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7978472&gh_jid=7978472": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7434150&gh_jid=7434150": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8114371&gh_jid=8114371": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7709716&gh_jid=7709716": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7912621&gh_jid=7912621": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8091941&gh_jid=8091941": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7340149&gh_jid=7340149": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6585797&gh_jid=6585797": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8121038&gh_jid=8121038": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8164121&gh_jid=8164121": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8038330&gh_jid=8038330": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7677230&gh_jid=7677230": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8076647&gh_jid=8076647": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=5929246&gh_jid=5929246": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8044880&gh_jid=8044880": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8067324&gh_jid=8067324": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6099903&gh_jid=6099903": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7013910&gh_jid=7013910": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7335465&gh_jid=7335465": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8002583&gh_jid=8002583": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6990539&gh_jid=6990539": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7068166&gh_jid=7068166": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7068120&gh_jid=7068120": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7006450&gh_jid=7006450": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7824235&gh_jid=7824235": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6212084&gh_jid=6212084": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6119781&gh_jid=6119781": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7907168&gh_jid=7907168": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6421645&gh_jid=6421645": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7006491&gh_jid=7006491": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6164715&gh_jid=6164715": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=3277003&gh_jid=3277003": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=1433622&gh_jid=1433622": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=4904137&gh_jid=4904137": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=4904130&gh_jid=4904130": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=4904158&gh_jid=4904158": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=3604160&gh_jid=3604160": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7479509&gh_jid=7479509": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=253414&gh_jid=253414": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6977749&gh_jid=6977749": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6565052&gh_jid=6565052": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=1468761&gh_jid=1468761": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=4992227&gh_jid=4992227": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=953511&gh_jid=953511": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8092777&gh_jid=8092777": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=4346989&gh_jid=4346989": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8092644&gh_jid=8092644": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=4906785&gh_jid=4906785": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=5986280&gh_jid=5986280": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6715949&gh_jid=6715949": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=609831&gh_jid=609831": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=271708&gh_jid=271708": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=5384579&gh_jid=5384579": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6212106&gh_jid=6212106": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=1591034&gh_jid=1591034": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7317168&gh_jid=7317168": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=5941253&gh_jid=5941253": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6751046&gh_jid=6751046": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=2167156&gh_jid=2167156": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6420505&gh_jid=6420505": {
+      "status": "out-of-scope",
+      "reasonCode": "non-us-location",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7709566&gh_jid=7709566": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6099883&gh_jid=6099883": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8122268&gh_jid=8122268": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8122239&gh_jid=8122239": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=8122132&gh_jid=8122132": {
+      "status": "hard-excluded",
+      "reasonCode": "hard-experience-requirement",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021": {
+      "status": "preference-excluded",
+      "reasonCode": "preference-low-level-systems",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464": {
+      "status": "admitted",
+      "reasonCode": "compatible-early-career-timing-unconfirmed",
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z"
     }
   }
 }

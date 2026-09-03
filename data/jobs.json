@@ -7705,7 +7705,7 @@
     "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/8030406",
     "status": "open",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
-    "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+    "lastCheckedAt": "2026-09-03T02:43:59-07:00"
   },
   {
     "id": "drw-software-developer-7980165",
@@ -7736,7 +7736,7 @@
     "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
     "status": "open",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
-    "lastCheckedAt": "2026-09-03T12:00:00-07:00"
+    "lastCheckedAt": "2026-09-03T02:43:59-07:00"
   },
   {
     "id": "headlands-quantitative-researcher-new-grad",
@@ -10357,7 +10357,7 @@
     ],
     "source": "Palantir official careers",
     "firstSeenAt": "2026-08-20T18:07:56-07:00",
-    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "lastCheckedAt": "2026-09-03T02:43:59-07:00",
     "ageDays": 14,
     "applyUrl": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
     "status": "open"
@@ -10388,8 +10388,8 @@
       "岗位包含平台可靠性与生产运维职责；官网未说明 sponsorship 政策"
     ],
     "source": "Apple official careers",
-    "firstSeenAt": "2026-09-03T12:00:00-07:00",
-    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "firstSeenAt": "2026-09-03T02:43:59-07:00",
+    "lastCheckedAt": "2026-09-03T02:43:59-07:00",
     "ageDays": 22,
     "applyUrl": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
     "status": "open"
@@ -10419,8 +10419,8 @@
       "职位强调 C++ mastery，且官网未说明 sponsorship 政策"
     ],
     "source": "Seven Research official careers",
-    "firstSeenAt": "2026-09-03T12:00:00-07:00",
-    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "firstSeenAt": "2026-09-03T02:43:59-07:00",
+    "lastCheckedAt": "2026-09-03T02:43:59-07:00",
     "ageDays": 0,
     "applyUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452676008",
     "status": "open"
@@ -10451,9 +10451,70 @@
     ],
     "source": "Seven Research official careers",
     "firstSeenAt": "2026-08-22T20:07:37-07:00",
-    "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+    "lastCheckedAt": "2026-09-03T02:43:59-07:00",
     "ageDays": 12,
     "applyUrl": "https://job-boards.greenhouse.io/sevenresearch/jobs/4452672008",
+    "status": "open"
+  },
+  {
+    "id": "squarepoint-capital-junior-quant-researcher-239376",
+    "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376",
+    "company": "Squarepoint Capital",
+    "role": "Junior Quant Researcher",
+    "location": "London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore",
+    "ageDays": 28,
+    "source": "Official company careers",
+    "firstSeenAt": "2026-09-03T18:12:48.724Z",
+    "lastCheckedAt": "2026-09-03T18:12:48.724Z",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "resumeTrack": "Quant Research / Quant Development",
+    "directions": [
+      "Quant"
+    ],
+    "reasons": [
+      "官方全职 New Grad / Early Career 职位；具体 2027 年 7 月入职时间待核实",
+      "职责与 Quant 方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376",
+    "status": "open"
+  },
+  {
+    "id": "squarepoint-capital-junior-quant-researcher-ml-alpha-research-6069464",
+    "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
+    "company": "Squarepoint Capital",
+    "role": "Junior Quant Researcher - ML Alpha Research",
+    "location": "London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore",
+    "ageDays": 28,
+    "source": "Official company careers",
+    "firstSeenAt": "2026-09-03T18:12:48.724Z",
+    "lastCheckedAt": "2026-09-03T18:12:48.724Z",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 94,
+    "resumeTrack": "Quant Research / Quant Development",
+    "directions": [
+      "Quant",
+      "AI/ML"
+    ],
+    "reasons": [
+      "官方全职 New Grad / Early Career 职位；具体 2027 年 7 月入职时间待核实",
+      "职责与 Quant、AI/ML 方向匹配"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，保留 timing-check",
+      "官网未说明 sponsorship/OPT 政策，保持 unknown"
+    ],
+    "applyUrl": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
     "status": "open"
   }
 ]

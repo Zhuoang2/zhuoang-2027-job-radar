@@ -339,6 +339,10 @@
       {
         "canonicalUrl": "https://www.amazon.jobs/en/jobs/10524274/front-end-engineer-iam-console-team",
         "reason": "Official verification: frontend-only-role."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
+        "reason": "Official verification: preference-low-level-systems."
       }
     ],
     "sources": {
@@ -1194,10 +1198,14 @@
             },
             "Squarepoint Capital": {
               "publicCareersUrl": "https://www.squarepoint-capital.com/early-careers",
-              "status": "needs-review",
-              "lastAttemptAt": "2026-09-02T20:39:25.152Z",
-              "retryAfter": "2026-09-03T20:39:25.152Z",
-              "reason": "no-stable-public-full-catalog-api"
+              "provider": "greenhouse",
+              "status": "complete",
+              "inventoryCount": 93,
+              "inventoryHash": "9664d1f669ceeae55290c00538862eaaecc21a6a4e6e2e0279b13349efaa272d",
+              "candidateCount": 2,
+              "needsReviewCount": 0,
+              "lastSuccessfulCheckAt": "2026-09-03T18:12:48.724Z",
+              "nextDueAt": "2026-09-17T18:12:48.724Z"
             },
             "Aven": {
               "publicCareersUrl": "https://jobs.ashbyhq.com/aven",
@@ -2606,58 +2614,21 @@
           "seedRegistry": {
             "path": "data/company-career-seeds.json",
             "entryCount": 12,
-            "lastTargetedAuditAt": "2026-08-22T20:07:37-07:00"
+            "lastTargetedAuditAt": "2026-09-03T18:12:48.724Z"
           },
           "lastTargetedAuditSummary": {
-            "checkedAt": "2026-08-29T10:08:05.127Z",
+            "checkedAt": "2026-09-03T18:12:48.724Z",
             "selectedCompanies": [
-              "Squarepoint Capital",
-              "D-Wave",
-              "Datalab USA",
-              "General Matter",
-              "GitHub",
-              "Knowledge Services",
-              "Meta",
-              "Meyer Distributing",
-              "MSA Safety",
-              "NewsBreak",
-              "PathAI",
-              "Precisely",
-              "Starbucks",
-              "Stryker",
-              "Swift",
-              "SZNS Solutions",
-              "Talroo",
-              "Tebra",
-              "Teserac",
-              "Trovy"
+              "Squarepoint Capital"
             ],
             "completeCompanies": [
-              "Datalab USA",
-              "General Matter",
-              "NewsBreak",
-              "Swift",
-              "Tebra",
-              "Trovy"
+              "Squarepoint Capital"
             ],
-            "needsReviewCompanies": [
-              "Squarepoint Capital",
-              "D-Wave",
-              "GitHub",
-              "Knowledge Services",
-              "Meta",
-              "Meyer Distributing",
-              "MSA Safety",
-              "PathAI",
-              "Precisely",
-              "Starbucks",
-              "SZNS Solutions",
-              "Talroo",
-              "Teserac"
-            ],
-            "deferredCompanies": [
-              "Stryker"
-            ]
+            "needsReviewCompanies": [],
+            "deferredCompanies": [],
+            "inventoryCount": 93,
+            "candidateCount": 2,
+            "admittedJobCount": 2
           }
         },
         "note": "Today's 20 selected companies were audited in the same run: 1 catalogs completed, 18 have company-specific public inventory blockers, and 1 catalog was deferred for exceeding 200 openings. No partial catalog was treated as complete.",
@@ -9363,6 +9334,12 @@
       ],
       "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500": [
         "swelist-email"
+      ],
+      "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376": [
+        "company-careers"
+      ],
+      "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464": [
+        "company-careers"
       ]
     },
     "suspectedDuplicates": [
@@ -11660,6 +11637,46 @@
       {
         "canonicalUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
         "reason": "Official verification: citizenship-or-clearance-restriction."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=8076647&gh_jid=8076647",
+        "reason": "Official verification: hard-experience-requirement."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410",
+        "reason": "Official verification: experienced-title."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411",
+        "reason": "Official verification: experienced-title."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559",
+        "reason": "Official verification: experienced-title."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413",
+        "reason": "Official verification: experienced-title."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=253414&gh_jid=253414",
+        "reason": "Official verification: experienced-title."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=7709566&gh_jid=7709566",
+        "reason": "Official verification: experienced-title."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=8122268&gh_jid=8122268",
+        "reason": "Official verification: hard-experience-requirement."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=8122239&gh_jid=8122239",
+        "reason": "Official verification: hard-experience-requirement."
+      },
+      {
+        "canonicalUrl": "https://www.squarepoint-capital.com/open-opportunities?id=8122132&gh_jid=8122132",
+        "reason": "Official verification: hard-experience-requirement."
       }
     ],
     "officialVerificationNeedsReview": [
@@ -12406,14 +12423,6 @@
         "firstSeenAt": "2026-08-20T18:07:56-07:00",
         "lastAttemptAt": "2026-08-20T18:07:56-07:00",
         "retryAfter": "2026-08-27T08:00:00-07:00"
-      },
-      {
-        "canonicalUrl": "https://www.squarepoint-capital.com/early-careers",
-        "reason": "The official early-careers page names Graduate Software Developer, but no stable current U.S. job-detail page with timing and application evidence was exposed; hold for a later complete catalog audit.",
-        "status": "needs-review",
-        "firstSeenAt": "2026-08-22T20:07:37-07:00",
-        "lastAttemptAt": "2026-08-22T20:07:37-07:00",
-        "retryAfter": "2026-08-29T08:00:00-07:00"
       },
       {
         "canonicalUrl": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086",
@@ -13749,8 +13758,8 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 3919,
-      "lastCheckedAt": "2026-09-03T12:00:00-07:00",
+      "entryCount": 4012,
+      "lastCheckedAt": "2026-09-03T18:12:48.724Z",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },

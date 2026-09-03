@@ -70,7 +70,7 @@ function fitMetadata(tags) {
   return { fitTier: "recommended", fitScore: 88, resumeTrack: "SWE" };
 }
 
-function providerFor(rawUrl) {
+export function providerFor(rawUrl) {
   if (!rawUrl) return null;
   let url;
   try {
@@ -79,6 +79,12 @@ function providerFor(rawUrl) {
     return { type: "unsupported" };
   }
   const parts = url.pathname.split("/").filter(Boolean);
+  if (
+    /^(?:www\.)?squarepoint-capital\.com$/.test(url.hostname) &&
+    ["early-careers", "open-opportunities"].includes(parts[0])
+  ) {
+    return { type: "greenhouse", slug: "squarepointcapital" };
+  }
   if (/greenhouse\.io$/.test(url.hostname)) {
     const slug = parts[0] === "embed" ? url.searchParams.get("for") : parts[0];
     return slug ? { type: "greenhouse", slug } : null;

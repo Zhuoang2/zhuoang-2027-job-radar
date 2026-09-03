@@ -9,6 +9,7 @@ import {
 import { buildCompanyCareerQueue } from "../scripts/list-company-career-queue.mjs";
 import { buildLinkedInJobQueryPlan } from "../scripts/list-linkedin-job-queries.mjs";
 import { classifyTimingEvidence } from "../scripts/job-timing-policy.mjs";
+import { providerFor } from "../scripts/audit-company-career-queue.mjs";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -532,4 +533,19 @@ test("company career expansion prioritizes bounded unaudited companies", () => {
     "https://example.com/seed-only-quant-careers",
   );
   assert.equal(queue.deferredLargeCompanyCount, 1);
+});
+
+test("recognizes Squarepoint's official careers catalog as its public Greenhouse board", () => {
+  assert.deepEqual(
+    providerFor("https://www.squarepoint-capital.com/early-careers"),
+    { type: "greenhouse", slug: "squarepointcapital" },
+  );
+  assert.deepEqual(
+    providerFor("https://www.squarepoint-capital.com/open-opportunities"),
+    { type: "greenhouse", slug: "squarepointcapital" },
+  );
+  assert.deepEqual(
+    providerFor("https://squarepoint-capital.com/early-careers"),
+    { type: "greenhouse", slug: "squarepointcapital" },
+  );
 });
