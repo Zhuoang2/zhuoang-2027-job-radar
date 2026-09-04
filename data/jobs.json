@@ -10546,7 +10546,7 @@
     ],
     "source": "SWELIST / GitHub lead / official company careers",
     "firstSeenAt": "2026-09-03T20:44:51.459Z",
-    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-04T20:39:00.304Z",
     "ageDays": 0,
     "applyUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
     "status": "open"
@@ -10683,7 +10683,7 @@
     ],
     "source": "SWELIST / GitHub lead / official company careers",
     "firstSeenAt": "2026-09-03T20:44:51.459Z",
-    "lastCheckedAt": "2026-09-03T20:44:51.459Z",
+    "lastCheckedAt": "2026-09-04T20:39:00.304Z",
     "ageDays": 0,
     "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
     "status": "open"
@@ -10755,6 +10755,108 @@
     "lastCheckedAt": "2026-09-03T20:44:51.459Z",
     "ageDays": 0,
     "applyUrl": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
+    "status": "open"
+  },
+  {
+    "id": "tiktok-ml-infra-engineer-graduate-ads-infra-2027-7668693662561634613",
+    "canonicalUrl": "https://lifeattiktok.com/search/7668693662561634613",
+    "company": "TikTok",
+    "role": "ML Infra Engineer Graduate (Ads Infra) - 2027 Start",
+    "location": "San Jose, CA",
+    "eligibility": "eligible",
+    "startTiming": "confirmed-2027",
+    "sponsorship": "unknown",
+    "fitTier": "priority",
+    "fitScore": 98,
+    "resumeTrack": "MLE/AI / ML Systems-HPC",
+    "directions": [
+      "AI/ML",
+      "ML Systems",
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官网明确为 2027 graduate full-time，并要求最晚于 2027 年底入职",
+      "机器学习训练、评估、推理、分布式训练、GPU 调度和 AI Agent 基础设施与目标方向高度匹配"
+    ],
+    "caveats": [
+      "官网未说明 sponsorship 政策",
+      "TikTok 校招每位候选人全球最多申请两个岗位，需要谨慎分配名额"
+    ],
+    "sources": [
+      "simplifyjobs"
+    ],
+    "source": "SimplifyJobs lead / official TikTok careers",
+    "firstSeenAt": "2026-09-04T20:44:59.823Z",
+    "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+    "ageDays": 0,
+    "applyUrl": "https://lifeattiktok.com/search/7668693662561634613",
+    "status": "open"
+  },
+  {
+    "id": "applied-materials-software-engineer-new-college-grad-masters-r2627911",
+    "canonicalUrl": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
+    "company": "Applied Materials",
+    "role": "Software Engineer, New College Grad - Master's",
+    "location": "Chandler, AZ",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "recommended",
+    "fitScore": 84,
+    "resumeTrack": "SWE",
+    "directions": [
+      "SWE/Data Infra",
+      "AI/ML"
+    ],
+    "reasons": [
+      "官网明确标注 New College Grad、全职并要求硕士学位",
+      ".NET、C#、C++、Python 与 AI 相关开发和软件工程背景相符"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期，需在招聘沟通中确认毕业时间兼容性",
+      "官网未说明 sponsorship 政策；岗位与半导体制造软件场景相关"
+    ],
+    "sources": [
+      "simplifyjobs"
+    ],
+    "source": "SimplifyJobs lead / official Applied Materials careers",
+    "firstSeenAt": "2026-09-04T20:44:59.823Z",
+    "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+    "ageDays": 0,
+    "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
+    "status": "open"
+  },
+  {
+    "id": "cooper-university-health-care-reporting-and-analytics-developer-73490",
+    "canonicalUrl": "https://jobs.cooperhealth.org/job/camden/reporting-and-analytics-developer/338/100169213648",
+    "company": "Cooper University Health Care",
+    "role": "Reporting and Analytics Developer",
+    "location": "Camden, NJ",
+    "eligibility": "likely",
+    "startTiming": "timing-check",
+    "sponsorship": "unknown",
+    "fitTier": "possible",
+    "fitScore": 80,
+    "resumeTrack": "Data/Analytics",
+    "directions": [
+      "SWE/Data Infra"
+    ],
+    "reasons": [
+      "官网接受 0–2 年经验，并要求计算机、统计、数据科学或相关本科背景",
+      "报表、分析和系统分析工作与数据分析方向相关"
+    ],
+    "caveats": [
+      "官网未明确 2027 cohort 或开始日期",
+      "官网未说明 sponsorship 政策；岗位更偏企业报表与分析开发"
+    ],
+    "sources": [
+      "swelist-email"
+    ],
+    "source": "SWELIST email lead / official Cooper careers",
+    "firstSeenAt": "2026-09-04T20:44:59.823Z",
+    "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+    "ageDays": 0,
+    "applyUrl": "https://jobs.cooperhealth.org/job/camden/reporting-and-analytics-developer/338/100169213648",
     "status": "open"
   }
 ]

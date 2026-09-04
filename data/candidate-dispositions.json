@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-03T20:44:51.459Z",
+  "checkedAt": "2026-09-04T20:44:59.823Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -3741,9 +3741,9 @@
       "lastCheckedAt": "2026-08-20T18:07:56-07:00"
     },
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517": {
-      "status": "out-of-scope",
-      "reasonCode": "simplify-repository-remains-2026-cycle",
-      "lastCheckedAt": "2026-08-20T18:07:56-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-cycle",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
     },
     "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application": {
       "status": "out-of-scope",
@@ -10555,11 +10555,9 @@
       "retryAfter": "2026-08-27T08:00:00-07:00"
     },
     "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923": {
-      "status": "needs-review",
-      "reasonCode": "official-page-did-not-expose-verifiable-clearance-or-work-authorization-details",
-      "firstSeenAt": "2026-08-20T18:07:56-07:00",
-      "lastAttemptAt": "2026-08-20T18:07:56-07:00",
-      "retryAfter": "2026-08-27T08:00:00-07:00"
+      "status": "hard-excluded",
+      "reasonCode": "citizenship-and-clearance-requirement",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
     },
     "https://jobs.apple.com/en-us/details/200658892-0157": {
       "status": "out-of-scope",
@@ -16296,8 +16294,8 @@
     },
     "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649": {
       "status": "duplicate",
-      "reasonCode": "existing-job-card",
-      "lastCheckedAt": "2026-08-30T10:08:23.420Z"
+      "reasonCode": "existing-card",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
     },
     "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958": {
       "status": "admitted",
@@ -22698,9 +22696,9 @@
       "retryAfter": "2026-09-04T20:44:51.460Z"
     },
     "https://job-boards.greenhouse.io/kikoff/jobs/4393822009": {
-      "status": "admitted",
-      "reasonCode": "compatible-early-career-timing-unconfirmed",
-      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
     },
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730": {
       "status": "admitted",
@@ -22750,9 +22748,9 @@
       "lastCheckedAt": "2026-09-03T20:44:51.459Z"
     },
     "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d": {
-      "status": "admitted",
-      "reasonCode": "officially-verified-2027-candidate",
-      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+      "status": "duplicate",
+      "reasonCode": "existing-job-card",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
     },
     "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6179900004": {
       "status": "preference-excluded",
@@ -22853,9 +22851,9 @@
       "lastCheckedAt": "2026-09-03T20:44:51.459Z"
     },
     "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490": {
-      "status": "admitted",
-      "reasonCode": "compatible-early-career-timing-unconfirmed",
-      "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
     },
     "https://careers.roblox.com/jobs/8143976?gh_jid=8143976": {
       "status": "out-of-scope",
@@ -23161,6 +23159,638 @@
       "status": "out-of-scope",
       "reasonCode": "out-of-scope-title",
       "lastCheckedAt": "2026-09-03T20:44:51.459Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/15ec981c-f785-4a0d-b5e1-1bd12b790ec0": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/d3be5d80-cdc5-48de-abb2-724a5fc57b5b": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/2e87407e-0bc2-4fb1-9559-7975c14898af": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/b57a691b-3ef8-4fec-b51e-c2a91472e669": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/2fe68c78-7d65-47b5-8d2d-169b28dfcc4e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/1b9d094a-2a29-4243-87d3-beadf4647a31": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/ea89b7fa-b1ab-4e19-913d-6128c567b55f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/0c2e3957-1e1d-4020-828f-eddd872e4aa0": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/afb7afa2-3501-4942-a23a-a426ac404ab9": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/39a49037-5722-4320-89d5-2c80c1b0763a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/fe7d8491-e369-4b87-81cc-21927b38cb09": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/d2c42393-f3fc-4a27-921e-eec0084a8e77": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/e4dc64bb-1cd2-460b-9cf3-6957e5e56490": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/769d24bc-16f3-47b9-b383-660811021d6d": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/6b3c11ae-f690-428d-85f2-b22779f5ee34": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/03deb4c3-048f-4d82-900c-a42850cfbb38": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/7a2447cf-9398-46a3-941b-a0bef4e8feeb": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/8a1fed3e-0816-4c65-b4a6-df932c20b6fc": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/4cb6ab6b-fdff-4242-bfcd-5746841565ce": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/d5cd3d0c-4c5d-4edc-bd2f-a9688840d9b2": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/c2c0fcd7-1b6f-4409-977a-9b7d6e8a0bec": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/4e1822e5-1149-4acd-9287-252a22d99c41": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/04c2abb9-b878-4d5b-8c3f-62501023a3b9": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/acc642aa-681f-4361-904a-79e24dc19c84": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4373026009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4330377009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4381242009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4313877009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4250321009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4378925009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4362565009": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4157857009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4231835009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4314797009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4157860009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4250555009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4377920009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4147830009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4244151009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4293780009": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4157096009": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4251690009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4202656009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4243687009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4340506009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4157394009": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4372944009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4250550009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4375051009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4218640009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4147903009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4329727009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4299734009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4246960009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4387697009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4157280009": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4390878009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4288071009": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://job-boards.greenhouse.io/kikoff/jobs/4145990009": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/mechanize/4e401df6-49cc-4db3-a840-0ee2f68c019b": {
+      "status": "hard-excluded",
+      "reasonCode": "experienced-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/mechanize/1ef28bb2-6251-4da6-a590-a4a7606368cb": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-60-day-source-window",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title",
+      "lastCheckedAt": "2026-09-04T20:39:00.304Z"
+    },
+    "https://simplify.jobs/p/fe83daad-c9f1-4e22-b257-7c24f529c0fd": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/513e6d2f-18b8-4296-b39d-cd4c8b148b9b": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/f90d3f2b-d781-495c-a95e-a14936082bb3": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/0f01813c-18e9-48c2-9e47-4afaf74c1be9": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/f83551b7-e3ed-4c68-9df6-9356b06f2e76": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-and-card-added",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/5db5a57d-ee6b-4048-96ad-55f2afa5c546": {
+      "status": "hard-excluded",
+      "reasonCode": "official-eligibility-or-work-authorization-mismatch",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/7bc7577b-9627-44b5-a5e6-26f00112d37a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/d8b3f963-671d-49d6-9810-352e27638579": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/2448117a-1dcc-4ed7-8746-9d828b68bdf7": {
+      "status": "hard-excluded",
+      "reasonCode": "official-eligibility-or-work-authorization-mismatch",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/ba3c0e86-bc35-46f5-9244-ca9565447174": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/74f8cdd1-ec7b-4441-a2a4-3d02ef77418a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/42d640c0-e1ca-40c8-bfd5-c34711c55450": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/6c412113-b6b1-4729-a5ec-e020b336f571": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/7a6c5939-dfa6-4562-83f3-0acbec404a2a": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/ca6c2e42-fafa-4bc6-8cbc-0eeaebb22af0": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/5eb5a5eb-59b9-4f5c-a473-f2397e50e7f5": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/ff313f99-6f78-4b7b-b3a6-de599d2e995f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/06616928-ac18-4e63-ae1b-83635b1cc8a0": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/2fa4c6fe-2107-430d-8ad6-da60b6e0ef98": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/de12efe3-8edb-4076-8435-e2f1218c00df": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/a31e8577-d417-4cf8-8e5d-782665cf49e4": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/e1fdd3ab-6194-426f-861d-ae01069f57f4": {
+      "status": "hard-excluded",
+      "reasonCode": "official-eligibility-or-work-authorization-mismatch",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/ed542a19-592c-4052-bb48-addc20b853a9": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/b8303f31-8c50-46eb-80e0-a9af9324ba88": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/ad475401-fac8-42ad-815f-aa1452425e5e": {
+      "status": "hard-excluded",
+      "reasonCode": "official-eligibility-or-work-authorization-mismatch",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/1eaa74d7-37e2-43bf-8dd7-2532b39fd848": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/4c68bb72-13b7-4a0d-9170-05695b593554": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/d81b7006-1def-413a-8fe5-36558028a3ef": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/73940e9a-7ca2-4efe-bbdf-be9ff0f37259": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/c1446912-2074-4a9b-a131-41d8d9c232cb": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/48bf49f5-eda3-401d-a7ae-961d66c48e77": {
+      "status": "preference-excluded",
+      "reasonCode": "frontend-primary-role",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/a552c11b-3a7d-49c2-80c3-c4da84c80570": {
+      "status": "hard-excluded",
+      "reasonCode": "official-eligibility-or-work-authorization-mismatch",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/e97b8903-c5ea-4374-99a8-47f5eebe4847": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/b5cccd96-9ea5-4c26-a229-6390a7d1cd4b": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/416d91e5-9dfd-4810-9834-1b0dda73690f": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/de92ac79-32b3-4853-9ab6-09f5961ee7cb": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/7dbb5c10-5141-47a1-bf19-a1b0a452f334": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/dcc4b92d-79b0-496f-a471-b167fb264c33": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/7b543e30-b244-48f8-90d7-65ec817714f2": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/6477c48f-f236-4372-b752-4dc347dd417a": {
+      "status": "hard-excluded",
+      "reasonCode": "official-eligibility-or-work-authorization-mismatch",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/536775ba-dafa-4dd3-bd32-e89e1914b81d": {
+      "status": "out-of-scope",
+      "reasonCode": "out-of-scope-title-or-function",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/cca91aa9-bfb8-4738-8e08-5d0471286dd5": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://job-boards.greenhouse.io/doordashusa/jobs/8163709": {
+      "status": "needs-review",
+      "reasonCode": "official-page-unavailable",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R3637-26": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "firstSeenAt": "2026-09-04T20:44:59.823Z",
+      "lastAttemptAt": "2026-09-04T20:44:59.823Z",
+      "retryAfter": "2026-09-05T20:44:59.823Z"
+    },
+    "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-and-card-added",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://boards.greenhouse.io/spacex/jobs/8729121002": {
+      "status": "hard-excluded",
+      "reasonCode": "itar-restriction",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://www.smxtech.com/careers/?gh_jid=7984672003": {
+      "status": "out-of-scope",
+      "reasonCode": "technical-support-primary-role",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738": {
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-graduation-timing",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1": {
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-graduation-timing",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://lifeattiktok.com/search/7668693662561634613": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-and-card-added",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473": {
+      "status": "hard-excluded",
+      "reasonCode": "phd-and-2026-cycle",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://job-boards.greenhouse.io/perpay/jobs/4158121007": {
+      "status": "out-of-scope",
+      "reasonCode": "strategic-analyst-role",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://jobs.lever.co/CesiumAstro/fb2ee9a4-646b-41d8-a037-3acb648db8e1/apply": {
+      "status": "out-of-scope",
+      "reasonCode": "fpga-hardware-role",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667": {
+      "status": "out-of-scope",
+      "reasonCode": "experienced-hardware-role",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630": {
+      "status": "out-of-scope",
+      "reasonCode": "semiconductor-hardware-role",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2018635": {
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-cycle",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567": {
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-cycle",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1": {
+      "status": "hard-excluded",
+      "reasonCode": "explicit-2026-cycle",
+      "lastCheckedAt": "2026-09-04T20:44:59.823Z"
     }
   }
 }
