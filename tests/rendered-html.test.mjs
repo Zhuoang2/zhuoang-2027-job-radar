@@ -132,8 +132,20 @@ test("keeps the public job and application datasets privacy-safe", async () => {
       companyCareerBatch.deferredLargeCount,
     "every selected company must end in exactly one explicit audit disposition",
   );
+  assert.equal(
+    companyCareerBatch.companies.length,
+    companyCareerBatch.selectedCompanyCount,
+    "a company-career batch must preserve one evidence-backed result for every selected company",
+  );
   assert.ok(
-    companyCareerBatch.completeAuditCount > 0,
+    companyCareerBatch.companies.every(
+      (company) =>
+        company.status === "complete" ||
+        company.status === "deferred-large-catalog" ||
+        (company.status === "needs-review" &&
+          typeof company.blocker === "string" &&
+          company.blocker.length > 0),
+    ),
     "a completed company-career batch cannot be a selection-only queue mislabeled as an audit",
   );
   assert.ok(

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-04T20:44:59.823Z",
+  "checkedAt": "2026-09-05T20:42:48.823Z",
   "candidates": {
     "https://lifeattiktok.com/search/7675829388634392837": {
       "status": "duplicate",
@@ -14319,9 +14319,9 @@
       "lastCheckedAt": "2026-08-28T22:29:25.844Z"
     },
     "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application": {
-      "status": "admitted",
-      "reasonCode": "existing-job-card",
-      "lastCheckedAt": "2026-08-28T22:29:25.844Z"
+      "status": "duplicate",
+      "reasonCode": "existing-official-job-card",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
     },
     "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application": {
       "status": "admitted",
@@ -23791,6 +23791,276 @@
       "status": "hard-excluded",
       "reasonCode": "explicit-2026-cycle",
       "lastCheckedAt": "2026-09-04T20:44:59.823Z"
+    },
+    "https://simplify.jobs/p/dc543916-6696-4ce5-81fc-a880e02c69f2": {
+      "status": "out-of-scope",
+      "reasonCode": "non-technical-community-coordinator-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/6c3fb746-2d33-44e9-b97d-ada170e96ef0": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-early-career",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/0541ea68-a2d7-4fe4-b3e4-f7e4d677fe3c": {
+      "status": "out-of-scope",
+      "reasonCode": "customer-service-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/a35187f2-2b60-4934-a7af-6dde56245e69": {
+      "status": "hard-excluded",
+      "reasonCode": "official-us-citizenship-and-top-secret-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/427fc125-8fe9-4189-95f3-0fdee1570153": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-early-career",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/cbfeabfc-ee55-4235-b847-c779d788699e": {
+      "status": "out-of-scope",
+      "reasonCode": "customer-category-business-analytics-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/cf5d2cc2-c274-4fb9-9cef-46931c854228": {
+      "status": "hard-excluded",
+      "reasonCode": "official-no-sponsorship",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/097cd79f-8c8e-447c-aa2f-7f8ffbccbba9": {
+      "status": "hard-excluded",
+      "reasonCode": "official-no-future-sponsorship",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/ad04c8bc-a7d6-4b68-8b8c-0eb0876c9014": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-graduate-quant-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/c4ab4946-ca32-40a8-871d-7f457ac74405": {
+      "status": "preference-excluded",
+      "reasonCode": "low-latency-cpp-linux-systems-core",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/78d9bccf-8fd2-497a-80a4-f3b00fed7d3a": {
+      "status": "hard-excluded",
+      "reasonCode": "official-experience-requirement-incompatible",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/e382d44a-0453-4b79-8b67-afae254a5e16": {
+      "status": "out-of-scope",
+      "reasonCode": "product-management-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/75b8591d-0408-4c28-b660-7ad3e0eb4b3d": {
+      "status": "hard-excluded",
+      "reasonCode": "official-no-future-sponsorship",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/64e8c668-e84f-4de3-aa6b-d52054f1c698": {
+      "status": "hard-excluded",
+      "reasonCode": "official-no-future-sponsorship",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/cd0b6dc4-3bf4-40da-acdc-de2cefa7fe43": {
+      "status": "out-of-scope",
+      "reasonCode": "geoscience-technician-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/e9c88d04-28e7-4ce6-93c7-9be68148a5b3": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-does-not-stably-expose-early-career-eligibility",
+      "firstSeenAt": "2026-09-05T20:40:17.962Z",
+      "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+      "retryAfter": "2026-09-06T20:40:17.962Z",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/1391f391-f29c-43d6-8325-a988430b5fe9": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-recent-graduate",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/e393eb30-181d-4c04-ab51-a894ba8c8222": {
+      "status": "hard-excluded",
+      "reasonCode": "senior-role-experience-mismatch",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/35d85de1-2a39-4150-94ca-3770bd3dc7e1": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-does-not-stably-expose-early-career-eligibility",
+      "firstSeenAt": "2026-09-05T20:40:17.962Z",
+      "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+      "retryAfter": "2026-09-06T20:40:17.962Z",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/e6179b6a-aa7e-4cac-a3ed-8db905d7c42e": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-early-career",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/5692a35b-a407-498c-9c37-aef39ac5511e": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-early-career",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/334c123e-435a-4a0f-898f-671610d593e3": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-confirmed-2027",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/271f04b2-4017-4e86-b67f-387e7a47b5fe": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-confirmed-2027",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/b7912258-69a7-4715-9842-2bf3c22160b1": {
+      "status": "hard-excluded",
+      "reasonCode": "official-citizenship-or-clearance-restriction",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/ace2a03a-1f53-4778-8e95-2ca42b7a7d5a": {
+      "status": "hard-excluded",
+      "reasonCode": "official-us-citizenship-and-secret-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/a6ae9be5-921f-418e-96db-0241adad7082": {
+      "status": "out-of-scope",
+      "reasonCode": "hospitality-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/260b62da-2fbd-47f5-af45-99bd6b0bfb4e": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-not-stably-verified",
+      "firstSeenAt": "2026-09-05T20:40:17.962Z",
+      "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+      "retryAfter": "2026-09-06T20:40:17.962Z",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/dbe70f02-b1aa-45be-b35e-f3c436a0c345": {
+      "status": "hard-excluded",
+      "reasonCode": "official-ts-sci-polygraph-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/01526870-c76a-40bc-981b-2617e593fde3": {
+      "status": "needs-review",
+      "reasonCode": "official-work-authorization-and-start-timing-unconfirmed",
+      "firstSeenAt": "2026-09-05T20:40:17.962Z",
+      "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+      "retryAfter": "2026-09-06T20:40:17.962Z",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/81110647-b15b-4223-aef2-64ef0c802132": {
+      "status": "out-of-scope",
+      "reasonCode": "semiconductor-hardware-validation-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/c192d7cd-8e41-43d0-9f80-86b20fa05310": {
+      "status": "hard-excluded",
+      "reasonCode": "official-us-citizenship-and-secret-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/787a34fe-7bf8-4c55-b010-f4c0d496b5b3": {
+      "status": "hard-excluded",
+      "reasonCode": "official-us-citizenship-and-secret-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/cc64603e-4a52-45f2-8179-ee7b5c08f0e7": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-us-non-technical-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/3c896aa0-4c92-4cf3-93d4-7da41b7a9f91": {
+      "status": "hard-excluded",
+      "reasonCode": "official-phd-and-us-citizenship-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/bd069b24-aa60-4d48-8c89-899ea7fac476": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-graduate-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/32bc0116-4c05-4716-806d-19d345759de4": {
+      "status": "out-of-scope",
+      "reasonCode": "product-management-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/affc493c-ddc6-42c1-8ae5-58b0dbdc17eb": {
+      "status": "needs-review",
+      "reasonCode": "official-detail-does-not-stably-expose-early-career-eligibility",
+      "firstSeenAt": "2026-09-05T20:40:17.962Z",
+      "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+      "retryAfter": "2026-09-06T20:40:17.962Z",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/62927aab-c5a8-48f2-bf73-5275966c3410": {
+      "status": "out-of-scope",
+      "reasonCode": "lead-semiconductor-hardware-validation-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/238b4335-e95e-471b-ad55-a3d3da60a5f6": {
+      "status": "hard-excluded",
+      "reasonCode": "official-no-future-sponsorship",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/1226965c-9ed7-4d6b-ad60-2a5c8985f78d": {
+      "status": "out-of-scope",
+      "reasonCode": "water-resources-engineering-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/ed36305d-99ff-4f70-8c40-3b2e1e60391b": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-early-career",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://simplify.jobs/p/9cc24a1f-b139-49e8-ab0a-183f962a4b5a": {
+      "status": "out-of-scope",
+      "reasonCode": "component-engineering-technician-role",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Quarry-Park/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164990": {
+      "status": "out-of-scope",
+      "reasonCode": "outside-united-states",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-compatible-early-career",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://paypal.eightfold.ai/careers/job/274921995088": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-recent-graduate",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://job-boards.greenhouse.io/scaleai/jobs/4730836005": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-confirmed-2027",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003": {
+      "status": "admitted",
+      "reasonCode": "official-page-verified-confirmed-2027",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false": {
+      "status": "hard-excluded",
+      "reasonCode": "official-us-citizenship-and-secret-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59974?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "official-us-citizenship-and-secret-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
+    },
+    "https://careers.jhuapl.edu/jobs/59918?icims=1": {
+      "status": "hard-excluded",
+      "reasonCode": "official-phd-and-us-citizenship-clearance-required",
+      "lastCheckedAt": "2026-09-05T20:40:17.962Z"
     }
   }
 }

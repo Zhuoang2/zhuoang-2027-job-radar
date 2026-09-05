@@ -363,6 +363,10 @@
       {
         "canonicalUrl": "https://simplify.jobs/p/48bf49f5-eda3-401d-a7ae-961d66c48e77",
         "reason": "Frontend/UI work is the primary function and is outside the preferred role mix."
+      },
+      {
+        "canonicalUrl": "https://ats.rippling.com/edgehog-trading/jobs/0d6b0e5c-be84-4324-8ee3-b875504e01d8",
+        "reason": "Official verification: low-latency C++, Linux, concurrency and system-level trading infrastructure are central to the role."
       }
     ],
     "sources": {
@@ -475,7 +479,7 @@
       "company-careers": {
         "role": "official-company-expansion",
         "cycleStatus": "partially-complete-needs-review",
-        "lastCheckedAt": "2026-09-04T20:39:00.304Z",
+        "lastCheckedAt": "2026-09-05T20:42:48.823Z",
         "baseline": {
           "mode": "public-company-registry-and-card-derived-official-career-inventory",
           "queueSource": "Union of unique public company names in data/jobs.json and data/company-career-seeds.json, excluding current companyStates and deferredLargeCompanies.",
@@ -1198,8 +1202,8 @@
             "GitHub": {
               "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Mackenzie Investments": {
@@ -1507,8 +1511,8 @@
             "MSA Safety": {
               "publicCareersUrl": "https://msa.wd1.myworkdayjobs.com/MSA",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "HTTP 422 for https://msa.wd1.myworkdayjobs.com/wday/cxs/msa/MSA/jobs"
             },
             "Nexthop.ai": {
@@ -1640,15 +1644,15 @@
             "PathAI": {
               "publicCareersUrl": "https://www.pathai.com/join-our-team",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Precisely": {
               "publicCareersUrl": "https://job-boards.greenhouse.io/precisely",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "HTTP 404 for https://boards-api.greenhouse.io/v1/boards/precisely/jobs?content=true"
             },
             "Rocket Companies / Redfin": {
@@ -1699,8 +1703,8 @@
             "D-Wave": {
               "publicCareersUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Maximor AI": {
@@ -1717,8 +1721,8 @@
             "Meta": {
               "publicCareersUrl": "https://www.metacareers.com/jobs/2145505832666693",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Snap Finance": {
@@ -1763,8 +1767,8 @@
             "Starbucks": {
               "publicCareersUrl": "https://starbucks.eightfold.ai/careers/job/481078166376",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "State Street": {
@@ -1798,15 +1802,15 @@
             "Knowledge Services": {
               "publicCareersUrl": "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Meyer Distributing": {
               "publicCareersUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "NewsBreak": {
@@ -1840,15 +1844,15 @@
             "SZNS Solutions": {
               "publicCareersUrl": "https://apply.workable.com/szns/j/D24DE0E111",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-03T20:39:18.238Z",
-              "retryAfter": "2026-09-04T20:39:18.238Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Talroo": {
               "publicCareersUrl": "https://www.talroo.com/careers?gh_jid=1003689",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-02T10:12:31.734Z",
-              "retryAfter": "2026-09-03T10:12:31.734Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Tebra": {
@@ -1894,22 +1898,22 @@
             "DataVisor": {
               "publicCareersUrl": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "DefenseStorm": {
               "publicCareersUrl": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Hoffman Construction": {
               "publicCareersUrl": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1500",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Jabil": {
@@ -2002,8 +2006,8 @@
             "Grant Thornton": {
               "publicCareersUrl": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115708",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Sierra": {
@@ -2032,8 +2036,8 @@
             "Chewy": {
               "publicCareersUrl": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "DiDi": {
@@ -2116,8 +2120,8 @@
             "Paramount": {
               "publicCareersUrl": "https://careers.paramount.com/job/Burbank-Data-Scientist-CA-91505/1425617500",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Prelim": {
@@ -2134,15 +2138,15 @@
             "Stripe": {
               "publicCareersUrl": "https://stripe.com/careers/listing/software-engineer-new-grad/8128744",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-03T20:39:18.238Z",
-              "retryAfter": "2026-09-04T20:39:18.238Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Aramark": {
               "publicCareersUrl": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
               "status": "needs-review",
-              "lastAttemptAt": "2026-09-04T20:39:00.304Z",
-              "retryAfter": "2026-09-05T20:39:00.304Z",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
               "reason": "no-stable-public-full-catalog-api"
             },
             "Arch": {
@@ -2183,6 +2187,13 @@
               "needsReviewCount": 0,
               "lastSuccessfulCheckAt": "2026-09-04T20:39:00.304Z",
               "nextDueAt": "2026-09-18T20:39:00.304Z"
+            },
+            "Cooper University Health Care": {
+              "publicCareersUrl": "https://jobs.cooperhealth.org/job/camden/reporting-and-analytics-developer/338/100169213648",
+              "status": "needs-review",
+              "lastAttemptAt": "2026-09-05T20:42:48.823Z",
+              "retryAfter": "2026-09-06T20:42:48.823Z",
+              "reason": "no-stable-public-full-catalog-api"
             }
           },
           "deferredLargeCompanies": [
@@ -2533,42 +2544,42 @@
             }
           ],
           "lastAttemptSummary": {
-            "checkedAt": "2026-09-04T20:39:00.304Z",
+            "checkedAt": "2026-09-05T20:42:48.823Z",
             "selectedCompanies": [
               "Aramark",
-              "Arch",
               "Chewy",
+              "Cooper University Health Care",
               "D-Wave",
               "DataVisor",
               "DefenseStorm",
-              "General Motors",
               "GitHub",
               "Grant Thornton",
               "Hoffman Construction",
-              "Kikoff",
               "Knowledge Services",
-              "Mechanize",
               "Meta",
               "Meyer Distributing",
               "MSA Safety",
               "Paramount",
               "PathAI",
               "Precisely",
-              "Starbucks"
+              "Starbucks",
+              "Stripe",
+              "SZNS Solutions",
+              "Talroo"
             ],
             "status": "partially-complete-needs-review",
-            "completeAuditCount": 3,
-            "needsReviewCount": 16,
-            "deferredLargeCatalogCount": 1,
+            "completeAuditCount": 0,
+            "needsReviewCount": 20,
+            "deferredLargeCatalogCount": 0,
             "admittedJobCount": 0,
-            "baselineAdvanced": true
+            "baselineAdvanced": false
           },
           "lastBatch": {
-            "checkedAt": "2026-09-04T20:39:00.304Z",
+            "checkedAt": "2026-09-05T20:42:48.823Z",
             "selectedCompanyCount": 20,
-            "completeAuditCount": 3,
-            "needsReviewCount": 16,
-            "deferredLargeCount": 1,
+            "completeAuditCount": 0,
+            "needsReviewCount": 20,
+            "deferredLargeCount": 0,
             "admittedJobCount": 0,
             "companies": [
               {
@@ -2580,17 +2591,17 @@
                 "candidateCount": 0
               },
               {
-                "company": "Arch",
-                "status": "complete",
-                "publicCareersUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
-                "blocker": null,
-                "inventoryCount": 26,
-                "candidateCount": 1
-              },
-              {
                 "company": "Chewy",
                 "status": "needs-review",
                 "publicCareersUrl": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Cooper University Health Care",
+                "status": "needs-review",
+                "publicCareersUrl": "https://jobs.cooperhealth.org/job/camden/reporting-and-analytics-developer/338/100169213648",
                 "blocker": "no-stable-public-full-catalog-api",
                 "inventoryCount": null,
                 "candidateCount": 0
@@ -2620,14 +2631,6 @@
                 "candidateCount": 0
               },
               {
-                "company": "General Motors",
-                "status": "deferred-large-catalog",
-                "publicCareersUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
-                "blocker": "catalog-over-200-openings",
-                "inventoryCount": null,
-                "candidateCount": 0
-              },
-              {
                 "company": "GitHub",
                 "status": "needs-review",
                 "publicCareersUrl": "https://www.github.careers/careers-home/jobs",
@@ -2652,27 +2655,11 @@
                 "candidateCount": 0
               },
               {
-                "company": "Kikoff",
-                "status": "complete",
-                "publicCareersUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
-                "blocker": null,
-                "inventoryCount": 36,
-                "candidateCount": 1
-              },
-              {
                 "company": "Knowledge Services",
                 "status": "needs-review",
                 "publicCareersUrl": "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false",
                 "blocker": "no-stable-public-full-catalog-api",
                 "inventoryCount": null,
-                "candidateCount": 0
-              },
-              {
-                "company": "Mechanize",
-                "status": "complete",
-                "publicCareersUrl": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
-                "blocker": null,
-                "inventoryCount": 4,
                 "candidateCount": 0
               },
               {
@@ -2730,6 +2717,30 @@
                 "blocker": "no-stable-public-full-catalog-api",
                 "inventoryCount": null,
                 "candidateCount": 0
+              },
+              {
+                "company": "Stripe",
+                "status": "needs-review",
+                "publicCareersUrl": "https://stripe.com/careers/listing/software-engineer-new-grad/8128744",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "SZNS Solutions",
+                "status": "needs-review",
+                "publicCareersUrl": "https://apply.workable.com/szns/j/D24DE0E111",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
+              },
+              {
+                "company": "Talroo",
+                "status": "needs-review",
+                "publicCareersUrl": "https://www.talroo.com/careers?gh_jid=1003689",
+                "blocker": "no-stable-public-full-catalog-api",
+                "inventoryCount": null,
+                "candidateCount": 0
               }
             ]
           },
@@ -2761,21 +2772,21 @@
         "repositoryUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs",
         "contentUrl": "https://github.com/speedyapply/2027-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md",
         "cycleStatus": "active-2027-with-row-level-timing-check",
-        "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+        "lastCheckedAt": "2026-09-05T20:40:17.962Z",
         "baseline": {
           "mode": "normalized-official-urls",
           "entryCount": 126,
           "urlSetField": "seenCanonicalUrls",
-          "addedIdentityCount": 4,
+          "addedIdentityCount": 0,
           "changedUrlCount": 0,
-          "changedContentCount": 0,
+          "changedContentCount": 1,
           "removedSourceEntryCount": 2,
-          "upstreamCommit": "881dd2de5d8a09824c6be04c5f6c6695680ca906",
+          "upstreamCommit": "118ace24882771e0130e6e715b64666653f22ee1",
           "neverSeenIdentityCount": 0,
-          "historicalReappearanceCount": 4,
-          "rawAddedUrlCount": 4,
+          "historicalReappearanceCount": 0,
+          "rawAddedUrlCount": 0,
           "rawRemovedUrlCount": 2,
-          "current60DayEntryCount": 125,
+          "current60DayEntryCount": 123,
           "current60DayCandidateCanonicalUrls": [
             "https://www.amazon.jobs/jobs/10526808",
             "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
@@ -2875,7 +2886,6 @@
             "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
             "https://www.amazon.jobs/jobs/10468973",
             "https://www.amazon.jobs/jobs/10464055",
-            "https://www.amazon.jobs/jobs/10464138",
             "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-4_Q326SWEI2-1",
             "https://www.amazon.jobs/jobs/10459443",
             "https://www.amazon.jobs/jobs/10454007",
@@ -2886,7 +2896,6 @@
             "https://www.google.com/about/careers/applications/jobs/results/77174102632080070",
             "https://jobs.apple.com/en-us/details/200665480-0836",
             "https://jobs.apple.com/en-us/details/200665472-0836",
-            "https://www.amazon.jobs/jobs/10428762",
             "https://www.amazon.jobs/jobs/10414316",
             "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
             "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
@@ -3032,18 +3041,24 @@
             "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002"
           ],
           "addedEntryCount": 0,
-          "changedEntryCount": 0
+          "changedEntryCount": 1,
+          "baselineCommitCorrection": {
+            "priorRecordedCommit": "881dd2de5d8a09824c6be04c5f6c6695680ca906",
+            "correctedCommit": "881dd2de1c694ba6ace3a58323124e2bf20de1de",
+            "reason": "The prior full SHA was malformed; the matching upstream commit prefix and commit metadata were verified before today's diff.",
+            "correctedAt": "2026-09-05T20:40:17.962Z"
+          }
         },
         "note": "Incremental comparison found 4 additions and 2 removals. All 4 additions were historical reappearances already present in the durable baseline; none produced a new card or retryable candidate.",
         "status": "complete",
-        "lastSuccessfulCheckAt": "2026-09-04T20:44:59.823Z"
+        "lastSuccessfulCheckAt": "2026-09-05T20:40:17.962Z"
       },
       "vanshb03": {
         "role": "supplemental",
         "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
         "contentUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/README.md",
         "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
-        "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+        "lastCheckedAt": "2026-09-05T20:40:17.962Z",
         "baseline": {
           "mode": "full-60d-observed-url-baseline-with-timing-check-admission",
           "entryCount": 595,
@@ -3306,7 +3321,7 @@
         },
         "note": "Incremental comparison found 0 additions, 0 removals, and 0 same-URL/ID material changes; the upstream commit is unchanged.",
         "status": "complete",
-        "lastSuccessfulCheckAt": "2026-09-04T20:44:59.823Z"
+        "lastSuccessfulCheckAt": "2026-09-05T20:40:17.962Z"
       },
       "simplifyjobs": {
         "role": "monitor",
@@ -3314,10 +3329,10 @@
         "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
         "contentUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
         "cycleStatus": "mixed-cycle-row-level-timing-evaluation",
-        "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+        "lastCheckedAt": "2026-09-05T20:40:17.962Z",
         "baseline": {
           "mode": "mixed-cycle-row-level-timing-evaluation",
-          "entryCount": 605,
+          "entryCount": 614,
           "seenCandidateCanonicalUrls": [
             "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
             "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
@@ -3923,20 +3938,29 @@
             "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985",
             "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
             "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Product-Test-Engineer--Entry-Level_R-10063911-1",
-            "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010"
+            "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010",
+            "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Quarry-Park/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164990",
+            "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
+            "https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false",
+            "https://careers.jhuapl.edu/jobs/59918?icims=1",
+            "https://careers.jhuapl.edu/jobs/59974?icims=1",
+            "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+            "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+            "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application",
+            "https://paypal.eightfold.ai/careers/job/274921995088"
           ],
-          "addedEntryCount": 0,
+          "addedEntryCount": 4,
           "observedUnconfirmedEntryCount": 6,
-          "observedNewEntryCount": 19,
-          "removedSourceEntryCount": 27,
-          "upstreamCommit": "a7f213c4c44890435b259971a47fc6e8e67e1dcc",
+          "observedNewEntryCount": 10,
+          "removedSourceEntryCount": 5,
+          "upstreamCommit": "8a92e3b66704067b8750a4d1825daee727befce9",
           "changedContentCount": 0,
-          "current60DayEntryCount": 424,
+          "current60DayEntryCount": 429,
           "backfillStatus": "complete",
           "observedExplicit2027EntryCount": 7,
           "duplicateCount": 1,
-          "hardExcludedCount": 14,
-          "outOfScopeCount": 5,
+          "hardExcludedCount": 3,
+          "outOfScopeCount": 2,
           "preferenceExcludedCount": 0,
           "historyWindowAdditionCount": 279,
           "timingPolicyCorrection": {
@@ -3947,7 +3971,7 @@
             "completedAt": "2026-08-28T22:29:25.844Z",
             "policy": "explicit 2027 confirmed; compatible early-career roles retained as timing-check; incompatible earlier cycles excluded"
           },
-          "retryableCandidateCount": 4,
+          "retryableCandidateCount": 0,
           "rowMetadataCorrectionCount": 2,
           "current60DayCandidateCanonicalUrls": [
             "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134",
@@ -4383,22 +4407,33 @@
             "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177",
             "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/137946"
           ],
-          "rawAddedUrlCount": 19,
-          "rawRemovedUrlCount": 27,
+          "rawAddedUrlCount": 10,
+          "rawRemovedUrlCount": 5,
           "changedEntryCount": 0
         },
         "note": "Incremental comparison found 19 additions and 27 removals. All additions were historical reappearances in the durable baseline; 2 matching roles were admitted and 2 candidates remain needs-review.",
-        "status": "complete-with-needs-review",
-        "lastSuccessfulCheckAt": "2026-09-04T20:44:59.823Z"
+        "status": "complete",
+        "lastSuccessfulCheckAt": "2026-09-05T20:40:17.962Z",
+        "lastRunSummary": {
+          "checkedAt": "2026-09-05T20:40:17.962Z",
+          "rawAddedUrlCount": 10,
+          "rawRemovedUrlCount": 5,
+          "changedContentCount": 0,
+          "admittedJobCount": 4,
+          "duplicateCount": 1,
+          "hardExcludedCount": 3,
+          "outOfScopeCount": 2,
+          "needsReviewCount": 0
+        }
       },
       "swelist-email": {
         "role": "email-lead",
         "publicSiteUrl": "https://swelist.com",
         "cycleStatus": "same-day-afternoon-email-scan-verified",
-        "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+        "lastCheckedAt": "2026-09-05T20:40:17.962Z",
         "baseline": {
           "mode": "normalized-public-candidate-urls-with-dispositions",
-          "entryCount": 1945,
+          "entryCount": 1987,
           "seenCandidateCanonicalUrls": [
             "https://simplify.jobs/p/00592559-74bf-4659-b573-2b630465cfc8",
             "https://simplify.jobs/p/008db5e5-ebd4-4f30-b485-da1b91e6a917",
@@ -6344,59 +6379,101 @@
             "https://simplify.jobs/p/ff6a64ad-4278-4b87-bd22-42fb9df0c074",
             "https://simplify.jobs/p/ff6e43c3-bc97-4b08-84ad-0e0b9943e092",
             "https://simplify.jobs/p/ff8e5ead-dfcf-475e-969e-b6c251dce6ae",
-            "https://simplify.jobs/p/ffafde49-ea15-4bd5-bed0-985c986295e7"
+            "https://simplify.jobs/p/ffafde49-ea15-4bd5-bed0-985c986295e7",
+            "https://simplify.jobs/p/01526870-c76a-40bc-981b-2617e593fde3",
+            "https://simplify.jobs/p/0541ea68-a2d7-4fe4-b3e4-f7e4d677fe3c",
+            "https://simplify.jobs/p/097cd79f-8c8e-447c-aa2f-7f8ffbccbba9",
+            "https://simplify.jobs/p/1226965c-9ed7-4d6b-ad60-2a5c8985f78d",
+            "https://simplify.jobs/p/1391f391-f29c-43d6-8325-a988430b5fe9",
+            "https://simplify.jobs/p/238b4335-e95e-471b-ad55-a3d3da60a5f6",
+            "https://simplify.jobs/p/260b62da-2fbd-47f5-af45-99bd6b0bfb4e",
+            "https://simplify.jobs/p/271f04b2-4017-4e86-b67f-387e7a47b5fe",
+            "https://simplify.jobs/p/32bc0116-4c05-4716-806d-19d345759de4",
+            "https://simplify.jobs/p/334c123e-435a-4a0f-898f-671610d593e3",
+            "https://simplify.jobs/p/35d85de1-2a39-4150-94ca-3770bd3dc7e1",
+            "https://simplify.jobs/p/3c896aa0-4c92-4cf3-93d4-7da41b7a9f91",
+            "https://simplify.jobs/p/427fc125-8fe9-4189-95f3-0fdee1570153",
+            "https://simplify.jobs/p/5692a35b-a407-498c-9c37-aef39ac5511e",
+            "https://simplify.jobs/p/62927aab-c5a8-48f2-bf73-5275966c3410",
+            "https://simplify.jobs/p/64e8c668-e84f-4de3-aa6b-d52054f1c698",
+            "https://simplify.jobs/p/6c3fb746-2d33-44e9-b97d-ada170e96ef0",
+            "https://simplify.jobs/p/75b8591d-0408-4c28-b660-7ad3e0eb4b3d",
+            "https://simplify.jobs/p/787a34fe-7bf8-4c55-b010-f4c0d496b5b3",
+            "https://simplify.jobs/p/78d9bccf-8fd2-497a-80a4-f3b00fed7d3a",
+            "https://simplify.jobs/p/81110647-b15b-4223-aef2-64ef0c802132",
+            "https://simplify.jobs/p/9cc24a1f-b139-49e8-ab0a-183f962a4b5a",
+            "https://simplify.jobs/p/a35187f2-2b60-4934-a7af-6dde56245e69",
+            "https://simplify.jobs/p/a6ae9be5-921f-418e-96db-0241adad7082",
+            "https://simplify.jobs/p/ace2a03a-1f53-4778-8e95-2ca42b7a7d5a",
+            "https://simplify.jobs/p/ad04c8bc-a7d6-4b68-8b8c-0eb0876c9014",
+            "https://simplify.jobs/p/affc493c-ddc6-42c1-8ae5-58b0dbdc17eb",
+            "https://simplify.jobs/p/b7912258-69a7-4715-9842-2bf3c22160b1",
+            "https://simplify.jobs/p/bd069b24-aa60-4d48-8c89-899ea7fac476",
+            "https://simplify.jobs/p/c192d7cd-8e41-43d0-9f80-86b20fa05310",
+            "https://simplify.jobs/p/c4ab4946-ca32-40a8-871d-7f457ac74405",
+            "https://simplify.jobs/p/cbfeabfc-ee55-4235-b847-c779d788699e",
+            "https://simplify.jobs/p/cc64603e-4a52-45f2-8179-ee7b5c08f0e7",
+            "https://simplify.jobs/p/cd0b6dc4-3bf4-40da-acdc-de2cefa7fe43",
+            "https://simplify.jobs/p/cf5d2cc2-c274-4fb9-9cef-46931c854228",
+            "https://simplify.jobs/p/dbe70f02-b1aa-45be-b35e-f3c436a0c345",
+            "https://simplify.jobs/p/dc543916-6696-4ce5-81fc-a880e02c69f2",
+            "https://simplify.jobs/p/e382d44a-0453-4b79-8b67-afae254a5e16",
+            "https://simplify.jobs/p/e393eb30-181d-4c04-ab51-a894ba8c8222",
+            "https://simplify.jobs/p/e6179b6a-aa7e-4cac-a3ed-8db905d7c42e",
+            "https://simplify.jobs/p/e9c88d04-28e7-4ce6-93c7-9be68148a5b3",
+            "https://simplify.jobs/p/ed36305d-99ff-4f70-8c40-3b2e1e60391b"
           ],
-          "extractedPublicLinkCount": 456,
-          "officialCandidateCount": 191,
-          "matchedMessageCount": 7,
-          "newCandidateUrlCount": 456,
+          "extractedPublicLinkCount": 498,
+          "officialCandidateCount": 221,
+          "matchedMessageCount": 8,
+          "newCandidateUrlCount": 498,
           "priorRepeatCount": 0,
-          "officialCandidateReviewCount": 109,
+          "officialCandidateReviewCount": 139,
           "backfillWindowStart": "2026-08-27",
           "backfillWindowEndExclusive": "2026-08-30",
-          "admittedJobCount": 23,
+          "admittedJobCount": 33,
           "duplicateCount": 13,
-          "hardExcludedCount": 76,
-          "retryableCandidateCount": 9,
-          "windowStart": "2026-09-04",
-          "windowEndExclusive": "2026-09-05",
-          "outOfScopeCount": 77,
-          "preferenceExcludedCount": 4,
+          "hardExcludedCount": 90,
+          "retryableCandidateCount": 14,
+          "windowStart": "2026-09-05",
+          "windowEndExclusive": "2026-09-06",
+          "outOfScopeCount": 89,
+          "preferenceExcludedCount": 5,
           "lastRunSummary": {
-            "checkedAt": "2026-09-04T20:44:59.823Z",
-            "windowStart": "2026-09-04",
-            "windowEndExclusive": "2026-09-05",
+            "checkedAt": "2026-09-05T20:40:17.962Z",
+            "windowStart": "2026-09-05",
+            "windowEndExclusive": "2026-09-06",
             "matchedMessageCount": 1,
             "extractedPublicLinkCount": 42,
             "newCandidateUrlCount": 42,
-            "officialCandidateReviewCount": 20,
-            "admittedJobCount": 1,
+            "officialCandidateReviewCount": 30,
+            "admittedJobCount": 10,
             "duplicateCount": 0,
-            "hardExcludedCount": 6,
+            "hardExcludedCount": 14,
             "preferenceExcludedCount": 1,
-            "outOfScopeCount": 23,
-            "outsideUsCount": 4,
-            "needsReviewCount": 7
+            "outOfScopeCount": 11,
+            "outsideUsCount": 1,
+            "needsReviewCount": 5
           }
         },
         "note": "The September 4 same-day window matched one SWEList message and extracted 42 normalized public job links. Twenty plausible leads received detailed review; 1 new card was admitted and 7 remain candidate-level needs-review.",
         "status": "complete-with-needs-review",
-        "lastSuccessfulCheckAt": "2026-09-04T20:44:59.823Z",
+        "lastSuccessfulCheckAt": "2026-09-05T20:40:17.962Z",
         "lastRunSummary": {
-          "checkedAt": "2026-09-04T20:44:59.823Z",
-          "windowStart": "2026-09-04",
-          "windowEndExclusive": "2026-09-05",
+          "checkedAt": "2026-09-05T20:40:17.962Z",
+          "windowStart": "2026-09-05",
+          "windowEndExclusive": "2026-09-06",
           "matchedMessageCount": 1,
           "extractedPublicLinkCount": 42,
           "newCandidateUrlCount": 42,
-          "officialCandidateReviewCount": 20,
-          "admittedJobCount": 1,
+          "officialCandidateReviewCount": 30,
+          "admittedJobCount": 10,
           "duplicateCount": 0,
-          "hardExcludedCount": 6,
+          "hardExcludedCount": 14,
           "preferenceExcludedCount": 1,
-          "outOfScopeCount": 23,
-          "outsideUsCount": 4,
-          "needsReviewCount": 7
+          "outOfScopeCount": 11,
+          "outsideUsCount": 1,
+          "needsReviewCount": 5
         }
       }
     },
@@ -12183,6 +12260,62 @@
       {
         "canonicalUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1",
         "reason": "Official verification: incompatible eligibility, work-authorization, degree, or 2026-cycle constraint."
+      },
+      {
+        "canonicalUrl": "https://careers-gdms.icims.com/jobs/74823/job",
+        "reason": "Official verification: U.S. citizenship is required and the candidate must obtain a Top Secret clearance."
+      },
+      {
+        "canonicalUrl": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1",
+        "reason": "Official verification: sponsorship is not available for this position."
+      },
+      {
+        "canonicalUrl": "https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7/application?embed=true",
+        "reason": "Official verification: the employer does not provide current or future visa sponsorship for this role."
+      },
+      {
+        "canonicalUrl": "https://apply.workable.com/credence/j/BAD39E80E0/apply",
+        "reason": "Official verification: required experience is incompatible with an entry-level application."
+      },
+      {
+        "canonicalUrl": "https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development",
+        "reason": "Official verification: the employer does not provide current or future visa sponsorship for this role."
+      },
+      {
+        "canonicalUrl": "https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development",
+        "reason": "Official verification: the employer does not provide current or future visa sponsorship for this role."
+      },
+      {
+        "canonicalUrl": "https://paypal.eightfold.ai/careers/job/274922260675",
+        "reason": "Official verification: senior machine-learning role is incompatible with the target experience level."
+      },
+      {
+        "canonicalUrl": "https://jobs.lever.co/sprymethods/d8bf58d3-8fba-4d0d-8c03-a0a00cfe74ac/apply",
+        "reason": "Official verification: citizenship or security-clearance eligibility is required."
+      },
+      {
+        "canonicalUrl": "https://careers-gdms.icims.com/jobs/73057/job",
+        "reason": "Official verification: U.S. citizenship is required and the candidate must obtain a Secret clearance."
+      },
+      {
+        "canonicalUrl": "https://careers.arcfield.com/jobs/8614?icims=1",
+        "reason": "Official verification: an active TS/SCI clearance with polygraph is required."
+      },
+      {
+        "canonicalUrl": "https://careers.jhuapl.edu/jobs/59974?icims=1",
+        "reason": "Official verification: U.S. citizenship and an Interim Secret/Secret clearance are required."
+      },
+      {
+        "canonicalUrl": "https://careers.jhuapl.edu/jobs/59967?icims=1",
+        "reason": "Official verification: U.S. citizenship and an Interim Secret/Secret clearance are required."
+      },
+      {
+        "canonicalUrl": "https://careers.jhuapl.edu/jobs/59918?icims=1",
+        "reason": "Official verification: a terminal degree plus U.S. citizenship and Secret clearance are required."
+      },
+      {
+        "canonicalUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+        "reason": "Official verification: the employer does not provide current or future visa sponsorship for this role."
       }
     ],
     "officialVerificationNeedsReview": [
@@ -14425,6 +14558,46 @@
         "firstSeenAt": "2026-09-04T20:44:59.823Z",
         "lastAttemptAt": "2026-09-04T20:44:59.823Z",
         "retryAfter": "2026-09-05T20:44:59.823Z"
+      },
+      {
+        "canonicalUrl": "https://simplify.jobs/p/e9c88d04-28e7-4ce6-93c7-9be68148a5b3",
+        "reason": "Official detail did not stably expose enough early-career timing or work-authorization evidence for admission in this run.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-09-05T20:40:17.962Z",
+        "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+        "retryAfter": "2026-09-06T20:40:17.962Z"
+      },
+      {
+        "canonicalUrl": "https://simplify.jobs/p/35d85de1-2a39-4150-94ca-3770bd3dc7e1",
+        "reason": "Official detail did not stably expose enough early-career timing or work-authorization evidence for admission in this run.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-09-05T20:40:17.962Z",
+        "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+        "retryAfter": "2026-09-06T20:40:17.962Z"
+      },
+      {
+        "canonicalUrl": "https://simplify.jobs/p/260b62da-2fbd-47f5-af45-99bd6b0bfb4e",
+        "reason": "Official detail did not stably expose enough early-career timing or work-authorization evidence for admission in this run.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-09-05T20:40:17.962Z",
+        "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+        "retryAfter": "2026-09-06T20:40:17.962Z"
+      },
+      {
+        "canonicalUrl": "https://simplify.jobs/p/01526870-c76a-40bc-981b-2617e593fde3",
+        "reason": "Official detail did not stably expose enough early-career timing or work-authorization evidence for admission in this run.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-09-05T20:40:17.962Z",
+        "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+        "retryAfter": "2026-09-06T20:40:17.962Z"
+      },
+      {
+        "canonicalUrl": "https://simplify.jobs/p/affc493c-ddc6-42c1-8ae5-58b0dbdc17eb",
+        "reason": "Official detail did not stably expose enough early-career timing or work-authorization evidence for admission in this run.",
+        "status": "needs-review",
+        "firstSeenAt": "2026-09-05T20:40:17.962Z",
+        "lastAttemptAt": "2026-09-05T20:40:17.962Z",
+        "retryAfter": "2026-09-06T20:40:17.962Z"
       }
     ],
     "directionTaxonomy": {
@@ -14456,15 +14629,15 @@
     },
     "candidateDispositionLedger": {
       "path": "data/candidate-dispositions.json",
-      "entryCount": 4416,
-      "lastCheckedAt": "2026-09-04T20:44:59.823Z",
+      "entryCount": 4467,
+      "lastCheckedAt": "2026-09-05T20:42:48.823Z",
       "privacy": "public job URLs and public screening dispositions only"
     }
   },
   "scanStatus": "complete-with-needs-review",
-  "lastScanStartedAt": "2026-09-04T20:44:59.823Z",
-  "lastSuccessfulScanAt": "2026-09-04T20:44:59.823Z",
-  "lastSourceUpdatedAt": "2026-09-04T20:32:00Z",
+  "lastScanStartedAt": "2026-09-05T20:40:17.962Z",
+  "lastSuccessfulScanAt": "2026-09-05T20:40:17.962Z",
+  "lastSourceUpdatedAt": "2026-09-05T20:31:29Z",
   "seenCanonicalUrls": [
     "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
     "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
@@ -16433,10 +16606,20 @@
     "https://stripe.com/jobs/search",
     "https://www.google.com/about/careers/applications/jobs/results/106684387621249734",
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
-    "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1"
+    "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1",
+    "https://ats.rippling.com/edgehog-trading/jobs/96354af0-1bd0-4703-a654-e3d591b07777",
+    "https://eyglobal.yello.co/jobs/k-0h0FlaXImE-sESVrR35A",
+    "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013607",
+    "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+    "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+    "https://job-boards.greenhouse.io/vestwell/jobs/7983915003",
+    "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+    "https://jobs.constellationenergy.com/jobs/138781",
+    "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299",
+    "https://paypal.eightfold.ai/careers/job/274921995088"
   ],
-  "baselineEntryCount": 1968,
-  "lastCheckedAt": "2026-09-04T20:44:59.823Z",
-  "lastSuccessfulRunAt": "2026-09-04T20:44:59.823Z",
+  "baselineEntryCount": 1978,
+  "lastCheckedAt": "2026-09-05T20:42:48.823Z",
+  "lastSuccessfulRunAt": "2026-09-05T20:42:48.823Z",
   "lastRunStatus": "complete-with-needs-review"
 }
